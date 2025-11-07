@@ -1,0 +1,38 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/babel-plugin-transform-react-remove-prop-types/package",
+  "fileCount": 8,
+  "results": [
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/isAnnotatedForRemoval.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/isStatelessComponent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/remove.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/isAnnotatedForRemoval.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/isStatelessComponent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/remove.js",
+      "obfuscated": false
+    }
+  ]
+}

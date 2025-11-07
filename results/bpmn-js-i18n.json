@@ -1,0 +1,46 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/bpmn-js-i18n/package",
+  "fileCount": 10,
+  "results": [
+    {
+      "file": "translations/de.js",
+      "obfuscated": false
+    },
+    {
+      "file": "translations/en.js",
+      "obfuscated": false
+    },
+    {
+      "file": "translations/es.js",
+      "obfuscated": false
+    },
+    {
+      "file": "translations/fr.js",
+      "obfuscated": false
+    },
+    {
+      "file": "translations/it.js",
+      "obfuscated": false
+    },
+    {
+      "file": "translations/ja.js",
+      "obfuscated": false
+    },
+    {
+      "file": "translations/pl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "translations/pt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "translations/ru.js",
+      "obfuscated": false
+    },
+    {
+      "file": "translations/zn.js",
+      "obfuscated": false
+    }
+  ]
+}

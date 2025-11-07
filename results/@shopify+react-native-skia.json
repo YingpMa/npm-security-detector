@@ -1,0 +1,806 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@shopify+react-native-skia/package",
+  "fileCount": 200,
+  "results": [
+    {
+      "file": "jestSetup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/Platform/IPlatform.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/Platform/Platform.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/Platform/Platform.web.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/Platform/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/animation/functions/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/animation/functions/interpolate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/animation/functions/interpolateColors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/animation/functions/interpolatePaths.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/animation/functions/interpolateVector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/animation/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/dom/nodes/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/dom/types/ColorFilters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/dom/types/Common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/dom/types/Drawings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/dom/types/ImageFilters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/dom/types/MaskFilters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/dom/types/Node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/dom/types/NodeType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/dom/types/Paragraph.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/dom/types/PathEffects.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/dom/types/Shaders.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/dom/types/SkDOM.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/dom/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/external/ModuleProxy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/external/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/external/reanimated/ReanimatedProxy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/external/reanimated/buffers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/external/reanimated/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/external/reanimated/interpolators.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/external/reanimated/renderHelpers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/external/reanimated/textures.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/external/reanimated/useAnimatedImageValue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/external/reanimated/useVideo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/external/reanimated/useVideoLoading.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/external/reanimated/useVideoLoading.web.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/headless/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/mock/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/renderer/Canvas.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/renderer/Offscreen.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/renderer/components/Blend.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/renderer/components/Group.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/renderer/components/ImageFilter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/renderer/components/Mask.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/renderer/components/Paint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/renderer/components/Picture.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/renderer/components/Skottie.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/renderer/components/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/renderer/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/renderer/processors/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/renderer/typeddash.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/NativeSetup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/Skia.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/Skia.web.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/core/AnimatedImage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/core/Data.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/core/Font.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/core/Image.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/core/Matrix.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/core/Picture.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/core/RRect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/core/Rect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/core/SVG.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/core/SVG.web.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/core/Typeface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/core/Vector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/core/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/types/Canvas.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/types/Color.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/types/ContourMeasure.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/types/JsiInstance.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/types/MaskFilter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/types/Matrix.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/types/Matrix4.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/types/PathEffect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/types/Point.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/types/RRect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/types/RSXform.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/types/Recorder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/types/Rect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/types/Size.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/types/Skia.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/types/Skottie.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/types/TextBlob.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/CanvasKitWebGLBufferImpl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/Host.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkAnimatedImage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkAnimatedImageFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkCanvas.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkColor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkColorFilter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkColorFilterFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkContourMeasure.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkContourMeasureIter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkData.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkDataFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkFont.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkFontMgr.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkFontMgrFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkImage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkImageFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkImageFilter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkImageFilterFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkMaskFilter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkMaskFilterFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkMatrix.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkNativeBufferFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkPaint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkParagraph.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkParagraphBuilder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkParagraphBuilderFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkParagraphStyle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkPath.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkPathEffect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkPathEffectFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkPathFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkPicture.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkPictureFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkPictureRecorder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkPoint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkRRect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkRSXform.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkRect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkRuntimeEffect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkRuntimeEffectFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkSVG.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkSVGFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkShader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkShaderFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkSurface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkSurfaceFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkTextBlob.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkTextBlobFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkTextStyle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkTypeface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkTypefaceFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkTypefaceFontProvider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkTypefaceFontProviderFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkVertices.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkVerticesFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkia.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkottieAnimation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiSkottieFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/JsiVideo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/skia/web/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/sksg/Container.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/sksg/Elements.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/sksg/HostConfig.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/sksg/Node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/sksg/Reconciler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/sksg/Recorder/Core.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/sksg/Recorder/DrawingContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/sksg/Recorder/Player.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/sksg/Recorder/ReanimatedRecorder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/sksg/Recorder/Recorder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/sksg/Recorder/Visitor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/sksg/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/specs/NativeSkiaModule.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/specs/NativeSkiaModule.web.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/specs/SkiaPictureViewNativeComponent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/specs/SkiaPictureViewNativeComponent.web.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/views/SkiaBaseWebView.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/views/SkiaPictureView.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/views/SkiaPictureView.web.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/views/SkiaViewNativeId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/views/api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/views/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/views/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/web/LoadSkiaWeb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/web/WithSkiaWeb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/web/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/Platform/IPlatform.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/Platform/Platform.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/Platform/Platform.web.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/Platform/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/animation/functions/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/animation/functions/interpolate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/animation/functions/interpolateColors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/animation/functions/interpolatePaths.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/animation/functions/interpolateVector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/animation/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/dom/nodes/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/dom/types/ColorFilters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/dom/types/Common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/dom/types/Drawings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/dom/types/ImageFilters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/dom/types/MaskFilters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/dom/types/Node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/dom/types/NodeType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/dom/types/Paragraph.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/dom/types/PathEffects.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/dom/types/Shaders.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/dom/types/SkDOM.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/dom/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/external/ModuleProxy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/external/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/external/reanimated/ReanimatedProxy.js",
+      "obfuscated": false
+    }
+  ]
+}

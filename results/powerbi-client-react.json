@@ -1,0 +1,10 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/powerbi-client-react/package",
+  "fileCount": 1,
+  "results": [
+    {
+      "file": "dist/powerbi-client-react.js",
+      "obfuscated": true
+    }
+  ]
+}

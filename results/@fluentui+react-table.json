@@ -1,0 +1,806 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@fluentui+react-table/package",
+  "fileCount": 200,
+  "results": [
+    {
+      "file": "lib/DataGrid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/DataGridBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/DataGridCell.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/DataGridHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/DataGridHeaderCell.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/DataGridRow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/DataGridSelectionCell.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Table.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/TableBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/TableCell.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/TableCellActions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/TableCellLayout.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/TableCellPrimaryLayout.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/TableHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/TableHeaderCell.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/TableResizeHandle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/TableRow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/TableSelectionCell.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGrid/DataGrid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGrid/DataGrid.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGrid/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGrid/renderDataGrid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGrid/useDataGrid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGrid/useDataGridContextValues.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGrid/useDataGridStyles.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGrid/useDataGridStyles.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridBody/DataGridBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridBody/DataGridBody.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridBody/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridBody/renderDataGridBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridBody/useDataGridBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridBody/useDataGridBodyStyles.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridBody/useDataGridBodyStyles.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridCell/DataGridCell.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridCell/DataGridCell.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridCell/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridCell/renderDataGridCell.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridCell/useDataGridCell.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridCell/useDataGridCellStyles.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridCell/useDataGridCellStyles.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridHeader/DataGridHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridHeader/DataGridHeader.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridHeader/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridHeader/renderDataGridHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridHeader/useDataGridHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridHeader/useDataGridHeaderStyles.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridHeader/useDataGridHeaderStyles.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridHeaderCell/DataGridHeaderCell.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridHeaderCell/DataGridHeaderCell.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridHeaderCell/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridHeaderCell/renderDataGridHeaderCell.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridHeaderCell/useDataGridHeaderCell.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridHeaderCell/useDataGridHeaderCellStyles.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridHeaderCell/useDataGridHeaderCellStyles.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridRow/DataGridRow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridRow/DataGridRow.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridRow/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridRow/renderDataGridRow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridRow/useDataGridRow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridRow/useDataGridRowStyles.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridRow/useDataGridRowStyles.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridSelectionCell/DataGridSelectionCell.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridSelectionCell/DataGridSelectionCell.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridSelectionCell/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridSelectionCell/renderDataGridSelectionCell.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridSelectionCell/useDataGridSelectionCell.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridSelectionCell/useDataGridSelectionCellStyles.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DataGridSelectionCell/useDataGridSelectionCellStyles.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Table/Table.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Table/Table.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Table/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Table/renderTable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Table/useTable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Table/useTableContextValues.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Table/useTableStyles.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Table/useTableStyles.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableBody/TableBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableBody/TableBody.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableBody/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableBody/renderTableBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableBody/useTableBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableBody/useTableBodyStyles.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableBody/useTableBodyStyles.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableCell/TableCell.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableCell/TableCell.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableCell/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableCell/renderTableCell.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableCell/useTableCell.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableCell/useTableCellStyles.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableCell/useTableCellStyles.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableCellActions/TableCellActions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableCellActions/TableCellActions.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableCellActions/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableCellActions/renderTableCellActions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableCellActions/useTableCellActions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableCellActions/useTableCellActionsStyles.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableCellActions/useTableCellActionsStyles.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableCellLayout/TableCellLayout.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableCellLayout/TableCellLayout.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableCellLayout/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableCellLayout/renderTableCellLayout.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableCellLayout/useTableCellLayout.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableCellLayout/useTableCellLayoutContextValues.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableCellLayout/useTableCellLayoutStyles.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableCellLayout/useTableCellLayoutStyles.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableHeader/TableHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableHeader/TableHeader.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableHeader/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableHeader/renderTableHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableHeader/useTableHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableHeader/useTableHeaderStyles.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableHeader/useTableHeaderStyles.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableHeaderCell/TableHeaderCell.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableHeaderCell/TableHeaderCell.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableHeaderCell/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableHeaderCell/renderTableHeaderCell.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableHeaderCell/useTableHeaderCell.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableHeaderCell/useTableHeaderCellStyles.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableHeaderCell/useTableHeaderCellStyles.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableResizeHandle/TableResizeHandle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableResizeHandle/TableResizeHandle.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableResizeHandle/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableResizeHandle/renderTableResizeHandle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableResizeHandle/useTableResizeHandle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableResizeHandle/useTableResizeHandleStyles.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableResizeHandle/useTableResizeHandleStyles.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableRow/TableRow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableRow/TableRow.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableRow/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableRow/renderTableRow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableRow/useTableRow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableRow/useTableRowStyles.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableRow/useTableRowStyles.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableSelectionCell/TableSelectionCell.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableSelectionCell/TableSelectionCell.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableSelectionCell/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableSelectionCell/renderTableSelectionCell.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableSelectionCell/useTableSelectionCell.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableSelectionCell/useTableSelectionCellStyles.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TableSelectionCell/useTableSelectionCellStyles.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/contexts/columnIdContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/contexts/dataGridContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/contexts/rowIdContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/contexts/tableContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/contexts/tableHeaderContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/createColumn.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useKeyboardResizing.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useMeasureElement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useTableColumnResizeMouseHandler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useTableColumnResizeState.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useTableColumnSizing.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useTableCompositeNavigation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useTableFeatures.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useTableSelection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useTableSort.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/columnResizeUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/isColumnSortable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/DataGrid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/DataGridBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/DataGridCell.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/DataGridHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/DataGridHeaderCell.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/DataGridRow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/DataGridSelectionCell.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/Table.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/TableBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/TableCell.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/TableCellActions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/TableCellLayout.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/TableCellPrimaryLayout.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/TableHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/TableHeaderCell.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/TableResizeHandle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/TableRow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/TableSelectionCell.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/DataGrid/DataGrid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/DataGrid/DataGrid.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/DataGrid/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/DataGrid/renderDataGrid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/DataGrid/useDataGrid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/DataGrid/useDataGridContextValues.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/DataGrid/useDataGridStyles.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/DataGrid/useDataGridStyles.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/DataGridBody/DataGridBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/DataGridBody/DataGridBody.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/DataGridBody/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/DataGridBody/renderDataGridBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/DataGridBody/useDataGridBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/DataGridBody/useDataGridBodyStyles.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/DataGridBody/useDataGridBodyStyles.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/DataGridCell/DataGridCell.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/DataGridCell/DataGridCell.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/DataGridCell/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/DataGridCell/renderDataGridCell.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/DataGridCell/useDataGridCell.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/DataGridCell/useDataGridCellStyles.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/DataGridCell/useDataGridCellStyles.styles.raw.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@docusaurus+utils-common/package",
+  "fileCount": 4,
+  "results": [
+    {
+      "file": "lib/applyTrailingSlash.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/errorUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/stringUtils.js",
+      "obfuscated": false
+    }
+  ]
+}

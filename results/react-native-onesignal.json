@@ -1,0 +1,78 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/react-native-onesignal/package",
+  "fileCount": 18,
+  "results": [
+    {
+      "file": ".eslintrc.js",
+      "obfuscated": false
+    },
+    {
+      "file": ".github/os_probot_metadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": ".github/set_response_times.js",
+      "obfuscated": false
+    },
+    {
+      "file": ".prettierrc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "babel.config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/OSNotification.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/events/EventManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/events/NotificationWillDisplayEvent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/events/events.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/helpers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/InAppMessage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/LiveActivities.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/NotificationEvents.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/Subscription.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/User.js",
+      "obfuscated": false
+    },
+    {
+      "file": "jest.config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "metro.config.js",
+      "obfuscated": false
+    }
+  ]
+}

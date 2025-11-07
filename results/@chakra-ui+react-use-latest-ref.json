@@ -1,0 +1,10 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@chakra-ui+react-use-latest-ref/package",
+  "fileCount": 1,
+  "results": [
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    }
+  ]
+}

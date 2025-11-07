@@ -1,0 +1,134 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/rc-slider/package",
+  "fileCount": 32,
+  "results": [
+    {
+      "file": "es/Handles/Handle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/Handles/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/Marks/Mark.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/Marks/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/Slider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/Steps/Dot.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/Steps/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/Tracks/Track.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/Tracks/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/context.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hooks/useDrag.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hooks/useOffset.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hooks/useRange.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/interface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Handles/Handle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Handles/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Marks/Mark.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Marks/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Slider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Steps/Dot.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Steps/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Tracks/Track.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Tracks/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/context.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useDrag.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useOffset.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useRange.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/interface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util.js",
+      "obfuscated": false
+    }
+  ]
+}

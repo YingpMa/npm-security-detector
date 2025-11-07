@@ -1,0 +1,566 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/ukelli-ui/package",
+  "fileCount": 140,
+  "results": [
+    {
+      "file": "core/alert/alert.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/alert/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/avatar/avatar.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/avatar/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/button/button-basic.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/button/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/captcha/captcha.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/captcha/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/card/card-container.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/card/card.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/card/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/carousel/carousel.3d.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/carousel/carousel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/carousel/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/chart-dom/chart.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/chart-dom/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/click-away/click-away.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/click-away/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/date-basic/date-basic.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/date-basic/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/date-shortcut/date-shortcut.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/date-shortcut/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/datetimepicker/datetimepicker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/datetimepicker/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/datetimepicker/zh.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/form-control/form-control-basic.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/form-control/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/form-control/input-number.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/form-control/input-selector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/form-control/input-verify-class.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/form-control/input.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/form-generator/condition-generator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/form-generator/form-filter-types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/form-generator/form-filter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/form-generator/form-generator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/form-generator/form-layout.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/form-generator/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/grid/grid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/grid/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/icon/icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/icon/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/icon-mapper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/label/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/label/label.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/list/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/list/list-item.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/list/list.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/loading/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/loading/loading.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/loading/placeholder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/loading/progress.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/loading/snip.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/menu/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/menu/menu.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/menu/menus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/modal/drag-pabel-helper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/modal/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/modal/modal-func-api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/modal/modal-func.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/modal/modal-helper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/modal/modal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/modal/window-manager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/multiple-selector/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/multiple-selector/multiple-selector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/notification/doc-api/notify-config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/notification/doc-api/notify-params.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/notification/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/notification/notification.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/notification/notify-func.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/pagin/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/pagin/pagin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/popover/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/popover/popover-entity.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/popover/popover-func.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/popover/popover.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/position-filter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/range-selector/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/range-selector/ranger-selector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/record-render/card-table.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/record-render/desc-helper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/record-render/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/record-render/mapper-filter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/record-render/table-body.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/record-render/table-mock-data.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/rename-filter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/selector/checkbox.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/selector/dropdown-group.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/selector/dropdown-menu.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/selector/dropdown-wrapper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/selector/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/selector/link-selector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/selector/radio.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/selector/selector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/set-dom.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/steps/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/steps/step.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/steps/steps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/sub-content/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/sub-content/sub-content.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/switch-button/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/switch-button/switch-button.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/switch-button/switch-c.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/tabs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/tabs/tab.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/tabs/tabs-demo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/tabs/tabs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/tip/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/tip/tip.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/tip-button/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/tip-button/tip-button.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/toast/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/toast/toast.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/tooltip/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/tooltip/tooltip.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/utils/color.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/utils/get-elem-offset.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/utils/icon-mapper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/utils/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/utils/load-stuff.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/utils/mock-data.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/utils/position.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/utils/props.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/utils/screen.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/utils/scroll.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/utils/uke-component.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/en-US.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/zh-CN.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "other/ball/animate-ball.js",
+      "obfuscated": false
+    },
+    {
+      "file": "other/ball/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "other/countdown/countdown-canvas-bg.js",
+      "obfuscated": false
+    },
+    {
+      "file": "other/countdown/countdown-cycle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "other/countdown/countdown-svg-bg.js",
+      "obfuscated": false
+    },
+    {
+      "file": "other/countdown/flip-clock.js",
+      "obfuscated": false
+    },
+    {
+      "file": "other/countdown/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "other/qrcode/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "other/treelist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "other/treelist/treelist.js",
+      "obfuscated": false
+    }
+  ]
+}

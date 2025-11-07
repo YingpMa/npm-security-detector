@@ -1,0 +1,182 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/tg-core-api/package",
+  "fileCount": 44,
+  "results": [
+    {
+      "file": "es/__test__/api.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/bingo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/bonus-ft.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/bonus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/casino.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/currencies.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/event.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/exchange-rates.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/internal-message-ft.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/internal-message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/kyc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/payment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/player-groups.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/player-properties.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/player.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/responsible-gaming.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/sportsbook.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/tournament.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/transaction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/wallet.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/__test__/api.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/bingo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/bonus-ft.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/bonus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/casino.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/currencies.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/event.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/exchange-rates.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/internal-message-ft.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/internal-message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/kyc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/payment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/player-groups.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/player-properties.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/player.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/responsible-gaming.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/sportsbook.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/tournament.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/transaction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/wallet.js",
+      "obfuscated": false
+    }
+  ]
+}

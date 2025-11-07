@@ -1,0 +1,22 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/vimeo-video-element/package",
+  "fileCount": 4,
+  "results": [
+    {
+      "file": "dist/cjs/react.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/vimeo-video-element.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/react.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/vimeo-video-element.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@mocks-server+admin-api-client/package",
+  "fileCount": 10,
+  "results": [
+    {
+      "file": "dist/index.cjs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.umd.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist-tsc/AdminApiClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-tsc/AdminApiClient.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-tsc/AdminApiClientEntities.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-tsc/AdminApiClientEntities.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-tsc/Common.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-tsc/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-tsc/types.js",
+      "obfuscated": false
+    }
+  ]
+}

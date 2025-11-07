@@ -1,0 +1,58 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/react-world-flags/package",
+  "fileCount": 13,
+  "results": [
+    {
+      "file": "dist/react-world-flags.js",
+      "obfuscated": true
+    },
+    {
+      "file": "docs/build.js",
+      "obfuscated": true
+    },
+    {
+      "file": "docs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "docs/webpack.config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "scripts/genFlagExports.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Flag.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Flag.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/__mocks__/fileMock.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/country.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/country.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/flags.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/flags.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "webpack.config.js",
+      "obfuscated": false
+    }
+  ]
+}

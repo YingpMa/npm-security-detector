@@ -1,0 +1,58 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@umijs+renderer-react/package",
+  "fileCount": 13,
+  "results": [
+    {
+      "file": "dist/appContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/dataFetcher.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/html.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/link.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/routeContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/routes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/server.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/useFetcher.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/useIntersectionObserver.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/withRouter.js",
+      "obfuscated": false
+    }
+  ]
+}

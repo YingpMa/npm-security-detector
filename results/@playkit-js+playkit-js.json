@@ -1,0 +1,262 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@playkit-js+playkit-js/package",
+  "fileCount": 64,
+  "results": [
+    {
+      "file": "dist/playkit.js",
+      "obfuscated": true
+    },
+    {
+      "file": "flow-typed/classes/player.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/interfaces/dom.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/interfaces/drm-protocol.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/interfaces/engine-capabilty.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/interfaces/engine-decorator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/interfaces/engine.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/interfaces/media-source-adapter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/modules/js-logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/modules/ua-parser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/abr-config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/abr-modes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/ad-break-options.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/ad-break-types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/ad-options.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/ad-tag-types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/auto-play-types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/cors-types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/custom-labels-config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/deferred-promise.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/dimensions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/drm-config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/drm-data.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/engine-decorator-provider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/engine-types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/event-types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/exteranl-thumbnails-object.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/external-caption-object.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/image-player-options.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/log-level.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/media-source-capabilities.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/media-source-options.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/media-source.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/media-types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/metadata-config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/mime-types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/network-config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/play-options.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/playback-config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/playback-options.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/player-options.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/player-state.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/prefer-native-config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/request-types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/request.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/response.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/restrictions-types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/screen-orientation-type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/session-config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/sources-config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/state-types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/stats.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/stream-priority.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/stream-types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/streaming-config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/text-config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/text-style.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/text-track-cue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/text-track-display-setting.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/thumbnail-vtt-cue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/track-types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/video-dimensions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/video-element-store.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/player-config.js",
+      "obfuscated": false
+    }
+  ]
+}

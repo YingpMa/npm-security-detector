@@ -1,0 +1,42 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/prebuild-install/package",
+  "fileCount": 9,
+  "results": [
+    {
+      "file": "asset.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "download.js",
+      "obfuscated": false
+    },
+    {
+      "file": "error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "log.js",
+      "obfuscated": false
+    },
+    {
+      "file": "proxy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "rc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "util.js",
+      "obfuscated": false
+    }
+  ]
+}

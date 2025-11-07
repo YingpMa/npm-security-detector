@@ -1,0 +1,806 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/lucide-react-native/package",
+  "fileCount": 200,
+  "results": [
+    {
+      "file": "dist/cjs/Icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/createLucideIcon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/defaultAttributes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/a-arrow-down.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/a-arrow-up.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/a-large-small.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/accessibility.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/activity.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/air-vent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/airplay.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/alarm-clock-check.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/alarm-clock-minus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/alarm-clock-off.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/alarm-clock-plus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/alarm-clock.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/alarm-smoke.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/album.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/align-center-horizontal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/align-center-vertical.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/align-center.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/align-end-horizontal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/align-end-vertical.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/align-horizontal-distribute-center.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/align-horizontal-distribute-end.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/align-horizontal-distribute-start.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/align-horizontal-justify-center.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/align-horizontal-justify-end.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/align-horizontal-justify-start.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/align-horizontal-space-around.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/align-horizontal-space-between.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/align-justify.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/align-left.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/align-right.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/align-start-horizontal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/align-start-vertical.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/align-vertical-distribute-center.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/align-vertical-distribute-end.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/align-vertical-distribute-start.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/align-vertical-justify-center.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/align-vertical-justify-end.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/align-vertical-justify-start.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/align-vertical-space-around.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/align-vertical-space-between.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/ambulance.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/ampersand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/ampersands.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/amphora.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/anchor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/angry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/annoyed.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/antenna.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/anvil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/aperture.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/app-window-mac.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/app-window.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/apple.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/archive-restore.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/archive-x.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/archive.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/armchair.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-big-down-dash.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-big-down.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-big-left-dash.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-big-left.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-big-right-dash.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-big-right.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-big-up-dash.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-big-up.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-down-0-1.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-down-1-0.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-down-a-z.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-down-from-line.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-down-left.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-down-narrow-wide.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-down-right.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-down-to-dot.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-down-to-line.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-down-up.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-down-wide-narrow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-down-z-a.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-down.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-left-from-line.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-left-right.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-left-to-line.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-left.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-right-from-line.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-right-left.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-right-to-line.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-right.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-up-0-1.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-up-1-0.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-up-a-z.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-up-down.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-up-from-dot.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-up-from-line.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-up-left.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-up-narrow-wide.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-up-right.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-up-to-line.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-up-wide-narrow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-up-z-a.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrow-up.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/arrows-up-from-line.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/asterisk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/at-sign.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/atom.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/audio-lines.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/audio-waveform.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/award.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/axe.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/axis-3d.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/baby.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/backpack.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/badge-alert.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/badge-cent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/badge-check.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/badge-dollar-sign.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/badge-euro.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/badge-indian-rupee.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/badge-info.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/badge-japanese-yen.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/badge-minus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/badge-percent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/badge-plus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/badge-pound-sterling.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/badge-question-mark.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/badge-russian-ruble.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/badge-swiss-franc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/badge-turkish-lira.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/badge-x.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/badge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/baggage-claim.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/ban.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/banana.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/bandage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/banknote-arrow-down.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/banknote-arrow-up.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/banknote-x.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/banknote.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/barcode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/barrel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/baseline.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/bath.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/battery-charging.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/battery-full.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/battery-low.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/battery-medium.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/battery-plus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/battery-warning.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/battery.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/beaker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/bean-off.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/bean.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/bed-double.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/bed-single.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/bed.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/beef.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/beer-off.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/beer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/bell-dot.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/bell-electric.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/bell-minus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/bell-off.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/bell-plus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/bell-ring.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/bell.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/between-horizontal-end.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/between-horizontal-start.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/between-vertical-end.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/between-vertical-start.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/biceps-flexed.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/bike.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/binary.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/binoculars.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/biohazard.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/bird.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/bitcoin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/blend.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/blinds.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/blocks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/bluetooth-connected.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/bluetooth-off.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/bluetooth-searching.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/bluetooth.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/bold.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/bolt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/bomb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/bone.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/book-a.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/book-alert.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/book-audio.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/book-check.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/book-copy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/book-dashed.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/book-down.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/book-headphones.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/book-heart.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/book-image.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/book-key.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/icons/book-lock.js",
+      "obfuscated": false
+    }
+  ]
+}

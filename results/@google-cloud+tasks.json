@@ -1,0 +1,54 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@google-cloud+tasks/package",
+  "fileCount": 12,
+  "results": [
+    {
+      "file": "build/esm/src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/src/v2/cloud_tasks_client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/src/v2/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/src/v2beta2/cloud_tasks_client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/src/v2beta2/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/src/v2beta3/cloud_tasks_client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/src/v2beta3/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/system-test/install.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/test/gapic_cloud_tasks_v2.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/test/gapic_cloud_tasks_v2beta2.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/test/gapic_cloud_tasks_v2beta3.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/protos/protos.js",
+      "obfuscated": false
+    }
+  ]
+}

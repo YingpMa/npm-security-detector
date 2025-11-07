@@ -1,0 +1,30 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@atproto+xrpc/package",
+  "fileCount": 6,
+  "results": [
+    {
+      "file": "dist/client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/fetch-handler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/xrpc-client.js",
+      "obfuscated": false
+    }
+  ]
+}

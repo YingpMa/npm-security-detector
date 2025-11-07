@@ -1,0 +1,98 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@playkit-js+playkit-js-ui/package",
+  "fileCount": 23,
+  "results": [
+    {
+      "file": "dist/playkit-ui.js",
+      "obfuscated": true
+    },
+    {
+      "file": "flow-typed/modules/js-logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/modules/preact-compat.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/modules/preact-hooks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/modules/preact-i18n.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/modules/preact.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/modules/react-redux.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/modules/react.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/modules/redux.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/modules/style.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/components-config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/event-handler-option.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/fullscreen-config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/keyboard-event-handlers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/keyboard-key.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/logo-config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/side-panels-config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/ui-options.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/ui-preset.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/user-theme.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/vr-stereo-config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/types/watermark-config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "flow-typed/vars/css-module-prefix.js",
+      "obfuscated": false
+    }
+  ]
+}

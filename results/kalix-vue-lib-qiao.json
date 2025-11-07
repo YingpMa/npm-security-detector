@@ -1,0 +1,66 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/kalix-vue-lib-qiao/package",
+  "fileCount": 15,
+  "results": [
+    {
+      "file": "dist/kalix-lib-qiao.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/common/cache.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/common/dictFilter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/common/eventbus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/common/keyValueObject.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/common/message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/common/moduleUtil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/common/pretty-bytes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/common/searchmixin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/common/typeFormat.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/common/unicode-convert.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/common/util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/common/date/datepickerMixin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/main/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/main.js",
+      "obfuscated": false
+    }
+  ]
+}

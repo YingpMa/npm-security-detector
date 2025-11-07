@@ -1,0 +1,142 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/enzyme/package",
+  "fileCount": 34,
+  "results": [
+    {
+      "file": "ReactWrapper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ShallowWrapper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/Debug.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/EnzymeAdapter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/RSTTraversal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/ReactWrapper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/ShallowWrapper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/Utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/configuration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/getAdapter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/mount.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/render.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/selectors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/shallow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/validateAdapter.js",
+      "obfuscated": true
+    },
+    {
+      "file": "mount.js",
+      "obfuscated": false
+    },
+    {
+      "file": "render.js",
+      "obfuscated": false
+    },
+    {
+      "file": "shallow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Debug.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/EnzymeAdapter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/RSTTraversal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ReactWrapper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ShallowWrapper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/configuration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/getAdapter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/mount.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/render.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/selectors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/shallow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/validateAdapter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "withDom.js",
+      "obfuscated": false
+    }
+  ]
+}

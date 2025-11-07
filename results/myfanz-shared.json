@@ -1,0 +1,226 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/myfanz-shared/package",
+  "fileCount": 55,
+  "results": [
+    {
+      "file": "errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "helpers/helpers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "helpers/redisClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "helpers/resources.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "kafka/topics.js",
+      "obfuscated": false
+    },
+    {
+      "file": "middlewares/checkPermission.js",
+      "obfuscated": false
+    },
+    {
+      "file": "middlewares/currentUser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "middlewares/errorHandler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "middlewares/forbiddenWords.js",
+      "obfuscated": false
+    },
+    {
+      "file": "middlewares/validators/fileValidator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "models/baselists.js",
+      "obfuscated": false
+    },
+    {
+      "file": "models/cardaccounts.js",
+      "obfuscated": false
+    },
+    {
+      "file": "models/connections.js",
+      "obfuscated": false
+    },
+    {
+      "file": "models/creatorscouples.js",
+      "obfuscated": false
+    },
+    {
+      "file": "models/creatorsettings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "models/documenttypes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "models/friendLists.js",
+      "obfuscated": false
+    },
+    {
+      "file": "models/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "models/invitationdurations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "models/invitations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "models/lists.js",
+      "obfuscated": false
+    },
+    {
+      "file": "models/loginsession.js",
+      "obfuscated": false
+    },
+    {
+      "file": "models/promotions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "models/referrals.js",
+      "obfuscated": false
+    },
+    {
+      "file": "models/releaseforms.js",
+      "obfuscated": false
+    },
+    {
+      "file": "models/reportedusers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "models/role.js",
+      "obfuscated": false
+    },
+    {
+      "file": "models/stripedetails.js",
+      "obfuscated": false
+    },
+    {
+      "file": "models/subAdminPermissions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "models/subscriptionbundles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "models/subscriptionsdetails.js",
+      "obfuscated": false
+    },
+    {
+      "file": "models/user.js",
+      "obfuscated": false
+    },
+    {
+      "file": "models/userdetails.js",
+      "obfuscated": false
+    },
+    {
+      "file": "models/usersettings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "response/SuccessResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/aws/sns-sqs.service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/aws/sns.constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/aws/sns.service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/aws/sqs.constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/chat.service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/creator.service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/creatorBundles.service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/creatorCouples.service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/list.service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/media.service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/payment.service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/report.service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/storage.service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/subscribers.service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/user.service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "wrappers/rabbitBroker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "wrappers/redisConfig.js",
+      "obfuscated": false
+    },
+    {
+      "file": "wrappers/redisWrapper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "wrappers/slackNotifier.js",
+      "obfuscated": false
+    }
+  ]
+}

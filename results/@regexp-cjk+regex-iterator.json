@@ -1,0 +1,54 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@regexp-cjk+regex-iterator/package",
+  "fileCount": 12,
+  "results": [
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/_each.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/each.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/map.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/reduce.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/replaceEach.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/splitLimit.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/handleChainInput.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/handleChainRowResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/split/greedySplit.js",
+      "obfuscated": false
+    }
+  ]
+}

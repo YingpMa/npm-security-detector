@@ -1,0 +1,62 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/tiktoken/package",
+  "fileCount": 14,
+  "results": [
+    {
+      "file": "encoders/cl100k_base.js",
+      "obfuscated": true
+    },
+    {
+      "file": "encoders/gpt2.js",
+      "obfuscated": true
+    },
+    {
+      "file": "encoders/o200k_base.js",
+      "obfuscated": true
+    },
+    {
+      "file": "encoders/p50k_base.js",
+      "obfuscated": true
+    },
+    {
+      "file": "encoders/p50k_edit.js",
+      "obfuscated": true
+    },
+    {
+      "file": "encoders/r50k_base.js",
+      "obfuscated": true
+    },
+    {
+      "file": "init.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lite/init.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lite/load.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lite/tiktoken.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lite/tiktoken_bg.js",
+      "obfuscated": false
+    },
+    {
+      "file": "load.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tiktoken.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tiktoken_bg.js",
+      "obfuscated": false
+    }
+  ]
+}

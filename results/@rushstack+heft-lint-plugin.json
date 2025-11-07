@@ -1,0 +1,34 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@rushstack+heft-lint-plugin/package",
+  "fileCount": 7,
+  "results": [
+    {
+      "file": "lib/Eslint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/LintPlugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/LinterBase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/SarifFormatter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Tslint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/internalTypings/TslintInternals.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/internalTypings/TypeScriptInternals.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@helia+interface/package",
+  "fileCount": 6,
+  "results": [
+    {
+      "file": "dist/index.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/src/blocks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/pins.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/routing.js",
+      "obfuscated": false
+    }
+  ]
+}

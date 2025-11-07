@@ -1,0 +1,30 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@react-stately+disclosure/package",
+  "fileCount": 6,
+  "results": [
+    {
+      "file": "dist/main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/useDisclosureGroupState.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/useDisclosureGroupState.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/useDisclosureState.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/useDisclosureState.module.js",
+      "obfuscated": false
+    }
+  ]
+}

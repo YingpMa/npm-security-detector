@@ -1,0 +1,46 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/response-iterator/package",
+  "fileCount": 10,
+  "results": [
+    {
+      "file": "dist/cjs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/iterators/async.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/iterators/nodeStream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/iterators/promise.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/iterators/reader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/iterators/async.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/iterators/nodeStream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/iterators/promise.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/iterators/reader.js",
+      "obfuscated": false
+    }
+  ]
+}

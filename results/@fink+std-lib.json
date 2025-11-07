@@ -1,0 +1,94 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@fink+std-lib/package",
+  "fileCount": 22,
+  "results": [
+    {
+      "file": "async.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/async.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/fn.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/iter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/json.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/math.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/num.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/rec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/regex.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/stack-trace.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/str.js",
+      "obfuscated": false
+    },
+    {
+      "file": "error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "fn.js",
+      "obfuscated": false
+    },
+    {
+      "file": "iter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "json.js",
+      "obfuscated": false
+    },
+    {
+      "file": "math.js",
+      "obfuscated": false
+    },
+    {
+      "file": "num.js",
+      "obfuscated": false
+    },
+    {
+      "file": "rec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "regex.js",
+      "obfuscated": false
+    },
+    {
+      "file": "stack-trace.js",
+      "obfuscated": false
+    },
+    {
+      "file": "str.js",
+      "obfuscated": false
+    }
+  ]
+}

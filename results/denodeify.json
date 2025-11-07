@@ -1,0 +1,30 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/denodeify/package",
+  "fileCount": 6,
+  "results": [
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/es6-promise-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/es6-shim-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/helpers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/lie-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/native-promise-only-test.js",
+      "obfuscated": false
+    }
+  ]
+}

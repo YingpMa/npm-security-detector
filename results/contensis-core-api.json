@@ -1,0 +1,750 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/contensis-core-api/package",
+  "fileCount": 186,
+  "results": [
+    {
+      "file": "bundle-es2015/http/http-client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/http/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/http/url-builder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/AssetUpload.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/ClientCredentialsGrant.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/ClientGrants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/ClientParams.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/Component.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/ContensisClassicGrant.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/ContensisClassicRefreshTokenGrant.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/ContentType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/ContentTypeBase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/ContentTypeFormat.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/Editor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/Field.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/IHttpClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/IParamsProvider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/Localised.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/MapperFn.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/PageOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/PagedList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/Project.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/ResponseContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/ResponseHandler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/SysAssetFile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/UrlFn.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/Validations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/VersionInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/VersionInfoBase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/VersionStatus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/search/Aggregation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/search/Aggregations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/search/ContensisQuery.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/search/ContensisQueryFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/search/ContensisQueryOperators.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/search/ContensisQueryOrderBy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/search/ContensisQueryOrderByDto.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/search/DistanceSearch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/search/ExpressionValueType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/search/FieldLinkDepths.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/search/FreeTextSearch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/search/FreeTextSearchOperatorType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/search/IExpression.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/search/ILogicalExpression.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/search/IZenqlQuery.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/search/ManagementQuery.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/search/ManagementZenqlQuery.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/search/OperatorType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/search/Operators.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/search/OrderByFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/search/Ordering.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/search/PagedSearchList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/search/QueryAggregation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/search/QueryAggregations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/search/QueryTypes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/search/ZenqlQuery.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/search/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/models/search/query.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es2015/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/http/http-client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/http/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/http/url-builder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/AssetUpload.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/ClientCredentialsGrant.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/ClientGrants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/ClientParams.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/Component.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/ContensisClassicGrant.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/ContensisClassicRefreshTokenGrant.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/ContentType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/ContentTypeBase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/ContentTypeFormat.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/Editor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/Field.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/IHttpClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/IParamsProvider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/Localised.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/MapperFn.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/PageOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/PagedList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/Project.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/ResponseContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/ResponseHandler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/SysAssetFile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/UrlFn.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/Validations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/VersionInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/VersionInfoBase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/VersionStatus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/search/Aggregation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/search/Aggregations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/search/ContensisQuery.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/search/ContensisQueryFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/search/ContensisQueryOperators.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/search/ContensisQueryOrderBy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/search/ContensisQueryOrderByDto.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/search/DistanceSearch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/search/ExpressionValueType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/search/FieldLinkDepths.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/search/FreeTextSearch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/search/FreeTextSearchOperatorType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/search/IExpression.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/search/ILogicalExpression.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/search/IZenqlQuery.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/search/ManagementQuery.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/search/ManagementZenqlQuery.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/search/OperatorType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/search/Operators.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/search/OrderByFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/search/Ordering.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/search/PagedSearchList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/search/QueryAggregation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/search/QueryAggregations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/search/QueryTypes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/search/ZenqlQuery.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/search/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/models/search/query.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-es5/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/http/http-client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/http/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/http/url-builder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/AssetUpload.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/ClientCredentialsGrant.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/ClientGrants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/ClientParams.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/Component.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/ContensisClassicGrant.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/ContensisClassicRefreshTokenGrant.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/ContentType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/ContentTypeBase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/ContentTypeFormat.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/Editor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/Field.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/IHttpClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/IParamsProvider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/Localised.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/MapperFn.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/PageOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/PagedList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/Project.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/ResponseContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/ResponseHandler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/SysAssetFile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/UrlFn.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/Validations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/VersionInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/VersionInfoBase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/VersionStatus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/search/Aggregation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/search/Aggregations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/search/ContensisQuery.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/search/ContensisQueryFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/search/ContensisQueryOperators.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/search/ContensisQueryOrderBy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/search/ContensisQueryOrderByDto.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/search/DistanceSearch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/search/ExpressionValueType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/search/FieldLinkDepths.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/search/FreeTextSearch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/search/FreeTextSearchOperatorType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/search/IExpression.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/search/ILogicalExpression.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/search/IZenqlQuery.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/search/ManagementQuery.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/search/ManagementZenqlQuery.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/search/OperatorType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/search/Operators.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/search/OrderByFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/search/Ordering.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/search/PagedSearchList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/search/QueryAggregation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/search/QueryAggregations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/search/QueryTypes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/search/ZenqlQuery.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/search/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/search/query.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils.js",
+      "obfuscated": false
+    }
+  ]
+}

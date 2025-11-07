@@ -1,0 +1,10 @@
+{
+  "pkg": "@datadog/browser-rum-core",
+  "domains": [
+    "github.com",
+    "www.npmjs.com",
+    "registry.npmjs.org"
+  ],
+  "vt": {},
+  "timestamp": "2025-11-06T18:31:54.111Z"
+}

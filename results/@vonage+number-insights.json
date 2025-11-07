@@ -1,0 +1,98 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@vonage+number-insights/package",
+  "fileCount": 23,
+  "results": [
+    {
+      "file": "dist/lib/enums/CallerType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/enums/LookupOutcome.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/enums/NetworkType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/enums/Reachable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/enums/ValidNumber.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/enums/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/number-insights.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/types/AdvancedLookupOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/types/AsyncAdvancedLookupOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/types/BasicLookupOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/types/NumberInsightsResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/types/Responses/AdvancedResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/types/Responses/AsyncAdvancedResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/types/Responses/BasicResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/types/Responses/CallerIdentityResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/types/Responses/CarrierInforResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/types/Responses/RealTimeDataResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/types/Responses/RoamingDataResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/types/Responses/StandardResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/types/Responses/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/types/StandardLookupOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/types/index.js",
+      "obfuscated": false
+    }
+  ]
+}

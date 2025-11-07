@@ -1,0 +1,30 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@waves+ledger/package",
+  "fileCount": 6,
+  "results": [
+    {
+      "file": "dist/transport-u2f.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/waves-ledger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/TransportU2F.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Waves.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/WavesLedger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils.js",
+      "obfuscated": false
+    }
+  ]
+}

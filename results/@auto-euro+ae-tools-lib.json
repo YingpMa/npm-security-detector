@@ -1,0 +1,18 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@auto-euro+ae-tools-lib/package",
+  "fileCount": 3,
+  "results": [
+    {
+      "file": "dist/ae-tools-lib.common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ae-tools-lib.umd.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ae-tools-lib.umd.min.js",
+      "obfuscated": true
+    }
+  ]
+}

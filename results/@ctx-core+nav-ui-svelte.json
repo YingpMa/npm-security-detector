@@ -1,0 +1,30 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@ctx-core+nav-ui-svelte/package",
+  "fileCount": 6,
+  "results": [
+    {
+      "file": "Nav_Content/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "Nav_Handle/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "Nav_Header/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "Nav_Item/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "svelte.config.js",
+      "obfuscated": false
+    }
+  ]
+}

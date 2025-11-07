@@ -1,0 +1,106 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/apollo-cache-inmemory/package",
+  "fileCount": 25,
+  "results": [
+    {
+      "file": "jest.config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/__tests__/cache.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/__tests__/diffAgainstStore.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/__tests__/fragmentMatcher.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/__tests__/mapCache.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/__tests__/objectCache.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/__tests__/readFromStore.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/__tests__/recordingCache.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/__tests__/roundtrip.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/__tests__/writeToStore.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/bundle.cjs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/bundle.cjs.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "lib/bundle.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/bundle.umd.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/depTrackingCache.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/fixPolyfills.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/fragmentMatcher.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/fragmentMatcherIntrospectionQuery.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/inMemoryCache.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/mapCache.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/objectCache.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/readFromStore.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/writeToStore.js",
+      "obfuscated": false
+    }
+  ]
+}

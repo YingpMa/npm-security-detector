@@ -1,0 +1,18 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@lightsparkdev+core/package",
+  "fileCount": 3,
+  "results": [
+    {
+      "file": "dist/chunk-36QHRQJC.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/index.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@graphql-hive+cli/package",
+  "fileCount": 27,
+  "results": [
+    {
+      "file": "dist/base-command.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/commands/app/create.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/commands/app/publish.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/commands/artifact/fetch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/commands/dev.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/commands/introspect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/commands/operations/check.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/commands/schema/check.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/commands/schema/delete.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/commands/schema/fetch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/commands/schema/publish.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/commands/whoami.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/gql/fragment-masking.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/gql/gql.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/gql/graphql.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/gql/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/helpers/config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/helpers/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/helpers/git.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/helpers/operations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/helpers/schema.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/helpers/target-input.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/helpers/texture/table.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/helpers/texture/texture.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/helpers/validation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/hooks/command-not-found.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    }
+  ]
+}

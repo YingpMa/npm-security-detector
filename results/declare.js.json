@@ -1,0 +1,30 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/declare.js/package",
+  "fileCount": 6,
+  "results": [
+    {
+      "file": "Gruntfile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "declare.js",
+      "obfuscated": false
+    },
+    {
+      "file": "declare.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/browserling.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/declare.test.js",
+      "obfuscated": false
+    }
+  ]
+}

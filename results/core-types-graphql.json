@@ -1,0 +1,38 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/core-types-graphql/package",
+  "fileCount": 8,
+  "results": [
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/annotation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/core-types-to-graphql.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/gql-utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/graphql-to-core-types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/schema.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/utils.js",
+      "obfuscated": false
+    }
+  ]
+}

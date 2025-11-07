@@ -1,0 +1,286 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/util-vue-webpack/package",
+  "fileCount": 70,
+  "results": [
+    {
+      "file": "dist/util-vue-webpack.js",
+      "obfuscated": true
+    },
+    {
+      "file": "postcss.config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/plus-core/common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/store/article/article-sqllite.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/store/article/article.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/store/building/building.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/store/common/area.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/store/common/common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/store/common/dataversion.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/store/common/qrCodeOrderCommand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/store/customer/commonInteraction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/store/customer/customer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/store/customer/liveMeeting.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/store/customer/sharePromoteRelationship.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/store/customer/shippingAddress.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/store/customer/wechatQrcodeScene.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/store/dispatch/dispatchProduct.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/store/diy/diyHouseType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/store/diy/diyScheme.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/store/finance/account.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/store/finance/drawCashApply.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/store/finance/order.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/store/product/catalog.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/store/product/goodsGroup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/store/product/product-sqllite.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/store/product/product.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/store/product/shoppingCart.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/store/showhouse/showhouse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/store/system/user.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/store/system/version.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/store_init.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/util/actions/actionSheet-framework7.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/util/actions/actionSheet-uni-app.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/util/actions/actionSheet.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/util/base/f7.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/util/base/global.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/util/base/url.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/util/common/coordinate-system.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/util/common/helper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/util/common/image-rectangle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/util/common/pager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/util/common/requestModel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/util/hardware/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/util/http/downloder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/util/http/globalHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/util/http/httpClient-axios.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/util/http/httpClient-uni-app.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/util/http/httpClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/util/http/webapi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/util/image/preview-framework7.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/util/image/preview-uni-app.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/util/image/preview.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/util/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/util/loading/loading-framework7.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/util/loading/loading-uni-app.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/util/loading/loading.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/util/message/message-framework7.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/util/message/message-uni-app.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/util/message/message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/util/plus/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/util/router/router-framework7.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/util/router/router-uni-app.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/util/router/router.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/util/storage/storage-browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/util/storage/storage-uni-app.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/util/storage/storage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/util/valid/graceChecker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/util/version/version.js",
+      "obfuscated": false
+    },
+    {
+      "file": "webpack.config.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@jqq-cli-dev+util/package",
+  "fileCount": 13,
+  "results": [
+    {
+      "file": "lib/Locale/en_us.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Locale/getEnvLocale.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Locale/locale.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Locale/zh_cn.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ejs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/formatPath.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/inquirer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/log.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/npm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/package.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/request.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/spinner.js",
+      "obfuscated": false
+    }
+  ]
+}

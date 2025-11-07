@@ -1,0 +1,22 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/image-minimizer-webpack-plugin/package",
+  "fileCount": 4,
+  "results": [
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/loader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/worker.js",
+      "obfuscated": false
+    }
+  ]
+}

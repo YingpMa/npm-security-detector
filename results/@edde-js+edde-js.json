@@ -1,0 +1,334 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@edde-js+edde-js/package",
+  "fileCount": 82,
+  "results": [
+    {
+      "file": "src/application/application.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/application/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/collection/collection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/collection/collection.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/collection/hash-map-collection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/collection/hash-map-collection.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/collection/hash-map.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/collection/hash-map.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/collection/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/collection/object-map.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/collection/object-map.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/collection/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/component/component.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/component/component.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/component/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/component/native.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/component/react.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/component/scoped-event.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/container/container-factory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/container/container.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/container/container.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/container/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/container/inject.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/container/make.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/container/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/crypto/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/crypto/uuid-generator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/crypto/uuid-generator.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/dom/html.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/dom/html.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/dom/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/dom/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/event/event-bus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/event/event-bus.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/event/event-manager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/event/event.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/event/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/event/listen-to.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/event/listener-collection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/event/listener-collection.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/event/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/history/history-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/history/history-service.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/history/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/message/collection-message-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/message/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/message/message-bus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/message/message-bus.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/message/message-portal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/message/message-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/message/message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/message/messages.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/message/packet.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/message/state-message-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/message/states-message-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/message/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/reactor/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/reactor/reactor-manager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/reactor/reactor-manager.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/reactor/reactor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/reactor/reactor.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/reactor/sync-message-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/reactor/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/runtime/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/runtime/runtime.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/runtime/runtime.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/runtime/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/template/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/template/template-manager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/template/template.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/strings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/strings.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/to-string.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/to-string.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/view/events.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/view/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/view/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/view/view-manager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/view/view-manager.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/view/view.js",
+      "obfuscated": false
+    }
+  ]
+}

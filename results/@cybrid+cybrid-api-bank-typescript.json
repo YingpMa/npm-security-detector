@@ -1,0 +1,726 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@cybrid+cybrid-api-bank-typescript/package",
+  "fileCount": 180,
+  "results": [
+    {
+      "file": "dist/apis/AccountsBankApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/apis/AssetsBankApi.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/apis/BanksBankApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/apis/CounterpartiesBankApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/apis/CustomersBankApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/apis/DepositAddressesBankApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/apis/DepositBankAccountsBankApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/apis/ExternalBankAccountsBankApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/apis/ExternalWalletsBankApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/apis/FilesBankApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/apis/IdentityVerificationsBankApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/apis/InvoicesBankApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/apis/PaymentInstructionsBankApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/apis/PersonaSessionsBankApi.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/apis/PricesBankApi.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/apis/QuotesBankApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/apis/SymbolsBankApi.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/apis/TradesBankApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/apis/TransfersBankApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/apis/WorkflowsBankApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/apis/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/AccountBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/AccountListBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/AccountStateBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/AccountTypeBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/ActivityLimitBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/ActivitySideBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/ActivityTypeBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/AssetBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/AssetListBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/AssetTypesBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/BankBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/BankFeatureBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/BankListBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/BankSupportedPayoutSymbolsInnerBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/BankTypeBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/ComplianceCheckBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/ComplianceCheckOutcomeBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/ComplianceCheckTypeBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/ComplianceDecisionBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/ComplianceDecisionStateBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/ComplianceDecisionTypeBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/CounterpartyAddressBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/CounterpartyAliasesInnerBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/CounterpartyBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/CounterpartyListBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/CounterpartyNameBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/CounterpartyStateBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/CounterpartyTypeBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/CustomerAddressBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/CustomerAliasesInnerBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/CustomerBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/CustomerListBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/CustomerNameBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/CustomerStateBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/CustomerTypeBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/DepositAddressBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/DepositAddressFormatBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/DepositAddressListBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/DepositAddressStateBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/DepositBankAccountAccountDetailsInnerBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/DepositBankAccountBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/DepositBankAccountCounterpartyAddressBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/DepositBankAccountListBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/DepositBankAccountRoutingDetailsInnerBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/DepositBankAccountRoutingNumberTypeBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/DepositBankAccountStateBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/ErrorResponseBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/ExternalBankAccountBalancesBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/ExternalBankAccountBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/ExternalBankAccountKindBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/ExternalBankAccountListBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/ExternalBankAccountPiiInnerAddressesInnerBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/ExternalBankAccountPiiInnerBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/ExternalBankAccountPiiInnerRoutingDetailsInnerBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/ExternalBankAccountStateBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/ExternalWalletBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/ExternalWalletEnvironmentBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/ExternalWalletListBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/ExternalWalletStateBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/IdentificationNumberBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/IdentityVerificationBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/IdentityVerificationBusinessAssociateBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/IdentityVerificationDocumentBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/IdentityVerificationDocumentFileBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/IdentityVerificationListBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/IdentityVerificationMethodBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/IdentityVerificationOutcomeBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/IdentityVerificationPersonaStateBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/IdentityVerificationStateBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/IdentityVerificationTypeBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/IdentityVerificationWithDetailsBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/IdentityVerificationWithDetailsPiiAddressBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/IdentityVerificationWithDetailsPiiAliasesInnerBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/IdentityVerificationWithDetailsPiiBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/IdentityVerificationWithDetailsPiiNameBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/InvoiceBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/InvoiceListBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PatchBankBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PatchCustomerBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PatchExternalBankAccountBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PatchTransferBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PatchTransferParticipantBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PaymentInstructionBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PaymentInstructionListBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PersonaSessionBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PlatformFileBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PlatformFileListBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PostAccountBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PostBankBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PostCounterpartyAddressBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PostCounterpartyAliasesInnerBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PostCounterpartyBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PostCounterpartyNameBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PostCustomerAddressBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PostCustomerAliasesInnerBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PostCustomerBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PostCustomerNameBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PostDepositAddressBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PostDepositBankAccountBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PostExternalBankAccountBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PostExternalBankAccountCounterpartyAddressBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PostExternalBankAccountCounterpartyBankAccountBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PostExternalBankAccountCounterpartyNameBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PostExternalWalletBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PostFeeBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PostFileBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PostIdentificationNumberBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PostIdentityVerificationAddressBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PostIdentityVerificationAliasesInnerBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PostIdentityVerificationBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PostIdentityVerificationNameBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PostInvoiceBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PostPaymentInstructionBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PostPersonaSessionBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PostQuoteBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PostQuoteEntryBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PostSupportedPayoutSymbolsBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PostTradeBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PostTransferBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PostTransferParticipantBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PostUltimateBeneficialOwnerBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/PostWorkflowBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/QuoteBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/QuoteEntryBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/QuoteEntryDestinationAccountBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/QuoteEntrySourceAccountBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/QuoteListBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/QuoteSideBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/QuoteTypeBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/SymbolPriceBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/TradeBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/TradeFailureCodeBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/TradeListBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/TradeSideBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/TradeStateBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/TradeTypeBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/TransferAccountTypeBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/TransferBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/TransferDestinationAccountBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/TransferEntryBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/TransferEntryDestinationAccountBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/TransferFailureCodeBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/TransferHoldDetailsBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/TransferListBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/TransferParticipantBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/TransferSideBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/TransferSourceAccountBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/TransferStateBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/TransferTypeBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/WorkflowBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/WorkflowStateBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/WorkflowTypeBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/WorkflowWithDetailsAllOfBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/WorkflowWithDetailsBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/WorkflowsListBankModel.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/models/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/runtime.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servers.js",
+      "obfuscated": false
+    }
+  ]
+}

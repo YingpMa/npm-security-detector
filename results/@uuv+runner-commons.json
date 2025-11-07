@@ -1,0 +1,98 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@uuv+runner-commons/package",
+  "fileCount": 23,
+  "results": [
+    {
+      "file": "dist/assets/i18n/web/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cli/engine.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cli/helper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cli/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cli/options.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cli/runner.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cli/start-ipc-server.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/runner/event/event-emitter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/runner/event/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/runner/event/listener/event-listener-helper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/runner/event/listener/teamcity-listener.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/runner/event/model.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/runner/step-definitions/_constant.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/runner/step-definitions/_i-context.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/runner/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/step-definition-generator/accessible-role.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/step-definition-generator/common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/step-definition-generator/generate-base-step-definitions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/step-definition-generator/generate-based-role-step-definitions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/step-definition-generator/generate-step-definitions-documentation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/step-definition-generator/generate-step-definitions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/step-definition-generator/lang-enum.js",
+      "obfuscated": false
+    }
+  ]
+}

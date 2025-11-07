@@ -1,0 +1,302 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@segment+actions-core/package",
+  "fileCount": 74,
+  "results": [
+    {
+      "file": "dist/cjs/arrify.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/create-request-client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/create-test-event.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/create-test-integration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/defaults.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/destination-kit/action.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/destination-kit/fields-to-jsonschema.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/destination-kit/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/destination-kit/parse-settings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/destination-kit/payload-filter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/destination-kit/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/fetch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/get.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/json-object.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/map-values.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/mapping-kit/flatten.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/mapping-kit/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/mapping-kit/is-directive.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/mapping-kit/liquid-directive.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/mapping-kit/placeholders.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/mapping-kit/validate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/mapping-kit/value-keys.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/middleware/after-response/prepare-headers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/middleware/after-response/prepare-response.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/middleware/before-request/add-basic-auth-header.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/omit.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/real-type-of.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/remove-empty-values.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/remove-undefined.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/request-client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/retry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/schema-validation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/segment-event.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/time.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/arrify.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/create-request-client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/create-test-event.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/create-test-integration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/defaults.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/destination-kit/action.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/destination-kit/fields-to-jsonschema.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/destination-kit/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/destination-kit/parse-settings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/destination-kit/payload-filter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/destination-kit/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/fetch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/get.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/json-object.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/map-values.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/mapping-kit/flatten.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/mapping-kit/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/mapping-kit/is-directive.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/mapping-kit/liquid-directive.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/mapping-kit/placeholders.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/mapping-kit/validate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/mapping-kit/value-keys.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/middleware/after-response/prepare-headers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/middleware/after-response/prepare-response.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/middleware/before-request/add-basic-auth-header.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/omit.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/real-type-of.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/remove-empty-values.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/remove-undefined.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/request-client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/retry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/schema-validation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/segment-event.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/time.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/types.js",
+      "obfuscated": false
+    }
+  ]
+}

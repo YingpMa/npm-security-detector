@@ -1,0 +1,10 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@node-red-contrib-themes+theme-collection/package",
+  "fileCount": 1,
+  "results": [
+    {
+      "file": "themes.js",
+      "obfuscated": false
+    }
+  ]
+}

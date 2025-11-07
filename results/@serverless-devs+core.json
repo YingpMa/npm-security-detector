@@ -1,0 +1,42 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@serverless-devs+core/package",
+  "fileCount": 9,
+  "results": [
+    {
+      "file": "dist/daemon/constant.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/daemon/loadComponent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/daemon/loadcore.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/daemon/logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/daemon/report.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/daemon/reportTracker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/daemon/tracker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": true
+    },
+    {
+      "file": "jest.config.js",
+      "obfuscated": false
+    }
+  ]
+}

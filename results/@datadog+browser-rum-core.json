@@ -1,0 +1,726 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@datadog+browser-rum-core/package",
+  "fileCount": 180,
+  "results": [
+    {
+      "file": "cjs/boot/preStartRum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/boot/rumPublicApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/boot/startRum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/browser/cookieObservable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/browser/domMutationObservable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/browser/firstInputPolyfill.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/browser/htmlDomUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/browser/locationChangeObservable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/browser/performanceObservable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/browser/performanceUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/browser/scroll.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/browser/viewportObservable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/browser/windowOpenObservable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/action/actionCollection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/action/clickChain.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/action/computeFrustration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/action/getActionNameFromElement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/action/interactionSelectorCache.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/action/listenActionEvents.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/action/trackClickActions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/assembly.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/configuration/configuration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/configuration/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/configuration/remoteConfig.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/configuration/remoteConfiguration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/contexts/ciVisibilityContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/contexts/connectivityContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/contexts/defaultContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/contexts/displayContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/contexts/featureFlagContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/contexts/internalContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/contexts/pageStateHistory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/contexts/sessionContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/contexts/syntheticsContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/contexts/trackingConsentContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/contexts/urlContexts.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/contexts/viewHistory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/discardNegativeDuration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/error/errorCollection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/error/trackConsoleError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/error/trackReportError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/event/eventCollection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/getSelectorFromElement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/getSessionReplayUrl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/hooks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/lifeCycle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/limitModification.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/longAnimationFrame/longAnimationFrameCollection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/longTask/longTaskCollection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/plugins.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/privacy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/requestCollection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/resource/matchRequestResourceEntry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/resource/resourceCollection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/resource/resourceUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/resource/retrieveInitialDocumentResourceTiming.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/rumSessionManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/sampler/sampler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/startCustomerDataTelemetry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/tracing/getDocumentTraceId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/tracing/identifier.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/tracing/tracer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/tracing/tracer.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/trackEventCounts.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/view/bfCacheSupport.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/view/trackViewEventCounts.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/view/trackViews.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/view/viewCollection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/view/viewMetrics/getClsAttributionImpactedArea.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/view/viewMetrics/interactionCountPolyfill.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/view/viewMetrics/trackBfcacheMetrics.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/view/viewMetrics/trackCommonViewMetrics.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/view/viewMetrics/trackCumulativeLayoutShift.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/view/viewMetrics/trackFirstContentfulPaint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/view/viewMetrics/trackFirstHidden.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/view/viewMetrics/trackFirstInput.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/view/viewMetrics/trackInitialViewMetrics.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/view/viewMetrics/trackInteractionToNextPaint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/view/viewMetrics/trackLargestContentfulPaint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/view/viewMetrics/trackLoadingTime.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/view/viewMetrics/trackNavigationTimings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/view/viewMetrics/trackScrollMetrics.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/vital/vitalCollection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domain/waitPageActivityEnd.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/domainContext.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/rawRumEvent.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/rumEvent.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/transport/startRumBatch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/transport/startRumEventBridge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/boot/preStartRum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/boot/rumPublicApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/boot/startRum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/browser/cookieObservable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/browser/domMutationObservable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/browser/firstInputPolyfill.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/browser/htmlDomUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/browser/locationChangeObservable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/browser/performanceObservable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/browser/performanceUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/browser/scroll.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/browser/viewportObservable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/browser/windowOpenObservable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/action/actionCollection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/action/clickChain.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/action/computeFrustration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/action/getActionNameFromElement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/action/interactionSelectorCache.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/action/listenActionEvents.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/action/trackClickActions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/assembly.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/configuration/configuration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/configuration/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/configuration/remoteConfig.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/configuration/remoteConfiguration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/contexts/ciVisibilityContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/contexts/connectivityContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/contexts/defaultContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/contexts/displayContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/contexts/featureFlagContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/contexts/internalContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/contexts/pageStateHistory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/contexts/sessionContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/contexts/syntheticsContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/contexts/trackingConsentContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/contexts/urlContexts.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/contexts/viewHistory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/discardNegativeDuration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/error/errorCollection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/error/trackConsoleError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/error/trackReportError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/event/eventCollection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/getSelectorFromElement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/getSessionReplayUrl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/hooks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/lifeCycle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/limitModification.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/longAnimationFrame/longAnimationFrameCollection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/longTask/longTaskCollection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/plugins.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/privacy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/requestCollection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/resource/matchRequestResourceEntry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/resource/resourceCollection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/resource/resourceUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/resource/retrieveInitialDocumentResourceTiming.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/rumSessionManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/sampler/sampler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/startCustomerDataTelemetry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/tracing/getDocumentTraceId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/tracing/identifier.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/tracing/tracer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/tracing/tracer.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/trackEventCounts.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/view/bfCacheSupport.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/view/trackViewEventCounts.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/view/trackViews.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/view/viewCollection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/view/viewMetrics/getClsAttributionImpactedArea.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/view/viewMetrics/interactionCountPolyfill.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/view/viewMetrics/trackBfcacheMetrics.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/view/viewMetrics/trackCommonViewMetrics.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/view/viewMetrics/trackCumulativeLayoutShift.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/view/viewMetrics/trackFirstContentfulPaint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/view/viewMetrics/trackFirstHidden.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/view/viewMetrics/trackFirstInput.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/view/viewMetrics/trackInitialViewMetrics.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/view/viewMetrics/trackInteractionToNextPaint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/view/viewMetrics/trackLargestContentfulPaint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/view/viewMetrics/trackLoadingTime.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/view/viewMetrics/trackNavigationTimings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/view/viewMetrics/trackScrollMetrics.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/vital/vitalCollection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domain/waitPageActivityEnd.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/domainContext.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/rawRumEvent.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/rumEvent.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/transport/startRumBatch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/transport/startRumEventBridge.js",
+      "obfuscated": false
+    }
+  ]
+}

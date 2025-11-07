@@ -1,0 +1,22 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@optionfactory+ful/package",
+  "fileCount": 4,
+  "results": [
+    {
+      "file": "dist/ful-client-errors.iife.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ful-client-errors.iife.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/ful.iife.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ful.iife.min.js",
+      "obfuscated": true
+    }
+  ]
+}

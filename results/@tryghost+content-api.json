@@ -1,0 +1,22 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@tryghost+content-api/package",
+  "fileCount": 4,
+  "results": [
+    {
+      "file": "cjs/content-api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/content-api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/content-api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "umd/content-api.min.js",
+      "obfuscated": true
+    }
+  ]
+}

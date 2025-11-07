@@ -1,0 +1,502 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@backstage+core-components/package",
+  "fileCount": 124,
+  "results": [
+    {
+      "file": "dist/alpha.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/AlertDisplay/AlertDisplay.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/AutoLogout/AutoLogout.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/AutoLogout/StillTherePrompt.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/AutoLogout/disconnectedUsers.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/AutoLogout/timestampStore.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/Avatar/Avatar.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/Avatar/utils.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/CodeSnippet/CodeSnippet.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/CopyTextButton/CopyTextButton.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/CreateButton/CreateButton.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/DependencyGraph/DefaultLabel.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/DependencyGraph/DefaultNode.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/DependencyGraph/DependencyGraph.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/DependencyGraph/Edge.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/DependencyGraph/Node.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/DependencyGraph/constants.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/DependencyGraph/types.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/DismissableBanner/DismissableBanner.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/EmptyState/EmptyState.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/EmptyState/EmptyStateImage.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/EmptyState/MissingAnnotationEmptyState.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/ErrorPanel/ErrorPanel.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/FavoriteToggle/FavoriteToggle.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/FeatureDiscovery/FeatureCalloutCircular.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/FeatureDiscovery/lib/usePortal.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/FeatureDiscovery/lib/useShowCallout.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/HeaderIconLinkRow/HeaderIconLinkRow.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/HeaderIconLinkRow/IconLinkVertical.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/HorizontalScrollGrid/HorizontalScrollGrid.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/Lifecycle/Lifecycle.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/Link/Link.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/LinkButton/LinkButton.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/LogViewer/AnsiProcessor.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/LogViewer/LogLine.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/LogViewer/LogViewer.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/LogViewer/LogViewerControls.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/LogViewer/RealLogViewer.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/LogViewer/styles.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/LogViewer/useLogViewerSearch.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/LogViewer/useLogViewerSelection.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/MarkdownContent/MarkdownContent.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/OAuthRequestDialog/LoginRequestListItem.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/OAuthRequestDialog/OAuthRequestDialog.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/OverflowTooltip/OverflowTooltip.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/Progress/Progress.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/ProgressBars/Gauge.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/ProgressBars/GaugeCard.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/ProgressBars/LinearGauge.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/ResponseErrorPanel/ResponseErrorPanel.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/Select/Select.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/Select/static/ClosedDropdown.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/Select/static/OpenedDropdown.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SimpleStepper/SimpleStepper.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SimpleStepper/SimpleStepperFooter.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SimpleStepper/SimpleStepperStep.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/Status/Status.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/Status/icons/AbortedIcon.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/Status/icons/PendingIcon.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/Status/icons/RunningIcon.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/StructuredMetadataTable/MetadataTable.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/StructuredMetadataTable/StructuredMetadataTable.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SupportButton/SupportButton.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/TabbedLayout/RoutedTabs.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/TabbedLayout/TabbedLayout.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/Table/Filters.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/Table/SubvalueCell.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/Table/Table.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/Table/TableLoadingBody.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/TrendLine/TrendLine.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/WarningPanel/WarningPanel.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/hooks/useQueryParamState.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/hooks/useSupportConfig.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/icons/icons.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/BottomLink/BottomLink.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/Breadcrumbs/Breadcrumbs.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/Content/Content.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/ContentHeader/ContentHeader.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/ErrorBoundary/ErrorBoundary.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/ErrorPage/ErrorPage.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/ErrorPage/MicDrop.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/ErrorPage/StackDetails.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/Header/Header.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/HeaderActionMenu/HeaderActionMenu.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/HeaderLabel/HeaderLabel.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/HeaderTabs/HeaderTabs.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/InfoCard/InfoCard.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/ItemCard/ItemCard.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/ItemCard/ItemCardGrid.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/ItemCard/ItemCardHeader.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/Page/Page.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/Page/PageWithHeader.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/ProxiedSignInPage/ProxiedSignInIdentity.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/ProxiedSignInPage/ProxiedSignInPage.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/ProxiedSignInPage/types.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/Sidebar/Bar.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/Sidebar/Items.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/Sidebar/MobileSidebar.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/Sidebar/MobileSidebarContext.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/Sidebar/Page.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/Sidebar/SidebarGroup.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/Sidebar/SidebarOpenStateContext.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/Sidebar/SidebarPinStateContext.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/Sidebar/SidebarSubmenu.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/Sidebar/SidebarSubmenuItem.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/Sidebar/config.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/Sidebar/icons/DoubleArrowLeft.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/Sidebar/icons/DoubleArrowRight.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/Sidebar/localStorage.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/Sidebar/utils.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/SignInPage/GuestUserIdentity.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/SignInPage/IdentityApiSignOutProxy.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/SignInPage/LegacyUserIdentity.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/SignInPage/SignInPage.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/SignInPage/UserIdentity.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/SignInPage/commonProvider.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/SignInPage/customProvider.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/SignInPage/guestProvider.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/SignInPage/providers.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/SignInPage/styles.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/layout/TabbedCard/TabbedCard.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/testUtils.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/translation.esm.js",
+      "obfuscated": false
+    }
+  ]
+}

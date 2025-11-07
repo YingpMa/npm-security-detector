@@ -1,0 +1,30 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/eslint-plugin-workspaces/package",
+  "fileCount": 6,
+  "results": [
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-absolute-imports.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-cross-imports.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-relative-imports.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/require-dependency.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils.js",
+      "obfuscated": false
+    }
+  ]
+}

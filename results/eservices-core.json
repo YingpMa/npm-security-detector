@@ -1,0 +1,18 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/eservices-core/package",
+  "fileCount": 3,
+  "results": [
+    {
+      "file": "dist/eservices-core.cjs.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/eservices-core.es.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/eservices-core.umd.js",
+      "obfuscated": true
+    }
+  ]
+}

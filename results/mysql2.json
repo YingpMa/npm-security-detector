@@ -1,0 +1,350 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/mysql2/package",
+  "fileCount": 86,
+  "results": [
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/auth_41.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/auth_plugins/caching_sha2_password.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/auth_plugins/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/auth_plugins/mysql_clear_password.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/auth_plugins/mysql_native_password.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/auth_plugins/sha256_password.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/base/connection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/base/pool.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/base/pool_connection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/auth_switch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/binlog_dump.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/change_user.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/client_handshake.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/close_statement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/command.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/execute.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/ping.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/prepare.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/query.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/quit.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/register_slave.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/server_handshake.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/compressed_protocol.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/connection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/connection_config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/constants/charset_encodings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/constants/charsets.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/constants/client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/constants/commands.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/constants/cursor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/constants/encoding_charset.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/constants/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/constants/field_flags.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/constants/server_status.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/constants/session_track.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/constants/ssl_profiles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/constants/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/create_connection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/create_pool.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/create_pool_cluster.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/packet_parser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/packets/auth_next_factor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/packets/auth_switch_request.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/packets/auth_switch_request_more_data.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/packets/auth_switch_response.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/packets/binary_row.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/packets/binlog_dump.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/packets/binlog_query_statusvars.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/packets/change_user.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/packets/close_statement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/packets/column_definition.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/packets/execute.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/packets/handshake.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/packets/handshake_response.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/packets/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/packets/packet.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/packets/prepare_statement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/packets/prepared_statement_header.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/packets/query.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/packets/register_slave.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/packets/resultset_header.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/packets/ssl_request.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/packets/text_row.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/parsers/binary_parser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/parsers/parser_cache.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/parsers/static_binary_parser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/parsers/static_text_parser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/parsers/string.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/parsers/text_parser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/pool.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/pool_cluster.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/pool_config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/pool_connection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/promise/connection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/promise/inherit_events.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/promise/make_done_cb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/promise/pool.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/promise/pool_cluster.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/promise/pool_connection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/promise/prepared_statement_info.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/results_stream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/server.js",
+      "obfuscated": false
+    },
+    {
+      "file": "promise.js",
+      "obfuscated": false
+    }
+  ]
+}

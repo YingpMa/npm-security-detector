@@ -1,0 +1,34 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@hi18n+core/package",
+  "fileCount": 7,
+  "results": [
+    {
+      "file": "dist/error-handling.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/msgfmt-eval.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/msgfmt-parser-types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/msgfmt-parser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/msgfmt.js",
+      "obfuscated": false
+    }
+  ]
+}

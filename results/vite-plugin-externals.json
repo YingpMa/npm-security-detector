@@ -1,0 +1,62 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/vite-plugin-externals/package",
+  "fileCount": 14,
+  "results": [
+    {
+      "file": "dist/es/src/constant.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/src/options.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/src/transform.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/src/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/src/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/test/transform.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/constant.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/options.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/transform.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/test/transform.spec.js",
+      "obfuscated": false
+    }
+  ]
+}

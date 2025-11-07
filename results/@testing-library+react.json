@@ -1,0 +1,66 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@testing-library+react/package",
+  "fileCount": 15,
+  "results": [
+    {
+      "file": "dist/@testing-library/react.cjs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/@testing-library/react.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/@testing-library/react.pure.cjs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/@testing-library/react.pure.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/@testing-library/react.pure.umd.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/@testing-library/react.pure.umd.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/@testing-library/react.umd.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/@testing-library/react.umd.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/act-compat.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/fire-event.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/pure.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dont-cleanup-after-each.js",
+      "obfuscated": false
+    },
+    {
+      "file": "pure.js",
+      "obfuscated": false
+    }
+  ]
+}

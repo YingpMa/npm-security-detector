@@ -1,0 +1,118 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/eslint-plugin-json-schema-validator/package",
+  "fileCount": 28,
+  "results": [
+    {
+      "file": "lib/configs/base.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/configs/flat/base.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/configs/flat/recommended.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/configs/recommended.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/meta.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-invalid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/ajv.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/ast/common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/ast/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/ast/js/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/ast/js/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/ast/json.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/ast/toml.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/ast/yaml.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/compat.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/http-client/get-module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/http-client/get-modules/http.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/http-client/http.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/http-client/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/http-client/sync-http.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/http-client/worker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/rules.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/schema.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/validator-factory.js",
+      "obfuscated": false
+    }
+  ]
+}

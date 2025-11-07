@@ -1,0 +1,426 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@sanity+core/package",
+  "fileCount": 105,
+  "results": [
+    {
+      "file": "jest.config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/actions/build/buildStaticAssets.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/actions/build/compressJavascript.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/actions/config/reinitializePluginConfigs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/actions/cors/addCorsOrigin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/actions/dataset/alias/datasetAliasNamePrompt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/actions/dataset/alias/validateDatasetAliasName.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/actions/dataset/chooseDatasetPrompt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/actions/dataset/datasetNamePrompt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/actions/dataset/listDatasetCopyJobs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/actions/dataset/validateDatasetName.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/actions/deploy/deployAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/actions/deploy/undeployAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/actions/exec/babel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/actions/exec/configClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/actions/exec/execScript.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/actions/exec/pluginLoader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/actions/exec/registerBrowserEnv.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/actions/graphql/SchemaError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/actions/graphql/deleteApiAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/actions/graphql/deployApiAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/actions/graphql/extractFromSanitySchema.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/actions/graphql/gen1/generateTypeFilters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/actions/graphql/gen1/generateTypeQueries.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/actions/graphql/gen1/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/actions/graphql/gen2/generateTypeFilters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/actions/graphql/gen2/generateTypeQueries.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/actions/graphql/gen2/generateTypeSortings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/actions/graphql/gen2/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/actions/graphql/gen3/generateTypeFilters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/actions/graphql/gen3/generateTypeQueries.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/actions/graphql/gen3/generateTypeSortings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/actions/graphql/gen3/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/actions/graphql/getSanitySchema.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/actions/graphql/helpUrls.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/actions/graphql/listApisAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/actions/start/formatMessage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/actions/start/startAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/build/buildCommand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/check/checkCommand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/config/configCheckCommand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/cors/addCorsOriginCommand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/cors/corsGroup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/cors/deleteCorsOriginCommand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/cors/listCorsOriginsCommand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/dataset/alias/aliasCommands.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/dataset/alias/createAliasHandler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/dataset/alias/datasetAliasesClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/dataset/alias/deleteAliasHandler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/dataset/alias/linkAliasHandler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/dataset/alias/listAliasesHandler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/dataset/alias/unlinkAliasHandler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/dataset/copyDatasetCommand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/dataset/createDatasetCommand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/dataset/datasetGroup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/dataset/datasetVisibilityCommand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/dataset/deleteDatasetCommand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/dataset/exportDatasetCommand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/dataset/importDatasetCommand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/dataset/listDatasetsCommand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/deploy/deployCommand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/deploy/undeployCommand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/documents/createDocumentsCommand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/documents/deleteDocumentsCommand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/documents/documentsGroup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/documents/getDocumentsCommand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/documents/queryDocumentsCommand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/exec/execCommand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/graphql/deleteGraphQLAPICommand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/graphql/deployGraphQLAPICommand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/graphql/graphqlGroup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/graphql/listGraphQLAPIsCommand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/hook/createHookCommand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/hook/deleteHookCommand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/hook/hookGroup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/hook/listHookLogsCommand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/hook/listHooksCommand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/hook/printHookAttemptCommand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/install/installCommand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/start/startCommand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/uninstall/uninstallCommand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/users/inviteUserCommand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/users/listUsersCommand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/users/usersGroup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/debug.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/requiredCliVersionRange.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/stats/buildModuleHierarchy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/stats/sortModulesBySize.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/checkRequiredDependencies.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/checkStudioDependencyVersions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/colorizeJson.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/generateCommandsDocumentation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/generateConfigChecksum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/generateGuid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/getUrlHeaders.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/isProduction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/mockBrowserEnvironment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/normalizePluginName.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/pluginChecksumManifest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/prettifyQuotaError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/registerBabelLoader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/trimQuery.js",
+      "obfuscated": false
+    }
+  ]
+}

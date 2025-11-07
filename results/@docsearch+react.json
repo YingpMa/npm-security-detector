@@ -1,0 +1,38 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@docsearch+react/package",
+  "fileCount": 8,
+  "results": [
+    {
+      "file": "button.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/index.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/umd/index.js",
+      "obfuscated": true
+    },
+    {
+      "file": "modal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "style/button.js",
+      "obfuscated": false
+    },
+    {
+      "file": "style/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "style/modal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "style/variables.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@prismicio+react/package",
+  "fileCount": 10,
+  "results": [
+    {
+      "file": "dist/PrismicImage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/PrismicLink.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/PrismicRichText.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/PrismicTable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/PrismicText.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/PrismicToolbar.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/SliceZone.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/devMsg.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/package.json.js",
+      "obfuscated": false
+    }
+  ]
+}

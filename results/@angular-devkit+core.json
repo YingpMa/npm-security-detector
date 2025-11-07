@@ -1,0 +1,226 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@angular-devkit+core/package",
+  "fileCount": 55,
+  "results": [
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "node/cli-logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "node/host.js",
+      "obfuscated": false
+    },
+    {
+      "file": "node/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "node/testing/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exception.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/json/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/json/schema/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/json/schema/interface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/json/schema/pointer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/json/schema/registry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/json/schema/schema.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/json/schema/transforms.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/json/schema/utility.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/json/schema/visitor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/json/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/logger/indent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/logger/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/logger/level.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/logger/logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/logger/null-logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/logger/transform-logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/lang.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/literals.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/object.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/partially-ordered-set.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/priority-queue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/strings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/template.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/virtual-fs/host/alias.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/virtual-fs/host/buffer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/virtual-fs/host/create.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/virtual-fs/host/empty.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/virtual-fs/host/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/virtual-fs/host/interface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/virtual-fs/host/memory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/virtual-fs/host/pattern.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/virtual-fs/host/record.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/virtual-fs/host/resolver.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/virtual-fs/host/safe.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/virtual-fs/host/scoped.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/virtual-fs/host/sync.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/virtual-fs/host/test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/virtual-fs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/virtual-fs/path.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/workspace/core.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/workspace/definitions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/workspace/host.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/workspace/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/workspace/json/metadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/workspace/json/reader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/workspace/json/utilities.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/workspace/json/writer.js",
+      "obfuscated": false
+    }
+  ]
+}

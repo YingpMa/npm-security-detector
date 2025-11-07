@@ -1,0 +1,186 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@stigg+node-server-sdk/package",
+  "fileCount": 45,
+  "results": [
+    {
+      "file": "dist/api/apollo/OperationTimeoutError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/apollo/TimeoutLink.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/apollo/WebSocketLink.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/apollo/initApolloClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/apollo/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/entitlements/entitlementsApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/managementApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/sdkConfigurationApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clientInitialization.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/configuration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/EdgeApiClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/cache/RedisSingleExecutionService/RedisSingleExecution.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/cache/RedisSingleExecutionService/RedisSingleExecution.utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/cache/RedisSingleExecutionService/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/cache/cacheService.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/cache/cachedEntitlement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/cache/calculateUsagePeriod.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/cache/inMemoryCacheService.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/cache/redis/distributedLocks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/cache/redisCacheService.constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/cache/redisCacheService.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/cacheInstrumentation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/entitlementDecisionService.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/entitlementsService.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/entitlementsService.utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/eventEmitter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/identifiers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/inMemoryEntitlementsService.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/initializationStateTracker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/loggerService.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/osInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/redisEntitlementsService.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/CacheMapper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/ModelMapper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/apiErrorHandling.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/cacheKeysHelpers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/dateUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/decorators/ReuseOngoingExecution.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/featureTypes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/mapGetEntitlementsFallback.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/requestHeaders.js",
+      "obfuscated": false
+    }
+  ]
+}

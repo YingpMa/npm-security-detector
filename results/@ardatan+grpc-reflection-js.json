@@ -1,0 +1,34 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@ardatan+grpc-reflection-js/package",
+  "fileCount": 7,
+  "results": [
+    {
+      "file": "build/src/client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/descriptor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/reflection_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/reflection_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/test/client.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/test/descriptor.test.js",
+      "obfuscated": false
+    }
+  ]
+}

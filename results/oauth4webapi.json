@@ -1,0 +1,10 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/oauth4webapi/package",
+  "fileCount": 1,
+  "results": [
+    {
+      "file": "build/index.js",
+      "obfuscated": false
+    }
+  ]
+}

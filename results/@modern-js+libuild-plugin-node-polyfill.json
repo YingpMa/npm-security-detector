@@ -1,0 +1,102 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@modern-js+libuild-plugin-node-polyfill/package",
+  "fileCount": 24,
+  "results": [
+    {
+      "file": "dist/globals.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/mock/child_process.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/mock/cluster.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/mock/dgram.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/mock/dns.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/mock/fs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/mock/module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/mock/net.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/mock/readline.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/mock/repl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/mock/tls.js",
+      "obfuscated": false
+    },
+    {
+      "file": "modern.config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/globals.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/mock/child_process.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/mock/cluster.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/mock/dgram.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/mock/dns.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/mock/fs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/mock/module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/mock/net.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/mock/readline.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/mock/repl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/mock/tls.js",
+      "obfuscated": false
+    }
+  ]
+}

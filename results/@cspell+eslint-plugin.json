@@ -1,0 +1,18 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@cspell+eslint-plugin/package",
+  "fileCount": 3,
+  "results": [
+    {
+      "file": "dist/spellCheckAST/ASTNode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/spellCheckAST/ASTPath.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/spellCheckAST/types.js",
+      "obfuscated": false
+    }
+  ]
+}

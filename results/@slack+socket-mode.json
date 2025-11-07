@@ -1,0 +1,34 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@slack+socket-mode/package",
+  "fileCount": 7,
+  "results": [
+    {
+      "file": "dist/src/SlackWebSocket.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/SocketModeClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/SocketModeOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/UnrecoverableSocketModeStartError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/logger.js",
+      "obfuscated": false
+    }
+  ]
+}

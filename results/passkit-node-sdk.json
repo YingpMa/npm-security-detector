@@ -1,0 +1,534 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/passkit-node-sdk/package",
+  "fileCount": 132,
+  "results": [
+    {
+      "file": "ct/scheduler/scheduler_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ct/scheduler/scheduler_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/analytics/a_rpc_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/analytics/a_rpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/certificate/certificate_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/certificate/certificate_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/attributes_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/attributes_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/billing_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/billing_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/common_objects_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/common_objects_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/distribution_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/distribution_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/expiry_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/expiry_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/filter_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/filter_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/integration_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/integration_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/links_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/links_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/localization_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/localization_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/message_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/message_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/metrics_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/metrics_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/note_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/note_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/operation_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/operation_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/pagination_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/pagination_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/pass_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/pass_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/personal_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/personal_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/project_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/project_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/protocols_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/protocols_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/proximity_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/proximity_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/reporting_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/reporting_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/semantics_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/semantics_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/template_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/template_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/tracking_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/tracking_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/transaction_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/transaction_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/useragent_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/common/useragent_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/core/a_rpc_certificates_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/core/a_rpc_certificates_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/core/a_rpc_distribution_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/core/a_rpc_distribution_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/core/a_rpc_images_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/core/a_rpc_images_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/core/a_rpc_messages_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/core/a_rpc_messages_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/core/a_rpc_others_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/core/a_rpc_others_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/core/a_rpc_templates_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/core/a_rpc_templates_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/event_tickets/a_rpc_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/event_tickets/a_rpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/event_tickets/event_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/event_tickets/event_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/event_tickets/production_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/event_tickets/production_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/event_tickets/ticket_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/event_tickets/ticket_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/event_tickets/ticket_type_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/event_tickets/ticket_type_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/event_tickets/venue_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/event_tickets/venue_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/flights/a_rpc_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/flights/a_rpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/flights/airport_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/flights/airport_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/flights/barcode_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/flights/barcode_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/flights/boarding_pass_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/flights/boarding_pass_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/flights/cabin_codes/cabin_codes_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/flights/cabin_codes/cabin_codes_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/flights/carrier_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/flights/carrier_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/flights/flight_designator_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/flights/flight_designator_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/flights/flight_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/flights/flight_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/flights/passenger_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/flights/passenger_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/image/image_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/image/image_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/member/a_rpc_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/member/a_rpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/member/event_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/member/event_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/member/member_events_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/member/member_events_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/member/member_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/member/member_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/member/program_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/member/program_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/member/tier_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/member/tier_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/raw/a_rpc_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/raw/a_rpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/raw/pass_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/raw/pass_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/raw/project_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/raw/project_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/scheduler/a_rpc_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/scheduler/a_rpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/scheduler/scheduler_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/scheduler/scheduler_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/single_use_coupons/a_rpc_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/single_use_coupons/a_rpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/single_use_coupons/campaign_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/single_use_coupons/campaign_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/single_use_coupons/coupon_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/single_use_coupons/coupon_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/single_use_coupons/offer_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/single_use_coupons/offer_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/user/user_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "io/user/user_pb.js",
+      "obfuscated": false
+    }
+  ]
+}

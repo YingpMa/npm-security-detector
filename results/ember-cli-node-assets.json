@@ -1,0 +1,54 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/ember-cli-node-assets/package",
+  "fileCount": 12,
+  "results": [
+    {
+      "file": ".eslintrc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "config/environment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/.eslintrc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/legacy-stuff.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/normalize-package-config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/perform-imports.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/tree-for.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests-node/.eslintrc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests-node/normalize-package-config-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests-node/perform-imports-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests-node/tree-for-test.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,806 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@patternfly+react-icons/package",
+  "fileCount": 200,
+  "results": [
+    {
+      "file": "dist/esm/createIcon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/accessible-icon-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/accusoft-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/acquisitions-incorporated-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/ad-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/add-circle-o-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/address-book-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/address-card-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/adjust-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/adn-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/adversal-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/affiliatetheme-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/air-freshener-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/airbnb-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/algolia-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/align-center-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/align-justify-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/align-left-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/align-right-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/alipay-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/allergies-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/amazon-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/amazon-pay-icon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/esm/icons/ambulance-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/american-sign-language-interpreting-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/amilia-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/anchor-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/android-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/angellist-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/angle-double-down-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/angle-double-left-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/angle-double-right-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/angle-double-up-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/angle-down-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/angle-left-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/angle-right-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/angle-up-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/angry-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/angrycreative-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/angular-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/ankh-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/ansibe-tower-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/ansible-tower-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/app-store-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/app-store-ios-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/apper-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/apple-alt-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/apple-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/apple-pay-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/applications-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/archive-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/archway-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/arrow-alt-circle-down-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/arrow-alt-circle-left-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/arrow-alt-circle-right-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/arrow-alt-circle-up-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/arrow-circle-down-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/arrow-circle-left-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/arrow-circle-right-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/arrow-circle-up-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/arrow-down-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/arrow-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/arrow-left-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/arrow-right-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/arrow-up-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/arrows-alt-h-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/arrows-alt-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/arrows-alt-v-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/artstation-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/asleep-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/assistive-listening-systems-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/asterisk-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/asymmetrik-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/at-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/atlas-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/atlassian-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/atom-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/attention-bell-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/audible-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/audio-description-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/automation-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/autoprefixer-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/avianex-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/aviato-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/award-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/aws-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/azure-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/baby-carriage-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/baby-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/backspace-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/backward-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/bacon-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/bacteria-icon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/esm/icons/bacterium-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/bahai-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/balance-scale-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/balance-scale-left-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/balance-scale-right-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/ban-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/band-aid-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/bandcamp-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/barcode-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/bars-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/baseball-ball-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/basketball-ball-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/bath-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/battery-empty-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/battery-full-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/battery-half-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/battery-quarter-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/battery-three-quarters-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/battle-net-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/bed-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/beer-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/behance-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/behance-square-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/bell-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/bell-slash-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/bezier-curve-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/bible-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/bicycle-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/biking-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/bimobject-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/binoculars-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/biohazard-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/birthday-cake-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/bitbucket-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/bitcoin-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/bity-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/black-tie-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/blackberry-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/blender-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/blender-phone-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/blind-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/blog-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/blogger-b-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/blogger-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/blueprint-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/bluetooth-b-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/bluetooth-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/bold-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/bolt-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/bomb-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/bone-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/bong-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/book-dead-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/book-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/book-medical-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/book-open-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/book-reader-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/bookmark-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/bootstrap-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/border-all-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/border-none-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/border-style-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/bowling-ball-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/box-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/box-open-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/box-tissue-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/boxes-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/braille-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/brain-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/bread-slice-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/briefcase-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/briefcase-medical-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/broadcast-tower-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/broom-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/brush-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/btc-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/buffer-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/bug-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/build-icon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/esm/icons/builder-image-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/building-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/bullhorn-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/bullseye-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/bundle-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/burn-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/buromobelexperte-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/bus-alt-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/bus-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/business-time-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/buy-n-large-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/buysellads-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/calculator-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/calendar-alt-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/calendar-check-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/calendar-day-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/calendar-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/calendar-minus-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/calendar-plus-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/calendar-times-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/calendar-week-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/camera-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/camera-retro-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/campground-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/canadian-maple-leaf-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/candy-cane-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/cannabis-icon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/icons/capsules-icon.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@contrail+document-util/package",
+  "fileCount": 4,
+  "results": [
+    {
+      "file": "lib/document-style-util/document-style-util.service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/document-text-util/document-text-util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/document-text-util/widths-map.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    }
+  ]
+}

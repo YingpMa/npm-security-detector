@@ -1,0 +1,10 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/draw2d/package",
+  "fileCount": 1,
+  "results": [
+    {
+      "file": "dist/draw2d.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@app-masters+js-lib/package",
+  "fileCount": 45,
+  "results": [
+    {
+      "file": "dist/appBootstrap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/dateTime.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/dependencies/flexStorage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/dependencies/rollbar.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/http.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/httpErrorHandler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/jsError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/laravelErrorHandler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/notification.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/notificationCordova.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/notificationNative.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/notificationWeb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/objHandler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plural.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rollbar.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/storage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/text.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/version.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/appBootstrap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/dateTime.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/dependencies/flexStorage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/dependencies/rollbar.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/http.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/httpErrorHandler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/jsError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/laravelErrorHandler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/notification.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/notificationCordova.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/notificationNative.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/notificationWeb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/objHandler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/plural.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/rollbar.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/storage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/text.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/version.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/bootstrap.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/dateTime.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/http.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/localStorageMock.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/plural.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/testConfig.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@bitgo+utxo-ord/package",
+  "fileCount": 8,
+  "results": [
+    {
+      "file": "dist/src/OrdOutput.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/OutputLayout.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/SatPoint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/SatRange.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/combinations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/inscriptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/psbt.js",
+      "obfuscated": false
+    }
+  ]
+}

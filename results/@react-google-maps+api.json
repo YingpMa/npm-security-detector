@@ -1,0 +1,34 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@react-google-maps+api/package",
+  "fileCount": 7,
+  "results": [
+    {
+      "file": "dist/cjs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/umd.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/umd.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/setup-tests.js",
+      "obfuscated": false
+    }
+  ]
+}

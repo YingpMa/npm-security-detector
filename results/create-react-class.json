@@ -1,0 +1,22 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/create-react-class/package",
+  "fileCount": 4,
+  "results": [
+    {
+      "file": "create-react-class.js",
+      "obfuscated": false
+    },
+    {
+      "file": "create-react-class.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "factory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/autumn-js/package",
+  "fileCount": 79,
+  "results": [
+    {
+      "file": "dist/libraries/backend/better-auth.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/backend/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/backend/convex.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/backend/elysia.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/backend/express.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/backend/fastify.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/backend/hono.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/backend/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/backend/next.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/backend/react-router.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/backend/remix_dep.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/backend/routes/backendRouter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/backend/routes/basePath.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/backend/routes/entityRoutes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/backend/routes/genRoutes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/backend/routes/productRoutes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/backend/routes/referralRoutes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/backend/schemas/zod.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/backend/supabase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/backend/tanstack.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/backend/utils/AuthFunction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/backend/utils/backendRes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/backend/utils/logBackendErrors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/backend/utils/secretKeyCheck.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/backend/utils/withAuth.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/react/AutumnContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/react/BaseAutumnProvider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/react/ReactAutumnProvider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/react/client/ReactAutumnClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/react/client/clientCompMethods.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/react/client/clientCusMethods.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/react/client/clientEntityMethods.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/react/client/clientGenMethods.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/react/client/clientProdMethods.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/react/client/clientReferralMethods.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/react/errorUtils/logAuthError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/react/errorUtils/logFetchError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/react/hooks/useAnalytics.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/react/hooks/useCustomer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/react/hooks/useCustomerBase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/react/hooks/useEntity.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/react/hooks/useEntityBase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/react/hooks/usePaywall.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/react/hooks/usePricingTable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/react/hooks/usePricingTableBase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/react/hooks/useProductsBase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/react/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/react/lib/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/react/utils/compareParams.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/react/utils/errorUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/react/utils/inject-styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/libraries/react/utils/toSnakeCase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/next/AutumnProvider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/next/client/AutumnClientProvider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/next/client/NextAutumnClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/next/client/NextAutumnProvider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/next/client/clientUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/next/client/hooks/useAutumn.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/next/client/hooks/useCustomer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/next/client/hooks/useEntity.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/next/client/hooks/usePricingTable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/next/client/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/next/enums.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/next/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/next/server/auth/authPlugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/next/server/auth/clerk-wrapper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/next/server/auth/get-next-headers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/next/server/auth/handleAuthProvider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/next/server/auth/supabase-wrapper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/next/server/auth/withNextAuth.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/next/server/componentActions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/next/server/cusActions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/next/server/genActions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/next/server/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sdk/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/encryptUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/entityUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/toSnakeCase.js",
+      "obfuscated": false
+    }
+  ]
+}

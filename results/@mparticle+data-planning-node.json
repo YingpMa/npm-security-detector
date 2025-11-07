@@ -1,0 +1,18 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@mparticle+data-planning-node/package",
+  "fileCount": 3,
+  "results": [
+    {
+      "file": "dist/mparticle-data-planning.common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/mparticle-data-planning.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/mparticle-data-planning.iife.js",
+      "obfuscated": false
+    }
+  ]
+}

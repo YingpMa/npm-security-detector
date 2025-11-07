@@ -1,0 +1,62 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/n8n-nodes-thong-zalo-test-trial/package",
+  "fileCount": 14,
+  "results": [
+    {
+      "file": "dist/credentials/N8nZaloApi.credentials.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/credentials/WitAiApi.credentials.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/credentials/ZaloApi.credentials.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/nodes/ZaloFriendTrigger/ZaloFriendTrigger.node.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/nodes/ZaloGroup/ZaloGroup.node.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/nodes/ZaloGroup/ZaloGroupDescription.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/nodes/ZaloLoginByQr/ZaloLoginByQr.node.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/nodes/ZaloMessageTrigger/ZaloMessageTrigger.node.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/nodes/ZaloSendMessage/ZaloSendMessage.node.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/nodes/ZaloSendMessage/ZaloSendMessageDescription.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/nodes/ZaloUser/ZaloUser.node.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/nodes/ZaloUser/ZaloUserDescription.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/nodes/utils/helper.js",
+      "obfuscated": true
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    }
+  ]
+}

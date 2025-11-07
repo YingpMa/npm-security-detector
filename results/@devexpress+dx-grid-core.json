@@ -1,0 +1,10 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@devexpress+dx-grid-core/package",
+  "fileCount": 1,
+  "results": [
+    {
+      "file": "dist/dx-grid-core.es.js",
+      "obfuscated": false
+    }
+  ]
+}

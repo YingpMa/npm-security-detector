@@ -1,0 +1,34 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@solana+web3.js/package",
+  "fileCount": 7,
+  "results": [
+    {
+      "file": "lib/index.browser.cjs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.browser.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.cjs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.iife.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.iife.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "lib/index.native.js",
+      "obfuscated": false
+    }
+  ]
+}

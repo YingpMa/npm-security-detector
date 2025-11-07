@@ -1,0 +1,18 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@onflow+typedefs/package",
+  "fileCount": 3,
+  "results": [
+    {
+      "file": "dist/typedefs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/typedefs.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/typedefs.umd.js",
+      "obfuscated": false
+    }
+  ]
+}

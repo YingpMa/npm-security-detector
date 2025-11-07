@@ -1,0 +1,134 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@backstage+plugin-api-docs/package",
+  "fileCount": 32,
+  "results": [
+    {
+      "file": "dist/alpha.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/ApiDefinitionCard/ApiDefinitionCard.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/ApiDefinitionCard/ApiDefinitionWidget.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/ApiDefinitionCard/ApiTypeTitle.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/ApiDefinitionCard/index.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/ApiDefinitionDialog/ApiDefinitionDialog.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/ApiExplorerPage/ApiExplorerPage.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/ApiExplorerPage/DefaultApiExplorerPage.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/ApiExplorerPage/index.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/ApisCards/ConsumedApisCard.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/ApisCards/HasApisCard.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/ApisCards/ProvidedApisCard.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/ApisCards/index.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/ApisCards/presets.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/AsyncApiDefinitionWidget/AsyncApiDefinition.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/AsyncApiDefinitionWidget/AsyncApiDefinitionWidget.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/ComponentsCards/ConsumingComponentsCard.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/ComponentsCards/ProvidingComponentsCard.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/ComponentsCards/index.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/GraphQlDefinitionWidget/GraphQlDefinition.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/GraphQlDefinitionWidget/GraphQlDefinitionWidget.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/GrpcApiDefinitionWidget/GrpcApiDefinitionWidget.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/OpenApiDefinitionWidget/OpenApiDefinition.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/OpenApiDefinitionWidget/OpenApiDefinitionWidget.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/PlainApiDefinitionWidget/PlainApiDefinitionWidget.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/TrpcDefinitionWidget/TrpcApiDefinitionWidget.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/config.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/package.json.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugin.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/routes.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/translation.esm.js",
+      "obfuscated": false
+    }
+  ]
+}

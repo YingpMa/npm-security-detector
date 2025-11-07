@@ -1,0 +1,34 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/retimer/package",
+  "fileCount": 7,
+  "results": [
+    {
+      "file": "bench.js",
+      "obfuscated": false
+    },
+    {
+      "file": "retimer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "time-browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "time.js",
+      "obfuscated": false
+    },
+    {
+      "file": "timers-browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "timers.js",
+      "obfuscated": false
+    }
+  ]
+}

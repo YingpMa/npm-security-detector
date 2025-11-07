@@ -1,0 +1,22 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@clipboard-health+eslint-plugin/package",
+  "fileCount": 4,
+  "results": [
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/createRule.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/rules/enforce-ts-rest-in-controllers/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/rules/require-http-module-factory/index.js",
+      "obfuscated": false
+    }
+  ]
+}

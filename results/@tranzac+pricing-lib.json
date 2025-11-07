@@ -1,0 +1,34 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@tranzac+pricing-lib/package",
+  "fileCount": 7,
+  "results": [
+    {
+      "file": "dist/__tests__/pricingRules.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/additionalCosts.schema.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/costEstimate.schema.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/pricing.schema.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/pricingRules.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@contentkit+util/package",
+  "fileCount": 40,
+  "results": [
+    {
+      "file": "config/rollup.config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/fixtures/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/transactions/addNewBlockAt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/transactions/adjustBlockDepth.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/transactions/createEntity.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/transactions/createLinkAtSelection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/transactions/discardInlineStyles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/transactions/getContiguousBlocks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/transactions/hasInlineStyle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/transactions/indentBackward.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/transactions/indentForward.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/transactions/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/transactions/insertAtomic.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/transactions/insertBlocksIntoBlockMap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/transactions/insertNewLine.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/transactions/insertText.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/transactions/removeBlock.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/transactions/removeInlineStyle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/transactions/removeLinkAtSelection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/transactions/resetBlockWithType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/transactions/setBlockProperties.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/transactions/setEditorStateBlockMap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/transactions/setNewBlock.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/transactions/setSelection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/transactions/setSelectionToBlock.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/transactions/updateDataOfBlock.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/blockInSelection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/focusableBlockIsSelected.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/getBlockMapKeys.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/getContinuousBlocks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/getCurrentBlock.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/getCurrentEntity.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/getCurrentEntityKey.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/getSelectedBlockMapKeys.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/getStartBlock.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/getSyntax.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/hasEntity.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/transform.js",
+      "obfuscated": false
+    }
+  ]
+}

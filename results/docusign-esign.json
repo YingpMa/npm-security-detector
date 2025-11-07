@@ -1,0 +1,806 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/docusign-esign/package",
+  "fileCount": 200,
+  "results": [
+    {
+      "file": "src/ApiClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Configuration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/OAuth.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/RestApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/AccountsApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/AuthenticationApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/BillingApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/BulkEnvelopesApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/BulkProcessDataApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/BulkProcessDataSendApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/CloudStorageApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/ConnectApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/CustomTabsApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/DataFeedApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/DiagnosticsApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/EmailArchiveApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/EnvelopeApplianceApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/EnvelopesApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/FoldersApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/GroupsApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/NotaryApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/OrganizationsApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/PowerFormsApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/SignatureApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/SigningGroupsApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/TemplatesApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/TrustServiceProvidersApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/UsersApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/WorkspacesApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/auth/OAuthClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/auth/errors/docusignapierror.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/auth/errors/docusignauthorizationerror.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/auth/errors/docusigntokenerror.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/auth/profile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/auth/strategy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/AccessCodeFormat.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/AccountAddress.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/AccountBillingPlan.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/AccountBillingPlanResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/AccountIdentityInputOption.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/AccountIdentityVerificationResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/AccountIdentityVerificationStep.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/AccountIdentityVerificationWorkflow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/AccountInformation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/AccountMinimumPasswordLength.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/AccountNotification.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/AccountPasswordExpirePasswordDays.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/AccountPasswordLockoutDurationMinutes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/AccountPasswordLockoutDurationType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/AccountPasswordMinimumPasswordAgeDays.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/AccountPasswordQuestionsRequired.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/AccountPasswordRules.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/AccountPasswordStrengthType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/AccountPasswordStrengthTypeOption.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/AccountRoleSettings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/AccountSeals.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/AccountSettingsInformation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/AccountSharedAccess.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/AccountSignature.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/AccountSignatureDefinition.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/AccountSignatureProvider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/AccountSignatureProviderOption.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/AccountSignatureProviders.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/AccountSignaturesInformation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/AccountUISettings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/AddOn.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/AddressInformation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/AddressInformationInput.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/AddressInformationV2.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/AdminMessage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/Agent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/ApiRequestLog.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/ApiRequestLogsResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/AppStoreProduct.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/AppStoreReceipt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/Approve.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/AskAnAdmin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/Attachment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/AuthenticationMethod.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/AuthenticationStatus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/AuthorizationUser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BccEmailAddress.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BccEmailArchive.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BccEmailArchiveHistory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BccEmailArchiveHistoryList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BccEmailArchiveList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BillingCharge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BillingChargeResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BillingDiscount.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BillingEntityInformationResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BillingInvoice.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BillingInvoiceItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BillingInvoicesResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BillingInvoicesSummary.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BillingPayment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BillingPaymentItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BillingPaymentRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BillingPaymentResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BillingPaymentsResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BillingPlan.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BillingPlanInformation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BillingPlanPreview.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BillingPlanResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BillingPlanUpdateResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BillingPlansResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BillingPrice.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/Brand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BrandEmailContent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BrandLink.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BrandLogos.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BrandRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BrandResourceUrls.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BrandResources.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BrandResourcesList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BrandsRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BrandsResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BulkEnvelope.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BulkEnvelopeStatus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BulkEnvelopesResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BulkProcessRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BulkProcessResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BulkProcessResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BulkProcessingListSummaries.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BulkProcessingListSummary.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BulkProcessingLists.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BulkRecipient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BulkRecipientSignatureProvider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BulkRecipientTabLabel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BulkRecipientsRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BulkRecipientsResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BulkRecipientsSummaryResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BulkRecipientsUpdateResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BulkSendBatchActionRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BulkSendBatchError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BulkSendBatchRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BulkSendBatchStatus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BulkSendBatchSummaries.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BulkSendBatchSummary.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BulkSendEnvelopesInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BulkSendErrorStatus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BulkSendRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BulkSendResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BulkSendTestResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BulkSendingCopy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BulkSendingCopyCustomField.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BulkSendingCopyDocGenFormFieldRowValue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BulkSendingCopyRecipient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BulkSendingCopyTab.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BulkSendingList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BulkSendingListSummaries.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BulkSendingListSummary.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/BulksendingCopyDocGenFormField.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/CaptiveRecipient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/CaptiveRecipientInformation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/CarbonCopy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/CertifiedDelivery.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/Checkbox.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/ChunkedUploadPart.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/ChunkedUploadRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/ChunkedUploadResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/CloudStorageProvider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/CloudStorageProviders.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/Comment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/CommentHistoryResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/CommentPublish.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/CommentThread.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/CommentsPublish.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/CommissionCounty.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/CommissionExpiration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/CommissionNumber.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/CommissionState.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/Company.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/CompleteSignHashResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/CompleteSignRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/CompositeTemplate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/ConciergeQueryRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/ConciergeQueryResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/ConditionalRecipientRule.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/ConditionalRecipientRuleCondition.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/ConditionalRecipientRuleFilter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/ConnectConfigResults.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/ConnectCustomConfiguration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/ConnectDebugLog.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/ConnectDeleteFailureResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/ConnectEventData.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/ConnectFailureFilter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/ConnectFailureResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/ConnectFailureResults.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/ConnectHistoricalEnvelopeRepublish.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/ConnectLog.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/ConnectLogs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/ConnectOAuthConfig.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/ConnectSalesforceField.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/ConnectSalesforceObject.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/ConnectUserInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/ConnectUserObject.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/ConnectedData.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/ConnectedObjectDetails.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/model/ConnectionInstance.js",
+      "obfuscated": false
+    }
+  ]
+}

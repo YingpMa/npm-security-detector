@@ -1,0 +1,22 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/load-bmfont/package",
+  "fileCount": 4,
+  "results": [
+    {
+      "file": "browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/is-binary.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test-server.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/api/package",
+  "fileCount": 18,
+  "results": [
+    {
+      "file": "bin/api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/bin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/codegen/codegenerator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/codegen/factory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/codegen/languages/typescript/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/codegen/languages/typescript/util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/commands/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/commands/install.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/commands/list.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/commands/uninstall.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/fetcher.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/isCI.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/prompt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/suggestedOperations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lockfileSchema.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/packageInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/storage.js",
+      "obfuscated": false
+    }
+  ]
+}

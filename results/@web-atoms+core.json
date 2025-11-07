@@ -1,0 +1,578 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@web-atoms+core/package",
+  "fileCount": 143,
+  "results": [
+    {
+      "file": "dist/App.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Atom.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/MockApp.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Pack.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/AtomBinder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/AtomComponent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/AtomDispatcher.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/AtomDisposableList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/AtomEnumerator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/AtomList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/AtomLoader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/AtomMap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/AtomOnce.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/AtomSelectableList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/AtomUri.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/AtomWatcher.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/Bind.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/BindableProperty.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/CancelTokenFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/Color.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/Colors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/Command.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/Defer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/EventScope.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/ExpressionParser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/ExtendControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/FormattedError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/FormattedString.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/Hacks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/IFetchEvent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/IScreen.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/IValueConverter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/InheritedProperty.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/InjectProperty.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/KeyValuePairs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/Markdown.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/MarkdownError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/PropertyBinding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/PropertyMap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/Route.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/SingleInvoker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/StringHelper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/TransientDisposable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/WatchProperty.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/WebImage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/XNode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/sleep.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/core/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/di/DISingleton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/di/DITransient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/di/IMockOrInject.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/di/IServiceProvider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/di/Inject.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/di/Register.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/di/RegisterScoped.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/di/RegisterSingleton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/di/ServiceCollection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/di/ServiceProvider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/di/TypeKey.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/BusyIndicatorService.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/CacheService.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/FetchBuilder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/JsonService.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/MockNavigationService.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/NavigationService.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/ReferenceService.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/http/AjaxOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/http/JsonError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/http/RestService.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/style/StyleRule.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/style/styled.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/unit/AtomTest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/unit/AtomWebTest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/view-model/Action.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/view-model/AtomViewModel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/view-model/AtomWindowViewModel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/view-model/BindableUrlParameter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/view-model/Delay.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/view-model/Disposable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/view-model/Load.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/view-model/Once.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/view-model/baseTypes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/view-model/bindPromise.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/view-model/bindProperty.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/view-model/bindUrlParameter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/WebApp.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/controls/AtomAlertWindow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/controls/AtomComboBox.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/controls/AtomContentControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/controls/AtomControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/controls/AtomFrame.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/controls/AtomGridSplitter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/controls/AtomGridView.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/controls/AtomItemsControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/controls/AtomListBox.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/controls/AtomNotification.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/controls/AtomPage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/controls/AtomPageLink.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/controls/AtomTabbedPage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/controls/AtomTemplate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/controls/AtomTemplateControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/controls/AtomToggleButtonBar.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/controls/AtomViewPager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/controls/AtomViewStack.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/controls/AtomWindow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/core/AtomUI.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/core/Encoder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/core/HtmlNode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/images/Busy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/images/BusyDataUrl.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/web/images/Button.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/images/ButtonDataUrl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/images/CloseButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/images/CloseButtonDataUrl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/images/CloseButtonHover.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/images/CloseButtonHoverDataUrl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/samples/MovieService.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/samples/demo/app.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/samples/tabs/app.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/samples/window/WindowSample.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/services/MarkdownService.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/services/NotificationPopup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/services/PopupService.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/services/PopupWindow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/services/WebBusyIndicatorService.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/services/WindowService.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/styles/AtomAlertWindowStyle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/styles/AtomFrameStyle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/styles/AtomListBoxStyle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/styles/AtomNotificationStyle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/styles/AtomPageLinkStyle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/styles/AtomPopupStyle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/styles/AtomStyle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/styles/AtomStyleSheet.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/styles/AtomTabbedPageStyle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/styles/AtomTheme.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/styles/AtomToggleButtonBarStyle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/styles/AtomWindowStyle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/styles/CSS.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/styles/IStyleDeclaration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web/styles/StyleBuilder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    }
+  ]
+}

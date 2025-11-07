@@ -1,0 +1,470 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@foliojs-fork+fontkit/package",
+  "fileCount": 116,
+  "results": [
+    {
+      "file": "base.es5.js",
+      "obfuscated": false
+    },
+    {
+      "file": "base.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.es5.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/CmapProcessor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/DFont.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/TTFFont.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/TrueTypeCollection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/WOFF2Font.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/WOFFFont.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/aat/AATFeatureMap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/aat/AATLayoutEngine.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/aat/AATLookupTable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/aat/AATMorxProcessor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/aat/AATStateMachine.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/base.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/cff/CFFCharsets.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/cff/CFFDict.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/cff/CFFEncodings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/cff/CFFFont.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/cff/CFFIndex.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/cff/CFFOperand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/cff/CFFPointer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/cff/CFFPrivateDict.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/cff/CFFStandardStrings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/cff/CFFTop.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/decorators.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/encodings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/glyph/BBox.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/glyph/CFFGlyph.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/glyph/COLRGlyph.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/glyph/Glyph.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/glyph/GlyphVariationProcessor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/glyph/Path.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/glyph/SBIXGlyph.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/glyph/StandardNames.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/glyph/TTFGlyph.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/glyph/TTFGlyphEncoder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/glyph/WOFF2Glyph.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/layout/GlyphPosition.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/layout/GlyphRun.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/layout/KernProcessor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/layout/LayoutEngine.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/layout/Script.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/layout/UnicodeLayoutEngine.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/opentype/GPOSProcessor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/opentype/GSUBProcessor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/opentype/GlyphInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/opentype/GlyphIterator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/opentype/OTLayoutEngine.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/opentype/OTProcessor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/opentype/ShapingPlan.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/opentype/shapers/ArabicShaper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/opentype/shapers/DefaultShaper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/opentype/shapers/HangulShaper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/opentype/shapers/IndicShaper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/opentype/shapers/UniversalShaper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/opentype/shapers/gen-indic.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/opentype/shapers/gen-use.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/opentype/shapers/generate-data.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/opentype/shapers/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/opentype/shapers/indic-data.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/subset/CFFSubset.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/subset/Subset.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/subset/TTFSubset.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/BASE.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/COLR.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/CPAL.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/DSIG.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/EBDT.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/EBLC.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/GDEF.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/GPOS.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/GSUB.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/HVAR.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/JSTF.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/LTSH.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/OS2.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/PCLT.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/VDMX.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/VORG.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/WOFF2Directory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/WOFFDirectory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/aat.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/avar.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/bsln.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/cmap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/cvt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/directory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/feat.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/fpgm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/fvar.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/gasp.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/glyf.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/gvar.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/hdmx.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/head.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/hhea.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/hmtx.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/just.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/kern.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/loca.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/maxp.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/morx.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/name.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/opbd.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/opentype.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/post.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/prep.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/sbix.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/variations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/vhea.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tables/vmtx.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils.js",
+      "obfuscated": false
+    }
+  ]
+}

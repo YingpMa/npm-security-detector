@@ -1,0 +1,30 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/node-clipboardy/package",
+  "fileCount": 6,
+  "results": [
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/linux.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/macos.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/termux.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/windows.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test.js",
+      "obfuscated": false
+    }
+  ]
+}

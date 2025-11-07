@@ -1,0 +1,202 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/async-hook-jl/package",
+  "fileCount": 49,
+  "results": [
+    {
+      "file": "async-hook.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "patches/next-tick.js",
+      "obfuscated": false
+    },
+    {
+      "file": "patches/promise.js",
+      "obfuscated": false
+    },
+    {
+      "file": "patches/timers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/runner.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-conflict-match.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-conflict-mismatch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-fsaccess-disabled.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-fsaccess-enabled.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-hooks-remove.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-hooks-twice.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-immediate-clear-in-callback.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-immediate-clear.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-immediate-didthrow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-immediate-disabled.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-immediate-enabled.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-immediate-exception.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-immediate-non-function.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-interval-clear-in-callback.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-interval-clear.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-interval-didthrow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-interval-disabled.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-interval-enabled.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-interval-exception.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-interval-non-function.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-nexttick-didthrow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-nexttick-disabled.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-nexttick-enabled.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-nexttick-exception.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-nexttick-non-function.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-parent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-promise-catch-enabled.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-promise-catch-then-chain-fulfilled-enabled.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-promise-disabled.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-promise-then-catch-chain-rejected-enabled.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-promise-then-fulfilled-chained-enabled.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-promise-then-fulfilled-enabled.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-promise-then-fulfilled-multiple-enabled.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-promise-then-rejected-enabled.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-promise-timing.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-stackfilter-eval.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-timeout-clear-in-callback.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-timeout-clear.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-timeout-didthrow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-timeout-disabled.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-timeout-enabled.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-timeout-exception.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-timeout-non-function.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@opensumi+ide-core-node/package",
+  "fileCount": 16,
+  "results": [
+    {
+      "file": "lib/ai-native/base-back.service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ai-native/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/bootstrap/app.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/bootstrap/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/bootstrap/inner-providers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/bootstrap/shell-path.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common-module/common.server.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common-module/credential.server.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common-module/crypto.server.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common-module/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/connection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hash-calculate/hash-calculate.contribution.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logger/node-logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/node-module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types.js",
+      "obfuscated": false
+    }
+  ]
+}

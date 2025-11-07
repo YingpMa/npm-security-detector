@@ -1,0 +1,34 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/react-linkify/package",
+  "fileCount": 7,
+  "results": [
+    {
+      "file": "dist/components/Linkify.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/__tests__/Linkify-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/decorators/defaultComponentDecorator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/decorators/defaultHrefDecorator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/decorators/defaultMatchDecorator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/decorators/defaultTextDecorator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    }
+  ]
+}

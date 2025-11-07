@@ -1,0 +1,42 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/react-native-autolink/package",
+  "fileCount": 9,
+  "results": [
+    {
+      "file": "dist/Autolink.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/CustomMatch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/matchers/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/matchers/location.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/matchers/phone.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/truncate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/urls.js",
+      "obfuscated": false
+    }
+  ]
+}

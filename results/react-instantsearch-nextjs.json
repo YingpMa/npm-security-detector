@@ -1,0 +1,86 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/react-instantsearch-nextjs/package",
+  "fileCount": 20,
+  "results": [
+    {
+      "file": "dist/cjs/InitializePromise.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/InstantSearchNext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/TriggerSearch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/createInsertHTML.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/htmlEscape.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/useDynamicRouteWarning.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/useInstantSearchRouting.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/useNextHeaders.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/warn.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/InitializePromise.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/InstantSearchNext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/TriggerSearch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/createInsertHTML.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/htmlEscape.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/useDynamicRouteWarning.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/useInstantSearchRouting.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/useNextHeaders.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/warn.js",
+      "obfuscated": false
+    }
+  ]
+}

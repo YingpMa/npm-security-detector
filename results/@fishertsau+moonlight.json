@@ -1,0 +1,158 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@fishertsau+moonlight/package",
+  "fileCount": 38,
+  "results": [
+    {
+      "file": "dist/dlq/dlqMsg.model.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/dlq/dlqRetryLog.model.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/dlq/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/eBusiness/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/eBusiness/order.model.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/eBusiness/orderInvoice.model.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/eBusiness/orderItems.model.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/eBusiness/orderPayment.model.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/eBusiness/orderReceiver.model.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/eBusiness/serviceSite.model.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/eBusiness/services.model.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errorHandling/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/eventHub/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/eventHub/producer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/eventHub/streamEvent.model.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/jobQueue/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/jobQueue/queueJob.model.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/array.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/bufferHandler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/checker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/lib.utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/model.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/time.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/use.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/validator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/validatorV2.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/xState.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/modelTypes/appTypes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/modelTypes/basicTypes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/modelTypes/canDo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/modelTypes/datetimeTypes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/modelTypes/websiteTypes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/address.model.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/monad/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/testUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/userFactory.js",
+      "obfuscated": false
+    }
+  ]
+}

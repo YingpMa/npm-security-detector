@@ -1,0 +1,30 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@oozcitak+util/package",
+  "fileCount": 6,
+  "results": [
+    {
+      "file": "lib/CompareCache.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/FixedSizeSet.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Lazy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ObjectCache.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/StringWalker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    }
+  ]
+}

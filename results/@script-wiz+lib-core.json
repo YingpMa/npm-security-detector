@@ -1,0 +1,94 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@script-wiz+lib-core/package",
+  "fileCount": 22,
+  "results": [
+    {
+      "file": "addresses.js",
+      "obfuscated": false
+    },
+    {
+      "file": "arithmetics.js",
+      "obfuscated": false
+    },
+    {
+      "file": "arithmetics64.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bech32/bech32.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bech32/segwit_addr.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bitwise.js",
+      "obfuscated": false
+    },
+    {
+      "file": "convertion.js",
+      "obfuscated": false
+    },
+    {
+      "file": "crypto.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "introspection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locktime.js",
+      "obfuscated": false
+    },
+    {
+      "file": "model/TAPROOT_VERSION.js",
+      "obfuscated": false
+    },
+    {
+      "file": "model/TxData.js",
+      "obfuscated": false
+    },
+    {
+      "file": "model/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "serialization.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sha256d/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "splices.js",
+      "obfuscated": false
+    },
+    {
+      "file": "stacks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "taproot/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "taproot/model.js",
+      "obfuscated": false
+    },
+    {
+      "file": "taproot/taproot.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "utils/index.js",
+      "obfuscated": false
+    }
+  ]
+}

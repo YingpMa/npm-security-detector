@@ -1,0 +1,338 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@nexys+koa-lib/package",
+  "fileCount": 83,
+  "results": [
+    {
+      "file": "dist/app.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cache/cache.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cache/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cache/local.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/graph-ql/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/graph-ql/schema-factory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/graph-ql/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/graph-ql/utils-mapping.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/graph-ql/utils-string.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/graph-ql/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/jwt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/middleware/auth/app.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/middleware/auth/basic.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/middleware/auth/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/middleware/auth/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/middleware/auth/user-access.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/middleware/auth/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/middleware/cookies.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/middleware/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/middleware/response.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/query/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/query/service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/query/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/routes/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/routes/product/cms.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/routes/product/email.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/routes/product/i18n.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/routes/product/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/routes/product/meta.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/routes/product/notification.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/routes/product/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/routes/user-management/admin/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/routes/user-management/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/routes/user-management/login/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/routes/user-management/login/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/routes/user-management/login/validation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/routes/user-management/profile/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/routes/user-management/superadmin/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/routes/user-management/superadmin/instance.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/routes/user-management/superadmin/main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/api/chain.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/api/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/api/request/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/api/snippet.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/cms/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/email/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/email/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/email/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/file/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/file/repo-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/file/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/file/utils/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/i18n/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/notification/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/notification/mock.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/notification/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/notification/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/product/context.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/product/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/product/service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/product/subscription.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/workflow/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/workflow/service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/workflow/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/user-management/action-payload.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/user-management/crud-type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/user-management/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/user-management/instance.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/user-management/locale.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/user-management/login.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/user-management/mock.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/user-management/password/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/user-management/password/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/user-management/permission.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/user-management/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/user-management/user/authentication.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/user-management/user/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/user-management/user/status.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/user-management/user/token.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/user-management/utils.js",
+      "obfuscated": false
+    }
+  ]
+}

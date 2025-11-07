@@ -1,0 +1,62 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/eslint-plugin-cypress/package",
+  "fileCount": 14,
+  "results": [
+    {
+      "file": "lib/config/recommended.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/flat.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/assertion-before-screenshot.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-assigning-return-values.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-async-before.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-async-tests.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-chained-get.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-debug.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-force.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-pause.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-unnecessary-waiting.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-xpath.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/require-data-selectors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/unsafe-to-chain-command.js",
+      "obfuscated": false
+    }
+  ]
+}

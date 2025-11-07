@@ -1,0 +1,118 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@flmngr+flmngr-server-node/package",
+  "fileCount": 28,
+  "results": [
+    {
+      "file": "dist/cjs/FlmngrConfig.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/FlmngrServer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/fs/CachedFile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/fs/DriverLocal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/fs/FileSystem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/lib/FlmngrRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/lib/MessageException.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/lib/Utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/lib/locutus/strnatcmp.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/lib/wildcard-match/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/lib/wildcard-match/transform.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/model/FMDir.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/model/Message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/mjs/FlmngrConfig.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/mjs/FlmngrServer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/mjs/fs/CachedFile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/mjs/fs/DriverLocal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/mjs/fs/FileSystem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/mjs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/mjs/lib/FlmngrRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/mjs/lib/MessageException.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/mjs/lib/Utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/mjs/lib/locutus/strnatcmp.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/mjs/lib/wildcard-match/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/mjs/lib/wildcard-match/transform.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/mjs/model/FMDir.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/mjs/model/Message.js",
+      "obfuscated": false
+    }
+  ]
+}

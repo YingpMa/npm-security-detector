@@ -1,0 +1,10 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@assecosolutions+fox-common-models/package",
+  "fileCount": 1,
+  "results": [
+    {
+      "file": "index.esm.js",
+      "obfuscated": false
+    }
+  ]
+}

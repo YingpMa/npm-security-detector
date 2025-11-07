@@ -1,0 +1,38 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@ejada+ejada-eversa-util/package",
+  "fileCount": 8,
+  "results": [
+    {
+      "file": "dist/api/callAPI.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/callAPI2.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/formValidations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/general.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sharedActions/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sharedActions/setToast.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/types.js",
+      "obfuscated": false
+    }
+  ]
+}

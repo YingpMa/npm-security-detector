@@ -1,0 +1,42 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/eslint-plugin-storybook/package",
+  "fileCount": 9,
+  "results": [
+    {
+      "file": "dist/configs/addon-interactions.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/configs/csf-strict.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/configs/csf.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/configs/flat/addon-interactions.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/configs/flat/csf-strict.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/configs/flat/csf.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/configs/flat/recommended.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/configs/recommended.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": true
+    }
+  ]
+}

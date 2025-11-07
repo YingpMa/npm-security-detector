@@ -1,0 +1,174 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@arizeai+openinference-core/package",
+  "fileCount": 42,
+  "results": [
+    {
+      "file": "dist/esm/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/trace/contextAttributes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/trace/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/trace/trace-config/OISpan.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/trace/trace-config/OITracer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/trace/trace-config/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/trace/trace-config/index.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/esm/trace/trace-config/maskingRules.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/trace/trace-config/traceConfig.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/trace/trace-config/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/trace/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/utils/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/utils/typeUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/utils/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esnext/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esnext/trace/contextAttributes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esnext/trace/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esnext/trace/trace-config/OISpan.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esnext/trace/trace-config/OITracer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esnext/trace/trace-config/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esnext/trace/trace-config/index.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/esnext/trace/trace-config/maskingRules.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esnext/trace/trace-config/traceConfig.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esnext/trace/trace-config/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esnext/trace/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esnext/utils/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esnext/utils/typeUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esnext/utils/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/trace/contextAttributes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/trace/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/trace/trace-config/OISpan.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/trace/trace-config/OITracer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/trace/trace-config/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/trace/trace-config/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/trace/trace-config/maskingRules.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/trace/trace-config/traceConfig.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/trace/trace-config/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/trace/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/utils/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/utils/typeUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/utils/types.js",
+      "obfuscated": false
+    }
+  ]
+}

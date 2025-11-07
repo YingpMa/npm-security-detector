@@ -1,0 +1,214 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/date-fns-tz/package",
+  "fileCount": 52,
+  "results": [
+    {
+      "file": "dist/cjs/_lib/getTimezoneOffsetInMilliseconds/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/_lib/newDateUTC/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/_lib/tzIntlTimeZoneName/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/_lib/tzParseTimezone/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/_lib/tzPattern/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/_lib/tzTokenizeDate/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/format/formatters/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/format/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/formatInTimeZone/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/fp/format/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/fp/formatInTimeZone/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/fp/formatInTimeZoneWithOptions/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/fp/formatWithOptions/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/fp/fromZonedTime/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/fp/fromZonedTimeWithOptions/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/fp/getTimezoneOffset/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/fp/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/fp/toDate/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/fp/toDateWithOptions/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/fp/toZonedTime/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/fp/toZonedTimeWithOptions/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/fromZonedTime/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/getTimezoneOffset/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/toDate/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/toZonedTime/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/_lib/getTimezoneOffsetInMilliseconds/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/_lib/newDateUTC/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/_lib/tzIntlTimeZoneName/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/_lib/tzParseTimezone/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/_lib/tzPattern/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/_lib/tzTokenizeDate/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/format/formatters/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/format/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/formatInTimeZone/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/fp/format/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/fp/formatInTimeZone/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/fp/formatInTimeZoneWithOptions/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/fp/formatWithOptions/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/fp/fromZonedTime/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/fp/fromZonedTimeWithOptions/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/fp/getTimezoneOffset/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/fp/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/fp/toDate/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/fp/toDateWithOptions/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/fp/toZonedTime/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/fp/toZonedTimeWithOptions/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/fromZonedTime/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/getTimezoneOffset/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/toDate/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/toZonedTime/index.js",
+      "obfuscated": false
+    }
+  ]
+}

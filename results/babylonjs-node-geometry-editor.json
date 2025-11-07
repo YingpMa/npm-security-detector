@@ -1,0 +1,18 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/babylonjs-node-geometry-editor/package",
+  "fileCount": 3,
+  "results": [
+    {
+      "file": "babylon.nodeGeometryEditor.js",
+      "obfuscated": true
+    },
+    {
+      "file": "babylon.nodeGeometryEditor.max.js",
+      "obfuscated": true
+    },
+    {
+      "file": "webpack.config.js",
+      "obfuscated": false
+    }
+  ]
+}

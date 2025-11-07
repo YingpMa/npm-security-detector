@@ -1,0 +1,66 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/react-native-redash/package",
+  "fileCount": 15,
+  "results": [
+    {
+      "file": "lib/module/Animations.js",
+      "obfuscated": true
+    },
+    {
+      "file": "lib/module/Array.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/Colors.js",
+      "obfuscated": true
+    },
+    {
+      "file": "lib/module/Coordinates.js",
+      "obfuscated": true
+    },
+    {
+      "file": "lib/module/Math.js",
+      "obfuscated": true
+    },
+    {
+      "file": "lib/module/Matrix3.js",
+      "obfuscated": true
+    },
+    {
+      "file": "lib/module/Matrix4.js",
+      "obfuscated": true
+    },
+    {
+      "file": "lib/module/Paths.js",
+      "obfuscated": true
+    },
+    {
+      "file": "lib/module/Physics.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/ReText.js",
+      "obfuscated": true
+    },
+    {
+      "file": "lib/module/Transforms.js",
+      "obfuscated": true
+    },
+    {
+      "file": "lib/module/Transitions.js",
+      "obfuscated": true
+    },
+    {
+      "file": "lib/module/Vectors.js",
+      "obfuscated": true
+    },
+    {
+      "file": "lib/module/index.d.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/index.js",
+      "obfuscated": false
+    }
+  ]
+}

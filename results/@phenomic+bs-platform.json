@@ -1,0 +1,806 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@phenomic+bs-platform/package",
+  "fileCount": 200,
+  "results": [
+    {
+      "file": "lib/es6/arg.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/array.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/arrayLabels.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_Array.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_Debug.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_Float.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_HashMap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_HashMapInt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_HashMapString.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_HashSet.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_HashSetInt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_HashSetString.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_Id.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_Int.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_List.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_Map.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_MapDict.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_MapInt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_MapString.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_MutableMap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_MutableMapInt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_MutableMapString.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_MutableQueue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_MutableSet.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_MutableSetInt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_MutableSetString.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_MutableStack.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_Option.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_Range.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_Result.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_Set.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_SetDict.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_SetInt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_SetString.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_SortArray.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_SortArrayInt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_SortArrayString.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_internalAVLset.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_internalAVLtree.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_internalBuckets.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_internalBucketsType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_internalMapInt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_internalMapString.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_internalSetBuckets.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_internalSetInt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/belt_internalSetString.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/bigarray.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/block.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/buffer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/bytes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/bytesLabels.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/callback.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/caml_array.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/caml_array_extern.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/caml_builtin_exceptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/caml_bytes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/caml_bytes_extern.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/caml_char.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/caml_exceptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/caml_float.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/caml_float_extern.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/caml_format.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/caml_gc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/caml_hash.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/caml_hash_primitive.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/caml_int32.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/caml_int32_extern.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/caml_int64.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/caml_int64_extern.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/caml_io.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/caml_js_exceptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/caml_lexer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/caml_md5.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/caml_missing_polyfill.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/caml_module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/caml_nativeint_extern.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/caml_obj.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/caml_obj_extern.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/caml_oo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/caml_oo_curry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/caml_option.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/caml_parser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/caml_primitive.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/caml_string.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/caml_string_extern.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/caml_sys.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/caml_undefined_extern.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/caml_utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/caml_weak.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/camlinternalFormat.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/camlinternalFormatBasics.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/camlinternalLazy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/camlinternalMod.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/camlinternalOO.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/char.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/complex.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/curry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/digest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/filename.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/format.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/gc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/genlex.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/hashtbl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/int32.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/int64.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/js.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/js_array.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/js_array2.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/js_cast.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/js_console.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/js_date.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/js_dict.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/js_exn.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/js_float.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/js_global.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/js_int.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/js_json.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/js_list.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/js_mapperRt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/js_math.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/js_null.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/js_null_undefined.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/js_obj.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/js_option.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/js_promise.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/js_result.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/js_string.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/js_string2.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/js_typed_array.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/js_typed_array2.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/js_types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/js_undefined.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/js_vector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/lazy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/lexing.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/list.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/listLabels.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/map.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/marshal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/moreLabels.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/nativeint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/node_buffer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/node_child_process.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/node_fs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/node_module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/node_path.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/node_process.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/obj.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/oo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/parsing.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/pervasives.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/printexc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/printf.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/queue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/random.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/scanf.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/set.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/sort.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/stack.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/stdLabels.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/std_exit.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/stream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/string.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/stringLabels.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/sys.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/unix.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/unixLabels.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es6/weak.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/arg.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/array.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/arrayLabels.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/belt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/belt_Array.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/belt_Debug.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/belt_Float.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/belt_HashMap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/belt_HashMapInt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/belt_HashMapString.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/belt_HashSet.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/belt_HashSetInt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/belt_HashSetString.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/belt_Id.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/belt_Int.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/belt_List.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/belt_Map.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/belt_MapDict.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/belt_MapInt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/belt_MapString.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/belt_MutableMap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/belt_MutableMapInt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/belt_MutableMapString.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/belt_MutableQueue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/belt_MutableSet.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/belt_MutableSetInt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/belt_MutableSetString.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/belt_MutableStack.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/belt_Option.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/belt_Range.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@react-native-community+cli/package",
+  "fileCount": 28,
+  "results": [
+    {
+      "file": "build/bin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/commands/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/commands/init/banner.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/commands/init/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/commands/init/editTemplate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/commands/init/errors/DirectoryAlreadyExistsError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/commands/init/errors/HelloWorldError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/commands/init/errors/InvalidNameError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/commands/init/errors/ReservedNameError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/commands/init/errors/TemplateAndVersionError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/commands/init/git.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/commands/init/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/commands/init/init.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/commands/init/printRunInstructions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/commands/init/template.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/commands/init/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/commands/init/validate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/commands/init/version.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/tools/bun.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/tools/copyFiles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/tools/executeCommand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/tools/gracefulifyFs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/tools/npm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/tools/packageManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/tools/replacePathSepForRegex.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/tools/walk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/tools/yarn.js",
+      "obfuscated": false
+    }
+  ]
+}

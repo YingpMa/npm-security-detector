@@ -1,0 +1,90 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@ikas+api-client/package",
+  "fileCount": 21,
+  "results": [
+    {
+      "file": "dist/api/admin/admin-client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/admin/generated/default-gqls.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/api/admin/generated/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/admin/generated/mutation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/admin/generated/query.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/admin/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/admin/rest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/base.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/oauth/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/oauth/models.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/globals/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/globals/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/helpers/auth-helpers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/helpers/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/helpers/webhook-helpers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/base.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/webhook/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/webhook/models.js",
+      "obfuscated": false
+    }
+  ]
+}

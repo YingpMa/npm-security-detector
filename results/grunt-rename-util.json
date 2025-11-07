@@ -1,0 +1,18 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/grunt-rename-util/package",
+  "fileCount": 3,
+  "results": [
+    {
+      "file": "Gruntfile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tasks/rename.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/rename_test.js",
+      "obfuscated": false
+    }
+  ]
+}

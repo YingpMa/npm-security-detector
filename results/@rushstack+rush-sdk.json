@@ -1,0 +1,806 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@rushstack+rush-sdk/package",
+  "fileCount": 200,
+  "results": [
+    {
+      "file": "lib/api/ApprovedPackagesConfiguration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/ApprovedPackagesPolicy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/BuildCacheConfiguration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/ChangeFile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/ChangeManagement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/ChangeManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/Changelog.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/CobuildConfiguration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/CommandLineConfiguration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/CommandLineJson.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/CommonVersionsConfiguration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/CustomTipsConfiguration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/EnvironmentConfiguration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/EventHooks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/ExperimentsConfiguration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/FlagFile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/LastInstallFlag.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/PackageJsonEditor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/PackageNameParsers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/Rush.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/RushCommandLine.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/RushConfiguration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/RushConfigurationProject.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/RushGlobalFolder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/RushInternals.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/RushPluginsConfiguration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/RushProjectConfiguration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/RushUserConfiguration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/SaveCallbackPackageJsonEditor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/Subspace.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/SubspacesConfiguration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/Variants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/VersionPolicy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/VersionPolicyConfiguration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/packageManager/NpmPackageManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/packageManager/PackageManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/packageManager/PnpmPackageManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/packageManager/YarnPackageManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/CommandLineMigrationAdvisor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/RushCommandLineParser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/RushPnpmCommandLine.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/RushPnpmCommandLineParser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/RushStartupBanner.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/RushXCommandLine.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/actions/AddAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/actions/AlertAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/actions/BaseAddAndRemoveAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/actions/BaseAutoinstallerAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/actions/BaseHotlinkPackageAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/actions/BaseInstallAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/actions/BaseRushAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/actions/BridgePackageAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/actions/ChangeAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/actions/CheckAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/actions/DeployAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/actions/InitAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/actions/InitAutoinstallerAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/actions/InitDeployAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/actions/InitSubspaceAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/actions/InstallAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/actions/InstallAutoinstallerAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/actions/LinkAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/actions/LinkPackageAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/actions/ListAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/actions/PublishAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/actions/PurgeAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/actions/RemoveAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/actions/ScanAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/actions/SetupAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/actions/UnlinkAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/actions/UpdateAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/actions/UpdateAutoinstallerAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/actions/UpdateCloudCredentialsAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/actions/UpgradeInteractiveAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/actions/VersionAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/parsing/ParseParallelism.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/parsing/SelectionParameterSet.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/scriptActions/BaseScriptAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/scriptActions/GlobalScriptAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/scriptActions/PhasedScriptAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/ApprovedPackagesChecker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/Autoinstaller.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/ChangeFiles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/ChangeManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/ChangelogGenerator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/CredentialCache.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/DependencyAnalyzer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/DependencySpecifier.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/EventHooksManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/Git.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/GitStatusParser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/InstallManagerFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/InteractiveUpgrader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/JsonSchemaUrls.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/LinkManagerFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/NodeJsCompatibility.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/PackageJsonUpdater.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/PackageJsonUpdaterTypes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/PackageLookup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/PrereleaseToken.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/ProjectChangeAnalyzer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/ProjectCommandSet.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/ProjectImpactGraphGenerator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/ProjectWatcher.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/PublishGit.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/PublishUtilities.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/PurgeManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/RepoStateFile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/RushConstants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/Selection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/SetupChecks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/ShrinkwrapFileFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/StandardScriptUpdater.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/Telemetry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/TempProjectHelper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/UnlinkManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/VersionManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/base/BaseInstallManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/base/BaseInstallManagerTypes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/base/BaseLinkManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/base/BasePackage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/base/BasePackageManagerOptionsConfiguration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/base/BaseProjectShrinkwrapFile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/base/BaseShrinkwrapFile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/base/BaseWorkspaceFile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/buildCache/CacheEntryId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/buildCache/FileSystemBuildCacheProvider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/buildCache/ICloudBuildCacheProvider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/buildCache/OperationBuildCache.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/cobuild/CobuildLock.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/cobuild/DisjointSet.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/cobuild/ICobuildLockProvider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/deploy/DeployScenarioConfiguration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/dotenv.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/incremental/InputsSnapshot.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/installManager/InstallHelpers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/installManager/RushInstallManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/installManager/WorkspaceInstallManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/installManager/doBasicInstallAsync.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/npm/NpmLinkManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/npm/NpmOptionsConfiguration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/npm/NpmPackage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/npm/NpmShrinkwrapFile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/operations/AsyncOperationQueue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/operations/BuildPlanPlugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/operations/CacheableOperationPlugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/operations/ConsoleTimelinePlugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/operations/DebugHashesPlugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/operations/IOperationExecutionResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/operations/IOperationRunner.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/operations/IPCOperationRunner.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/operations/IPCOperationRunnerPlugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/operations/LegacySkipPlugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/operations/NodeDiagnosticDirPlugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/operations/NullOperationRunner.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/operations/Operation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/operations/OperationError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/operations/OperationExecutionManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/operations/OperationExecutionRecord.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/operations/OperationMetadataManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/operations/OperationResultSummarizerPlugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/operations/OperationStateFile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/operations/OperationStatus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/operations/PeriodicCallback.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/operations/PhasedOperationPlugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/operations/PnpmSyncCopyOperationPlugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/operations/ProjectLogWritable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/operations/ShardedPhaseOperationPlugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/operations/ShellOperationRunner.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/operations/ShellOperationRunnerPlugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/operations/ValidateOperationsPlugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/operations/WeightedOperationPlugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/pnpm/IPnpmfile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/pnpm/PnpmLinkManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/pnpm/PnpmOptionsConfiguration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/pnpm/PnpmProjectShrinkwrapFile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/pnpm/PnpmShrinkWrapFileConverters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/pnpm/PnpmShrinkwrapFile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/pnpm/PnpmWorkspaceFile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/pnpm/PnpmYamlCommon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/pnpm/PnpmfileConfiguration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/pnpm/PnpmfileShim.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/pnpm/SubspacePnpmfileConfiguration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/policy/EnvironmentPolicy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/policy/GitEmailPolicy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/policy/PolicyValidator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/policy/ShrinkwrapFilePolicy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/selectors/GitChangedProjectSelectorParser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/selectors/ISelectorParser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/selectors/NamedProjectSelectorParser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/selectors/SubspaceSelectorParser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/selectors/TagProjectSelectorParser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/selectors/VersionPolicyProjectSelectorParser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/setup/ArtifactoryConfiguration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/setup/KeyboardLoop.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/setup/SetupPackageRegistry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/setup/TerminalInput.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/versionMismatch/VersionMismatchFinder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logic/versionMismatch/VersionMismatchFinderCommonVersions.js",
+      "obfuscated": false
+    }
+  ]
+}

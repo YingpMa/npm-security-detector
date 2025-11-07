@@ -1,0 +1,118 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@ngx-lib+multiselect/package",
+  "fileCount": 28,
+  "results": [
+    {
+      "file": "bundles/ngx-lib-multiselect.umd.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundles/ngx-lib-multiselect.umd.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "esm2015/lib/directives/virtual-scroll.directive.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm2015/lib/filter-options/filter-options.component.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm2015/lib/grouped-options/grouped-options.component.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm2015/lib/helper-elements/helper-elements.component.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm2015/lib/models/multiselect-option.model.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm2015/lib/multiselect.component.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm2015/lib/multiselect.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm2015/lib/options/options.component.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm2015/lib/pipes/display-selected-value.pipe.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm2015/lib/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm2015/ngx-lib-multiselect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm2015/public_api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm5/lib/directives/virtual-scroll.directive.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm5/lib/filter-options/filter-options.component.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm5/lib/grouped-options/grouped-options.component.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm5/lib/helper-elements/helper-elements.component.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm5/lib/models/multiselect-option.model.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm5/lib/multiselect.component.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm5/lib/multiselect.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm5/lib/options/options.component.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm5/lib/pipes/display-selected-value.pipe.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm5/lib/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm5/ngx-lib-multiselect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm5/public_api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "fesm2015/ngx-lib-multiselect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "fesm5/ngx-lib-multiselect.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/fela-plugin-unit/package",
+  "fileCount": 3,
+  "results": [
+    {
+      "file": "es/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "umd/index.js",
+      "obfuscated": true
+    }
+  ]
+}

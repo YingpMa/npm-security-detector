@@ -1,0 +1,70 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/rc-progress/package",
+  "fileCount": 16,
+  "results": [
+    {
+      "file": "es/Circle/PtgCircle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/Circle/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/Circle/util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/Line.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hooks/useId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/interface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Circle/PtgCircle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Circle/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Circle/util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Line.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/interface.js",
+      "obfuscated": false
+    }
+  ]
+}

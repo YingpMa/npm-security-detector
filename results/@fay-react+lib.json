@@ -1,0 +1,86 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@fay-react+lib/package",
+  "fileCount": 20,
+  "results": [
+    {
+      "file": "cookie/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "error/errorBoundary.js",
+      "obfuscated": false
+    },
+    {
+      "file": "fetch/get.js",
+      "obfuscated": false
+    },
+    {
+      "file": "fetch/getJson.js",
+      "obfuscated": false
+    },
+    {
+      "file": "fetch/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "fetch/post.js",
+      "obfuscated": false
+    },
+    {
+      "file": "fetch/postJson.js",
+      "obfuscated": false
+    },
+    {
+      "file": "fetch/put.js",
+      "obfuscated": false
+    },
+    {
+      "file": "fetch/putJson.js",
+      "obfuscated": false
+    },
+    {
+      "file": "fetch/remove.js",
+      "obfuscated": false
+    },
+    {
+      "file": "fetch/removeJson.js",
+      "obfuscated": false
+    },
+    {
+      "file": "fetch/request.js",
+      "obfuscated": false
+    },
+    {
+      "file": "getDataByTemplate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "os.js",
+      "obfuscated": false
+    },
+    {
+      "file": "phone/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "phone/phone.js",
+      "obfuscated": false
+    },
+    {
+      "file": "provider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "publicPath.js",
+      "obfuscated": false
+    },
+    {
+      "file": "router/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "user.js",
+      "obfuscated": false
+    }
+  ]
+}

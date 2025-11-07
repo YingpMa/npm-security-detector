@@ -1,0 +1,94 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/prisma-nested-middleware/package",
+  "fileCount": 22,
+  "results": [
+    {
+      "file": "dist/esm/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/lib/createNestedMiddleware.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/lib/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/lib/utils/actions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/lib/utils/cloneParams.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/lib/utils/execution.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/lib/utils/extractNestedActions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/lib/utils/params.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/lib/utils/relations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/lib/utils/results.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/lib/utils/targets.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/createNestedMiddleware.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/utils/actions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/utils/cloneParams.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/utils/execution.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/utils/extractNestedActions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/utils/params.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/utils/relations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/utils/results.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/utils/targets.js",
+      "obfuscated": false
+    }
+  ]
+}

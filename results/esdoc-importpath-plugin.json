@@ -1,0 +1,10 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/esdoc-importpath-plugin/package",
+  "fileCount": 1,
+  "results": [
+    {
+      "file": "src/Plugin.js",
+      "obfuscated": false
+    }
+  ]
+}

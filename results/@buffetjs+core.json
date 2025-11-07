@@ -1,0 +1,670 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@buffetjs+core/package",
+  "fileCount": 166,
+  "results": [
+    {
+      "file": "babel.config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/bundle.development.js",
+      "obfuscated": true
+    },
+    {
+      "file": "build/bundle.production.js",
+      "obfuscated": true
+    },
+    {
+      "file": "build/esm/components/AttributeIcon/Div.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/AttributeIcon/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/Button/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/Checkbox/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/Count/Wrapper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/Count/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/DatePicker/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/DatePicker/reducer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/Enumeration/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/Error/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/Error/reducer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/Flex/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/HeaderActions/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/HeaderTitle/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/Icon/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/IconLinks/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/InputNumber/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/InputText/PrefixIcon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/InputText/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/Label/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/List/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/ListHeader/BaselineAlignement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/ListHeader/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/ListRow/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/NavTabs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/Option/RemoveButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/Option/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/Padded/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/Paging/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/Picker/PickerButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/Picker/PickerSection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/Picker/PickerWrapper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/Picker/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/PrefixIcon/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/Select/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/Separator/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/Table/ActionCollapse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/Table/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/TableHeader/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/TableRow/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/Text/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/Textarea/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/TimePicker/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/Toggle/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/components/UnknownInput/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/esm/theme/colors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/AttributeIcon/Div.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/AttributeIcon/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/Button/Spinner.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/Button/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/Checkbox/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/DatePicker/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/DatePicker/reducer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/Enumeration/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/Error/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/Error/reducer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/Flex/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/HeaderActions/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/HeaderTitle/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/Icon/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/IconLinks/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/InputNumber/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/InputText/PrefixIcon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/InputText/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/Label/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/List/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/ListHeader/BaselineAlignement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/ListHeader/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/ListRow/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/NavTabs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/Option/RemoveButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/Option/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/Padded/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/Paging/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/Picker/PickerButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/Picker/PickerSection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/Picker/PickerWrapper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/Picker/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/PrefixIcon/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/Select/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/Table/ActionCollapse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/Table/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/TableHeader/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/TableRow/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/Text/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/Textarea/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/TimePicker/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/Toggle/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/UnknownInput/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/theme/colors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/AttributeIcon/Div.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/AttributeIcon/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Button/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Checkbox/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Checkbox/tests/Checkbox.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Count/Wrapper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Count/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/DatePicker/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/DatePicker/reducer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/DatePicker/tests/index.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Enumeration/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Enumeration/tests/index.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Error/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Error/reducer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Flex/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Flex/tests/index.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/HeaderActions/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/HeaderActions/tests/index.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/HeaderTitle/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/HeaderTitle/tests/index.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Icon/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Icon/tests/Icon.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/IconLinks/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/IconLinks/tests/index.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/InputNumber/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/InputText/PrefixIcon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/InputText/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Label/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Label/tests/Label.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/List/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/List/tests/index.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/ListHeader/BaselineAlignement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/ListHeader/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/ListHeader/tests/index.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/ListRow/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/ListRow/tests/index.tests.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/NavTabs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Option/RemoveButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Option/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Padded/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Padded/tests/index.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Paging/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Picker/PickerButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Picker/PickerSection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Picker/PickerWrapper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Picker/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Picker/tests/pickerButton.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Picker/tests/pickerSection.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/PrefixIcon/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Select/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Select/tests/index.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Separator/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Table/ActionCollapse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Table/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Table/tests/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/TableHeader/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/TableHeader/tests/index.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/TableRow/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/TableRow/tests/index.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Text/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Text/tests/index.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Textarea/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Textarea/tests/index.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/TimePicker/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/TimePicker/tests/index.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Toggle/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Toggle/tests/index.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/UnknownInput/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/theme/colors.js",
+      "obfuscated": false
+    }
+  ]
+}

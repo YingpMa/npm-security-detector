@@ -1,0 +1,318 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@balena+jellyfish-core/package",
+  "fileCount": 78,
+  "results": [
+    {
+      "file": "build/authorization/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/authorization/markers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/authorization/roles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/authorization/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/backend/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/backend/postgres/cards.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/backend/postgres/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/backend/postgres/jsonschema2sql/array-contains-filter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/backend/postgres/jsonschema2sql/array-length-filter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/backend/postgres/jsonschema2sql/builder-context.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/backend/postgres/jsonschema2sql/cte-builder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/backend/postgres/jsonschema2sql/equals-filter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/backend/postgres/jsonschema2sql/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/backend/postgres/jsonschema2sql/expression-filter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/backend/postgres/jsonschema2sql/fragment-builder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/backend/postgres/jsonschema2sql/full-text-search-filter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/backend/postgres/jsonschema2sql/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/backend/postgres/jsonschema2sql/is-null-filter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/backend/postgres/jsonschema2sql/is-of-json-types-filter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/backend/postgres/jsonschema2sql/json-map-property-count-filter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/backend/postgres/jsonschema2sql/link-filter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/backend/postgres/jsonschema2sql/literal-sql.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/backend/postgres/jsonschema2sql/matches-regex-filter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/backend/postgres/jsonschema2sql/multiple-of-filter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/backend/postgres/jsonschema2sql/not-filter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/backend/postgres/jsonschema2sql/regexes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/backend/postgres/jsonschema2sql/select-builder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/backend/postgres/jsonschema2sql/select-map.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/backend/postgres/jsonschema2sql/sql-filter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/backend/postgres/jsonschema2sql/sql-path.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/backend/postgres/jsonschema2sql/sql-query.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/backend/postgres/jsonschema2sql/string-length-filter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/backend/postgres/jsonschema2sql/table-index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/backend/postgres/jsonschema2sql/text-search.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/backend/postgres/jsonschema2sql/util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/backend/postgres/jsonschema2sql/value-is-filter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/backend/postgres/links.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/backend/postgres/streams.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/backend/postgres/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/backend/postgres/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/cache.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/context.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/contracts/authentication.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/contracts/card.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/contracts/error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/contracts/event.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/contracts/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/contracts/link.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/contracts/loop.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/contracts/mixins/as-pipeline-item.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/contracts/mixins/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/contracts/mixins/ui-schema-defs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/contracts/mixins/with-events.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/contracts/mixins/with-sensible-defaults.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/contracts/mixins/with-ui-schema.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/contracts/oauth-client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/contracts/oauth-provider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/contracts/org.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/contracts/role-user-admin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/contracts/role-user-community.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/contracts/role-user-guest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/contracts/role-user-operator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/contracts/role-user-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/contracts/role.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/contracts/session.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/contracts/transformer-merge-properties.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/contracts/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/contracts/user-admin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/contracts/user-settings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/contracts/user.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/contracts/view.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/json-schema.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/kernel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/test-utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/views.js",
+      "obfuscated": false
+    }
+  ]
+}

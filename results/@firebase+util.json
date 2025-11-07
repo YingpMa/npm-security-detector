@@ -1,0 +1,30 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@firebase+util/package",
+  "fileCount": 6,
+  "results": [
+    {
+      "file": "dist/index.cjs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.node.cjs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node-esm/index.node.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/postinstall.js",
+      "obfuscated": false
+    },
+    {
+      "file": "postinstall.js",
+      "obfuscated": false
+    }
+  ]
+}

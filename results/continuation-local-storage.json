@@ -1,0 +1,90 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/continuation-local-storage/package",
+  "fileCount": 21,
+  "results": [
+    {
+      "file": "context.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/async-context.tap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/async-no-run-queue-multiple.tap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/bind-emitter.tap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/bind.tap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/crypto.tap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/dns.tap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/error-handling.tap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/fs.tap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/interleave-contexts.tap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/monkeypatching.tap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/namespaces.tap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/nesting.tap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/net-events.tap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/promises.tap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/proper-exit.tap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/run-and-return.tap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/simple.tap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/timers.tap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/tracer-scenarios.tap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/zlib.tap.js",
+      "obfuscated": false
+    }
+  ]
+}

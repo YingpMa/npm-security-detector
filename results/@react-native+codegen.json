@@ -1,0 +1,310 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@react-native+codegen/package",
+  "fileCount": 76,
+  "results": [
+    {
+      "file": "lib/CodegenSchema.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/SchemaValidator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/combine/combine-js-to-schema-cli.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/combine/combine-js-to-schema.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/combine/combine-schemas-cli.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/combine/combine-utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/generators/generate-all.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/parser/parser-cli.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cli/parser/parser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/generators/RNCodegen.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/generators/TypeUtils/Cxx/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/generators/TypeUtils/Java/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/generators/TypeUtils/Objective-C/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/generators/Utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/generators/components/ComponentsGeneratorUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/generators/components/ComponentsProviderUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/generators/components/CppHelpers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/generators/components/GenerateComponentDescriptorCpp.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/generators/components/GenerateComponentDescriptorH.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/generators/components/GenerateComponentHObjCpp.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/generators/components/GenerateEventEmitterCpp.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/generators/components/GenerateEventEmitterH.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/generators/components/GeneratePropsCpp.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/generators/components/GeneratePropsH.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/generators/components/GeneratePropsJavaDelegate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/generators/components/GeneratePropsJavaInterface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/generators/components/GeneratePropsJavaPojo/PojoCollector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/generators/components/GeneratePropsJavaPojo/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/generators/components/GeneratePropsJavaPojo/serializePojo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/generators/components/GenerateShadowNodeCpp.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/generators/components/GenerateShadowNodeH.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/generators/components/GenerateStateCpp.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/generators/components/GenerateStateH.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/generators/components/GenerateTests.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/generators/components/GenerateThirdPartyFabricComponentsProviderH.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/generators/components/GenerateThirdPartyFabricComponentsProviderObjCpp.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/generators/components/GenerateViewConfigJs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/generators/components/JavaHelpers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/generators/modules/GenerateModuleCpp.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/generators/modules/GenerateModuleH.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/generators/modules/GenerateModuleJavaSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/generators/modules/GenerateModuleJniCpp.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/generators/modules/GenerateModuleJniH.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/generators/modules/GenerateModuleObjCpp/StructCollector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/generators/modules/GenerateModuleObjCpp/Utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/generators/modules/GenerateModuleObjCpp/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/generators/modules/GenerateModuleObjCpp/serializeEventEmitter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/generators/modules/GenerateModuleObjCpp/serializeMethod.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/generators/modules/Utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/parsers/consistency/compareSnaps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/parsers/error-utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/parsers/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/parsers/flow/components/commands.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/parsers/flow/components/componentsUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/parsers/flow/components/events.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/parsers/flow/components/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/parsers/flow/modules/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/parsers/flow/parseFlowAndThrowErrors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/parsers/flow/parser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/parsers/flow/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/parsers/parser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/parsers/parserMock.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/parsers/parsers-commons.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/parsers/parsers-primitives.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/parsers/parsers-utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/parsers/schema/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/parsers/schema.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/parsers/typescript/components/commands.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/parsers/typescript/components/componentsUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/parsers/typescript/components/events.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/parsers/typescript/components/extends.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/parsers/typescript/components/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/parsers/typescript/modules/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/parsers/typescript/parseTopLevelType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/parsers/typescript/parser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/parsers/utils.js",
+      "obfuscated": false
+    }
+  ]
+}

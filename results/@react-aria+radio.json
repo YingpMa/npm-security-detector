@@ -1,0 +1,38 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@react-aria+radio/package",
+  "fileCount": 8,
+  "results": [
+    {
+      "file": "dist/main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/useRadio.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/useRadio.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/useRadioGroup.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/useRadioGroup.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils.module.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/uglify-js/package",
+  "fileCount": 14,
+  "results": [
+    {
+      "file": "lib/ast.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/compress.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/minify.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/mozilla-ast.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/output.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/parse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/propmangle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/scope.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/sourcemap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/transform.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tools/exports.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tools/node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tools/tty.js",
+      "obfuscated": false
+    }
+  ]
+}

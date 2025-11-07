@@ -1,0 +1,182 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/neverbounce/package",
+  "fileCount": 44,
+  "results": [
+    {
+      "file": "dist/cjs/examples/account-info.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/examples/error-handling.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/examples/jobs-create.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/examples/jobs-delete.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/examples/jobs-download.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/examples/jobs-parse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/examples/jobs-results.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/examples/jobs-search.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/examples/jobs-start.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/examples/jobs-status.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/examples/poe-confirm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/examples/single-check.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/Account.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/Errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/HttpsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/Jobs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/NeverBounce.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/POE.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/Single.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/VerificationObject.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/examples/account-info.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/examples/error-handling.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/examples/jobs-create.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/examples/jobs-delete.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/examples/jobs-download.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/examples/jobs-parse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/examples/jobs-results.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/examples/jobs-search.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/examples/jobs-start.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/examples/jobs-status.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/examples/poe-confirm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/examples/single-check.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/Account.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/Errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/HttpsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/Jobs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/NeverBounce.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/POE.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/Single.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/VerificationObject.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/types.js",
+      "obfuscated": false
+    }
+  ]
+}

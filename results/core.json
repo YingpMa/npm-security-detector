@@ -1,0 +1,498 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/core/package",
+  "fileCount": 123,
+  "results": [
+    {
+      "file": "examples/BatchClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/compressor/example.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/jsonrpcserver/rpcmethod.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/jsonrpcserver/rpcrequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/jsonrpcserver/rpctest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/loader-pipes/test-mc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/loader-pipes/test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/mc-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/redisdebug.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cache/CFMemcache.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cache/CacheLoader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cache/Memcache.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/class/Class.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/client/MemcacheAdapter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/client/Memcached.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/client/MemcachedSocket.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/client/MySQLPool.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/client/PGPool.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/client/Redis.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/client/S3.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/client/S3Client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/client/pg/CursorQueryWorker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/client/rabbitmq/RbmqChannel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/client/rabbitmq/RbmqConfig.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/client/rabbitmq/RbmqConnection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/client/rabbitmq/RbmqExchange.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/client/rabbitmq/RbmqIncomingMessage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/client/rabbitmq/RbmqMessage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/client/rabbitmq/RbmqOutcomingMessage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/client/rabbitmq/RbmqQueue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/client/rabbitmq/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common/Assertions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common/Merge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common/Net.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common/Process.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common/Random.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common/Sort.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common/Types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/credentials/CredentialsProvider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/credentials/Manager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/crypto/Crypto.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/data/BinaryData.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/data/Compressor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/data/FormData.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/data/Mime.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/event/ErrorEvent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/event/Event.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/event/EventDispatcher.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/http/ConnectionPool.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/http/ExpressServer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/http/Headers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/http/Loader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/http/Message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/http/Request.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/http/RequestProcessor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/http/Response.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/http/Server.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/http/Socket.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/http/Url.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/jsonrpc/JsonRpcAbstract.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/jsonrpc/JsonRpcBatchRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/jsonrpc/JsonRpcBatchResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/jsonrpc/JsonRpcError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/jsonrpc/JsonRpcMethod.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/jsonrpc/JsonRpcRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/jsonrpc/JsonRpcRequestProcessor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/jsonrpc/JsonRpcResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/jsonrpc/JsonRpcServer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logger/EmptyLogger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logger/LoggerFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logger/WildFireLogger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/pattern/Pool.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/pattern/decorator/AbstractDecorator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/pattern/decorator/DecoratorChain.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/DeviceDetector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/yaml/YAML.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/cache/CacheLoaderSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/class/ClassSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/client/MemcachedSocketSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/client/MemcachedSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/client/MySQLPoolSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/client/PGPoolSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/client/RedisSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/client/S3ClientSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/client/S3Spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/client/rabbitmq/RbmqConnectionSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/common/AssertionsSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/common/NetSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/common/RandomSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/common/TypesSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/credentials/CredentialsProviderSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/crypto/CryptoSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/data/BinaryDataSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/data/CompressorSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/data/FormDataSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/data/MimeSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/event/ErrorEventSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/event/EventDispatcherSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/event/EventSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/http/ConnectionPoolSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/http/HeadersSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/http/LoaderSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/http/MessageSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/http/RequestProcessorSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/http/RequestSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/http/ResponseSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/http/ServerSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/http/SocketSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/http/UrlSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/jsonrpc/JsonRpcAbstractSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/jsonrpc/JsonRpcBatchRequestSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/jsonrpc/JsonRpcBatchResponseSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/jsonrpc/JsonRpcErrorSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/jsonrpc/JsonRpcMethodSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/jsonrpc/JsonRpcRequestProcessorSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/jsonrpc/JsonRpcRequestSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/jsonrpc/JsonRpcResponseSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/jsonrpc/JsonRpcServerSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/pattern/PoolSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/pattern/decorator/AbstractDecoratorSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/pattern/decorator/DecoratorChainSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/yaml/YAMLSpec.js",
+      "obfuscated": false
+    }
+  ]
+}

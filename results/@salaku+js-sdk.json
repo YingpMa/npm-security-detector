@@ -1,0 +1,90 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@salaku+js-sdk/package",
+  "fileCount": 21,
+  "results": [
+    {
+      "file": "bn.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/CallContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/bn.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/builder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/bundle.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/contract.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/hosts.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rlp.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rpc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/tds-sdk.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/tx.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/vm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/worker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "jest.config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "nacl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sha3.js",
+      "obfuscated": false
+    },
+    {
+      "file": "webpack.config.js",
+      "obfuscated": false
+    }
+  ]
+}

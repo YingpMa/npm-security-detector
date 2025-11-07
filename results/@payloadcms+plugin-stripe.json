@@ -1,0 +1,74 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@payloadcms+plugin-stripe/package",
+  "fileCount": 17,
+  "results": [
+    {
+      "file": "dist/admin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/exports/client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/exports/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/fields/getFields.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/hooks/createNewInStripe.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/hooks/deleteFromStripe.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/hooks/syncExistingWithStripe.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/routes/rest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/routes/webhooks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ui/LinkToDoc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utilities/deepen.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utilities/stripeProxy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/webhooks/handleCreatedOrUpdated.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/webhooks/handleDeleted.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/webhooks/index.js",
+      "obfuscated": false
+    }
+  ]
+}

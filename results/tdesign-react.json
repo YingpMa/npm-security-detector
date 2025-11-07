@@ -1,0 +1,806 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/tdesign-react/package",
+  "fileCount": 200,
+  "results": [
+    {
+      "file": "cjs/_chunks/dep-006cdaa7.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-00e10ad8.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-023db433.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-0be4d457.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-0fccdcfb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-1749a228.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-1819e167.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-19223ef0.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-1c57f766.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-1d96d9f1.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-1debbc3e.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-210ce7c8.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-2545fc22.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-271574af.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-2c36bed6.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-2f3e85f6.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-3012da29.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-34def105.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-356859aa.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-35f49f69.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-3905781f.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-3cfcca89.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-413bc6a7.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-4240569e.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-46616204.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-4b35efe1.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-52a009fb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-560c14c5.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-58cddfe4.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-5941343f.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-59a9c125.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-59cc13ee.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-5b899485.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-5d5d7b13.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-5e1fc2cd.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-5fdcfc64.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-6058edb6.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-608840a8.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-64afded1.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-6638dce8.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-665eea2b.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-680d1e3e.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-68db2ca6.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-69751dfb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-6c342676.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-6e448b65.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-77879fb6.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-78e8fc97.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-7a6528ec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-7bb447f9.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-7e3b8125.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-7f07198b.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-837f0312.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-84d18206.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-84fd1465.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-8529ce07.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-8593a497.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-8a28dfd9.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-8bd04901.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-8c89cfa8.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-8ee4aae7.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-912bd8a2.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-92f915f5.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-962f011a.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-a09b28f5.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-a1d853fb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-a3962a45.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-aaf39cf2.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-b1e7d4c3.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-b47ed304.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-b4e78a42.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-b571b0e0.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-b6bde0bc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-ba207e81.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-ba79870d.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-bb56a94e.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-be9040ff.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-becc25b2.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-c1986661.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-c29b655c.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-c73e0aa5.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-c83f28a0.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-cb5dac3c.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-cc2fe55a.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-cc4e3925.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-cfe601e8.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-d843946a.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-d85a29ac.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-d9b4b0dc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-d9f53773.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-dfe5fb78.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-e2240b05.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-e358a1dc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-e71f4713.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-ed0d1cf9.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-ef7d12a5.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-f0441248.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-f34d3a30.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-f4d31431.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-f90d944e.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-fdd584c5.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-feb1fd45.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_chunks/dep-fef35254.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_util/composeRefs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_util/copyText.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_util/createHookContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_util/dom.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_util/easing.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_util/forwardRefWithStatics.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_util/helper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_util/insertCSS.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_util/isFragment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_util/linearGradient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_util/listener.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_util/noop.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_util/number.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_util/parseTNode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_util/react-19-adapter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_util/react-render.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_util/ref.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_util/scroll.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/_util/style.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/affix/Affix.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/affix/defaultProps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/affix/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/affix/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/alert/Alert.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/alert/defaultProps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/alert/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/alert/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/anchor/Anchor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/anchor/AnchorContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/anchor/AnchorItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/anchor/AnchorTarget.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/anchor/defaultProps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/anchor/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/anchor/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/auto-complete/AutoComplete.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/auto-complete/HighlightOption.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/auto-complete/OptionList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/auto-complete/defaultProps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/auto-complete/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/auto-complete/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/avatar/Avatar.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/avatar/AvatarContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/avatar/AvatarGroup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/avatar/defaultProps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/avatar/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/avatar/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/back-top/BackTop.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/back-top/defaultProps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/back-top/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/back-top/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/back-top/useScroll.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/badge/Badge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/badge/defaultProps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/badge/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/badge/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/breadcrumb/Breadcrumb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/breadcrumb/BreadcrumbContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/breadcrumb/BreadcrumbItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/breadcrumb/BreadcrumbProps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/breadcrumb/defaultProps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/breadcrumb/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/breadcrumb/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/button/Button.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/button/defaultProps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/button/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/button/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/calendar/Calendar.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/calendar/CalendarCellComp.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/calendar/_util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/calendar/defaultProps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/calendar/hooks/usePrefixClass.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/calendar/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/calendar/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/card/Card.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/card/defaultProps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/card/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/card/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/cascader/Cascader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/cascader/CascaderPanel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/cascader/components/Item.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/cascader/components/Panel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/cascader/core/className.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/cascader/core/effect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/cascader/core/helper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/cascader/defaultProps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/cascader/hooks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/cascader/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/cascader/interface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/cascader/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/checkbox/Checkbox.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/checkbox/CheckboxGroup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/checkbox/defaultProps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/checkbox/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/checkbox/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/collapse/Collapse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/collapse/CollapseContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/collapse/CollapsePanel.js",
+      "obfuscated": false
+    }
+  ]
+}

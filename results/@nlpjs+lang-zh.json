@@ -1,0 +1,46 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@nlpjs+lang-zh/package",
+  "fileCount": 10,
+  "results": [
+    {
+      "file": "src/cedict_ts.u8.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/dictionary.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lang-zh.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/normalizer-zh.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/sentiment/sentiment_zh.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/stemmer-zh.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/stopwords-zh.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tokenizer-zh.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/translate-zh.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@module-federation+rsbuild-plugin/package",
+  "fileCount": 3,
+  "results": [
+    {
+      "file": "dist/constant.cjs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.cjs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils.cjs.js",
+      "obfuscated": false
+    }
+  ]
+}

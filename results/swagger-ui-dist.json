@@ -1,0 +1,38 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/swagger-ui-dist/package",
+  "fileCount": 8,
+  "results": [
+    {
+      "file": "absolute-path.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "swagger-initializer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "swagger-ui-bundle.js",
+      "obfuscated": true
+    },
+    {
+      "file": "swagger-ui-es-bundle-core.js",
+      "obfuscated": true
+    },
+    {
+      "file": "swagger-ui-es-bundle.js",
+      "obfuscated": true
+    },
+    {
+      "file": "swagger-ui-standalone-preset.js",
+      "obfuscated": true
+    },
+    {
+      "file": "swagger-ui.js",
+      "obfuscated": true
+    }
+  ]
+}

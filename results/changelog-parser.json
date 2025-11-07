@@ -1,0 +1,26 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/changelog-parser/package",
+  "fileCount": 5,
+  "results": [
+    {
+      "file": "bin/cli.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/fixtures/expected.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/fixtures/remove-markdown-expected.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/index.js",
+      "obfuscated": false
+    }
+  ]
+}

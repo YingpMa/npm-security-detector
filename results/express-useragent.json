@@ -1,0 +1,78 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/express-useragent/package",
+  "fileCount": 18,
+  "results": [
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/express-useragent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/express-useragent.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "test/android_phone.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/android_tablet.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/bots.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/browsers.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/electron.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/geoip.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/http.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/ios.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/mobile_native.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/server.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/silk.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/simple.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/smart_tv.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/tests.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/wechat.test.js",
+      "obfuscated": false
+    }
+  ]
+}

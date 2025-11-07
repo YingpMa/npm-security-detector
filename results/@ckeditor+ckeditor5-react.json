@@ -1,0 +1,10 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@ckeditor+ckeditor5-react/package",
+  "fileCount": 1,
+  "results": [
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    }
+  ]
+}

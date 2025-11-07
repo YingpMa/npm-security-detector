@@ -1,0 +1,142 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/uniforms-react18-core/package",
+  "fileCount": 34,
+  "results": [
+    {
+      "file": "cjs/AutoForm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/BaseForm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/Bridge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/QuickForm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/ValidatedForm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/ValidatedQuickForm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/changedKeys.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/connectField.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/context.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/createAutoField.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/filterDOMProps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/joinName.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/randomIds.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/useField.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/useForm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/AutoForm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/BaseForm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/Bridge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/QuickForm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/ValidatedForm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/ValidatedQuickForm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/changedKeys.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/connectField.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/context.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/createAutoField.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/filterDOMProps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/joinName.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/randomIds.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/useField.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/useForm.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/dva-core/package",
+  "fileCount": 17,
+  "results": [
+    {
+      "file": "dist/index.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "saga.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Plugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/checkModel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/createPromiseMiddleware.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/createStore.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/getReducer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/getSaga.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/handleActions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/prefixNamespace.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/prefixType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/prefixedDispatch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/subscription.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils.js",
+      "obfuscated": false
+    }
+  ]
+}

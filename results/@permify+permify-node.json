@@ -1,0 +1,34 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@permify+permify-node/package",
+  "fileCount": 7,
+  "results": [
+    {
+      "file": ".eslintrc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/grpc/clients.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/grpc/config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/grpc/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/grpc/interceptors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/grpc-clients.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/index.js",
+      "obfuscated": false
+    }
+  ]
+}

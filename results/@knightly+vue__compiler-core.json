@@ -1,0 +1,22 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@knightly+vue__compiler-core/package",
+  "fileCount": 4,
+  "results": [
+    {
+      "file": "dist/compiler-core.cjs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/compiler-core.cjs.prod.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/compiler-core.esm-bundler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    }
+  ]
+}

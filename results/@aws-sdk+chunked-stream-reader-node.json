@@ -1,0 +1,18 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@aws-sdk+chunked-stream-reader-node/package",
+  "fileCount": 3,
+  "results": [
+    {
+      "file": "dist-cjs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/readable.fixture.js",
+      "obfuscated": false
+    }
+  ]
+}

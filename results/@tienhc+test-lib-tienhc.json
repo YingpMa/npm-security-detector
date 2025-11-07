@@ -1,0 +1,30 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@tienhc+test-lib-tienhc/package",
+  "fileCount": 6,
+  "results": [
+    {
+      "file": ".storybook/main.js",
+      "obfuscated": false
+    },
+    {
+      "file": ".storybook/preview.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/index.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/esm/index.js",
+      "obfuscated": true
+    },
+    {
+      "file": "jest.config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "rollup.config.js",
+      "obfuscated": false
+    }
+  ]
+}

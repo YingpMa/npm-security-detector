@@ -1,0 +1,762 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@gritcode+inversifyjs-core/package",
+  "fileCount": 189,
+  "results": [
+    {
+      "file": "lib/cjs/binding/actions/getBindingId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/binding/calculations/cloneBinding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/binding/calculations/cloneBindingCache.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/binding/calculations/cloneConstantValueBinding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/binding/calculations/cloneDynamicValueBinding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/binding/calculations/cloneFactoryBinding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/binding/calculations/cloneInstanceBinding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/binding/calculations/cloneProviderBinding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/binding/calculations/cloneResolvedValueBinding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/binding/calculations/cloneServiceRedirectionBinding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/binding/calculations/isScopedBinding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/binding/calculations/stringifyBinding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/binding/models/BaseBinding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/binding/models/Binding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/binding/models/BindingActivation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/binding/models/BindingConstraints.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/binding/models/BindingConstraintsImplementation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/binding/models/BindingDeactivation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/binding/models/BindingScope.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/binding/models/BindingType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/binding/models/ConstantValueBinding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/binding/models/DynamicValueBinding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/binding/models/DynamicValueBuilder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/binding/models/Factory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/binding/models/FactoryBinding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/binding/models/InstanceBinding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/binding/models/Provider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/binding/models/ProviderBinding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/binding/models/ResolvedValueBinding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/binding/models/ScopedBinding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/binding/models/ServiceRedirectionBinding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/binding/services/ActivationsService.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/binding/services/BindingService.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/binding/services/DeactivationsService.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/common/calculations/chain.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/common/calculations/getSelf.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/common/models/Cloneable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/common/models/OneToManyMapStar.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/common/models/SingleInmutableLinkedList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/common/models/Writable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/decorator/actions/decorate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/decorator/calculations/getDecoratorInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/decorator/calculations/stringifyDecoratorInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/decorator/models/BaseDecoratorInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/decorator/models/DecoratorInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/decorator/models/DecoratorInfoKind.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/decorator/models/MethodDecoratorInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/decorator/models/ParameterDecoratorInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/decorator/models/PropertyDecoratorInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/error/calculations/isStackOverflowError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/error/models/InversifyCoreError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/error/models/InversifyCoreErrorKind.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/actions/decrementPendingClassMetadataCount.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/actions/incrementPendingClassMetadataCount.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/actions/setIsInjectableFlag.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/actions/updateClassMetadataWithTypescriptParameterTypes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/actions/updateMaybeClassMetadataConstructorArgument.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/actions/updateMaybeClassMetadataPostConstructor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/actions/updateMaybeClassMetadataPreDestroy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/actions/updateMaybeClassMetadataProperty.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/actions/updateMetadataName.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/actions/updateMetadataOptional.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/actions/updateMetadataTag.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/calculations/assertMetadataFromTypescriptIfManaged.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/calculations/buildClassElementMetadataFromMaybeClassElementMetadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/calculations/buildClassElementMetadataFromTypescriptParameterType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/calculations/buildDefaultManagedMetadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/calculations/buildDefaultMaybeClassElementMetadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/calculations/buildDefaultUnmanagedMetadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/calculations/buildManagedMetadataFromMaybeClassElementMetadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/calculations/buildManagedMetadataFromMaybeManagedMetadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/calculations/buildMaybeClassElementMetadataFromMaybeClassElementMetadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/calculations/buildUnmanagedMetadataFromMaybeClassElementMetadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/calculations/buildUnmanagedMetadataFromMaybeManagedMetadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/calculations/getClassMetadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/calculations/getDefaultClassMetadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/calculations/getDefaultPendingClassMetadataCount.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/calculations/getExtendedConstructorArguments.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/calculations/getExtendedProperties.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/calculations/handleInjectionError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/calculations/isPendingClassMetadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/calculations/isUserlandEmittedType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/calculations/throwAtInvalidClassMetadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/calculations/validateConstructorMetadataArray.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/decorators/inject.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/decorators/injectBase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/decorators/injectFrom.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/decorators/injectFromBase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/decorators/injectable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/decorators/multiInject.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/decorators/named.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/decorators/optional.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/decorators/postConstruct.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/decorators/preDestroy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/decorators/tagged.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/decorators/unmanaged.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/models/BaseClassElementMetadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/models/BaseResolvedValueElementMetadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/models/ClassElementMetadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/models/ClassElementMetadataKind.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/models/ClassMetadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/models/ClassMetadataLifecycle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/models/InjectFromBaseOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/models/InjectFromOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/models/ManagedClassElementMetadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/models/MaybeClassElementMetadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/models/MaybeClassElementMetadataKind.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/models/MaybeClassMetadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/models/MaybeManagedClassElementMetadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/models/MetadataName.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/models/MetadataTag.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/models/ResolvedValueElementMetadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/models/ResolvedValueElementMetadataKind.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/models/ResolvedValueMetadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/metadata/models/UnmanagedClassElementMetadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/planning/calculations/buildFilteredServiceBindings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/planning/calculations/checkPlanServiceRedirectionBindingNodeSingleInjectionBindings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/planning/calculations/checkServiceNodeSingleInjectionBindings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/planning/calculations/handlePlanError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/planning/calculations/isInstanceBindingNode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/planning/calculations/isPlanServiceRedirectionBindingNode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/planning/calculations/plan.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/planning/calculations/throwErrorWhenUnexpectedBindingsAmountFound.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/planning/models/BaseBindingNode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/planning/models/BasePlanParams.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/planning/models/BasePlanParamsAutobindOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/planning/models/BindingNodeParent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/planning/models/InstanceBindingNode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/planning/models/LeafBindingNode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/planning/models/PlanBindingNode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/planning/models/PlanParams.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/planning/models/PlanParamsConstraint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/planning/models/PlanParamsTagConstraint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/planning/models/PlanResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/planning/models/PlanServiceNode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/planning/models/PlanServiceNodeParent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/planning/models/PlanServiceRedirectionBindingNode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/planning/models/PlanTree.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/planning/models/ResolvedValueBindingNode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/planning/models/SubplanParams.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/planning/services/PlanResultCacheService.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/reflectMetadata/data/classIsInjectableFlagReflectKey.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/reflectMetadata/data/classMetadataReflectKey.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/reflectMetadata/data/pendingClassMetadataCountReflectKey.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/reflectMetadata/data/typescriptDesignParameterTypesReflectKey.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/resolution/actions/cacheResolvedValue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/resolution/actions/resolve.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/resolution/actions/resolveBindingActivations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/resolution/actions/resolveBindingDeactivations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/resolution/actions/resolveBindingPreDestroy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/resolution/actions/resolveBindingServiceActivations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/resolution/actions/resolveBindingServiceDeactivations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/resolution/actions/resolveBindingsDeactivations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/resolution/actions/resolveConstantValueBinding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/resolution/actions/resolveDynamicValueBinding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/resolution/actions/resolveFactoryBinding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/resolution/actions/resolveInstanceBindingConstructorParams.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/resolution/actions/resolveInstanceBindingNode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/resolution/actions/resolveInstanceBindingNodeAsyncFromConstructorParams.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/resolution/actions/resolveInstanceBindingNodeFromConstructorParams.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/resolution/actions/resolveModuleDeactivations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/resolution/actions/resolvePostConstruct.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/resolution/actions/resolveProviderBinding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/resolution/actions/resolveResolvedValueBindingNode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/resolution/actions/resolveResolvedValueBindingParams.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/resolution/actions/resolveScoped.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/resolution/actions/resolveScopedBinding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/resolution/actions/resolveScopedInstanceBindingNode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/resolution/actions/resolveScopedResolvedValueBindingNode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/resolution/actions/resolveServiceDeactivations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/resolution/actions/resolveServiceRedirectionBindingNode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/resolution/actions/resolveSingletonScopedBinding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/resolution/actions/setInstanceProperties.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/resolution/calculations/getInstanceNodeBinding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/resolution/calculations/getResolvedValueNodeBinding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/resolution/calculations/resolveConstantValueBindingCallback.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/resolution/calculations/resolveDynamicValueBindingCallback.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/resolution/calculations/resolveFactoryBindingCallback.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/resolution/calculations/resolveProviderBindingCallback.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/resolution/models/DeactivationParams.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/resolution/models/GetOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/resolution/models/GetOptionsTagConstraint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/resolution/models/OptionalGetOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/resolution/models/ResolutionContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/resolution/models/ResolutionParams.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/resolution/models/Resolved.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/symbol/calculations/getDescription.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/index.js",
+      "obfuscated": true
+    }
+  ]
+}

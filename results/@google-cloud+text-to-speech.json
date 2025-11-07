@@ -1,0 +1,38 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@google-cloud+text-to-speech/package",
+  "fileCount": 8,
+  "results": [
+    {
+      "file": "build/protos/protos.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/v1/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/v1/text_to_speech_client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/v1/text_to_speech_long_audio_synthesize_client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/v1beta1/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/v1beta1/text_to_speech_client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/v1beta1/text_to_speech_long_audio_synthesize_client.js",
+      "obfuscated": false
+    }
+  ]
+}

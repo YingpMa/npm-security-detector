@@ -1,0 +1,10 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/storyblok-js-client/package",
+  "fileCount": 1,
+  "results": [
+    {
+      "file": "dist/index.umd.js",
+      "obfuscated": true
+    }
+  ]
+}

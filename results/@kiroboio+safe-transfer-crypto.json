@@ -1,0 +1,10 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@kiroboio+safe-transfer-crypto/package",
+  "fileCount": 1,
+  "results": [
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    }
+  ]
+}

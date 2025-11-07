@@ -1,0 +1,74 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@lawrence666+le-util/package",
+  "fileCount": 17,
+  "results": [
+    {
+      "file": "babel.config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/main.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/Device.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Emitter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Load.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Num.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Regex.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Storage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/URL.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/funcs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/Device.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/Emitter.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/Storage.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/URL.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/funcs.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "webpack.config.js",
+      "obfuscated": false
+    }
+  ]
+}

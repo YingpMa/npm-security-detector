@@ -1,0 +1,38 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/util-http/package",
+  "fileCount": 8,
+  "results": [
+    {
+      "file": "dist/Constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/CustomError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clients/AxiosClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clients/FetchClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clients/HttpClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clients/UndiciClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clients/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    }
+  ]
+}

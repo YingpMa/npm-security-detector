@@ -1,0 +1,118 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@microsoft+eslint-plugin-sdl/package",
+  "fileCount": 28,
+  "results": [
+    {
+      "file": "config/angular.js",
+      "obfuscated": false
+    },
+    {
+      "file": "config/angularjs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "config/common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "config/electron.js",
+      "obfuscated": false
+    },
+    {
+      "file": "config/node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "config/react.js",
+      "obfuscated": false
+    },
+    {
+      "file": "config/typescript.js",
+      "obfuscated": false
+    },
+    {
+      "file": "contrib/eslint.config.recommended.js",
+      "obfuscated": false
+    },
+    {
+      "file": "contrib/eslint.config.required.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ast-utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-angular-bypass-sanitizer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-angular-sanitization-trusted-urls.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-angularjs-bypass-sce.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-angularjs-enable-svg.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-angularjs-sanitization-whitelist.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-cookies.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-document-domain.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-document-write.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-electron-node-integration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-html-method.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-inner-html.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-insecure-random.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-insecure-url.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-msapp-exec-unsafe.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-postmessage-star-origin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-unsafe-alloc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-winjs-html-unsafe.js",
+      "obfuscated": false
+    }
+  ]
+}

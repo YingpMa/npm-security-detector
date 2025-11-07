@@ -1,0 +1,110 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/recombee-js-api-client/package",
+  "fileCount": 26,
+  "results": [
+    {
+      "file": "dist/recombee-api-client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/recombee-api-client.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/api-client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/errors/api-error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/errors/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/errors/response-error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/errors/timeout-error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/requests/add-bookmark.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/requests/add-cart-addition.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/requests/add-detail-view.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/requests/add-purchase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/requests/add-rating.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/requests/batch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/requests/merge-users.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/requests/recommend-item-segments-to-item-segment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/requests/recommend-item-segments-to-item.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/requests/recommend-item-segments-to-user.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/requests/recommend-items-to-item-segment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/requests/recommend-items-to-item.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/requests/recommend-items-to-user.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/requests/recommend-next-items.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/requests/request.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/requests/search-item-segments.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/requests/search-items.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/requests/set-view-portion.js",
+      "obfuscated": false
+    }
+  ]
+}

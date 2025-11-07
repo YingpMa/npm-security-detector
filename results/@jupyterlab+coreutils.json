@@ -1,0 +1,54 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@jupyterlab+coreutils/package",
+  "fileCount": 12,
+  "results": [
+    {
+      "file": "lib/activitymonitor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/interfaces.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/lru.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/markdowncodeblocks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/pageconfig.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/path.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/signal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/testutils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/text.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/time.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/url.js",
+      "obfuscated": false
+    }
+  ]
+}

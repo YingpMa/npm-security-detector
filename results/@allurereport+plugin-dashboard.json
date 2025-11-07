@@ -1,0 +1,42 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@allurereport+plugin-dashboard/package",
+  "fileCount": 9,
+  "results": [
+    {
+      "file": "dist/charts/severityTrend.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/charts/statusPie.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/charts/statusTrend.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/generators.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/model.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/trend.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/writer.js",
+      "obfuscated": false
+    }
+  ]
+}

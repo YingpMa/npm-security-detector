@@ -1,0 +1,50 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/prettier-plugin-two-style-order/package",
+  "fileCount": 11,
+  "results": [
+    {
+      "file": "src/config/factory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/config/sorter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/groups/animation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/groups/border.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/groups/boxModel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/groups/misc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/groups/positioning.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/groups/special.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/groups/typography.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/groups/visual.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    }
+  ]
+}

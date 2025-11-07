@@ -1,0 +1,90 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@react-native-kakao+core/package",
+  "fileCount": 21,
+  "results": [
+    {
+      "file": "app.plugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "expo-config-plugin/build/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "expo-config-plugin/build/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "expo-config-plugin/build/withAndroid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "expo-config-plugin/build/withIos.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/index.web.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/spec/NativeKakaoCore.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/util/kAssert.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/util/kCreateWebError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/util/kFetch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/util/kGlobalStorage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/util/kRunWebAPI.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/index.web.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/spec/NativeKakaoCore.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/util/kAssert.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/util/kCreateWebError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/util/kFetch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/util/kGlobalStorage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/util/kRunWebAPI.js",
+      "obfuscated": false
+    }
+  ]
+}

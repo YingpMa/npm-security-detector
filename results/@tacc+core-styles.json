@@ -1,0 +1,46 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@tacc+core-styles/package",
+  "fileCount": 10,
+  "results": [
+    {
+      "file": "dist/_utils/js/open-ext-links-in-new-window.js",
+      "obfuscated": false
+    },
+    {
+      "file": "fractal.config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "fractal.theme.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/bin/build-styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/bin/build-tokens.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/bin/config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/bin/version.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/cli.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib/_utils/js/open-ext-links-in-new-window.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/main.js",
+      "obfuscated": false
+    }
+  ]
+}

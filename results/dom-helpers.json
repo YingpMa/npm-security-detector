@@ -1,0 +1,462 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/dom-helpers/package",
+  "fileCount": 114,
+  "results": [
+    {
+      "file": "cjs/activeElement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/addClass.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/addEventListener.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/animate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/animationFrame.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/attribute.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/camelize.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/camelizeStyle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/canUseDOM.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/childElements.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/childNodes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/clear.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/closest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/collectElements.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/collectSiblings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/contains.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/css.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/filterEventHandler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/getComputedStyle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/getScrollAccessor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/hasClass.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/height.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/hyphenate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/hyphenateStyle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/insertAfter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/isDocument.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/isInput.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/isTransform.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/isVisible.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/isWindow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/listen.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/matches.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/nextUntil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/offset.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/offsetParent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/ownerDocument.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/ownerWindow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/parents.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/position.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/prepend.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/querySelectorAll.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/remove.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/removeClass.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/removeEventListener.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/scrollLeft.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/scrollParent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/scrollTo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/scrollTop.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/scrollbarSize.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/siblings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/text.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/toggleClass.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/transitionEnd.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/triggerEvent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/width.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/activeElement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/addClass.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/addEventListener.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/animate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/animationFrame.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/attribute.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/camelize.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/camelizeStyle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/canUseDOM.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/childElements.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/childNodes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/clear.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/closest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/collectElements.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/collectSiblings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/contains.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/css.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/filterEventHandler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/getComputedStyle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/getScrollAccessor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/hasClass.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/height.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/hyphenate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/hyphenateStyle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/insertAfter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/isDocument.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/isInput.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/isTransform.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/isVisible.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/isWindow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/listen.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/matches.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/nextUntil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/offset.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/offsetParent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/ownerDocument.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/ownerWindow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/parents.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/position.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/prepend.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/querySelectorAll.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/remove.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/removeClass.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/removeEventListener.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/scrollLeft.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/scrollParent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/scrollTo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/scrollTop.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/scrollbarSize.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/siblings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/text.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/toggleClass.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/transitionEnd.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/triggerEvent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/width.js",
+      "obfuscated": false
+    }
+  ]
+}

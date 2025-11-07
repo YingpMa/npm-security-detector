@@ -1,0 +1,22 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@react-native-ohos+react-native-wechat-lib/package",
+  "fileCount": 4,
+  "results": [
+    {
+      "file": "lib/commonjs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/specs/NativeRNWechatLibModule.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/specs/NativeRNWechatLibModule.js",
+      "obfuscated": false
+    }
+  ]
+}

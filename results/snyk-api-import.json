@@ -1,0 +1,382 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/snyk-api-import/package",
+  "fileCount": 94,
+  "results": [
+    {
+      "file": "dist/cmds/import.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cmds/import:data.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cmds/list:imported.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cmds/orgs:create.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cmds/orgs:data.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cmds/sync.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/generate-target-id.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/api/feature-flags/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/api/group/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/api/import/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/api/import/request-with-rate-limit.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/api/org/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/api/poll-import/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/api/project/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/delete-directory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/filter-out-existing-orgs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/find-files.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/get-api-token.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/get-concurrent-imports-number.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/get-import-path.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/get-logging-path.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/get-snyk-host.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/git-clone.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/limiters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/project/update-branch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/request-with-rate-limit.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/source-handlers/azure/get-azure-token.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/source-handlers/azure/get-base-url.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/source-handlers/azure/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/source-handlers/azure/list-projects.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/source-handlers/azure/list-repos.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/source-handlers/azure/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/source-handlers/bitbucket-cloud/get-bitbucket-cloud-password.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/source-handlers/bitbucket-cloud/get-bitbucket-cloud-username.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/source-handlers/bitbucket-cloud/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/source-handlers/bitbucket-cloud/list-repos.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/source-handlers/bitbucket-cloud/list-workspaces.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/source-handlers/bitbucket-cloud/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/source-handlers/bitbucket-cloud/workspace-is-empty.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/source-handlers/bitbucket-server/get-bitbucket-server-token.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/source-handlers/bitbucket-server/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/source-handlers/bitbucket-server/list-projects.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/source-handlers/bitbucket-server/list-repos.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/source-handlers/bitbucket-server/project-is-empty.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/source-handlers/bitbucket-server/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/source-handlers/github/get-github-token.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/source-handlers/github/get-repo-metadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/source-handlers/github/git-clone-url.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/source-handlers/github/github-base-url.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/source-handlers/github/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/source-handlers/github/is-configured.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/source-handlers/github/list-organizations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/source-handlers/github/list-repos.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/source-handlers/github/organization-is-empty.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/source-handlers/github/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/source-handlers/gitlab/get-base-url.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/source-handlers/gitlab/get-token.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/source-handlers/gitlab/group-is-empty.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/source-handlers/gitlab/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/source-handlers/gitlab/list-groups.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/source-handlers/gitlab/list-repos.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/source-handlers/gitlab/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/supported-project-types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/supported-project-types/supported-manifests.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/load-file.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/loggers/log-created-org.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/loggers/log-failed-imports.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/loggers/log-failed-org.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/loggers/log-failed-polls.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/loggers/log-failed-projects.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/loggers/log-failed-sync.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/loggers/log-failed-to-update-projects.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/loggers/log-import-jobs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/loggers/log-imported-batch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/loggers/log-imported-projects.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/loggers/log-imported-targets.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/loggers/log-job-result.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/loggers/log-updated-project.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/scripts/create-orgs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/scripts/generate-imported-targets-from-snyk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/scripts/generate-org-data.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/scripts/generate-targets-data.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/scripts/import-projects.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/scripts/sync/clone-and-analyze.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/scripts/sync/generate-projects-diff-actions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/scripts/sync/import-target.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/scripts/sync/sync-org-projects.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/scripts/sync/sync-projects-per-target.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/stream-data.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/write-file.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/filepond-plugin-image-resize/package",
+  "fileCount": 4,
+  "results": [
+    {
+      "file": "dist/filepond-plugin-image-resize.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/filepond-plugin-image-resize.esm.min.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/filepond-plugin-image-resize.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/filepond-plugin-image-resize.min.js",
+      "obfuscated": false
+    }
+  ]
+}

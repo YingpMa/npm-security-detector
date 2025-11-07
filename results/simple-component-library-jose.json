@@ -1,0 +1,106 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/simple-component-library-jose/package",
+  "fileCount": 25,
+  "results": [
+    {
+      "file": "dist/components/callToApi/FetchDataStart.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/components/IconOptionMap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/components/SliderProfiles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/components/layerInfo/LayerInfo2.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/components/layers/BottomData.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/components/layers/Layers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/components/map/LoadScritps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/components/map/Map.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/components/map/dataSelect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/components/map/dataSelectDistribution.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/components/markers/markersVehicle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/components/markers/markersVehicle2.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/components/vehiclePopUpInfo/PopUpDeviceInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/components/vehiclePopUpInfo/PopUpInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/graphqlRealTimeDevices/aws-exports.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/graphqlRealTimeDevices/mutations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/graphqlRealTimeDevices/queries.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/graphqlRealTimeDevices/subscriptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/graphqlUsers/aws-exports.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/graphqlUsers/mutations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/graphqlUsers/queries.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/graphqlUsers/subscriptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/scripts/bootstrap.min.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    }
+  ]
+}

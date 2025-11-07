@@ -1,0 +1,26 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/mdast-util-toc/package",
+  "fileCount": 5,
+  "results": [
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/contents.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/search.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/to-expression.js",
+      "obfuscated": false
+    }
+  ]
+}

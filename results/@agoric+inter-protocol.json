@@ -1,0 +1,246 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@agoric+inter-protocol/package",
+  "fileCount": 60,
+  "results": [
+    {
+      "file": "scripts/build-bundles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/auction/auctionBook.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/auction/auctionMath.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/auction/auctioneer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/auction/offerBook.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/auction/params.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/auction/scheduleMath.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/auction/scheduler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/auction/sortedOffers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/auction/util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/clientSupport.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/collectFees.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/contractSupport.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/econCommitteeCharter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/feeDistributor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/interest-math.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/interest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/price/fluxAggregatorContract.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/price/fluxAggregatorKit.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/price/priceOracleKit.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/price/roundsManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/proposals/add-auction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/proposals/addAssetToVault.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/proposals/committee-proposal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/proposals/core-proposal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/proposals/deploy-price-feeds.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/proposals/econ-behaviors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/proposals/price-feed-proposal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/proposals/replace-fee-distributor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/proposals/replace-scaledPriceAuthorities.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/proposals/replaceElectorate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/proposals/startEconCommittee.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/proposals/startPSM.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/proposals/upgrade-scaledPriceAuthorities.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/proposals/upgrade-vaults.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/proposals/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/provisionPool.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/provisionPoolKit.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/psm/psm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/psm/types-ambient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/reserve/assetReserve.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/reserve/assetReserveKit.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/reserve/params.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tokens.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/vaultFactory/burn.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/vaultFactory/liquidation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/vaultFactory/math.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/vaultFactory/orderedVaultStore.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/vaultFactory/params.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/vaultFactory/prioritizedVaults.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/vaultFactory/proceeds.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/vaultFactory/storeUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/vaultFactory/types-ambient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/vaultFactory/vault.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/vaultFactory/vaultDirector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/vaultFactory/vaultFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/vaultFactory/vaultHolder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/vaultFactory/vaultKit.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/vaultFactory/vaultManager.js",
+      "obfuscated": false
+    }
+  ]
+}

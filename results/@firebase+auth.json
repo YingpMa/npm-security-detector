@@ -1,0 +1,106 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@firebase+auth/package",
+  "fileCount": 25,
+  "results": [
+    {
+      "file": "dist/browser-cjs/index-9876a932.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/browser-cjs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/browser-cjs/internal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cordova/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cordova/internal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cordova/popup_redirect-d5877227.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/index-3ff03aee.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/index.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/esm/internal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.webworker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/internal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/totp-17b5dbb1.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node-esm/index.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/node-esm/internal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node-esm/totp-f59a899d.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rn/index-38cffaf4.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rn/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rn/internal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web-extension-cjs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web-extension-cjs/internal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web-extension-cjs/register-cb09361e.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web-extension-esm/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web-extension-esm/internal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/web-extension-esm/register-b09a8cba.js",
+      "obfuscated": false
+    }
+  ]
+}

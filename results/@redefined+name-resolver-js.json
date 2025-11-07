@@ -1,0 +1,106 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@redefined+name-resolver-js/package",
+  "fileCount": 25,
+  "results": [
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/models/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/redefined.resolver.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/services/abis/redefined-email-resolver.abi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/services/abis/redefined-nickname-resolver.abi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/services/email.service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/services/proxies/bulk-resolver.service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/services/resolvers/bonfida-resolver.service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/services/resolvers/ens-resolver.service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/services/resolvers/lens-resolver.service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/services/resolvers/redefined-email-resolver.service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/services/resolvers/redefined-resolver.service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/services/resolvers/redefined-username-resolver.service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/services/resolvers/resolver.service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/services/resolvers/sid-resolver.service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/services/resolvers/unstoppable-resolver.service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/services/web3/evm-web3.service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/services/web3/sol-web3.service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/tests/moks/siddomains.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/tests/moks/web3.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/tests/setup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/tests/test-fixtures/config-resolvers-response.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/tests/test-fixtures/custom-resolver.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/tests/unit/redefined.resolver.spec.js",
+      "obfuscated": false
+    }
+  ]
+}

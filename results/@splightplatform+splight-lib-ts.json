@@ -1,0 +1,14 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@splightplatform+splight-lib-ts/package",
+  "fileCount": 2,
+  "results": [
+    {
+      "file": "dist/index.global.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    }
+  ]
+}

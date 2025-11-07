@@ -1,0 +1,10 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@asamuzakjp+nwsapi/package",
+  "fileCount": 1,
+  "results": [
+    {
+      "file": "src/nwsapi.js",
+      "obfuscated": false
+    }
+  ]
+}

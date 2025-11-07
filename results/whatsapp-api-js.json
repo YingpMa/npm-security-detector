@@ -1,0 +1,130 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/whatsapp-api-js/package",
+  "fileCount": 31,
+  "results": [
+    {
+      "file": "lib/emitters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/messages/contacts.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/messages/globals.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/messages/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/messages/interactive.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/messages/location.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/messages/media.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/messages/reaction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/messages/template.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/messages/text.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/middleware/adonis.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/middleware/azure.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/middleware/bun.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/middleware/deno.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/middleware/express.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/middleware/globals.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/middleware/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/middleware/next.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/middleware/node-http.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/middleware/sveltekit.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/middleware/vercel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/middleware/web-standard.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/setup/bun.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/setup/deno.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/setup/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/setup/node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/setup/web.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils.js",
+      "obfuscated": false
+    }
+  ]
+}

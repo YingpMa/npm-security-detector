@@ -1,0 +1,10 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@jshomee+js-ai/package",
+  "fileCount": 1,
+  "results": [
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    }
+  ]
+}

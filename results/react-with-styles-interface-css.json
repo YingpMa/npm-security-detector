@@ -1,0 +1,74 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/react-with-styles-interface-css/package",
+  "fileCount": 17,
+  "results": [
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/getClassName.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/registerCSSInterfaceNamespace.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/registerMaxSpecificity.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/separateStyles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "jest.config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/getClassName.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/registerCSSInterfaceNamespace.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/registerMaxSpecificity.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/separateStyles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/interface_test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/utils/getClassName_test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/utils/separateStyles_test.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/eform-common-util/package",
+  "fileCount": 40,
+  "results": [
+    {
+      "file": "dist/array.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/aws.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/color.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/externalApi/external.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/items.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/mobile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/number.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/payment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/properties/CommonBuilderProperties.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/request.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/type/ApiAccessKeyPriceKindType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/type/BuilderItemType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/type/ExternalApiType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/type/FormSendType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/type/FormWriteStatusType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/type/JobNameType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/type/PaymentStatusType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/type/SendMethodType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/validation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/array.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/aws.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/color.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/externalApi/external.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/items.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/mobile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/number.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/payment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/properties/CommonBuilderProperties.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/request.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/type/ApiAccessKeyPriceKindType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/type/BuilderItemType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/type/ExternalApiType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/type/FormSendType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/type/FormWriteStatusType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/type/JobNameType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/type/PaymentStatusType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/type/SendMethodType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/validation.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@zilliz+milvus2-sdk-node/package",
+  "fileCount": 52,
+  "results": [
+    {
+      "file": "dist/milvus/HttpClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/MilvusClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/const/client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/const/defaults.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/const/error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/const/highLevel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/const/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/const/limits.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/const/milvus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/grpc/BaseClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/grpc/Collection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/grpc/Data.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/grpc/Database.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/grpc/GrpcClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/grpc/MilvusIndex.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/grpc/Partition.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/grpc/Resource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/grpc/User.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/http/Alias.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/http/Collection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/http/Import.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/http/MilvusIndex.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/http/Partition.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/http/Role.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/http/User.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/http/Vector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/http/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/proto-json/milvus.base.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/proto-json/milvus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/proto-json/schema.base.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/types/Client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/types/Collection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/types/Common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/types/Data.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/types/Database.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/types/HighLevel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/types/Http.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/types/MilvusIndex.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/types/Partition.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/types/Resource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/types/Response.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/types/User.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/utils/Bytes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/utils/Format.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/utils/Function.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/utils/Grpc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/utils/Validate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/utils/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/milvus/utils/logger.js",
+      "obfuscated": false
+    }
+  ]
+}

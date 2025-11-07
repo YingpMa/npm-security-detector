@@ -1,0 +1,34 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@turnkey+api-key-stamper/package",
+  "fileCount": 7,
+  "results": [
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/nodecrypto.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/purejs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/tink/bytes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/tink/elliptic_curves.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/webcrypto.js",
+      "obfuscated": false
+    }
+  ]
+}

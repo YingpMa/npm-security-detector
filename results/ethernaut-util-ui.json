@@ -1,0 +1,34 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/ethernaut-util-ui/package",
+  "fileCount": 7,
+  "results": [
+    {
+      "file": "coverage/lcov-report/block-navigation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "coverage/lcov-report/prettify.js",
+      "obfuscated": true
+    },
+    {
+      "file": "coverage/lcov-report/sorter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/fixture-projects/basic-project/hardhat.config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/setup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/tasks/replace.me.test.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,750 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/browserstack-node-sdk/package",
+  "fileCount": 186,
+  "results": [
+    {
+      "file": "ats/src/cloudproviders/AWS.js",
+      "obfuscated": true
+    },
+    {
+      "file": "ats/src/cloudproviders/Azure.js",
+      "obfuscated": true
+    },
+    {
+      "file": "ats/src/cloudproviders/CloudProvider.js",
+      "obfuscated": true
+    },
+    {
+      "file": "ats/src/cloudproviders/GoogleCloudProvider.js",
+      "obfuscated": true
+    },
+    {
+      "file": "ats/src/cloudproviders/utils.js",
+      "obfuscated": true
+    },
+    {
+      "file": "ats/src/commands/configure.js",
+      "obfuscated": true
+    },
+    {
+      "file": "ats/src/commands/connect.js",
+      "obfuscated": true
+    },
+    {
+      "file": "ats/src/commands/connect_commands/grid.js",
+      "obfuscated": true
+    },
+    {
+      "file": "ats/src/commands/create.js",
+      "obfuscated": true
+    },
+    {
+      "file": "ats/src/commands/create_commands/grid.js",
+      "obfuscated": true
+    },
+    {
+      "file": "ats/src/commands/delete.js",
+      "obfuscated": true
+    },
+    {
+      "file": "ats/src/commands/delete_commands/grid.js",
+      "obfuscated": true
+    },
+    {
+      "file": "ats/src/commands/init.js",
+      "obfuscated": true
+    },
+    {
+      "file": "ats/src/commands/list.js",
+      "obfuscated": true
+    },
+    {
+      "file": "ats/src/commands/list_commands/grid_profiles.js",
+      "obfuscated": true
+    },
+    {
+      "file": "ats/src/commands/list_commands/grids.js",
+      "obfuscated": true
+    },
+    {
+      "file": "ats/src/commands/precheck.js",
+      "obfuscated": true
+    },
+    {
+      "file": "ats/src/commands/precheck_commands/setup_precheck.js",
+      "obfuscated": true
+    },
+    {
+      "file": "ats/src/commands/start.js",
+      "obfuscated": true
+    },
+    {
+      "file": "ats/src/commands/start_commands/grid.js",
+      "obfuscated": true
+    },
+    {
+      "file": "ats/src/commands/stop.js",
+      "obfuscated": true
+    },
+    {
+      "file": "ats/src/commands/stop_commands/grid.js",
+      "obfuscated": true
+    },
+    {
+      "file": "ats/src/config/constants.js",
+      "obfuscated": true
+    },
+    {
+      "file": "ats/src/config/logger.js",
+      "obfuscated": true
+    },
+    {
+      "file": "ats/src/index.js",
+      "obfuscated": true
+    },
+    {
+      "file": "ats/src/utils/AWSUtils.js",
+      "obfuscated": true
+    },
+    {
+      "file": "ats/src/utils/createAutoscalerStack.js",
+      "obfuscated": true
+    },
+    {
+      "file": "ats/src/utils/createClusterStack.js",
+      "obfuscated": true
+    },
+    {
+      "file": "ats/src/utils/createHubHaStack.js",
+      "obfuscated": true
+    },
+    {
+      "file": "ats/src/utils/createk8sClient.js",
+      "obfuscated": true
+    },
+    {
+      "file": "ats/src/utils/deleteEFSMountTargets.js",
+      "obfuscated": true
+    },
+    {
+      "file": "ats/src/utils/deleteStack.js",
+      "obfuscated": true
+    },
+    {
+      "file": "ats/src/utils/describeStack.js",
+      "obfuscated": true
+    },
+    {
+      "file": "ats/src/utils/gridComponents.js",
+      "obfuscated": true
+    },
+    {
+      "file": "ats/src/utils/hstUtils.js",
+      "obfuscated": true
+    },
+    {
+      "file": "ats/src/utils/instrumentationUtils.js",
+      "obfuscated": true
+    },
+    {
+      "file": "ats/src/utils/userInput.js",
+      "obfuscated": true
+    },
+    {
+      "file": "ats/src/utils/utilityMethods.js",
+      "obfuscated": true
+    },
+    {
+      "file": "ats/src/utils/webSocketUtils.js",
+      "obfuscated": true
+    },
+    {
+      "file": "generated/sdk-messages-accessibility_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "generated/sdk-messages-accessibility_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "generated/sdk-messages-ai_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "generated/sdk-messages-ai_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "generated/sdk-messages-observability_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "generated/sdk-messages-observability_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "generated/sdk-messages-percy_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "generated/sdk-messages-percy_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "generated/sdk-messages-testhub_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "generated/sdk-messages-testhub_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "generated/sdk-messages_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "generated/sdk-messages_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "generated/sdk_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "generated/sdk_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ai-sdk-node/bundle.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/codeceptjs/BrowserStackPlugin.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/codeceptjs/command.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/codeceptjs/helper.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/codeceptjs/o11yHelper.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/cucumber-js/command.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/cucumber-js/formatter/custom_formatter.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/cucumber-js/formatter/custom_formatter_old_versions.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/cucumber-js/test-observability.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/cucumber-js/test.setup.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/cucumber-js/test_old.setup.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/cucumber-js/timeout.setup.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/integrations/command.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/integrations/constants.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/jest/command.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/jest/customImplements/customCircus.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/jest/customImplements/customEnvironment.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/jest/customImplements/customJestAdapterInit.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/jest/customImplements/customSequencer.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/jest/customImplements/customTestRunnerTemplate.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/jest/jest.setup.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/jest/test-observability/data-hooks.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/jest/test-observability/helper.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/jest/test-observability/obsReporter.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/jest/test-observability/test-details.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/jest/test_before.setup.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/launcher/launcher.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/load/index.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/load/load/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/bin/load/load/loadUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/bin/load/loadUtils.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/mocha/accessibility-automation/helper.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/mocha/bstack-reporter/customReporter.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/mocha/command.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/mocha/test-observability/builderPatch.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/mocha/test-observability/data-hooks.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/mocha/test-observability/mochaUtils.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/mocha/test.setup.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/nightwatch/command.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/playwright/accessibility-helper.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/playwright/command.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/playwright/globalSetup.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/playwright/mock-process.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/playwright/modifyPlaywrightConf.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/playwright/patches.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/playwright/reporter/pwUtils.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/playwright/reporter/reporter.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/playwright/reporter/test-details.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/playwright/sessionDetails.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/runner.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/setup.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/test-runner/index.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/test-runner/runTest.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/test-runner/testWorker.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/utils/constants.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/utils/log4jsAppender.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/utils/logPatcher.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/utils/logReportingAPI.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/v2/TestInfo.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/v2/browserstackCLI.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/v2/cliUtils.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/v2/customTagManager.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/v2/eventDispatcher.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/v2/framework/automationFramework.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/v2/framework/playwrightAutomationFramework.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/v2/framework/playwrightTestFramework.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/v2/framework/testFramework.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/v2/grpcClient.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/v2/instances/automationFrameworkInstance.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/v2/instances/testFrameworkInstance.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/v2/instances/trackedContext.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/v2/instances/trackedInstance.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/v2/modules/accessibilityModule.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/v2/modules/baseModule.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/v2/modules/observabilityModule.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/v2/modules/playwrightDriverModule.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/v2/modules/testhubModule.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/v2/state/automationFrameworkState.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/v2/state/hookState.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/v2/state/testFrameworkState.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/v2/uploadAttachmentsManager.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/bin/vanilla-js/command.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/browserStackSdk.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/BrowserStackSetup.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/accessibility-automation/constants.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/accessibility-automation/helper.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/accessibility-automation/scripts.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/ai-sdk/aiSdkWrapper.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/ai-sdk/autoHealHelper.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/ats/constants.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/ats/helper.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/capsMapping.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/central-scanner/constants.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/central-scanner/helpers.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/classLogger.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/globals.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/helper.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/logger.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/metadata.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/patchHelper.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/patchHelpers.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/percy/Percy.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/percy/PercyBinary.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/percy/PercyCaptureMap.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/percy/PercyCaptureModes.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/percy/PercySDK.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/percy/index.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/percy/utils.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/performance/constants.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/performance/performance-tester.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/processHelper.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/request-spy.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/setKeepAlive.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/test-observability/constants.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/test-observability/error-handler.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/test-observability/requestQueueHandler.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/test-observability/sessionHandler.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/test-observability/utils.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/test-orchestration/constants.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/test-orchestration/failfastManager.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/test-orchestration/fileHelper.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/test-orchestration/orchestrationUtils.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/test-orchestration/requestUtils.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/test-orchestration/testOrchestrationHandler.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/test-orchestration/testOrderingServerHandler.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/testhub/constants.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/testhub/testhubHandler.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/testhub/utils.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/timeoutPromise.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/utilities.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/helpers/w3cMapping.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/hubAllocationMethods.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": true
+    }
+  ]
+}

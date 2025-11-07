@@ -1,0 +1,266 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@yichui+uni-contrib/package",
+  "fileCount": 65,
+  "results": [
+    {
+      "file": "dist/build/mp-toutiao/app.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/build/mp-toutiao/common/main.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/build/mp-toutiao/common/runtime.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/build/mp-toutiao/common/vendor.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/build/mp-toutiao/demo/App.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/build/mp-weixin/app.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/build/mp-weixin/common/main.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/build/mp-weixin/common/runtime.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/build/mp-weixin/common/vendor.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/build/mp-weixin/demo/App.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/dev/mp-toutiao/app.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/dev/mp-toutiao/common/main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/dev/mp-toutiao/common/runtime.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/dev/mp-toutiao/common/vendor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/dev/mp-toutiao/demo/App.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/dev/mp-weixin/app.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/dev/mp-weixin/common/main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/dev/mp-weixin/common/runtime.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/dev/mp-weixin/common/vendor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/dev/mp-weixin/demo/App.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/cms/api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/cms/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/cms/storeModules.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/mescroll-uni/mescroll-i18n.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/mescroll-uni/mescroll-mixins.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/mescroll-uni/mescroll-uni-option.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/mescroll-uni/mescroll-uni.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/mescroll-uni/mixins/mescroll-comp.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/mescroll-uni/mixins/mescroll-more-item.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/mescroll-uni/mixins/mescroll-more.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/mescroll-uni/wxs/mixins.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/mescroll-uni/wxs/renderjs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/mobile/debug.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/mobile/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/mobile/log.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/yi-list-wrap/mixins/scrollMixins.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/yi-mescroll-uni/mixins/scrollMixins.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/demo/packageDemo/mixins/previewAnnex.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/demo/store/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/filters/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/mall/api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/mall/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/mall/storeModules.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/mixins/authorize.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/mixins/bindPhone.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/mixins/getLaunchOptionsSync.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/mixins/watchAuto.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/msg/api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/msg/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/msg/storeModules.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/request/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/user/apiStaff.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/user/apiUser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/user/auth.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/user/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/user/storeModules.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/watcher.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/wx.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/wxSocket.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/wallet/api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/wallet/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/wallet/storeModules.js",
+      "obfuscated": false
+    }
+  ]
+}

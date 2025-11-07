@@ -1,0 +1,38 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/snyk-sbt-plugin/package",
+  "fileCount": 8,
+  "results": [
+    {
+      "file": "dist/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/parse-sbt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugin-search.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-process.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/tabdown.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/version.js",
+      "obfuscated": false
+    }
+  ]
+}

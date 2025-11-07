@@ -1,0 +1,22 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/effector-react/package",
+  "fileCount": 4,
+  "results": [
+    {
+      "file": "compat.js",
+      "obfuscated": true
+    },
+    {
+      "file": "effector-react.cjs.js",
+      "obfuscated": true
+    },
+    {
+      "file": "effector-react.umd.js",
+      "obfuscated": true
+    },
+    {
+      "file": "scope.js",
+      "obfuscated": true
+    }
+  ]
+}

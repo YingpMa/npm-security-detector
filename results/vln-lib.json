@@ -1,0 +1,382 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/vln-lib/package",
+  "fileCount": 94,
+  "results": [
+    {
+      "file": "base64.js",
+      "obfuscated": false
+    },
+    {
+      "file": "callback-hook.js",
+      "obfuscated": false
+    },
+    {
+      "file": "check.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/base64/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/callback-hook/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/check/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/check/isPlainObject.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/ejson/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/email/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/geojson-utils/geojson-utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/geojson-utils/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/helpers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/http/httpcall_client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/http/httpcall_common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/http/httpcall_server.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/id-map/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/localstorage/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/minimongo/helpers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/minimongo/id_map.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/minimongo/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/minimongo/minimongo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/minimongo/modify.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/minimongo/objectid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/minimongo/projection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/minimongo/selector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/minimongo/sort.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/minimongo/validation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/minimongo/wrap_transform.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/mongo/collection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/mongo/connection_options.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/mongo/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/mongo/local_collection_driver.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/mongo/mongo_driver.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/mongo/namespace.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/mongo/remote_collection_driver.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/mongo-id/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/mongodb-prebuilt/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/mongodb-prebuilt/mongo-bins.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/mongodb-prebuilt/mongod-helper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/mongodb-prebuilt/mongodb-download.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/mongodb-prebuilt/mongodb-prebuilt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/mongodb-prebuilt/mongodb-supervise.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/random/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/reactive-var/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/reload/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/schema/Schema.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/schema/SchemaGroup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/schema/ValidationContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/schema/clean/convertToProperType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/schema/clean/setAutoValues.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/schema/clean.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/schema/defaultMessages.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/schema/doValidation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/schema/expandShorthand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/schema/humanize.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/schema/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/schema/message-box.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/schema/mongo-object.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/schema/regExp.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/schema/utility.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/schema/validation/allowedValuesValidator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/schema/validation/doArrayChecks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/schema/validation/doDateChecks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/schema/validation/doNumberChecks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/schema/validation/doStringChecks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/schema/validation/requiredValidator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/schema/validation/typeValidator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/sha/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/string-utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/tracker/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/url/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ejson.js",
+      "obfuscated": false
+    },
+    {
+      "file": "email.js",
+      "obfuscated": false
+    },
+    {
+      "file": "errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "geojson-utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "helpers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "http-client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "http-server.js",
+      "obfuscated": false
+    },
+    {
+      "file": "id-map.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "localstorage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "minimongo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "mongo-id.js",
+      "obfuscated": false
+    },
+    {
+      "file": "mongo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "mongodb-prebuilt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "random.js",
+      "obfuscated": false
+    },
+    {
+      "file": "reactive-var.js",
+      "obfuscated": false
+    },
+    {
+      "file": "reload.js",
+      "obfuscated": false
+    },
+    {
+      "file": "schema.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sha.js",
+      "obfuscated": false
+    },
+    {
+      "file": "string-utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tracker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "url.js",
+      "obfuscated": false
+    }
+  ]
+}

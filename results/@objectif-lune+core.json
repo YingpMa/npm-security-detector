@@ -1,0 +1,534 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@objectif-lune+core/package",
+  "fileCount": 132,
+  "results": [
+    {
+      "file": "dist/api/common/CommonTypeChecks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/common/FileCommonTypeChecks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/common/FolderCommonTypeChecks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/common/common-types/FileUtilities.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/common/common-types/Logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/common/common-types/NamedProperties.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/common/common-types/NamedStringProperties.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/common/common-types/Rejecter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/common/common-types/Resolver.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/common/common-types/Scalar.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/common/common-types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/common/errors/CannotFlattenValue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/common/errors/ErrorWithCode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/common/errors/FeatureNotAvailable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/common/errors/InvalidProp.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/common/errors/MethodNotImplemented.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/common/errors/OLNodeError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/common/errors/OLNodeHandlerError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/common/errors/OLNodeHandlerErrorConstructor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/common/errors/OLNodeInputTypeCheckError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/common/errors/OLNodeInternalError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/common/errors/OperationCancelled.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/common/errors/ServerConfigNotFound.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/common/errors/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/common/flownode-type/FlowHandlerWithOlServer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/common/flownode-type/FlowNode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/common/flownode-type/FlowNodeUtil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/common/flownode-type/InputDefinition.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/common/flownode-type/NodeRedMessageIn.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/common/flownode-type/NodeRedMessageOut.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/common/flownode-type/TypeCheck.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/common/flownode-type/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/common/flownode-type/inputsFromPropertiesAndMessage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/common/flownode-type/validate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/common/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/common/stream/BufferWritable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/common/stream/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/common/validator/ValidatorSwitch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/common/validator/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/common/validator/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/common/validator/validator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/interfaces/http/HttpContentType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/interfaces/http/HttpResponseCodes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/interfaces/http/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/interfaces/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/interfaces/operations/ProgressEvents.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/interfaces/operations/ProgressStatus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/interfaces/operations/PromiseWithProgressEvents.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/api/interfaces/operations/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/ClientRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/ClientResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/buildConnectUrl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/middlewares/BearerAuthenticationMiddleware.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/middlewares/CookiesAuthenticationMiddleware.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/middlewares/InjectHeadersMiddleware.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/middlewares/LoggingMiddleware.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/middlewares/Options.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/middlewares/RetryHandlerMiddleware.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/middlewares/UnAuthorizedRetryHandlerMiddleware.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/middlewares/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/operations/ProgressEventsPromise.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/operations/ProgressingConnectOperation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/operations/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/requests/DeleteJsonRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/requests/DeleteRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/requests/GetRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/requests/HeadRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/requests/LoginRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/requests/PatchJsonRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/requests/PatchRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/requests/PostBufferRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/requests/PostFormDataRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/requests/PostFormRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/requests/PostJsonRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/requests/PostRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/requests/PostStreamRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/requests/PutFormDataRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/requests/PutJsonRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/requests/PutRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/requests/RestRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/requests/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/responses/AugmentedResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/responses/AugmentedRestResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/responses/ResponseBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/responses/ResponseBufferedBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/responses/ResponseStreamBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/responses/ResponseTokenBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/responses/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/rest-related-types/ConnectRestResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/rest-related-types/EndPointResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/rest-related-types/EndpointDefinition.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/rest-related-types/EndpointRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/rest-related-types/EndpointRequestDefinition.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/rest-related-types/EndpointResponseCallback.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/rest-related-types/FetchEndpointDefinition.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/rest-related-types/FileAttachment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/rest-related-types/ProgressingOperationDefinition.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/rest-related-types/RequestHeaders.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/rest-related-types/RestEndPointDefinition.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/rest-related-types/RestOperationLinks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/rest-related-types/RestRequestArguments.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/rest-related-types/RestResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/rest-related-types/RestResponseBodyConstructor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/rest-related-types/RestResponseHandlerResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/rest-related-types/RestServerErrorMessage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/rest-related-types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/rest-related-types/name-value-item/NameValueItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/rest-related-types/name-value-item/NameValueList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/rest-related-types/name-value-item/NameValuePropertiesListWithId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/rest-related-types/name-value-item/NameValuePropertiesListWithOptionalId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/rest-related-types/name-value-item/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rest/rest-related-types/rest-response/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utilities/FsUtilities.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utilities/RegexHelper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utilities/Util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utilities/http/fetch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utilities/http/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utilities/http/responseHandlers/HandleArrayBufferResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utilities/http/responseHandlers/HandleJsonResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utilities/http/responseHandlers/HandleTextResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utilities/http/responseHandlers/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utilities/http/restClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utilities/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utilities/logging/Logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utilities/logging/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utilities/logging/wrapLogger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utilities/string/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utilities/string/limit.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utilities/string/urlPathJoin.js",
+      "obfuscated": false
+    }
+  ]
+}

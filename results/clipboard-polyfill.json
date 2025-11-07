@@ -1,0 +1,34 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/clipboard-polyfill/package",
+  "fileCount": 7,
+  "results": [
+    {
+      "file": "dist/demo/demo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/demo/readme-examples/main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es5/overwrite-globals/clipboard-polyfill.overwrite-globals.es5.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es5/overwrite-globals/clipboard-polyfill.overwrite-globals.promise.es5.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es5/window-var/clipboard-polyfill.window-var.es5.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es5/window-var/clipboard-polyfill.window-var.promise.es5.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es6/clipboard-polyfill.es6.js",
+      "obfuscated": false
+    }
+  ]
+}

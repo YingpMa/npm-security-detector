@@ -1,0 +1,110 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/react-transition-group/package",
+  "fileCount": 26,
+  "results": [
+    {
+      "file": "cjs/CSSTransition.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/ReplaceTransition.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/SwitchTransition.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/Transition.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/TransitionGroup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/TransitionGroupContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/utils/ChildMapping.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/utils/PropTypes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/utils/SimpleSet.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/utils/reflow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/react-transition-group.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/react-transition-group.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "esm/CSSTransition.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/ReplaceTransition.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/SwitchTransition.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/Transition.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/TransitionGroup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/TransitionGroupContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/utils/ChildMapping.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/utils/PropTypes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/utils/SimpleSet.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/utils/reflow.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@roots+bud-extensions/package",
+  "fileCount": 22,
+  "results": [
+    {
+      "file": "lib/cdn/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/clean-webpack-plugin/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/copy-webpack-plugin/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/fix-style-only-entrypoints/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/fix-style-only-entrypoints/plugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/handleManifestSchemaWarning.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/isConstructor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/html-webpack-plugin/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/import-map/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/interpolate-html-webpack-plugin/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/interpolate-html-webpack-plugin/plugin/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/mini-css-extract-plugin/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/service/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/tsconfig-values/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/webpack-define-plugin/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/webpack-hot-module-replacement-plugin/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/webpack-lifecycle-plugin/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/webpack-manifest-plugin/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/webpack-profile-plugin/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/webpack-provide-plugin/index.js",
+      "obfuscated": false
+    }
+  ]
+}

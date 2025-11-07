@@ -1,0 +1,102 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@storybook+react-native/package",
+  "fileCount": 24,
+  "results": [
+    {
+      "file": "babel.config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bin/get-stories.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/metro/withStorybook.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/preview.js",
+      "obfuscated": false
+    },
+    {
+      "file": "jest.config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "metro/withStorybook.js",
+      "obfuscated": false
+    },
+    {
+      "file": "preset.js",
+      "obfuscated": false
+    },
+    {
+      "file": "preview.js",
+      "obfuscated": false
+    },
+    {
+      "file": "scripts/common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "scripts/generate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "scripts/generate.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "scripts/get-stories.js",
+      "obfuscated": false
+    },
+    {
+      "file": "scripts/handle-args.js",
+      "obfuscated": false
+    },
+    {
+      "file": "scripts/mocks/all-config-files/main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "scripts/mocks/all-config-files/preview.js",
+      "obfuscated": false
+    },
+    {
+      "file": "scripts/mocks/blank-config/main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "scripts/mocks/configuration-objects/main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "scripts/mocks/configuration-objects/preview.js",
+      "obfuscated": false
+    },
+    {
+      "file": "scripts/mocks/exclude-config-files/main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "scripts/mocks/exclude-config-files/preview.js",
+      "obfuscated": false
+    },
+    {
+      "file": "scripts/mocks/no-preview/main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "scripts/mocks/preview-files/js/preview.js",
+      "obfuscated": false
+    },
+    {
+      "file": "scripts/mocks/wrong-extension-preview/main.js",
+      "obfuscated": false
+    }
+  ]
+}

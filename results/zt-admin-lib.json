@@ -1,0 +1,122 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/zt-admin-lib/package",
+  "fileCount": 29,
+  "results": [
+    {
+      "file": "lib/zt-admin-lib.common.js",
+      "obfuscated": true
+    },
+    {
+      "file": "lib/zt-admin-lib.umd.js",
+      "obfuscated": true
+    },
+    {
+      "file": "lib/zt-admin-lib.umd.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/packages/assets/iconfont/iconfont.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/packages/components/BtnGroup/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/packages/components/Camera/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/packages/components/Empty/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/packages/components/IconBtnGroup/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/packages/components/Loading/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/packages/components/MessageBox/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/packages/components/PromptBox/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/packages/components/WaitBox/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/packages/components/ZtButton/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/packages/directives/clickoutside.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/packages/directives/dialogDrag.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/packages/directives/fixedScroll.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/packages/directives/formatNumber.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/packages/directives/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/packages/filters/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/packages/filters/toFixed2.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/packages/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/packages/store/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/packages/utils/event.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/packages/utils/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/packages/utils/indexDB.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/packages/utils/message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/packages/utils/number.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/packages/utils/object.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/packages/utils/tool.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@bitgrow+tmf-lib/package",
+  "fileCount": 2,
+  "results": [
+    {
+      "file": "dist/index.es.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    }
+  ]
+}

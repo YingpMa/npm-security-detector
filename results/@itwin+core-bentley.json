@@ -1,0 +1,318 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@itwin+core-bentley/package",
+  "fileCount": 78,
+  "results": [
+    {
+      "file": "lib/cjs/AccessToken.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/Assert.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/BeEvent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/BeSQLite.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/BentleyError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/BentleyLoggerCategory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/ByteStream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/ClassUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/Compare.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/CompressedId64Set.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/Dictionary.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/Disposable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/Id.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/IndexMap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/JsonSchema.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/JsonUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/LRUMap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/Logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/ObservableSet.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/OneAtATimeAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/OrderedId64Iterable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/OrderedSet.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/PriorityQueue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/ProcessDetector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/SortedArray.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/StatusCategory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/StringUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/Time.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/Tracing.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/TupleKeyedMap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/TypedArrayBuilder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/UnexpectedErrors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/UtilityTypes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/YieldManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/core-bentley.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/internal/BeSQLiteInternal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/internal/RepositoryStatus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/internal/cross-package.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/partitionArray.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/AccessToken.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/Assert.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/BeEvent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/BeSQLite.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/BentleyError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/BentleyLoggerCategory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/ByteStream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/ClassUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/Compare.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/CompressedId64Set.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/Dictionary.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/Disposable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/Id.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/IndexMap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/JsonSchema.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/JsonUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/LRUMap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/Logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/ObservableSet.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/OneAtATimeAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/OrderedId64Iterable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/OrderedSet.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/PriorityQueue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/ProcessDetector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/SortedArray.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/StatusCategory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/StringUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/Time.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/Tracing.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/TupleKeyedMap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/TypedArrayBuilder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/UnexpectedErrors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/UtilityTypes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/YieldManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/core-bentley.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/internal/BeSQLiteInternal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/internal/RepositoryStatus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/internal/cross-package.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/partitionArray.js",
+      "obfuscated": false
+    }
+  ]
+}

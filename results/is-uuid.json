@@ -1,0 +1,58 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/is-uuid/package",
+  "fileCount": 13,
+  "results": [
+    {
+      "file": "lib/is-uuid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "spec/any-non-nil-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "spec/nil-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "spec/support/v1-uuids.js",
+      "obfuscated": false
+    },
+    {
+      "file": "spec/support/v2-uuids.js",
+      "obfuscated": false
+    },
+    {
+      "file": "spec/support/v3-uuids.js",
+      "obfuscated": false
+    },
+    {
+      "file": "spec/support/v4-uuids.js",
+      "obfuscated": false
+    },
+    {
+      "file": "spec/support/v5-uuids.js",
+      "obfuscated": false
+    },
+    {
+      "file": "spec/v1-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "spec/v2-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "spec/v3-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "spec/v4-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "spec/v5-test.js",
+      "obfuscated": false
+    }
+  ]
+}

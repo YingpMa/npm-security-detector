@@ -1,0 +1,11 @@
+{
+  "pkg": "vite-plugin-webfont-dl",
+  "domains": [
+    "github.com",
+    "www.npmjs.com",
+    "registry.npmjs.org",
+    "35.3.16.104.in-addr.arpa"
+  ],
+  "vt": {},
+  "timestamp": "2025-11-06T18:32:51.487Z"
+}

@@ -1,0 +1,26 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@proficient+util/package",
+  "fileCount": 5,
+  "results": [
+    {
+      "file": "lib/api/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/makeRetriable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/registerInterval.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/sleep.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    }
+  ]
+}

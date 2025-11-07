@@ -1,0 +1,138 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/node-red-admin/package",
+  "fileCount": 33,
+  "results": [
+    {
+      "file": "lib/commands/disable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/enable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/hash.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/info.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/init/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/install.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/list.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/login.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/projects.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/remove.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/search.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/target.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/prompt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/request.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/result.js",
+      "obfuscated": false
+    },
+    {
+      "file": "node-red-admin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/lib/commands/disable_spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/lib/commands/enable_spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/lib/commands/hash_spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/lib/commands/info_spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/lib/commands/install_spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/lib/commands/list_spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/lib/commands/login_spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/lib/commands/remove_spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/lib/commands/result_helper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/lib/commands/search_spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/lib/commands/target_spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/lib/config_spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/lib/request_spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/lib/result_spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/node-red-admin_spec.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/eslint-import-resolver-babel-module/package",
+  "fileCount": 1,
+  "results": [
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    }
+  ]
+}

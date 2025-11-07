@@ -1,0 +1,254 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/jsedn/package",
+  "fileCount": 62,
+  "results": [
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "jsedn.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/atPath.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/atoms.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/collections.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/compile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/encode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/memo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/reader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/tags.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/tokens.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/unify.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/basic-list.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/character-vector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/commas-no-one-cares.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/comment-trailing.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/comment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/decimal-symbol.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/discard-entire-form.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/discard-in-vector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/discard-outside-form.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/discard-touching-item.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/discard-with-comment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/empty-list.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/false.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/keyword.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/map-with-vector-key.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/map.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/mixed-list.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/negative-symbol.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/nested-list.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/nil-keyed-map.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/nil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/numbers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/positive-symbol.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/set-with-list.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/set-with-map.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/set.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/string-with-bracket.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/string-with-escaped-backslash.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/string-with-escaped-newline.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/string-with-escaped-tab.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/string-with-quote.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/string.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/symbol-extra-colons.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/symbol-preceding-dot.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/symbol-slash.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/symbol-trailing-dot.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/symbol-truefalse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/symbol-vector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/symbol-with-dash.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/symbol-with-hash.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/symbol-with-slash.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/tag-inst.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/tag-unhandled.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/true.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/vector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/whitespace-blank.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/whitespace-comma.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/whitespace-single-space.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/edn-tests/platforms/js/whitespace-triple-space.js",
+      "obfuscated": false
+    }
+  ]
+}

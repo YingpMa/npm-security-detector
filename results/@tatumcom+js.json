@@ -1,0 +1,334 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@tatumcom+js/package",
+  "fileCount": 82,
+  "results": [
+    {
+      "file": "dist/src/api/api.dto.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/api/tatum.api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/connector/connector.dto.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/connector/tatum.connector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/dto/AddressEventNotificationChain.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/dto/Chain.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/dto/Currency.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/dto/JsonRpcCall.dto.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/dto/JsonRpcResponse.dto.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/dto/Network.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/dto/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/dto/rpc/AbstractJsonRpcInterface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/dto/rpc/EvmBasedRpcInterface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/dto/rpc/SolanaRpcSuite.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/dto/rpc/TronRpcSuite.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/dto/rpc/UtxoBasedRpcSuite.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/dto/rpc/XrpRpcSuite.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/dto/rpc/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/dto/shared.dto.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/dto/walletProvider/CreateErc1155NftCollection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/dto/walletProvider/CreateFungibleToken.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/dto/walletProvider/CreateNftCollection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/dto/walletProvider/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/e2e/e2e.constant.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/e2e/e2e.util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/e2e/rpc/evm.e2e.utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/e2e/rpc/rpc.e2e.utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/e2e/rpc/tatum.rpc.bitcoin.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/e2e/rpc/tatum.rpc.doge.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/e2e/rpc/tatum.rpc.ethereum.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/e2e/rpc/tatum.rpc.flare.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/e2e/rpc/tatum.rpc.haqq.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/e2e/rpc/tatum.rpc.litcoin.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/e2e/rpc/tatum.rpc.polygon.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/e2e/rpc/tatum.rpc.solana.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/e2e/rpc/tatum.rpc.tron.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/e2e/rpc/tatum.rpc.xrp.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/e2e/rpc/utxo.e2e.utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/e2e/tatum.address.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/e2e/tatum.fee.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/e2e/tatum.nft.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/e2e/tatum.notification.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/e2e/tatum.rates.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/e2e/tatum.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/e2e/tatum.token.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/service/address/address.dto.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/service/address/address.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/service/address/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/service/fee/fee.dto.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/service/fee/fee.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/service/fee/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/service/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/service/nft/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/service/nft/nft.dto.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/service/nft/nft.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/service/notification/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/service/notification/notification.dto.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/service/notification/notification.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/service/notification/subscribe.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/service/rate/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/service/rate/rates.dto.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/service/rate/rates.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/service/rpc/SolanaRpc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/service/rpc/TronRpc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/service/rpc/XrpRpc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/service/rpc/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/service/tatum/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/service/tatum/tatum.dto.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/service/tatum/tatum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/service/token/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/service/token/token.dto.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/service/token/token.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/service/walletProvider/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/service/walletProvider/metaMask.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/service/walletProvider/wallet.provider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/util/constant.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/util/di.tokens.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/util/error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/util/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/util/util.shared.js",
+      "obfuscated": false
+    }
+  ]
+}

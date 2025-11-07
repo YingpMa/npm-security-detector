@@ -1,0 +1,22 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/cim-gws-lib/package",
+  "fileCount": 4,
+  "results": [
+    {
+      "file": "lib/common/baseData.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common/config.js",
+      "obfuscated": true
+    },
+    {
+      "file": "lib/common/index.js",
+      "obfuscated": true
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": true
+    }
+  ]
+}

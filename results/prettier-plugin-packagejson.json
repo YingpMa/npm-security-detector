@@ -1,0 +1,26 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/prettier-plugin-packagejson/package",
+  "fileCount": 5,
+  "results": [
+    {
+      "file": "lib/esm-proxy/chain.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm-proxy/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm-proxy/worker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/require.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/sort-package-json.js",
+      "obfuscated": false
+    }
+  ]
+}

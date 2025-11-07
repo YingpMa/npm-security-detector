@@ -1,0 +1,50 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/mincu-lib/package",
+  "fileCount": 11,
+  "results": [
+    {
+      "file": "debug/dist/mincu-lib-debug.cjs.dev.js",
+      "obfuscated": false
+    },
+    {
+      "file": "debug/dist/mincu-lib-debug.cjs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "debug/dist/mincu-lib-debug.cjs.prod.js",
+      "obfuscated": false
+    },
+    {
+      "file": "debug/dist/mincu-lib-debug.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/mincu-lib.cjs.dev.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/mincu-lib.cjs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/mincu-lib.cjs.prod.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/mincu-lib.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils-05590286.cjs.prod.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils-2e12771e.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils-5dca7175.cjs.dev.js",
+      "obfuscated": false
+    }
+  ]
+}

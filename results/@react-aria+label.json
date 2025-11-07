@@ -1,0 +1,30 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@react-aria+label/package",
+  "fileCount": 6,
+  "results": [
+    {
+      "file": "dist/main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/useField.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/useField.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/useLabel.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/useLabel.module.js",
+      "obfuscated": false
+    }
+  ]
+}

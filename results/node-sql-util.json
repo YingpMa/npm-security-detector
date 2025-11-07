@@ -1,0 +1,22 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/node-sql-util/package",
+  "fileCount": 4,
+  "results": [
+    {
+      "file": "dist/getSelfPromise.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/onProcessKill.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sqlstring.js",
+      "obfuscated": false
+    }
+  ]
+}

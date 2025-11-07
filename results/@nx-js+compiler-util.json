@@ -1,0 +1,86 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@nx-js+compiler-util/package",
+  "fileCount": 20,
+  "results": [
+    {
+      "file": "dist/cjs.es5.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs.es5.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/cjs.es6.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs.es6.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/es.es5.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es.es5.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/es.es6.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es.es6.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "scripts/build.js",
+      "obfuscated": false
+    },
+    {
+      "file": "scripts/test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "scripts/testBuilds.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/compiler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/context.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/modifiers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/parser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/rawCompiler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/a_modifiers.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/compiler.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/context.test.js",
+      "obfuscated": false
+    }
+  ]
+}

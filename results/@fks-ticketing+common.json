@@ -1,0 +1,90 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@fks-ticketing+common/package",
+  "fileCount": 21,
+  "results": [
+    {
+      "file": "build/errors/bad.request.error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/errors/custom-error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/errors/database.connection.error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/errors/not-found-error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/errors/not.authorizaed.error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/errors/request.validation.error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/events/base.listener.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/events/base.publisher.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/events/expiration.complete.event.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/events/order.canceled.event.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/events/order.created.event.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/events/payment.created.event.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/events/subjects.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/events/ticket.created.event.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/events/ticket.update.event.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/events/types/order.status.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/middlewares/current.user.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/middlewares/error-handler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/middlewares/require.auth.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/middlewares/validate.request.js",
+      "obfuscated": false
+    }
+  ]
+}

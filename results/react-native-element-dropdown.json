@@ -1,0 +1,134 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/react-native-element-dropdown/package",
+  "fileCount": 32,
+  "results": [
+    {
+      "file": "lib/commonjs/components/Dropdown/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/components/Dropdown/model.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/components/Dropdown/styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/components/MultiSelect/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/components/MultiSelect/model.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/components/MultiSelect/styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/components/SelectCountry/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/components/SelectCountry/model.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/components/SelectCountry/styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/components/TextInput/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/components/TextInput/model.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/components/TextInput/styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/toolkits/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/toolkits/model.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/useDeviceOrientation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/components/Dropdown/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/components/Dropdown/model.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/components/Dropdown/styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/components/MultiSelect/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/components/MultiSelect/model.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/components/MultiSelect/styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/components/SelectCountry/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/components/SelectCountry/model.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/components/SelectCountry/styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/components/TextInput/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/components/TextInput/model.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/components/TextInput/styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/toolkits/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/toolkits/model.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/useDeviceOrientation.js",
+      "obfuscated": false
+    }
+  ]
+}

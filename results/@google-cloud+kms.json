@@ -1,0 +1,34 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@google-cloud+kms/package",
+  "fileCount": 7,
+  "results": [
+    {
+      "file": "build/protos/protos.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/v1/autokey_admin_client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/v1/autokey_client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/v1/ekm_service_client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/v1/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/v1/key_management_service_client.js",
+      "obfuscated": false
+    }
+  ]
+}

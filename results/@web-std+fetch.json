@@ -1,0 +1,70 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@web-std+fetch/package",
+  "fileCount": 16,
+  "results": [
+    {
+      "file": "src/body.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/errors/abort-error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/errors/base.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/errors/fetch-error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/fetch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/headers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib.node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/package.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/request.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/response.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/form-data.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/get-search.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/is-redirect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/is.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/utf8.js",
+      "obfuscated": false
+    }
+  ]
+}

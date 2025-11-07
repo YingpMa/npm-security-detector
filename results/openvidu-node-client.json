@@ -1,0 +1,86 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/openvidu-node-client/package",
+  "fileCount": 20,
+  "results": [
+    {
+      "file": "config/typedoc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Connection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ConnectionProperties.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ConnectionType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/IceServerProperties.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Logger/ConsoleLogger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Logger/OpenViduLogger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/MediaMode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/OpenVidu.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/OpenViduRole.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Publisher.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Recording.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/RecordingLayout.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/RecordingMode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/RecordingProperties.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Session.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/SessionProperties.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/TokenOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/VideoCodec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    }
+  ]
+}

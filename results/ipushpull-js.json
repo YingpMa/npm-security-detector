@@ -1,0 +1,282 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/ipushpull-js/package",
+  "fileCount": 69,
+  "results": [
+    {
+      "file": "build/env.local.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/ipushpull.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/ipushpull.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "build/module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "copy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Actions/Actions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Actions/Buttons.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Actions/Charts.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Actions/States.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Actions/Styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Actions/Tasks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Auth.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Billing.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Classy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Clipboard.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Crypto.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Emitter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Folder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Functions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Grid3/Grid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Grid3/GridCanvas.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Grid3/GridCell.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Grid3/GridContent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Grid3/GridEvents.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Grid3/GridHeadingCell.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Grid3/GridRow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Grid3/GridScrollbars.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Grid4/Grid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Grid4/GridCanvas.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Grid4/GridCell.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Grid4/GridEvents.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Grid4/GridFilterCell.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Grid4/GridHeadingCell.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Grid4/GridPage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Grid4/GridRow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Helpers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Keys.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Organization.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Page/Content.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Page/Page.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Page/Provider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Page/Range.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Page/Schema.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Pdf.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Storage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Tracking.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Usage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/UserData.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "docs/assets/js/main.js",
+      "obfuscated": true
+    },
+    {
+      "file": "docs/assets/js/search.js",
+      "obfuscated": true
+    },
+    {
+      "file": "fixtures/cypress.js",
+      "obfuscated": false
+    },
+    {
+      "file": "fixtures/settings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "fixtures/support/getFixtures200.js",
+      "obfuscated": false
+    },
+    {
+      "file": "fixtures/support/postFixtures200.js",
+      "obfuscated": false
+    },
+    {
+      "file": "fixtures/support/postFixtures201.js",
+      "obfuscated": false
+    },
+    {
+      "file": "fixtures/support/postFixtures400.js",
+      "obfuscated": false
+    },
+    {
+      "file": "fixtures/support/putFixtures200.js",
+      "obfuscated": false
+    },
+    {
+      "file": "fixtures/support/putFixtures400.js",
+      "obfuscated": false
+    },
+    {
+      "file": "fixtures/template.js",
+      "obfuscated": false
+    },
+    {
+      "file": "fixtures/templateFunction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "postcss.config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "webpack.common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "webpack.dev.js",
+      "obfuscated": false
+    },
+    {
+      "file": "webpack.prod.js",
+      "obfuscated": false
+    }
+  ]
+}

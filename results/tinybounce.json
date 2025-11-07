@@ -1,0 +1,22 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/tinybounce/package",
+  "fileCount": 4,
+  "results": [
+    {
+      "file": "dist/tinybounce.bundle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/tinybounce.cjs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/tinybounce.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/react-konva-utils/package",
+  "fileCount": 12,
+  "results": [
+    {
+      "file": "es/editable-text.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/html.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/portal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/text-editor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/use-image.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/editable-text.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/html.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/portal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/text-editor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/use-image.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,806 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@sberdevices+plasma-core/package",
+  "fileCount": 200,
+  "results": [
+    {
+      "file": "components/Badge/Badge.component-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Badge/Badge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Badge/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Basebox/Basebox.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Basebox/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Button/Button.component-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Button/Button.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Button/Button.mixins.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Button/Button.props.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Button/Button.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Button/createButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Button/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Carousel/Carousel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Carousel/CarouselContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Carousel/CarouselItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Carousel/CarouselItemRefs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Carousel/hooks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Carousel/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Carousel/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Carousel/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Checkbox/Checkbox.component-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Fade/Fade.component-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Fade/Fade.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Fade/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Field/Field.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Field/Field.statuses.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Field/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Grid/Col.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Grid/Container.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Grid/Grid.component-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Grid/Row.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Grid/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Image/Image.component-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Image/Image.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Image/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Input/Input.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Input/Input.mixins.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Input/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/PaginationDots/PaginationDot.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/PaginationDots/PaginationDots.component-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/PaginationDots/PaginationDots.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/PaginationDots/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/PaginationDots/usePaginationDots.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Popup/Popup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Popup/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Price/Price.component-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Price/Price.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Price/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/RadioGroup/RadioGroup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/RadioGroup/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Radiobox/Radiobox.component-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/SSRProvider/SSRProvider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/SSRProvider/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Skeleton/LineSkeleton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Skeleton/RectSkeleton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Skeleton/Skeleton.component-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Skeleton/Skeleton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Skeleton/TextSkeleton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Skeleton/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Spinner/Spinner.component-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Spinner/Spinner.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Spinner/SpinnerSvg.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Spinner/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Switch/Switch.component-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Switch/Switch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Switch/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Tabs/TabItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Tabs/Tabs.component-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Tabs/Tabs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Tabs/TabsContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Tabs/createTabsController.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Tabs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/TextArea/TextArea.component-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/TextArea/TextArea.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/TextArea/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/TextField/TextField.component-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/TextField/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Toast/Toast.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Toast/Toast.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Toast/ToastBase.component-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Toast/ToastContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Toast/ToastController.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Toast/ToastProvider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Toast/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Toast/useToast.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Typography/Body/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Typography/Button/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Typography/Caption/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Typography/Display/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Typography/Footnote/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Typography/Headline/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Typography/Paragraph/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Typography/Typography.component-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Typography/TypographyResponsive.component-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Typography/Underline/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/Typography/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Badge/Badge.component-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Badge/Badge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Badge/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Basebox/Basebox.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Basebox/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Button/Button.component-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Button/Button.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Button/Button.mixins.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Button/Button.props.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Button/Button.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Button/createButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Button/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Carousel/Carousel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Carousel/CarouselContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Carousel/CarouselItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Carousel/CarouselItemRefs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Carousel/hooks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Carousel/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Carousel/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Carousel/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Checkbox/Checkbox.component-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Fade/Fade.component-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Fade/Fade.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Fade/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Field/Field.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Field/Field.statuses.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Field/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Grid/Col.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Grid/Container.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Grid/Grid.component-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Grid/Row.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Grid/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Image/Image.component-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Image/Image.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Image/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Input/Input.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Input/Input.mixins.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Input/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/PaginationDots/PaginationDot.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/PaginationDots/PaginationDots.component-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/PaginationDots/PaginationDots.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/PaginationDots/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/PaginationDots/usePaginationDots.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Popup/Popup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Popup/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Price/Price.component-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Price/Price.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Price/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/RadioGroup/RadioGroup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/RadioGroup/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Radiobox/Radiobox.component-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/SSRProvider/SSRProvider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/SSRProvider/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Skeleton/LineSkeleton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Skeleton/RectSkeleton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Skeleton/Skeleton.component-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Skeleton/Skeleton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Skeleton/TextSkeleton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Skeleton/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Spinner/Spinner.component-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Spinner/Spinner.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Spinner/SpinnerSvg.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Spinner/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Switch/Switch.component-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Switch/Switch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Switch/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Tabs/TabItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Tabs/Tabs.component-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Tabs/Tabs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Tabs/TabsContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Tabs/createTabsController.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Tabs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/TextArea/TextArea.component-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/TextArea/TextArea.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/TextArea/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/TextField/TextField.component-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/TextField/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Toast/Toast.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Toast/Toast.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Toast/ToastBase.component-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Toast/ToastContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Toast/ToastController.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Toast/ToastProvider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Toast/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Toast/useToast.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Typography/Body/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Typography/Button/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Typography/Caption/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Typography/Display/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Typography/Footnote/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Typography/Headline/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Typography/Paragraph/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Typography/Typography.component-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Typography/TypographyResponsive.component-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Typography/Underline/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/components/Typography/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hocs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hocs/withAutoFocus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hocs/withSkeleton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hooks/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hooks/useDebouncedFunction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hooks/useForkRef.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hooks/useIsomorphicLayoutEffect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hooks/useResizeObserver.js",
+      "obfuscated": false
+    }
+  ]
+}

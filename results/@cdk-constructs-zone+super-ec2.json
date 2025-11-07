@@ -1,0 +1,30 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@cdk-constructs-zone+super-ec2/package",
+  "fileCount": 6,
+  "results": [
+    {
+      "file": "lib/ami.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/integ.default.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/jenkins-ec2.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/super-ec2-interfaces.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/super-ec2.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/node-upload-images/package",
+  "fileCount": 7,
+  "results": [
+    {
+      "file": "build/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/services/genericImageUploadService.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/services/newFastpicORG.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/services/pixhostTO.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/services/postimagesORG.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/services/uploadCC.js",
+      "obfuscated": false
+    },
+    {
+      "file": "jest.config.js",
+      "obfuscated": false
+    }
+  ]
+}

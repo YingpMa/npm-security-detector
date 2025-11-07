@@ -1,0 +1,238 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@spec.dev+core/package",
+  "fileCount": 58,
+  "results": [
+    {
+      "file": "dist/main/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/main/lib/LiveTable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/main/lib/Properties.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/main/lib/Queue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/main/lib/contracts/Contract.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/main/lib/contracts/ContractMethod.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/main/lib/contracts/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/main/lib/contracts/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/main/lib/decorators.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/main/lib/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/main/lib/helpers/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/main/lib/helpers/crypto.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/main/lib/helpers/db.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/main/lib/helpers/formatters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/main/lib/helpers/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/main/lib/helpers/logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/main/lib/helpers/validators.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/main/lib/rpc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/main/lib/tables.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/main/lib/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/main/lib/utils/caller.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/main/lib/utils/columnTypes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/main/lib/utils/defaults.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/main/lib/utils/file.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/main/lib/utils/formatters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/main/lib/utils/humps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/main/lib/utils/propertyTypes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/main/lib/version.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/main/scrap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/module/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/module/lib/LiveTable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/module/lib/Properties.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/module/lib/Queue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/module/lib/contracts/Contract.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/module/lib/contracts/ContractMethod.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/module/lib/contracts/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/module/lib/contracts/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/module/lib/decorators.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/module/lib/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/module/lib/helpers/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/module/lib/helpers/crypto.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/module/lib/helpers/db.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/module/lib/helpers/formatters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/module/lib/helpers/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/module/lib/helpers/logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/module/lib/helpers/validators.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/module/lib/rpc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/module/lib/tables.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/module/lib/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/module/lib/utils/caller.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/module/lib/utils/columnTypes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/module/lib/utils/defaults.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/module/lib/utils/file.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/module/lib/utils/formatters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/module/lib/utils/humps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/module/lib/utils/propertyTypes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/module/lib/version.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/module/scrap.js",
+      "obfuscated": false
+    }
+  ]
+}

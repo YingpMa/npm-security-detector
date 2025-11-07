@@ -1,0 +1,22 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@graphiql+plugin-history/package",
+  "fileCount": 4,
+  "results": [
+    {
+      "file": "dist/components.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/context.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/deprecated.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    }
+  ]
+}

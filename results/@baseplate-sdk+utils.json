@@ -1,0 +1,26 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@baseplate-sdk+utils/package",
+  "fileCount": 5,
+  "results": [
+    {
+      "file": "lib/customDomains.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/htmlParams.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/orgSettings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils.js",
+      "obfuscated": false
+    }
+  ]
+}

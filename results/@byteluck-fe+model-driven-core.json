@@ -1,0 +1,198 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@byteluck-fe+model-driven-core/package",
+  "fileCount": 48,
+  "results": [
+    {
+      "file": "dist/esm/api-doc-index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/common/BaseControl/designer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/common/BaseControl/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/common/BaseControl/property.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/common/BaseControl/runtime.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/common/BaseControl/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/common/ColumnControl/designer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/common/ColumnControl/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/common/ColumnControl/property.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/common/ColumnControl/runtime.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/common/ColumnControl/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/common/ControlArray.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/common/FormControl/designer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/common/FormControl/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/common/FormControl/property.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/common/FormControl/runtime.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/common/FormControl/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/common/LayoutControl/designer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/common/LayoutControl/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/common/LayoutControl/property.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/common/LayoutControl/runtime.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/common/LayoutControl/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/common/ListControl/designer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/common/ListControl/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/common/ListControl/property.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/common/ListControl/runtime.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/common/ListControl/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/common/SearchViewControl/designer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/common/SearchViewControl/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/common/SearchViewControl/property.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/common/SearchViewControl/runtime.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/common/SearchViewControl/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/common/Validator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/common/WrapControl/designer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/common/WrapControl/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/common/WrapControl/property.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/common/WrapControl/runtime.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/common/WrapControl/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/common/controlHooksEmitter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/common/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/common/initLinkOperationRules.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/common/initOptionAndDataSourceRules.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/framework/RegisterControls.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/framework/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/framework/isDataBind.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.umd.js",
+      "obfuscated": true
+    }
+  ]
+}

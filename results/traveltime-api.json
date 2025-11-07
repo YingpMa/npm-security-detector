@@ -1,0 +1,158 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/traveltime-api/package",
+  "fileCount": 38,
+  "results": [
+    {
+      "file": "target/client/client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "target/client/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "target/client/mapper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "target/client/matrixMapper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "target/client/proto/countries.js",
+      "obfuscated": false
+    },
+    {
+      "file": "target/client/protoClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "target/client/rateLimiter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "target/error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "target/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "target/types/common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "target/types/distanceMap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "target/types/distanceMapResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "target/types/distanceMapSimple.js",
+      "obfuscated": false
+    },
+    {
+      "file": "target/types/geocoding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "target/types/geocodingSearch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "target/types/geogrid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "target/types/geohash.js",
+      "obfuscated": false
+    },
+    {
+      "file": "target/types/geohashFast.js",
+      "obfuscated": false
+    },
+    {
+      "file": "target/types/h3.js",
+      "obfuscated": false
+    },
+    {
+      "file": "target/types/h3Fast.js",
+      "obfuscated": false
+    },
+    {
+      "file": "target/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "target/types/mapInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "target/types/proto.js",
+      "obfuscated": false
+    },
+    {
+      "file": "target/types/routes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "target/types/routesSimple.js",
+      "obfuscated": false
+    },
+    {
+      "file": "target/types/supportedLocations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "target/types/timeFilter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "target/types/timeFilterFast.js",
+      "obfuscated": false
+    },
+    {
+      "file": "target/types/timeFilterMatrix.js",
+      "obfuscated": false
+    },
+    {
+      "file": "target/types/timeFilterPostcodeDistricts.js",
+      "obfuscated": false
+    },
+    {
+      "file": "target/types/timeFilterPostcodeSectors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "target/types/timeFilterPostcodes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "target/types/timeFilterSimple.js",
+      "obfuscated": false
+    },
+    {
+      "file": "target/types/timeMap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "target/types/timeMapFast.js",
+      "obfuscated": false
+    },
+    {
+      "file": "target/types/timeMapResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "target/types/timeMapSimple.js",
+      "obfuscated": false
+    },
+    {
+      "file": "target/utils.js",
+      "obfuscated": false
+    }
+  ]
+}

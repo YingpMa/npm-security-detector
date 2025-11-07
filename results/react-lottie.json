@@ -1,0 +1,26 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/react-lottie/package",
+  "fileCount": 5,
+  "results": [
+    {
+      "file": ".scripts/get_gh_pages_url.js",
+      "obfuscated": false
+    },
+    {
+      "file": ".scripts/mocha_runner.js",
+      "obfuscated": false
+    },
+    {
+      "file": ".scripts/user/pretest.js",
+      "obfuscated": false
+    },
+    {
+      "file": ".storybook/config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    }
+  ]
+}

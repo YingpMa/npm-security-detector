@@ -1,0 +1,178 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@abtnode+auth/package",
+  "fileCount": 43,
+  "results": [
+    {
+      "file": "lib/auth.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/bind-wallet.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/connect-to-did-spaces.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/email.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/invitation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/launcher.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/lost-passport.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/oauth.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/passkey.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/passport.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/server.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/bind-wallet.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/connect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/create-passport-svg.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/federated.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/get-auth-method.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/request.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/spaces.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/transfer-passport.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/user-info.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/verify-signature.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locales/ar.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locales/create-locale-method.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locales/create-locale-method.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locales/de.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locales/en.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locales/es.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locales/fr.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locales/hi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locales/id.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locales/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locales/ja.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locales/ko.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locales/pt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locales/ru.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locales/th.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locales/vi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locales/zh-tw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locales/zh.js",
+      "obfuscated": false
+    }
+  ]
+}

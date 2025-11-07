@@ -1,0 +1,174 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@pigment-css+react/package",
+  "fileCount": 42,
+  "results": [
+    {
+      "file": "build/Box.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/Container.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/Grid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/Hidden.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/RtlProvider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/Stack.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/chunk-BV2JNSJM.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/chunk-DAMQJJTB.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/chunk-QMF3JN35.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/chunk-SBJIOOIF.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/theme.js",
+      "obfuscated": false
+    },
+    {
+      "file": "exports/createUseThemeProps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "exports/css.js",
+      "obfuscated": false
+    },
+    {
+      "file": "exports/generateAtomics.js",
+      "obfuscated": false
+    },
+    {
+      "file": "exports/globalCss.js",
+      "obfuscated": false
+    },
+    {
+      "file": "exports/internal_createExtendSxProp.js",
+      "obfuscated": false
+    },
+    {
+      "file": "exports/keyframes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "exports/remove-prop-types-plugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "exports/styled.js",
+      "obfuscated": false
+    },
+    {
+      "file": "exports/sx-plugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "exports/sx.js",
+      "obfuscated": false
+    },
+    {
+      "file": "exports/useTheme.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "processors/chunk-2ZKSYVEZ.js",
+      "obfuscated": false
+    },
+    {
+      "file": "processors/chunk-5VRK3JMQ.js",
+      "obfuscated": false
+    },
+    {
+      "file": "processors/chunk-IWNJMGWX.js",
+      "obfuscated": false
+    },
+    {
+      "file": "processors/chunk-XRFT6ZAT.js",
+      "obfuscated": false
+    },
+    {
+      "file": "processors/createExtendSxProp.js",
+      "obfuscated": false
+    },
+    {
+      "file": "processors/createUseThemeProps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "processors/css.js",
+      "obfuscated": false
+    },
+    {
+      "file": "processors/generateAtomics.js",
+      "obfuscated": false
+    },
+    {
+      "file": "processors/globalCss.js",
+      "obfuscated": false
+    },
+    {
+      "file": "processors/keyframes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "processors/styled.js",
+      "obfuscated": false
+    },
+    {
+      "file": "processors/sx.js",
+      "obfuscated": false
+    },
+    {
+      "file": "processors/useTheme.js",
+      "obfuscated": false
+    },
+    {
+      "file": "theme/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "utils/chunk-QMF3JN35.js",
+      "obfuscated": false
+    },
+    {
+      "file": "utils/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "utils/remove-prop-types-plugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "utils/sx-plugin.js",
+      "obfuscated": false
+    }
+  ]
+}

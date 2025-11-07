@@ -1,0 +1,222 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@stainless-api+sdk/package",
+  "fileCount": 54,
+  "results": [
+    {
+      "file": "api-promise.js",
+      "obfuscated": false
+    },
+    {
+      "file": "client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/api-promise.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/pagination.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/resource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/uploads.js",
+      "obfuscated": false
+    },
+    {
+      "file": "error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/builtin-types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/detect-platform.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/headers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/parse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/qs/formats.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/qs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/qs/stringify.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/qs/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/qs/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/request-options.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/shim-types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/shims.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/to-file.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/tslib.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/uploads.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/utils/base64.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/utils/bytes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/utils/env.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/utils/log.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/utils/path.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/utils/sleep.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/utils/uuid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/utils/values.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/unwrap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "pagination.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/builds/builds.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/builds/diagnostics.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/builds/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/builds/target-outputs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/builds.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/generate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/orgs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/projects/branches.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/projects/configs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/projects/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/projects/projects.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/projects.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources.js",
+      "obfuscated": false
+    },
+    {
+      "file": "uploads.js",
+      "obfuscated": false
+    },
+    {
+      "file": "version.js",
+      "obfuscated": false
+    }
+  ]
+}

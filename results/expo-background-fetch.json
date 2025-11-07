@@ -1,0 +1,34 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/expo-background-fetch/package",
+  "fileCount": 7,
+  "results": [
+    {
+      "file": ".eslintrc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app.plugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/BackgroundFetch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/BackgroundFetch.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/ExpoBackgroundFetch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/ExpoBackgroundFetch.web.js",
+      "obfuscated": false
+    },
+    {
+      "file": "plugin/build/withBackgroundFetch.js",
+      "obfuscated": false
+    }
+  ]
+}

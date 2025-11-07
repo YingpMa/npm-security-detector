@@ -1,0 +1,174 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/azure-pipelines-tasks-azure-arm-rest/package",
+  "fileCount": 42,
+  "results": [
+    {
+      "file": "AzureServiceClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "AzureServiceClientBase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "DeploymentsBase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "Tests/L0-azure-arm-aks-service-tests.js",
+      "obfuscated": false
+    },
+    {
+      "file": "Tests/L0-azure-arm-app-service-kudu-tests.js",
+      "obfuscated": false
+    },
+    {
+      "file": "Tests/L0-azure-arm-app-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "Tests/L0-azure-arm-appinsights-tests.js",
+      "obfuscated": false
+    },
+    {
+      "file": "Tests/L0-azure-arm-appinsights-webtests-tests.js",
+      "obfuscated": false
+    },
+    {
+      "file": "Tests/L0-azure-arm-resource-tests.js",
+      "obfuscated": false
+    },
+    {
+      "file": "Tests/L0-azure-cli-utility-tests.js",
+      "obfuscated": false
+    },
+    {
+      "file": "Tests/L0.js",
+      "obfuscated": false
+    },
+    {
+      "file": "Tests/azure-arm-aks-service-tests.js",
+      "obfuscated": false
+    },
+    {
+      "file": "Tests/azure-arm-app-service-kudu-tests.js",
+      "obfuscated": false
+    },
+    {
+      "file": "Tests/azure-arm-app-service-tests.js",
+      "obfuscated": false
+    },
+    {
+      "file": "Tests/azure-arm-appinsights-tests.js",
+      "obfuscated": false
+    },
+    {
+      "file": "Tests/azure-arm-appinsights-webtests-tests.js",
+      "obfuscated": false
+    },
+    {
+      "file": "Tests/azure-arm-resource-tests.js",
+      "obfuscated": false
+    },
+    {
+      "file": "Tests/azure-cli-utility-tests.js",
+      "obfuscated": false
+    },
+    {
+      "file": "Tests/mock_utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "aksUtility.js",
+      "obfuscated": false
+    },
+    {
+      "file": "azCliUtility.js",
+      "obfuscated": false
+    },
+    {
+      "file": "azure-arm-aks-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "azure-arm-app-service-kudu.js",
+      "obfuscated": false
+    },
+    {
+      "file": "azure-arm-app-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "azure-arm-appinsights-webtests.js",
+      "obfuscated": false
+    },
+    {
+      "file": "azure-arm-appinsights.js",
+      "obfuscated": false
+    },
+    {
+      "file": "azure-arm-appinsigths-alerts.js",
+      "obfuscated": false
+    },
+    {
+      "file": "azure-arm-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "azure-arm-compute.js",
+      "obfuscated": false
+    },
+    {
+      "file": "azure-arm-endpoint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "azure-arm-management-group.js",
+      "obfuscated": false
+    },
+    {
+      "file": "azure-arm-mysql.js",
+      "obfuscated": false
+    },
+    {
+      "file": "azure-arm-network.js",
+      "obfuscated": false
+    },
+    {
+      "file": "azure-arm-resource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "azure-arm-storage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "azure-arm-subscription.js",
+      "obfuscated": false
+    },
+    {
+      "file": "azure-graph.js",
+      "obfuscated": false
+    },
+    {
+      "file": "azureAppServiceUtility.js",
+      "obfuscated": false
+    },
+    {
+      "file": "azureModels.js",
+      "obfuscated": false
+    },
+    {
+      "file": "constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "webClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "webRequestUtility.js",
+      "obfuscated": false
+    }
+  ]
+}

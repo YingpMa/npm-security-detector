@@ -1,0 +1,338 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@studiokloek+ts-core-lib/package",
+  "fileCount": 83,
+  "results": [
+    {
+      "file": "lib/app/index.js",
+      "obfuscated": true
+    },
+    {
+      "file": "lib/app/info.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/app/is-reloaded.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/data/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/data/request.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/data/stats.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/data/storage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/data/util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/debug/core.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/debug/global.js",
+      "obfuscated": true
+    },
+    {
+      "file": "lib/debug/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/delay/delay.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/delay/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/delay/mixin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/device/appstate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/device/browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/device/chrome.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/device/device.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/device/environment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/device/gpuinfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/device/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/device/interaction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/device/network.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/device/pixelratio.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/events/eventtypes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/events/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/events/pubsub.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/events/util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/filters/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/html/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/html/selector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/html/template.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/input/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/input/keyboard.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/loaders/font-loader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/loaders/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/loaders/sounds-loader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/loaders/spine-loader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/loaders/sprites-loader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logger/colors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logger/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logger/levels.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logger/logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logger/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/media/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/media/sounds/audio-fx.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/media/sounds/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/media/sounds/library-item.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/media/sounds/library.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/patterns/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/patterns/mediator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/patterns/objectpool.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/patterns/preparecleanup.js",
+      "obfuscated": true
+    },
+    {
+      "file": "lib/patterns/view.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/screen/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/screen/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/screen/resolution.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/screen/screen.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/screen/stage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/screen/stageinfo.js",
+      "obfuscated": true
+    },
+    {
+      "file": "lib/screen/viewport.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ticker/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ticker/mixin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ticker/ticker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/tween/ease.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/tween/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/tween/mixin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/tween/pixi-plugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/tween/tween.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ui/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ui/kloeksprite.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ui/text/kloektext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ui/text/textstyles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/color.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/data.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/date.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/math.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/random.js",
+      "obfuscated": true
+    },
+    {
+      "file": "lib/util/string.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/url.js",
+      "obfuscated": false
+    }
+  ]
+}

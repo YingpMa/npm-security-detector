@@ -1,0 +1,22 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/react-mentions/package",
+  "fileCount": 4,
+  "results": [
+    {
+      "file": "dist/react-mentions.cjs.dev.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/react-mentions.cjs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/react-mentions.cjs.prod.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/react-mentions.esm.js",
+      "obfuscated": false
+    }
+  ]
+}

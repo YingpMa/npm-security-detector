@@ -1,0 +1,142 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@tsparticles+plugin-poisson-disc/package",
+  "fileCount": 34,
+  "results": [
+    {
+      "file": "browser/Interfaces/IPoissonPoint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "browser/Options/Classes/Poisson.js",
+      "obfuscated": false
+    },
+    {
+      "file": "browser/Options/Interfaces/IPoisson.js",
+      "obfuscated": false
+    },
+    {
+      "file": "browser/PoissonDisc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "browser/PoissonDiscPlugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "browser/PoissonInstance.js",
+      "obfuscated": false
+    },
+    {
+      "file": "browser/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "browser/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/Interfaces/IPoissonPoint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/Options/Classes/Poisson.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/Options/Interfaces/IPoisson.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/PoissonDisc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/PoissonDiscPlugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/PoissonInstance.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/Interfaces/IPoissonPoint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/Options/Classes/Poisson.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/Options/Interfaces/IPoisson.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/PoissonDisc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/PoissonDiscPlugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/PoissonInstance.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tsparticles.plugin.poisson.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tsparticles.plugin.poisson.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "umd/Interfaces/IPoissonPoint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "umd/Options/Classes/Poisson.js",
+      "obfuscated": false
+    },
+    {
+      "file": "umd/Options/Interfaces/IPoisson.js",
+      "obfuscated": false
+    },
+    {
+      "file": "umd/PoissonDisc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "umd/PoissonDiscPlugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "umd/PoissonInstance.js",
+      "obfuscated": false
+    },
+    {
+      "file": "umd/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "umd/types.js",
+      "obfuscated": false
+    }
+  ]
+}

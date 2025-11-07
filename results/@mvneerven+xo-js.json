@@ -1,0 +1,618 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@mvneerven+xo-js/package",
+  "fileCount": 153,
+  "results": [
+    {
+      "file": "dist/portal-Yogi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/portal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/portal.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/xo-Yogi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/xo.cjs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/xo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/xo.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "esbuild-build.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esbuild-dev.js",
+      "obfuscated": false
+    },
+    {
+      "file": "js/monaco.js",
+      "obfuscated": false
+    },
+    {
+      "file": "js/portal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "js/xo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "jsdoc.config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/ExoChartControls.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/ExoControlBase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/ExoNavControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/ExoRootControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/base/ExoButtonControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/base/ExoCheckboxControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/base/ExoCheckboxListControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/base/ExoDateControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/base/ExoDivControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/base/ExoDropdownExtension.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/base/ExoDropdownListControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/base/ExoElementControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/base/ExoEmailControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/base/ExoFieldSetControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/base/ExoFileUploadControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/base/ExoFormControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/base/ExoFormPageControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/base/ExoGroupControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/base/ExoImageControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/base/ExoInputControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/base/ExoInputListControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/base/ExoLinkControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/base/ExoListControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/base/ExoNumberControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/base/ExoPasswordControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/base/ExoProgressControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/base/ExoRadioButtonListControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/base/ExoRangeControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/base/ExoSeparatorControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/base/ExoTextAreaControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/base/ExoTextControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/base/ExoTextControlAutoCompleteExtension.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/base/ExoUrlControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/base/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/dev/ExoAceCodeEditor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/dev/ExoMonacoEditor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/dev/ExoSchemaEditor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/dev/ExoSchemaEditorAce.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/dev/ExoSchemaViewer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/dev/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/extended/ExoCKRichEditor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/extended/ExoCaptchaControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/extended/ExoCreditCardControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/extended/ExoDateRangeControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/extended/ExoDialogControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/extended/ExoDropDownButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/extended/ExoEmbedControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/extended/ExoFileDialogControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/extended/ExoFileDropControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/extended/ExoImageSelector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/extended/ExoInfoControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/extended/ExoLeafletMapControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/extended/ExoListViewControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/extended/ExoListViewEditExtension.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/extended/ExoMultiInputControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/extended/ExoNLAddressControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/extended/ExoNameControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/extended/ExoSandboxControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/extended/ExoStarRatingControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/extended/ExoSwitchControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/extended/ExoTaggingControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/extended/ExoTextConfirm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/extended/ExoTreeViewControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/extended/ExoVideoControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/controls/extended/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/core/ExoForm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/core/ExoFormContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/core/ExoFormFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/core/ExoFormSchema.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/core/JSONSchema.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/databinding/ExoFormDataBinding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/databinding/ExoFormDataBindingResolver.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/design/ExoLiveEditor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/entity/ExoEntityEditor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/entity/ExoEntityManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/entity/ExoEntitySettings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/entity/OpenApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/entity/OpenApiEndPoint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/navigation/ExoFormDefaultNavigation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/navigation/ExoFormNavigation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/navigation/ExoFormNavigationBase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/navigation/ExoFormNoNavigation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/navigation/ExoFormStaticNavigation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/navigation/ExoFormSurveyNavigation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/navigation/ExoFormTabStripNavigation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/navigation/ExoFormWizardNavigation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/progress/ExoFormDefaultProgress.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/progress/ExoFormPageProgress.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/progress/ExoFormProgress.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/progress/ExoFormProgressBase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/progress/ExoFormStepsProgress.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/progress/ExoFormSurveyProgress.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/rules/ExoFormRules.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/rules/ExoRuleEngineBase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/rules/XOFormDataRulesEngine.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/themes/ExoFormThemes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/validation/ExoFormDefaultValidation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/validation/ExoFormInlineValidation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/validation/ExoFormValidation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exo/validation/InlineFieldValidator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/idx/modules/ExoFormBuilderSchema.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/idx/modules/ExoFormBuilderSidePanel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/idx/modules/ExoFormBuilderWorkspace.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/idx/modules/ExoFormSchemaModel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/idx/modules/ExoSchemaRenderer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/idx/modules/GridColumnResizer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/idx/modules/StyleSheetHelper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/idx/routes/DocsRoute.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/idx/routes/HomeRoute.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/idx/routes/SettingsRoute.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/idx/routes/StudioRoute.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/idx/routes/TestSuiteRoute.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/idx/routes/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/pwa/Core.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/pwa/DOM.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/pwa/DOM_DragDropSorter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/pwa/Events.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/pwa/MarkDown.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/pwa/MarkDownCMS.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/pwa/MsIdentity.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/pwa/PWA.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/pwa/PWA_Area.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/pwa/PWA_EventHub.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/pwa/PWA_Notifications.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/pwa/PWA_OmniBox.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/pwa/PWA_RESTService.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/pwa/PWA_Router.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/pwa/PWA_RouterMenu.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/pwa/PWA_Settings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/pwa/PWA_SettingsGroup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/pwa/PWA_SettingsSection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/pwa/PWA_UI.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/pwa/RouteModule.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/pwa/Router.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/pwa/SimpleCache.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/pwa/ULTabStrip.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/ui/ui-tests.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/unit/basic.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/unit/databinding-advanced.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/unit/databinding.test.js",
+      "obfuscated": false
+    }
+  ]
+}

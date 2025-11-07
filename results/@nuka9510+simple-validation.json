@@ -1,0 +1,26 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@nuka9510+simple-validation/package",
+  "fileCount": 5,
+  "results": [
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/index.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/js-util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/validation.js",
+      "obfuscated": false
+    }
+  ]
+}

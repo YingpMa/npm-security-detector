@@ -1,0 +1,22 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@did-core+data-model/package",
+  "fileCount": 4,
+  "results": [
+    {
+      "file": "dist/data-model.cjs.development.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/data-model.cjs.production.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/data-model.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    }
+  ]
+}

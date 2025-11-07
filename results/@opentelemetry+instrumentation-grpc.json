@@ -1,0 +1,50 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@opentelemetry+instrumentation-grpc/package",
+  "fileCount": 11,
+  "results": [
+    {
+      "file": "build/src/clientUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/enums/AttributeNames.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/enums/AttributeValues.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/instrumentation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/internal-types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/semconv.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/serverUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/version.js",
+      "obfuscated": false
+    }
+  ]
+}

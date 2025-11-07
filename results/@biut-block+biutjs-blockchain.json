@@ -1,0 +1,62 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@biut-block+biutjs-blockchain/package",
+  "fileCount": 14,
+  "results": [
+    {
+      "file": "model/tokenchain-block-model.js",
+      "obfuscated": false
+    },
+    {
+      "file": "model/transactionchain-block-model.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/genesisBlock.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/secjs-accTree.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/secjs-token-block.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/secjs-token-blockchain.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/example.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/mock-data.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/mock-date-str.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/mongodbtoleveldb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/readAccDB.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/secjs-blockchain-tester.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/try.js",
+      "obfuscated": false
+    }
+  ]
+}

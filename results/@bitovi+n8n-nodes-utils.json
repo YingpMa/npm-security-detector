@@ -1,0 +1,26 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@bitovi+n8n-nodes-utils/package",
+  "fileCount": 5,
+  "results": [
+    {
+      "file": "dist/nodes/JSONSchemaValidation/Jsonschemavalidation.node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/nodes/Regex/Regex.node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/nodes/Skip/Skip.node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/nodes/Wikipedia/Wikipedia.node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    }
+  ]
+}

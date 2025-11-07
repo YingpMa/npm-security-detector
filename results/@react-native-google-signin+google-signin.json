@@ -1,0 +1,114 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@react-native-google-signin+google-signin/package",
+  "fileCount": 27,
+  "results": [
+    {
+      "file": "app.plugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "jest/build/jest/setup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "jest/build/src/buttons/GoogleSigninButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "jest/build/src/buttons/statics.js",
+      "obfuscated": false
+    },
+    {
+      "file": "jest/build/src/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "jest/build/src/errors/errorCodes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "jest/build/src/functions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "jest/build/src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "jest/build/src/signIn/GoogleSignin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "jest/build/src/spec/NativeGoogleSignin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "jest/build/src/spec/SignInButtonNativeComponent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "jest/build/src/translateNativeRejection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "jest/build/src/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/buttons/GoogleSigninButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/buttons/GoogleSigninButton.web.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/buttons/statics.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/errors/errorCodes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/errors/errorCodes.web.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/functions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/signIn/GoogleSignin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/signIn/GoogleSignin.web.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/spec/NativeGoogleSignin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/translateNativeRejection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "plugin/build/withGoogleSignIn.js",
+      "obfuscated": false
+    }
+  ]
+}

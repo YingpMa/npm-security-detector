@@ -1,0 +1,422 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@react-aria+dnd/package",
+  "fileCount": 104,
+  "results": [
+    {
+      "file": "dist/DragManager.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/DragManager.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/DragPreview.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/DragPreview.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/DropTargetKeyboardNavigation.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/DropTargetKeyboardNavigation.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ListDropTargetDelegate.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ListDropTargetDelegate.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ar-AE.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ar-AE.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/bg-BG.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/bg-BG.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/constants.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/constants.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cs-CZ.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cs-CZ.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/da-DK.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/da-DK.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/de-DE.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/de-DE.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/el-GR.main.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/el-GR.module.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/en-US.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/en-US.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es-ES.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es-ES.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/et-EE.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/et-EE.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/fi-FI.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/fi-FI.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/fr-FR.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/fr-FR.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/he-IL.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/he-IL.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/hr-HR.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/hr-HR.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/hu-HU.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/hu-HU.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/intlStrings.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/intlStrings.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/it-IT.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/it-IT.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ja-JP.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ja-JP.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ko-KR.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ko-KR.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lt-LT.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lt-LT.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lv-LV.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lv-LV.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/nb-NO.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/nb-NO.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/nl-NL.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/nl-NL.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/pl-PL.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/pl-PL.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/pt-BR.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/pt-BR.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/pt-PT.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/pt-PT.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ro-RO.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ro-RO.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ru-RU.main.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/ru-RU.module.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/sk-SK.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sk-SK.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sl-SI.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sl-SI.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sr-SP.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sr-SP.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sv-SE.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sv-SE.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/tr-TR.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/tr-TR.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/uk-UA.main.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/uk-UA.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/useAutoScroll.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/useAutoScroll.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/useClipboard.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/useClipboard.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/useDrag.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/useDrag.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/useDraggableCollection.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/useDraggableCollection.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/useDraggableItem.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/useDraggableItem.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/useDrop.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/useDrop.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/useDropIndicator.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/useDropIndicator.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/useDroppableCollection.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/useDroppableCollection.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/useDroppableItem.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/useDroppableItem.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/useVirtualDrop.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/useVirtualDrop.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/zh-CN.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/zh-CN.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/zh-TW.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/zh-TW.module.js",
+      "obfuscated": false
+    }
+  ]
+}

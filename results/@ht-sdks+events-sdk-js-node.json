@@ -1,0 +1,206 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@ht-sdks+events-sdk-js-node/package",
+  "fileCount": 50,
+  "results": [
+    {
+      "file": "dist/cjs/app/analytics-node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/app/context.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/app/dispatch-emit.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/app/emitter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/app/event-factory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/app/event-queue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/app/settings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/app/types/hightouch-event.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/app/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/app/types/params.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/app/types/plugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/generated/version.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/lib/abort.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/lib/base-64-encode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/lib/create-url.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/lib/env.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/lib/extract-promise-parts.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/lib/fetch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/lib/get-message-id.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/lib/http-client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/lib/uuid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/plugins/hightouchio/context-batch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/plugins/hightouchio/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/plugins/hightouchio/publisher.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/app/analytics-node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/app/context.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/app/dispatch-emit.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/app/emitter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/app/event-factory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/app/event-queue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/app/settings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/app/types/hightouch-event.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/app/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/app/types/params.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/app/types/plugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/generated/version.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/lib/abort.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/lib/base-64-encode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/lib/create-url.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/lib/env.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/lib/extract-promise-parts.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/lib/fetch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/lib/get-message-id.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/lib/http-client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/lib/uuid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/plugins/hightouchio/context-batch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/plugins/hightouchio/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/plugins/hightouchio/publisher.js",
+      "obfuscated": false
+    }
+  ]
+}

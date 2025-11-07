@@ -1,0 +1,142 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/jm-playsdk/package",
+  "fileCount": 34,
+  "results": [
+    {
+      "file": "app.js",
+      "obfuscated": false
+    },
+    {
+      "file": "config/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/jm-play-sdk-all.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/jm-play-sdk-all.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/js/jm-play-sdk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/jm-play-sdk.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "doc/api/scripts/bootstrap.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "doc/api/scripts/jaguar.js",
+      "obfuscated": true
+    },
+    {
+      "file": "doc/api/scripts/jquery.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "doc/api/scripts/linenumber.js",
+      "obfuscated": false
+    },
+    {
+      "file": "doc/api/scripts/main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "doc/api/scripts/prettify/lang-css.js",
+      "obfuscated": true
+    },
+    {
+      "file": "doc/api/scripts/prettify/prettify.js",
+      "obfuscated": true
+    },
+    {
+      "file": "doc/api/scripts/underscore-min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "doc/gulpfile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/bank.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/check.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/pay.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/sso.js",
+      "obfuscated": false
+    },
+    {
+      "file": "gulpfile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/acl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/activity.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/agent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/bank.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dak.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/depot.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/pay.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/record.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/sso.js",
+      "obfuscated": false
+    },
+    {
+      "file": "routes/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test.js",
+      "obfuscated": false
+    }
+  ]
+}

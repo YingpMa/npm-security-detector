@@ -1,0 +1,26 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@helia+delegated-routing-v1-http-api-client/package",
+  "fileCount": 5,
+  "results": [
+    {
+      "file": "dist/index.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/src/client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/routings.js",
+      "obfuscated": false
+    }
+  ]
+}

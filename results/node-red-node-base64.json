@@ -1,0 +1,10 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/node-red-node-base64/package",
+  "fileCount": 1,
+  "results": [
+    {
+      "file": "70-base64.js",
+      "obfuscated": false
+    }
+  ]
+}

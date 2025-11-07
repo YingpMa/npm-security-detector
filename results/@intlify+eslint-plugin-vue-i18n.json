@@ -1,0 +1,250 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@intlify+eslint-plugin-vue-i18n/package",
+  "fileCount": 61,
+  "results": [
+    {
+      "file": "dist/configs/base.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/configs/flat/base.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/configs/flat/recommended.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/configs/recommended.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rules/key-format-style.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rules/no-deprecated-i18n-component.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rules/no-deprecated-i18n-place-attr.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rules/no-deprecated-i18n-places-prop.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rules/no-deprecated-modulo-syntax.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rules/no-deprecated-tc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rules/no-deprecated-v-t.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rules/no-duplicate-keys-in-locale.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rules/no-dynamic-keys.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rules/no-html-messages.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rules/no-i18n-t-path-prop.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rules/no-missing-keys-in-other-locales.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rules/no-missing-keys.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rules/no-raw-text.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rules/no-unknown-locale.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rules/no-unused-keys.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rules/no-v-html.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rules/prefer-linked-key-with-paren.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rules/prefer-sfc-lang-attr.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rules/sfc-locale-attr.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rules/valid-message-syntax.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/types/eslint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/types/i18n.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/types/nodes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/types/settings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/types/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/types/vue-parser-services.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/cache-function.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/cache-loader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/casing.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/collect-keys.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/collect-linked-keys.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/compat.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/default-timeouts.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/get-cwd.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/glob-utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/ignored-paths.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/key-path.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/locale-messages.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/message-compiler/parser-v9.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/message-compiler/parser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/message-compiler/traverser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/message-compiler/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/parser-config-resolver/build-parser-using-flat-config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/parser-config-resolver/build-parser-using-legacy-config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/parser-config-resolver/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/parser-config-resolver/parse-by-parser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/parser-config-resolver/should-use-flat-config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/parser-config-resolver/worker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/parsers/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/path-utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/regexp.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/resource-loader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/rule.js",
+      "obfuscated": false
+    }
+  ]
+}

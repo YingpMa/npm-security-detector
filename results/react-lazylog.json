@@ -1,0 +1,74 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/react-lazylog/package",
+  "fileCount": 17,
+  "results": [
+    {
+      "file": "build/LazyLog.js",
+      "obfuscated": true
+    },
+    {
+      "file": "build/Line.js",
+      "obfuscated": true
+    },
+    {
+      "file": "build/LineContent.js",
+      "obfuscated": true
+    },
+    {
+      "file": "build/LineNumber.js",
+      "obfuscated": true
+    },
+    {
+      "file": "build/LinePart.js",
+      "obfuscated": true
+    },
+    {
+      "file": "build/Loading.js",
+      "obfuscated": true
+    },
+    {
+      "file": "build/ScrollFollow.js",
+      "obfuscated": true
+    },
+    {
+      "file": "build/SearchBar.js",
+      "obfuscated": true
+    },
+    {
+      "file": "build/index.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/ansiparse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/encoding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/request.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/search.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/stream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/websocket.js",
+      "obfuscated": false
+    }
+  ]
+}

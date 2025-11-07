@@ -1,0 +1,46 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/sqb-util/package",
+  "fileCount": 10,
+  "results": [
+    {
+      "file": "common/config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/t-popup/props.js",
+      "obfuscated": false
+    },
+    {
+      "file": "components/t-upload/props.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "libs/function/Voice.js",
+      "obfuscated": false
+    },
+    {
+      "file": "libs/function/color.js",
+      "obfuscated": false
+    },
+    {
+      "file": "libs/function/util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "mixins/common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/api/logs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/index.js",
+      "obfuscated": false
+    }
+  ]
+}

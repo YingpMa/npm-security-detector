@@ -1,0 +1,30 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/sails-js-util/package",
+  "fileCount": 6,
+  "results": [
+    {
+      "file": "lib/hex.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/payload-method.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/string.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "rollup.config.js",
+      "obfuscated": false
+    }
+  ]
+}

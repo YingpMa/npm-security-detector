@@ -1,0 +1,470 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/app-builder-lib/package",
+  "fileCount": 116,
+  "results": [
+    {
+      "file": "out/Framework.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/ProtonFramework.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/appInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/asar/asar.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/asar/asarFileChecker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/asar/asarUtil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/asar/integrity.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/asar/unpackDetector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/binDownload.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/codeSign/codesign.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/codeSign/macCodeSign.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/codeSign/signManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/codeSign/windowsCodeSign.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/codeSign/windowsSignAzureManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/codeSign/windowsSignToolManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/configuration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/core.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/electron/ElectronFramework.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/electron/electronMac.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/electron/electronVersion.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/electron/electronWin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/electron/injectFFMPEG.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/errorMessages.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/fileMatcher.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/fileTransformer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/forge-maker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/frameworks/LibUiFramework.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/linuxPackager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/macPackager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/node-module-collector/hoist.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/node-module-collector/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/node-module-collector/nodeModulesCollector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/node-module-collector/npmNodeModulesCollector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/node-module-collector/packageManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/node-module-collector/pnpmNodeModulesCollector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/node-module-collector/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/node-module-collector/yarnNodeModulesCollector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/options/AppXOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/options/CommonWindowsInstallerConfiguration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/options/FileAssociation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/options/MsiOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/options/MsiWrappedOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/options/PlatformSpecificBuildOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/options/SnapOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/options/SquirrelWindowsOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/options/linuxOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/options/macOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/options/metadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/options/pkgOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/options/winOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/packager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/packagerApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/platformPackager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/presets/rectCra.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/publish/PublishManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/publish/updateInfoBuilder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/targets/AppImageTarget.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/targets/AppxTarget.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/targets/ArchiveTarget.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/targets/FlatpakTarget.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/targets/FpmTarget.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/targets/LinuxTargetHelper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/targets/MsiTarget.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/targets/MsiWrappedTarget.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/targets/archive.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/targets/differentialUpdateInfoBuilder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/targets/nsis/Commands.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/targets/nsis/Defines.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/targets/nsis/NsisTarget.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/targets/nsis/WebInstallerTarget.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/targets/nsis/nsisLang.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/targets/nsis/nsisLicense.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/targets/nsis/nsisOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/targets/nsis/nsisScriptGenerator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/targets/nsis/nsisUtil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/targets/pkg.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/targets/snap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/targets/targetFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/targets/targetUtil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/targets/tools.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/util/AppFileWalker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/util/NodeModuleCopyHelper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/util/appBuilder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/util/appFileCopier.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/util/asyncEventEmitter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/util/bundledTool.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/util/cacheManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/util/config/config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/util/config/load.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/util/filter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/util/flags.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/util/hash.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/util/langs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/util/license.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/util/macosVersion.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/util/macroExpander.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/util/normalizePackageData.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/util/packageDependencies.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/util/packageMetadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/util/pathManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/util/plist.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/util/rebuild/rebuild.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/util/rebuild/remote-rebuild.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/util/repositoryInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/util/resolve.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/util/timer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/util/yarn.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/version.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/vm/MonoVm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/vm/ParallelsVm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/vm/PwshVm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/vm/WineVm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/vm/vm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/winPackager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "out/wine.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@wxa+core/package",
+  "fileCount": 48,
+  "results": [
+    {
+      "file": "dist/main.js",
+      "obfuscated": true
+    },
+    {
+      "file": "jest.config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/base/hook.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/base/mixin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/batchUpdate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/decorators/class.decorators.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/decorators/helpers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/decorators/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/decorators/methods.decorators.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/diff/diff.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/diff/flatten.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/polyfill/bind.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/__mocks__/wxapi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/decorators.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/deep-merge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/eventbus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/fetch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/helpers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/promisify.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/router.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/routerWithParams.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/sessionStorage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/storage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/toast.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/wxapi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/wxa.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/app.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/batchUpdate.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/component.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/decorators.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/diff/diff.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/diff/flatten.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/eventbus.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/fetch.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/helper.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/mixin.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/page.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/promisify.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/router.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/routerWithParams.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/sessionStorage.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/setup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/storage.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/wxa.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/wxapi.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "webpack.config.js",
+      "obfuscated": false
+    }
+  ]
+}

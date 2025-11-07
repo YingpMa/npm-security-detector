@@ -1,0 +1,598 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@sentry+react-native/package",
+  "fileCount": 148,
+  "results": [
+    {
+      "file": "app.plugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/NativeRNSentry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/RNSentryReplayMaskNativeComponent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/RNSentryReplayUnmaskNativeComponent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/breadcrumb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/feedback/FeedbackButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/feedback/FeedbackWidget.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/feedback/FeedbackWidget.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/feedback/FeedbackWidget.theme.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/feedback/FeedbackWidget.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/feedback/FeedbackWidgetManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/feedback/FeedbackWidgetProvider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/feedback/ScreenshotButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/feedback/branding.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/js/feedback/defaults.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/feedback/icons.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/js/feedback/integration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/feedback/lazy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/feedback/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/integrations/appRegistry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/integrations/breadcrumbs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/integrations/debugsymbolicator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/integrations/debugsymbolicatorutils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/integrations/default.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/integrations/devicecontext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/integrations/eventorigin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/integrations/expocontext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/integrations/exports.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/integrations/factory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/integrations/modulesloader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/integrations/nativelinkederrors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/integrations/primitiveTagIntegration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/integrations/reactnativeerrorhandlers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/integrations/reactnativeerrorhandlersutils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/integrations/reactnativeinfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/integrations/release.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/integrations/rewriteframes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/integrations/screenshot.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/integrations/sdkinfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/integrations/spotlight.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/integrations/viewhierarchy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/measurements.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/misc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/options.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/playground/animations.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/js/playground/examples.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/playground/images.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/js/playground/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/playground/modal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/profiling/cache.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/profiling/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/profiling/convertHermesProfile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/profiling/debugid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/profiling/hermes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/profiling/integration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/profiling/nativeTypes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/profiling/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/profiling/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/replay/CustomMask.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/replay/CustomMask.web.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/replay/browserReplay.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/replay/mobilereplay.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/replay/networkUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/replay/replayInterface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/replay/xhrUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/scopeSync.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/sdk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/tools/ModulesCollector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/tools/collectModules.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/tools/enableLogger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/tools/metroMiddleware.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/tools/metroconfig.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/tools/sentryBabelTransformer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/tools/sentryBabelTransformerUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/tools/sentryMetroSerializer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/tools/sentryReleaseInjector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/tools/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/touchevents.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/tracing/gesturetracing.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/tracing/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/tracing/integrations/appStart.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/tracing/integrations/nativeFrames.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/tracing/integrations/stalltracking.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/tracing/integrations/timeToDisplayIntegration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/tracing/integrations/userInteraction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/tracing/onSpanEndUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/tracing/ops.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/tracing/origin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/tracing/reactnativenavigation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/tracing/reactnativeprofiler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/tracing/reactnativetracing.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/tracing/reactnavigation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/tracing/semanticAttributes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/tracing/span.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/tracing/timeToDisplayFallback.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/tracing/timetodisplay.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/tracing/timetodisplaynative.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/tracing/timetodisplaynative.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/tracing/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/tracing/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/transports/encodePolyfill.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/transports/native.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/user.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/utils/AsyncExpiringMap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/utils/carrier.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/utils/clientutils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/utils/encode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/utils/envelope.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/utils/environment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/utils/error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/utils/expoglobalobject.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/utils/expomodules.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/utils/fill.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/utils/ignorerequirecyclelogs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/utils/normalize.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/utils/outcome.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/utils/primitiveConverter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/utils/release.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/utils/rnlibraries.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/utils/rnlibraries.web.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/utils/rnlibrariesinterface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/utils/safe.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/utils/span.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/utils/worldwide.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/utils/xhr.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/vendor/base64-js/fromByteArray.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/vendor/base64-js/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/vendor/buffer/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/vendor/buffer/utf8ToBytes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/vendor/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/vendor/react-native/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/vendor/react-navigation/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/version.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/js/wrapper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "expo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "metro.js",
+      "obfuscated": false
+    },
+    {
+      "file": "plugin/build/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "plugin/build/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "plugin/build/withSentry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "plugin/build/withSentryAndroid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "plugin/build/withSentryAndroidGradlePlugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "plugin/build/withSentryIOS.js",
+      "obfuscated": false
+    },
+    {
+      "file": "react-native.config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "scripts/copy-debugid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "scripts/expo-upload-sourcemaps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "scripts/has-sourcemap-debugid.js",
+      "obfuscated": false
+    }
+  ]
+}

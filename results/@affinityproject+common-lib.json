@@ -1,0 +1,122 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@affinityproject+common-lib/package",
+  "fileCount": 29,
+  "results": [
+    {
+      "file": ".eslintrc.js",
+      "obfuscated": false
+    },
+    {
+      "file": ".prettierrc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Affinity.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/_baseDocumentLoader/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/_baseDocumentLoader/util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/_defaultConfig.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/_helpers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/dto/shared.dto.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/DidDocumentService/ElemDidDocument.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/DidDocumentService/JoloDidDocument.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/DidDocumentService/defaultJoloContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/DidDocumentService/elem-lib/func.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/DidDocumentService/elem-lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/DidDocumentService/elem-lib/op.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/DidDocumentService/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/DigestService.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/JwtService.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/KeysService.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/interfaces.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/profiler/ConsoleReporter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/profiler/DefaultProfilerActivator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/profiler/IProfileActivator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/profiler/IProfilerRecorder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/profiler/IProfilerReporter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/profiler/ProfilerDecorator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/profiler/ReportItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/randomBytes.js",
+      "obfuscated": false
+    }
+  ]
+}

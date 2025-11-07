@@ -1,0 +1,10 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@bugsnag+plugin-browser-session/package",
+  "fileCount": 1,
+  "results": [
+    {
+      "file": "session.js",
+      "obfuscated": false
+    }
+  ]
+}

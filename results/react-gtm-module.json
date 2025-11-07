@@ -1,0 +1,50 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/react-gtm-module/package",
+  "fileCount": 11,
+  "results": [
+    {
+      "file": "dist/Snippets.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/TagManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/warn.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Snippets.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/TagManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/__tests__/Snippets.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/__tests__/TagManager.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/__tests__/warn.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/warn.js",
+      "obfuscated": false
+    }
+  ]
+}

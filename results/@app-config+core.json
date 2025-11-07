@@ -1,0 +1,46 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@app-config+core/package",
+  "fileCount": 10,
+  "results": [
+    {
+      "file": "dist/common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/config-source.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/config-source.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/parsed-value.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/parsed-value.js",
+      "obfuscated": false
+    }
+  ]
+}

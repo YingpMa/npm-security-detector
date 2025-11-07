@@ -1,0 +1,38 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/statelink/package",
+  "fileCount": 8,
+  "results": [
+    {
+      "file": "demo/css.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "scripts/build.js",
+      "obfuscated": false
+    },
+    {
+      "file": "scripts/rollup.config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "scripts/util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "webpack.config.js",
+      "obfuscated": false
+    }
+  ]
+}

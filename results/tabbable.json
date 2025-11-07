@@ -1,0 +1,34 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/tabbable/package",
+  "fileCount": 7,
+  "results": [
+    {
+      "file": "dist/index.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.esm.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/index.umd.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.umd.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    }
+  ]
+}

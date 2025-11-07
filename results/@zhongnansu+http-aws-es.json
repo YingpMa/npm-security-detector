@@ -1,0 +1,98 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@zhongnansu+http-aws-es/package",
+  "fileCount": 23,
+  "results": [
+    {
+      "file": ".history/connector_20230427144541.js",
+      "obfuscated": false
+    },
+    {
+      "file": ".history/connector_20230427151446.js",
+      "obfuscated": false
+    },
+    {
+      "file": ".history/connector_20230427151451.js",
+      "obfuscated": false
+    },
+    {
+      "file": ".history/connector_20230427151804.js",
+      "obfuscated": false
+    },
+    {
+      "file": ".history/connector_20230427151837.js",
+      "obfuscated": false
+    },
+    {
+      "file": ".history/connector_20230427154133.js",
+      "obfuscated": false
+    },
+    {
+      "file": ".history/connector_20230427154720.js",
+      "obfuscated": false
+    },
+    {
+      "file": ".history/connector_20230427154730.js",
+      "obfuscated": false
+    },
+    {
+      "file": ".history/connector_20230427154922.js",
+      "obfuscated": false
+    },
+    {
+      "file": ".history/connector_20230427155013.js",
+      "obfuscated": false
+    },
+    {
+      "file": ".history/connector_20230427155022.js",
+      "obfuscated": false
+    },
+    {
+      "file": ".history/test/browser/app_20230427144541.js",
+      "obfuscated": false
+    },
+    {
+      "file": ".history/test/browser/app_20230427145809.js",
+      "obfuscated": false
+    },
+    {
+      "file": ".history/test/browser/app_20230427150206.js",
+      "obfuscated": false
+    },
+    {
+      "file": "connector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/xhr.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/browser/app.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/browser/browserify.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/browser/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/browser/server.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/connector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/integration/local.js",
+      "obfuscated": false
+    }
+  ]
+}

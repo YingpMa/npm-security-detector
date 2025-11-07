@@ -1,0 +1,42 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/node-red-node-test-helper/package",
+  "fileCount": 9,
+  "results": [
+    {
+      "file": "examples/comment_spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/function_spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/lower-case_spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/nodes/80-function.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/nodes/90-comment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/nodes/lower-case.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/_spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/settings_spec.js",
+      "obfuscated": false
+    }
+  ]
+}

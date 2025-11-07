@@ -1,0 +1,150 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@mocks-server+plugin-admin-api/package",
+  "fileCount": 36,
+  "results": [
+    {
+      "file": "dist/Plugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/Common.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/Helpers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/Paths.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/routes/Root.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/routes/Root.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/routes/api/About.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/routes/api/About.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/routes/api/Alerts.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/routes/api/Alerts.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/routes/api/Api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/routes/api/Api.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/routes/api/Config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/routes/api/Config.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/routes/api/CustomRouteVariants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/routes/api/CustomRouteVariants.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/routes/api/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/routes/swagger/Openapi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/routes/swagger/Openapi.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/routes/swagger/Swagger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/routes/swagger/Swagger.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/routes/swagger/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/routes/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/server/Middlewares.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/server/Server.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/server/Server.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/server/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/support/Constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/support/Middlewares.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/support/Middlewares.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/support/Routers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/support/Routers.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/support/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/types.js",
+      "obfuscated": false
+    }
+  ]
+}

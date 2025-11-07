@@ -1,0 +1,86 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@percy+core/package",
+  "fileCount": 20,
+  "results": [
+    {
+      "file": "dist/api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/discovery.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/install.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/network.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/page.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/percy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/queue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/server.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/session.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/snapshot.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/wait-for-job.js",
+      "obfuscated": false
+    },
+    {
+      "file": "post-install.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/helpers/dedent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/helpers/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/helpers/request.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/helpers/server.js",
+      "obfuscated": false
+    }
+  ]
+}

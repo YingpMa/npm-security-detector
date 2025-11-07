@@ -1,0 +1,54 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@chiper-inc+ecommerce-lib/package",
+  "fileCount": 12,
+  "results": [
+    {
+      "file": "dist/cart/helpers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cart/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cart/item.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cart/itemQuantityError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cart/new.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cart/price.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cart/product.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cart/promotion.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/event/event-sender.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/event/event.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/event/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/vite-plugin-webfont-dl/package",
+  "fileCount": 1,
+  "results": [
+    {
+      "file": "dist/index.js",
+      "obfuscated": true
+    }
+  ]
+}

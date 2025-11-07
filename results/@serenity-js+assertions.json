@@ -1,0 +1,102 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@serenity-js+assertions/package",
+  "fileCount": 24,
+  "results": [
+    {
+      "file": "lib/Ensure.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/EnsureEventually.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/expectations/and.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/expectations/contain.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/expectations/containAtLeastOneItemThat.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/expectations/containItemsWhereEachItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/expectations/endsWith.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/expectations/equals.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/expectations/includes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/expectations/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/expectations/isAfter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/expectations/isBefore.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/expectations/isCloseTo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/expectations/isFalse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/expectations/isGreaterThan.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/expectations/isLessThan.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/expectations/isPresent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/expectations/isTrue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/expectations/matches.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/expectations/not.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/expectations/or.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/expectations/property.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/expectations/startsWith.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    }
+  ]
+}

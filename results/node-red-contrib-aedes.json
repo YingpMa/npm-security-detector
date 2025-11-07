@@ -1,0 +1,30 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/node-red-contrib-aedes/package",
+  "fileCount": 6,
+  "results": [
+    {
+      "file": "aedes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/aedes_last_will_spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/aedes_qos_spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/aedes_retain_spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/aedes_spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/aedes_ws_spec.js",
+      "obfuscated": false
+    }
+  ]
+}

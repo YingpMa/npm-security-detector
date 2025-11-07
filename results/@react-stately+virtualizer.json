@@ -1,0 +1,94 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@react-stately+virtualizer/package",
+  "fileCount": 22,
+  "results": [
+    {
+      "file": "dist/Layout.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Layout.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/LayoutInfo.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/LayoutInfo.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/OverscanManager.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/OverscanManager.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Point.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Point.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Rect.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Rect.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ReusableView.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ReusableView.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Size.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Size.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Virtualizer.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Virtualizer.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/useVirtualizerState.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/useVirtualizerState.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils.main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils.module.js",
+      "obfuscated": false
+    }
+  ]
+}

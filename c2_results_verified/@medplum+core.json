@@ -1,0 +1,10 @@
+{
+  "pkg": "@medplum/core",
+  "domains": [
+    "github.com",
+    "www.npmjs.com",
+    "registry.npmjs.org"
+  ],
+  "vt": {},
+  "timestamp": "2025-11-06T18:21:39.766Z"
+}

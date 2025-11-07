@@ -1,0 +1,806 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@coveo+headless/package",
+  "fileCount": 200,
+  "results": [
+    {
+      "file": "dist/esm/api/analytics/analytics-relay-client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/api/analytics/analytics-selectors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/api/analytics/base-analytics.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/api/analytics/case-assist-analytics.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/api/analytics/coveo-analytics-utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/api/analytics/insight-analytics.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/api/analytics/instant-result-analytics.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/api/analytics/recommendations-analytics.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/api/analytics/search-analytics.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/api/api-client-utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/api/commerce/commerce-api-client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/api/commerce/commerce-api-error-response.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/api/commerce/commerce-api-params.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/api/commerce/commerce-metadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/api/common/trigger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/api/form-url-encoder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/api/generated-answer/generated-answer-client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/api/generated-answer/generated-answer-event-payload.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/api/generated-answer/generated-answer-request.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/api/knowledge/answer-slice.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/api/knowledge/post-answer-evaluation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/api/knowledge/stream-answer-actions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/api/knowledge/stream-answer-api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/api/platform-client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/api/platform-service-params.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/api/preprocess-request.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/api/search/api-calls-queue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/api/search/encoding-finder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/api/search/search-api-client-middleware.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/api/search/search-api-client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/api/search/search-api-error-response.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/api/search/search-api-params.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/api/search/search-metadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/app/analytics-middleware.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/app/async-thunk-options.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/app/case-assist-engine/case-assist-engine-configuration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/app/case-assist-engine/case-assist-engine.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/app/case-assist-thunk-extra-arguments.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/app/commerce-engine/commerce-engine-configuration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/app/commerce-engine/commerce-engine.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/app/commerce-thunk-extra-arguments.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/app/common-reducers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/app/engine-configuration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/app/engine.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/app/insight-engine/insight-engine-configuration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/app/insight-engine/insight-engine.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/app/insight-thunk-extra-arguments.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/app/instantly-callable-middleware.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/app/logger-middlewares.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/app/logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/app/navigator-context-provider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/app/recommendation-engine/recommendation-engine-configuration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/app/recommendation-engine/recommendation-engine.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/app/reducer-manager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/app/renew-access-token-middleware.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/app/search-engine/jwt-reducer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/app/search-engine/search-engine-configuration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/app/search-engine/search-engine.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/app/search-thunk-extra-arguments.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/app/state-key.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/app/store.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/app/thunk-extra-arguments.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/app/undoable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/case-assist.index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/commerce.index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/breadcrumb-manager/headless-breadcrumb-manager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/case-field/headless-case-field.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/case-input/headless-case-input.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/context/headless-context.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/controller/error-payload.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/controller/headless-controller.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/dictionary-field-context/headless-dictionary-field-context.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/did-you-mean/headless-did-you-mean.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/document-suggestion-list/case-assist-headless-interactive-result.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/document-suggestion-list/headless-document-suggestion-list.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/facet-manager/headless-facet-manager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/folded-result-list/headless-folded-result-list.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/generated-answer/headless-generated-answer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/generated-answer/headless-interactive-citation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/history-manager/headless-history-manager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/insight-interface/insight-interface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/instant-results/headless-interactive-instant-result.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/instant-results/instant-results-options.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/instant-results/instant-results.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/pager/headless-pager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/query-error/headless-query-error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/query-summary/headless-query-summary.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/quickview/case-assist-headless-quickview.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/quickview/headless-quickview.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/recent-queries-list/headless-recent-queries-list.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/recent-results-list/headless-interactive-recent-result.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/recent-results-list/headless-recent-results-list.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/recommendation/headless-recommendation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/relevance-inspector/headless-relevance-inspector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/result-list/headless-interactive-result.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/result-list/headless-result-list.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/results-per-page/headless-results-per-page.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/search-box/headless-search-box.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/search-parameter-manager/headless-search-parameter-manager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/search-status/headless-search-status.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/smart-snippet/headless-smart-snippet-interactive-inline-links.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/smart-snippet/headless-smart-snippet.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/smart-snippet-questions-list/headless-smart-snippet-interactive-questions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/smart-snippet-questions-list/headless-smart-snippet-questions-list.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/sort/headless-sort.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/standalone-search-box/headless-standalone-search-box-options.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/standalone-search-box/headless-standalone-search-box.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/static-filter/headless-static-filter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/static-filter/static-filter-value.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/tab/headless-tab.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/tab-manager/headless-tab-manager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/triggers/headless-execute-trigger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/triggers/headless-notify-trigger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/triggers/headless-query-trigger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/triggers/headless-redirection-trigger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/controllers/url-manager/headless-url-manager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/actions-history/ipx-actions-history-actions-loader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/actions-history/ipx-actions-history-actions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/advanced-search-queries/advanced-search-queries-actions-loader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/advanced-search-queries/advanced-search-queries-actions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/advanced-search-queries/advanced-search-queries-slice.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/advanced-search-queries/advanced-search-queries-state.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/advanced-search-queries/advanced-search-query-selectors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/analytics/analytics-actions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/analytics/analytics-utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/analytics/click-analytics-actions-loader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/analytics/generic-analytics-actions-loader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/analytics/insight-analytics-actions-loader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/analytics/insight-analytics-utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/analytics/legacy-search-action-cause.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/analytics/search-action-cause.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/analytics/search-analytics-actions-loader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/attached-results/attached-results-actions-loader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/attached-results/attached-results-actions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/attached-results/attached-results-analytics-actions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/attached-results/attached-results-slice.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/attached-results/attached-results-state.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/attached-results/attached-results-utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/breadcrumb/breadcrumb-actions-loader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/breadcrumb/breadcrumb-actions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/case-assist/case-assist-analytics-actions-loader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/case-assist/case-assist-analytics-actions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/case-assist/case-assist-analytics-selectors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/case-assist-configuration/case-assist-configuration-actions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/case-assist-configuration/case-assist-configuration-slice.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/case-assist-configuration/case-assist-configuration-state.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/case-context/case-context-actions-loader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/case-context/case-context-actions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/case-context/case-context-slice.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/case-context/case-context-slice.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/case-context/case-context-state.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/case-field/case-field-actions-loader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/case-field/case-field-actions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/case-field/case-field-slice.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/case-field/case-field-state.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/case-input/case-input-actions-loader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/case-input/case-input-actions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/case-input/case-input-slice.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/case-input/case-input-state.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/configuration/analytics-params.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/configuration/configuration-actions-loader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/configuration/configuration-actions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/configuration/configuration-slice.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/configuration/configuration-state.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/configuration/legacy-analytics-params.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/configuration/magic-cookie.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/configuration/search-configuration-actions-loader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/context/context-actions-loader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/context/context-actions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/context/context-selector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/context/context-slice.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/context/context-state.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/debug/debug-actions-loader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/debug/debug-actions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/debug/debug-selectors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/debug/debug-slice.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/debug/debug-state.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/debug/ranking-info-parser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/debug/version-slice.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/dictionary-field-context/dictionary-field-context-actions-loader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/dictionary-field-context/dictionary-field-context-actions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/dictionary-field-context/dictionary-field-context-slice.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/dictionary-field-context/dictionary-field-context-state.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/did-you-mean/did-you-mean-actions-loader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/did-you-mean/did-you-mean-actions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/did-you-mean/did-you-mean-analytics-actions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/did-you-mean/did-you-mean-insight-analytics-actions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/did-you-mean/did-you-mean-selectors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/did-you-mean/did-you-mean-slice-functions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/did-you-mean/did-you-mean-slice.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/did-you-mean/did-you-mean-state.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/document-suggestion/document-suggestion-actions-loader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/document-suggestion/document-suggestion-actions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/document-suggestion/document-suggestion-slice.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/document-suggestion/document-suggestion-state.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/error/error-actions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/excerpt-length/excerpt-length-actions-loader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/excerpt-length/excerpt-length-actions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/excerpt-length/excerpt-length-slice.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/features/excerpt-length/excerpt-length-state.js",
+      "obfuscated": false
+    }
+  ]
+}

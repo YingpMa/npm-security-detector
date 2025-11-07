@@ -1,0 +1,22 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/react-plaid-link/package",
+  "fileCount": 4,
+  "results": [
+    {
+      "file": "dist/index.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.umd.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.umd.min.js",
+      "obfuscated": true
+    }
+  ]
+}

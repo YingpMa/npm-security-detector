@@ -1,0 +1,242 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@serverless-stack+core/package",
+  "fileCount": 59,
+  "results": [
+    {
+      "file": "dist/aws-sdk/aws-sdk-inifile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/aws-sdk/awscli-compatible.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/aws-sdk/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/aws-sdk/sdk_ini_file.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/bootstrap/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/bridge/bridge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/bridge/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cancelablePromise.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cli/Bus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cli/FunctionBuilder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cli/KyselyTypeGenerator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cli/Logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cli/PothosBuilder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cli/ProjectWatcher.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cli/RDSWarmer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cli/StacksBuilder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cli/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/config/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/defer-builder/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errorHelpers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/events.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/function-binding/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/gql/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/local/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/local/router.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/local/server.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/packager/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/pothos/generate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/pothos/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/proxy/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/runtime/error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/runtime/handler/definition.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/runtime/handler/dotnet.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/runtime/handler/go.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/runtime/handler/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/runtime/handler/java.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/runtime/handler/node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/runtime/handler/python.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/runtime/handler/pythonBundling.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/runtime/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/runtime/server.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/runtime/watcher.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/runtime/ws.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/stacks/build.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/stacks/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/stacks/metadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/state/function.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/state/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/telemetry/environment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/telemetry/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/telemetry/post-payload.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/telemetry/project-id.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/telemetry/telemetry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/update/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/util/environment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/util/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/util/paths.js",
+      "obfuscated": false
+    }
+  ]
+}

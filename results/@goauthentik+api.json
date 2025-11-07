@@ -1,0 +1,806 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@goauthentik+api/package",
+  "fileCount": 200,
+  "results": [
+    {
+      "file": "dist/apis/AdminApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/apis/AuthenticatorsApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/apis/CoreApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/apis/CryptoApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/apis/EnterpriseApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/apis/EventsApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/apis/FlowsApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/apis/ManagedApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/apis/Oauth2Api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/apis/OutpostsApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/apis/PoliciesApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/apis/PropertymappingsApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/apis/ProvidersApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/apis/RacApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/apis/RbacApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/apis/RootApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/apis/SchemaApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/apis/SourcesApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/apis/SsfApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/apis/StagesApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/apis/TasksApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/apis/TenantsApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/apis/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/apis/AdminApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/apis/AuthenticatorsApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/apis/CoreApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/apis/CryptoApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/apis/EnterpriseApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/apis/EventsApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/apis/FlowsApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/apis/ManagedApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/apis/Oauth2Api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/apis/OutpostsApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/apis/PoliciesApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/apis/PropertymappingsApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/apis/ProvidersApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/apis/RacApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/apis/RbacApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/apis/RootApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/apis/SchemaApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/apis/SourcesApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/apis/SsfApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/apis/StagesApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/apis/TasksApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/apis/TenantsApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/apis/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AccessDeniedChallenge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AlgEnum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/App.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AppEnum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AppleChallengeResponseRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AppleLoginChallenge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/Application.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/ApplicationEntitlement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/ApplicationEntitlementRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/ApplicationRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthModeEnum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthTypeEnum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthenticatedSession.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthenticatedSessionAsn.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthenticatedSessionGeoIp.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthenticatedSessionUserAgent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthenticatedSessionUserAgentDevice.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthenticatedSessionUserAgentOs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthenticatedSessionUserAgentUserAgent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthenticationEnum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthenticatorAttachmentEnum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthenticatorDuoChallenge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthenticatorDuoChallengeResponseRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthenticatorDuoStage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthenticatorDuoStageDeviceImportResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthenticatorDuoStageManualDeviceImportRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthenticatorDuoStageRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthenticatorEmailChallenge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthenticatorEmailChallengeResponseRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthenticatorEmailStage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthenticatorEmailStageRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthenticatorEndpointGDTCStage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthenticatorEndpointGDTCStageRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthenticatorSMSChallenge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthenticatorSMSChallengeResponseRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthenticatorSMSStage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthenticatorSMSStageRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthenticatorStaticChallenge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthenticatorStaticChallengeResponseRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthenticatorStaticStage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthenticatorStaticStageRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthenticatorTOTPChallenge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthenticatorTOTPChallengeResponseRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthenticatorTOTPStage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthenticatorTOTPStageRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthenticatorValidateStage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthenticatorValidateStageRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthenticatorValidationChallenge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthenticatorValidationChallengeResponseRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthenticatorWebAuthnChallenge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthenticatorWebAuthnChallengeResponseRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthenticatorWebAuthnStage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthenticatorWebAuthnStageRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AuthorizationCodeAuthMethodEnum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AutoSubmitChallengeResponseRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/AutosubmitChallenge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/BackendsEnum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/BindingTypeEnum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/BlueprintFile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/BlueprintInstance.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/BlueprintInstanceRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/BlueprintInstanceStatusEnum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/Brand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/BrandRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/Cache.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/CapabilitiesEnum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/CaptchaChallenge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/CaptchaChallengeResponseRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/CaptchaStage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/CaptchaStageRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/CertAttributeEnum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/CertificateData.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/CertificateGenerationRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/CertificateKeyPair.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/CertificateKeyPairRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/ChallengeTypes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/ClientTypeEnum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/CompatibilityModeEnum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/Config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/ConnectionToken.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/ConnectionTokenRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/ConsentChallenge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/ConsentChallengeResponseRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/ConsentPermission.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/ConsentStage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/ConsentStageModeEnum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/ConsentStageRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/ContextualFlowInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/ContextualFlowInfoLayoutEnum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/CountryCodeEnum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/CurrentBrand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/DeliveryMethodEnum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/DeniedActionEnum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/DenyStage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/DenyStageRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/DetailedCountry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/DetailedCountryField.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/DetailedCountryFieldRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/Device.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/DeviceChallenge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/DeviceChallengeRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/DeviceClassesEnum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/DigestAlgorithmEnum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/DigitsEnum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/DockerServiceConnection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/DockerServiceConnectionRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/Domain.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/DomainRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/DummyChallenge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/DummyChallengeResponseRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/DummyPolicy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/DummyPolicyRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/DummyStage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/DummyStageRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/DuoDevice.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/DuoDeviceEnrollmentStatus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/DuoDeviceRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/DuoResponseEnum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/EmailChallenge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/EmailChallengeResponseRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/EmailDevice.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/EmailDeviceRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/EmailStage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/EmailStageRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/Endpoint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/EndpointDevice.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/EndpointDeviceRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/EndpointRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/ErrorDetail.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/ErrorReportingConfig.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/Event.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/EventActions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/EventMatcherPolicy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/EventMatcherPolicyRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/EventRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/EventTopPerUser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/EventVolume.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/EventsRequestedEnum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/ExpiringBaseGrantModel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/ExpressionPolicy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/ExpressionPolicyRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/ExtraRoleObjectPermission.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/ExtraRoleObjectPermissionRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/ExtraUserObjectPermission.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/ExtraUserObjectPermissionRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/FilePathRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/Flow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/FlowChallengeResponseRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/FlowDesignationEnum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/FlowDiagram.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/FlowErrorChallenge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/FlowImportResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/models/FlowInspection.js",
+      "obfuscated": false
+    }
+  ]
+}

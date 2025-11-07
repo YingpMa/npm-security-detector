@@ -1,0 +1,422 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@placetopay+spartan-vue/package",
+  "fileCount": 104,
+  "results": [
+    {
+      "file": "dist/components/SAccordion/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SAvatar/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SBadge/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SBreadcrumbs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SButton/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SButtonGroup/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SCaption/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SCard/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SCardBrand/index.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/components/SCheckbox/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SCombobox/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SComboboxBlock/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SCopy/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SDTable/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SDefinitionTerm/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SDropdown/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SFilter/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SInput/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SInputAmount/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SInputAmountBlock/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SInputBlock/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SInputDate/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SInputDateBlock/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SInputIncrement/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SInputIncrementBlock/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SInputMask/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SInputMaskBlock/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SInputOtp/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SInputOtpBlock/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SInputPassword/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SInputPasswordBlock/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SInputTag/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SLabel/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SLink/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SModal/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SModalCard/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SModalConfirm/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SModalLeft/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SMultiSelector/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SPageTitle/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SPaginator/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SPlacetopayLogo/index.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/components/SPopover/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SRadio/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SRadioGroup/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SSectionDescription/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SSectionTitle/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SSelect/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SSelectBlock/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SSelector/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SSelectorBlock/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SSidebar/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SSkeleton/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SStackedList/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SSteps/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SSwitch/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/STab/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/STable/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/STextArea/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/STextAreaBlock/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/SToast/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/STooltip/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/expose/i18n.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/locales/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugin.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/shared/AddIcon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/BlockWrapper.vue_vue_type_script_setup_true_lang.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/CheckIcon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/ChevronDownIcon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/SCombobox.vue_vue_type_script_setup_true_lang.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/SDropdown.vue_vue_type_script_setup_true_lang.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/SInputOtp.vue_vue_type_script_setup_true_lang.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/SInputPassword.vue_vue_type_script_setup_true_lang.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/SSelect.vue_vue_type_style_index_0_lang.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/SelectorInputSearch.vue_vue_type_script_setup_true_lang.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/Wrapper.vue_vue_type_script_setup_true_lang.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/XMarkIcon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/XMarkIcon2.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/_plugin-vue_export-helper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/bundle-mjs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/calculate-active-index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/classNames.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/context.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/description.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/disposables.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/focus-management.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/form.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/hidden.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/i18n.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/index2.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/index3.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/keyboard.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/label.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/open-closed.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/passThrough.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/slotContent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/styles2.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/transitions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/use-resolve-button-type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/use-tree-walker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/shared/v4.js",
+      "obfuscated": false
+    }
+  ]
+}

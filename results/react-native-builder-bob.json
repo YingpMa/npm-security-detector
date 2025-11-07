@@ -1,0 +1,170 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/react-native-builder-bob/package",
+  "fileCount": 41,
+  "results": [
+    {
+      "file": "babel-config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "babel-preset.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/__fixtures__/project/MyNativeComponent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/__fixtures__/project/NativeMyLib.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/__fixtures__/project/code/$exports-input.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/__fixtures__/project/code/$exports-output.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/__fixtures__/project/code/$imports-input.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/__fixtures__/project/code/$imports-output.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/__fixtures__/project/code/MyNativeComponent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/__fixtures__/project/code/NativeMyLib.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/__fixtures__/project/code/a.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/__fixtures__/project/code/b.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/__fixtures__/project/code/e.story.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/__fixtures__/project/f.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/__fixtures__/project/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/__tests__/babel.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/__tests__/init.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/babel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/build.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/init.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/schema.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/targets/codegen/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/targets/codegen/patches/patchCodegenAndroidPackage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/targets/codegen/patches/patchCodegenAndroidPackage.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/targets/codegen/patches/removeCodegenAppLevelCode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/targets/codegen/patches/removeCodegenAppLevelCode.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/targets/commonjs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/targets/custom.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/targets/module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/targets/typescript.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/androidAssemble.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/compile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/isCodegenSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/loadConfig.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/prompts.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/spawn.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/workerize.js",
+      "obfuscated": false
+    },
+    {
+      "file": "metro-config.js",
+      "obfuscated": false
+    }
+  ]
+}

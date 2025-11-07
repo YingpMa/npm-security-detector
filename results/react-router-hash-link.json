@@ -1,0 +1,22 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/react-router-hash-link/package",
+  "fileCount": 4,
+  "results": [
+    {
+      "file": "dist/react-router-hash-link.cjs.development.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/react-router-hash-link.cjs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/react-router-hash-link.cjs.production.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/react-router-hash-link.esm.js",
+      "obfuscated": false
+    }
+  ]
+}

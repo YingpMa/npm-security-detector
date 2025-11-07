@@ -1,0 +1,118 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/react-date-picker/package",
+  "fileCount": 28,
+  "results": [
+    {
+      "file": "dist/cjs/DateInput/DayInput.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/DateInput/Input.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/DateInput/MonthInput.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/DateInput/MonthSelect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/DateInput/NativeInput.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/DateInput/YearInput.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/DateInput.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/DatePicker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Divider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/shared/dateFormatter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/shared/dates.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/shared/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/shared/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/DateInput/DayInput.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/DateInput/Input.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/DateInput/MonthInput.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/DateInput/MonthSelect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/DateInput/NativeInput.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/DateInput/YearInput.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/DateInput.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/DatePicker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/Divider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/shared/dateFormatter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/shared/dates.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/shared/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/shared/utils.js",
+      "obfuscated": false
+    }
+  ]
+}

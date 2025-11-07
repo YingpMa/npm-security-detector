@@ -1,0 +1,30 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@trevoreyre+autocomplete-js/package",
+  "fileCount": 6,
+  "results": [
+    {
+      "file": "Autocomplete.js",
+      "obfuscated": false
+    },
+    {
+      "file": "Autocomplete.stories.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/autocomplete.cjs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/autocomplete.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/autocomplete.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    }
+  ]
+}

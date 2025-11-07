@@ -1,0 +1,46 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/eslint-plugin-chakra-ui/package",
+  "fileCount": 10,
+  "results": [
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/createGetParserServices.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/findSpecificComponent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/getImportDeclaration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/getPriorityIndex.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/getShorthand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/isChakraElement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rules/props-order.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rules/props-shorthand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rules/require-specific-component.js",
+      "obfuscated": false
+    }
+  ]
+}

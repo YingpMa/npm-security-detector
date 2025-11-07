@@ -1,0 +1,806 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/jhipster-core/package",
+  "fileCount": 200,
+  "results": [
+    {
+      "file": ".mocharc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/jdl-core.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "lib/converters/JDLToJSON/jdl_to_json_basic_entity_converter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/converters/JDLToJSON/jdl_to_json_field_converter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/converters/JDLToJSON/jdl_to_json_option_converter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/converters/JDLToJSON/jdl_to_json_relationship_converter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/converters/JDLToJSON/jdl_with_applications_to_json_converter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/converters/JDLToJSON/jdl_without_application_to_json_converter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/converters/json_to_jdl_application_converter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/converters/json_to_jdl_converter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/converters/json_to_jdl_entity_converter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/converters/json_to_jdl_option_converter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/converters/parsedJDLToJDLObject/application_converter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/converters/parsedJDLToJDLObject/deployment_converter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/converters/parsedJDLToJDLObject/entity_converter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/converters/parsedJDLToJDLObject/enum_converter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/converters/parsedJDLToJDLObject/field_converter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/converters/parsedJDLToJDLObject/option_converter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/converters/parsedJDLToJDLObject/relationship_converter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/converters/parsedJDLToJDLObject/validation_converter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/abstract_jdl_option.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/boolean_jdl_application_configuration_option.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/integer_jdl_application_configuration_option.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jdl_application.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jdl_application_configuration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jdl_application_configuration_factory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jdl_application_configuration_option.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jdl_application_entities.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jdl_application_factory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jdl_binary_option.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jdl_deployment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jdl_entity.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jdl_enum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jdl_enum_value.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jdl_enums.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jdl_field.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jdl_object.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jdl_object_merger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jdl_options.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jdl_relationship.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jdl_relationships.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jdl_unary_option.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jdl_validation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jhipster/application_options.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jhipster/application_types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jhipster/binary_options.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jhipster/database_types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jhipster/default_application_options.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jhipster/deployment_options.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jhipster/entity_table_name_creator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jhipster/field_types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jhipster/json_entity.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jhipster/relationship_options.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jhipster/relationship_types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jhipster/reserved_keywords/angular.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jhipster/reserved_keywords/cassandra.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jhipster/reserved_keywords/couchbase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jhipster/reserved_keywords/java.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jhipster/reserved_keywords/jhipster.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jhipster/reserved_keywords/mssql.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jhipster/reserved_keywords/mysql.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jhipster/reserved_keywords/neo4j.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jhipster/reserved_keywords/oracle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jhipster/reserved_keywords/postgresql.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jhipster/reserved_keywords/typescript.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jhipster/reserved_keywords.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jhipster/unary_options.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/jhipster/validations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/list_jdl_application_configuration_option.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/string_jdl_application_configuration_option.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/validated_jdl_object.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/validated_jdl_options.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dsl/api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dsl/ast_builder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dsl/exports.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dsl/gen/generated_serialized_grammar.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dsl/jdl_parser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dsl/lexer/application_tokens.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dsl/lexer/deployment_tokens.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dsl/lexer/lexer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dsl/lexer/minmax_tokens.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dsl/lexer/option_tokens.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dsl/lexer/relationship_type_tokens.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dsl/lexer/shared_tokens.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dsl/lexer/token_creator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dsl/lexer/validation_tokens.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dsl/self_checks/parsing_system_checker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dsl/self_checks/token_collector_visitor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dsl/validator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/exporters/export_utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/exporters/jdl_exporter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/exporters/jhipster_application_exporter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/exporters/jhipster_deployment_exporter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/exporters/jhipster_entity_exporter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/jdl/jdl_importer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/linter/entity_linter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/linter/enum_linter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/linter/field_linter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/linter/issues/abstract_issue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/linter/issues/entity_issue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/linter/issues/enum_issue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/linter/issues/field_issue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/linter/issues/issues.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/linter/issues/relationship_issue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/linter/jdl_linter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/linter/relationship_linter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/linter/rule.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/linter/rule_levels.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/linter/rules.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/parsers/document_parser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/parsers/entity_parser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/readers/file_reader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/readers/jdl_reader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/readers/json_file_reader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/readers/json_reader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/array_utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/deprecation_utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/file_utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/format_utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/object_utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/objects/logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/set_utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/string_utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/validators/application_validator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/validators/binary_option_validator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/validators/business_error_checker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/validators/deployment_validator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/validators/entity_validator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/validators/enum_validator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/validators/field_validator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/validators/option_validator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/validators/relationship_validator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/validators/unary_option_validator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/validators/validation_validator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/validators/validator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "module/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "scripts/bundle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "scripts/serialize_grammar.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/matchers/entity_matcher.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/matchers/field_matcher.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/converters/JDLToJSON/jdl_to_json_basic_entity_information_converter.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/converters/JDLToJSON/jdl_to_json_field_converter.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/converters/JDLToJSON/jdl_to_json_option_converter.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/converters/JDLToJSON/jdl_to_json_relationship_converter.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/converters/JDLToJSON/jdl_with_applications_to_json_converter.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/converters/JDLToJSON/jdl_without_application_to_json_converter.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/converters/json_to_jdl_application_converter.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/converters/json_to_jdl_converter.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/converters/json_to_jdl_entity_converter.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/converters/json_to_jdl_option_converter.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/converters/parsedJDLToJDLObject/application_converter.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/converters/parsedJDLToJDLObject/deployment_converter.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/converters/parsedJDLToJDLObject/entity_converter.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/converters/parsedJDLToJDLObject/enum_converter.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/converters/parsedJDLToJDLObject/field_converter.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/converters/parsedJDLToJDLObject/option_converter.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/converters/parsedJDLToJDLObject/relationship_converter.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/converters/parsedJDLToJDLObject/validation_converter.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/core/abstract_jdl_option.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/core/jdl_application.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/core/jdl_application_configuration.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/core/jdl_application_configuration_factory.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/core/jdl_application_entities.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/core/jdl_application_factory.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/core/jdl_binary_option.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/core/jdl_deployment.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/core/jdl_entity.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/core/jdl_enum.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/core/jdl_enum_value.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/core/jdl_enums.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/core/jdl_field.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/core/jdl_object.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/core/jdl_object_merger.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/core/jdl_options.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/core/jdl_relationship.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/core/jdl_relationships.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/core/jdl_unary_option.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/core/jdl_validation.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/core/jhipster/application_options.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/core/jhipster/application_types.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/core/jhipster/binary_options.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/core/jhipster/database_types.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/core/jhipster/default_application_options.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/core/jhipster/deployment_options.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/core/jhipster/entity_table_name_creator.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/core/jhipster/field_types.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/core/jhipster/json_entity.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/core/jhipster/relationship_options.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/core/jhipster/relationship_types.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/core/jhipster/reserved_keywords.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/core/jhipster/unary_options.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/core/jhipster/validations.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/core/validated_jdl_object.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/core/validated_jdl_options.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/dsl/lexer/token_creator.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/exceptions/application_validator.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/exceptions/binary_option_validator.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/exceptions/business_error_checker.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/exceptions/deployment_validator.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/spec/exceptions/entity_validator.spec.js",
+      "obfuscated": false
+    }
+  ]
+}

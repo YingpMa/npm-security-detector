@@ -1,0 +1,230 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/median-js-bridge/package",
+  "fileCount": 56,
+  "results": [
+    {
+      "file": "dist/commands/android.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/commands/general.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/commands/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/commands/ios.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/median.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/plugins/adjust.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/admob.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/appreview.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/appsflyer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/auth.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/auth0.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/autorefresh.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/backgroundLocation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/backgroundMedia.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/barcode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/beacon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/branch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/braze.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/calendar.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/card_io.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/contacts.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/cordial.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/documentScanner.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/downloads.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/esmiley.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/facebook.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/firebaseAnalytics.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/firebaseCrashlytics.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/haptics.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/healthBridge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/iap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/intercom.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/iterable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/kaltura.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/keychainSwift.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/localSettings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/modal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/moengage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/moxo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/msdynamics.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/nfc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/onesignal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/opentok.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/permissions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/plaid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/revenueCat.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/share.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/socialLogin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/socialShare.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/twilio.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/webScreenshot.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugins/zoom.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils.js",
+      "obfuscated": false
+    }
+  ]
+}

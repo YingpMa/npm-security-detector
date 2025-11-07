@@ -1,0 +1,510 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@noovolari+leapp-core-nightly/package",
+  "fileCount": 126,
+  "results": [
+    {
+      "file": "dist/errors/leapp-aws-sts-error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/leapp-base-error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/leapp-execute-error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/leapp-link-error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/leapp-missing-mfa-token-error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/leapp-modal-closed-error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/leapp-not-aws-account-error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/leapp-not-found-error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/leapp-parse-error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/leapp-saml-error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/http/http-client.provider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/interfaces/i-aws-integration-delegate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/interfaces/i-aws-saml-authentication-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/interfaces/i-aws-sso-oidc-verification-window-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/interfaces/i-behavioural-notifier.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/interfaces/i-browser-window-closing.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/interfaces/i-global-settings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/interfaces/i-http-client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/interfaces/i-integration-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/interfaces/i-keychain-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/interfaces/i-logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/interfaces/i-mfa-code-prompter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/interfaces/i-msal-encryption-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/interfaces/i-native-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/interfaces/i-open-external-url-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/interfaces/i-team-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/access-method-field-type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/access-method-field.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/access-method.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/aws/aws-iam-role-chained-session.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/aws/aws-iam-role-federated-session.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/aws/aws-iam-user-session.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/aws/aws-named-profile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/aws/aws-process-credential.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/aws/aws-sso-integration-creation-params.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/aws/aws-sso-integration-token-info.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/aws/aws-sso-integration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/aws/aws-sso-role-session.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/azure/azure-integration-creation-params.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/azure/azure-integration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/azure/azure-session.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/cloud-provider-type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/credentials-info.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/credentials.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/folder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/idp-url-access-method-field.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/idp-url.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/integration-method.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/integration-params.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/integration-type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/integration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/localstack/localstack-session.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/notification.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/operating-system.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/plugin-status.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/remote-workspace-settings-map.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/segment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/session-selection-state.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/session-status.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/session-type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/session.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/models/workspace.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugin-sdk/aws-credentials-plugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugin-sdk/interfaces/aws-iam-role-chained-session-data.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugin-sdk/interfaces/aws-iam-role-federated-session-data.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugin-sdk/interfaces/aws-iam-user-session-data.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugin-sdk/interfaces/i-plugin-environment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugin-sdk/interfaces/i-plugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugin-sdk/interfaces/session-data.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugin-sdk/plugin-environment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugin-sdk/plugin-log-level.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/plugin-sdk/plugin-manager-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/aws-assumer-session-types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/aws-core-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/aws-saml-assertion-extraction-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/aws-sso-oidc.service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/azure-core-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/azure-location.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/azure-persistence-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/behavioural-subject-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/cloud-provider-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/execute-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/field-choice.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/file-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/idp-urls-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/integration/aws-sso-integration-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/integration/azure-integration-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/integration/integration-is-online-state-refresh-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/integration-factory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/keychain-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/log-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/named-profiles-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/notification-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/regions-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/remote-procedures-client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/remote-procedures-server.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/repository.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/retro-compatibility-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/rotation-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/segment-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/session/aws/aws-iam-role-chained-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/session/aws/aws-iam-role-chained-session-request.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/session/aws/aws-iam-role-federated-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/session/aws/aws-iam-role-federated-session-request.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/session/aws/aws-iam-user-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/session/aws/aws-iam-user-session-request.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/session/aws/aws-parent-session.factory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/session/aws/aws-session-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/session/aws/aws-sso-role-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/session/aws/aws-sso-role-session-request.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/session/azure/azure-session-request.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/session/azure/azure-session-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/session/create-aws-session-request.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/session/create-session-request.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/session/localstack/localstack-session-request.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/session/localstack/localstack-session-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/session/session-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/session-factory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/session-management-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/ssm-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/throttle-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/timer-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/web-console-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/workspace-consistency-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/workspace-service.js",
+      "obfuscated": false
+    }
+  ]
+}

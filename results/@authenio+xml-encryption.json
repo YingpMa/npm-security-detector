@@ -1,0 +1,26 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@authenio+xml-encryption/package",
+  "fileCount": 5,
+  "results": [
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/templates/encrypted-key.tpl.xml.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/templates/keyinfo.tpl.xml.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/xmlenc.js",
+      "obfuscated": false
+    }
+  ]
+}

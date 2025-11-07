@@ -1,0 +1,214 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@suprsend+node-sdk/package",
+  "fileCount": 52,
+  "results": [
+    {
+      "file": "dist/attachment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/brands.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/bulk_response.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/event.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/events_bulk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/object_edit.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/object_edit_internal_helper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/objects_api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/signature.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/subscriber.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/subscriber_helper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/subscriber_list.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/subscribers_bulk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/tenant.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/user_edit.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/user_edit_internal_helper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/users_api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/users_edit_bulk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/workflow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/workflow_api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/workflow_request.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/workflow_trigger_bulk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/workflows_bulk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/attachment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/brands.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/bulk_response.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/event.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/events_bulk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/object_edit.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/object_edit_internal_helper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/objects_api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/signature.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/subscriber.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/subscriber_helper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/subscriber_list.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/subscribers_bulk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tenant.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/user_edit.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/user_edit_internal_helper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/users_api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/users_edit_bulk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/workflow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/workflow_api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/workflow_request.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/workflow_trigger_bulk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/workflows_bulk.js",
+      "obfuscated": false
+    }
+  ]
+}

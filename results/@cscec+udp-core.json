@@ -1,0 +1,422 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@cscec+udp-core/package",
+  "fileCount": 104,
+  "results": [
+    {
+      "file": "es/appEntry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/baseHoc/compHoc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/baseHoc/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/baseHoc/pageHoc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/baseModel/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/component/BMap/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/component/BaseComponent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/component/Collapse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/component/HighlightText.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/component/Layout/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/component/Layout/interface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/component/LinkCss.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/component/PageLoading/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/component/Script.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/component/WaterMark.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/component/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/enum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/globalConfig.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hook/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hook/useAllReady.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hook/useAsyncSuspense.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hook/useDebounce.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hook/useDraggable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hook/useDraggableSort.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hook/useEffect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hook/useRefCallback.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hook/useRefState.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hook/useRefValue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hook/useRefs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hook/useResize.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hook/useReturnCallback.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hook/useTabSearch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hook/useUniqueId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/icon/index.js",
+      "obfuscated": true
+    },
+    {
+      "file": "es/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/interface/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/interface/types/IDefineOption.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/interface/types/IModelType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/interface/types/IRequestOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/interface/types/ts.lib.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/theme.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/uiLayout/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/uiLayout/layoutMapping.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/uiLayout/uiLayout.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/umi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/umiExports.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/util/base.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/util/core.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/util/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/util/observer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/util/request/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/util/tool.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/appEntry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/baseHoc/compHoc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/baseHoc/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/baseHoc/pageHoc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/baseModel/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/component/BMap/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/component/BaseComponent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/component/Collapse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/component/HighlightText.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/component/Layout/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/component/Layout/interface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/component/LinkCss.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/component/PageLoading/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/component/Script.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/component/WaterMark.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/component/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/enum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/globalConfig.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hook/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hook/useAllReady.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hook/useAsyncSuspense.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hook/useDebounce.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hook/useDraggable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hook/useDraggableSort.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hook/useEffect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hook/useRefCallback.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hook/useRefState.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hook/useRefValue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hook/useRefs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hook/useResize.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hook/useReturnCallback.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hook/useTabSearch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hook/useUniqueId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/icon/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/interface/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/interface/types/IDefineOption.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/interface/types/IModelType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/interface/types/IRequestOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/interface/types/ts.lib.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/theme.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/uiLayout/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/uiLayout/layoutMapping.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/uiLayout/uiLayout.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/umi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/umiExports.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/base.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/core.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/observer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/request/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/tool.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/kubernetes-client/package",
+  "fileCount": 10,
+  "results": [
+    {
+      "file": "backends/kubernetes-client-node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "backends/request/auth-providers/cmd.js",
+      "obfuscated": false
+    },
+    {
+      "file": "backends/request/auth-providers/openid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "backends/request/client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "backends/request/config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "backends/request/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/alias.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/swagger-client.js",
+      "obfuscated": false
+    }
+  ]
+}

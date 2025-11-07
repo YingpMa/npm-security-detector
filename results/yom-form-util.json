@@ -1,0 +1,126 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/yom-form-util/package",
+  "fileCount": 30,
+  "results": [
+    {
+      "file": "dist/locale/en.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/locale/id.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/locale/zh-CN.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/yom-form-util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/locale/en.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/locale/id.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/locale/zh-CN.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/validator-datetime.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/validator-domain-list.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/validator-domain.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/validator-email-list.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/validator-email.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/validator-integer-range.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/validator-integer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/validator-mandatory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/validator-max-byte-length.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/validator-max-length.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/validator-mobile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/validator-name.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/validator-number-digits.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/validator-number-range.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/validator-number.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/validator-password.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/validator-set.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/validator-trim.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/validator-url.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/validator-word-upper-case.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/yom-form-util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "webpack.config.js",
+      "obfuscated": false
+    }
+  ]
+}

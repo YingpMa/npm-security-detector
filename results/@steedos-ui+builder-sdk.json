@@ -1,0 +1,166 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@steedos-ui+builder-sdk/package",
+  "fileCount": 40,
+  "results": [
+    {
+      "file": "dist/cjs/action.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/client4.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/fetch_etag.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/field.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/filters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/graphql.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/listview.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/sobject.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/translation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/types/client4.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/types/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/types/json.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/types/sobject.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/types/spaces.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/types/users.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/types/utilities.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/utils/helpers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/utils/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/utils/sentry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/action.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/client4.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/fetch_etag.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/field.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/filters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/graphql.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/listview.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/sobject.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/translation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/types/client4.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/types/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/types/json.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/types/sobject.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/types/spaces.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/types/users.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/types/utilities.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/utils/helpers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/utils/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/utils/sentry.js",
+      "obfuscated": false
+    }
+  ]
+}

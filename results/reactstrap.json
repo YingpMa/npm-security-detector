@@ -1,0 +1,806 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/reactstrap/package",
+  "fileCount": 200,
+  "results": [
+    {
+      "file": "esm/Accordion.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/AccordionBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/AccordionContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/AccordionHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/AccordionItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/Alert.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/Badge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/Breadcrumb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/BreadcrumbItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/Button.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/ButtonDropdown.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/ButtonGroup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/ButtonToggle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/ButtonToolbar.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/Card.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/CardBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/CardColumns.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/CardDeck.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/CardFooter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/CardGroup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/CardHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/CardImg.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/CardImgOverlay.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/CardLink.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/CardSubtitle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/CardText.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/CardTitle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/Carousel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/CarouselCaption.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/CarouselContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/CarouselControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/CarouselIndicators.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/CarouselItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/CloseButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/Col.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/Collapse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/Container.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/Dropdown.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/DropdownContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/DropdownItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/DropdownMenu.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/DropdownToggle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/Fade.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/Form.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/FormFeedback.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/FormGroup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/FormText.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/Input.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/InputGroup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/InputGroupContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/InputGroupText.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/Label.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/List.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/ListGroup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/ListGroupItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/ListGroupItemHeading.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/ListGroupItemText.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/ListInlineItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/Media.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/Modal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/ModalBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/ModalFooter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/ModalHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/Nav.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/NavItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/NavLink.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/Navbar.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/NavbarBrand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/NavbarText.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/NavbarToggler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/Offcanvas.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/OffcanvasBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/OffcanvasHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/Pagination.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/PaginationItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/PaginationLink.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/Placeholder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/PlaceholderButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/Popover.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/PopoverBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/PopoverHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/PopperContent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/PopperTargetHelper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/Portal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/Progress.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/Row.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/Spinner.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/TabContent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/TabContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/TabPane.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/Table.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/Toast.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/ToastBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/ToastHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/Tooltip.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/TooltipPopoverWrapper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/UncontrolledAccordion.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/UncontrolledAlert.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/UncontrolledButtonDropdown.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/UncontrolledCarousel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/UncontrolledCollapse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/UncontrolledDropdown.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/UncontrolledPopover.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/UncontrolledTooltip.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/Accordion.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/AccordionBody.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/AccordionHeader.spec.js",
+      "obfuscated": true
+    },
+    {
+      "file": "esm/__tests__/AccordionItem.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/Alert.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/Badge.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/Breadcrumb.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/BreadcrumbList.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/Button.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/ButtonDropdown.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/ButtonGroup.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/ButtonToggle.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/ButtonToolbar.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/Card.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/CardBody.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/CardColumns.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/CardDeck.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/CardFooter.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/CardGroup.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/CardHeader.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/CardImg.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/CardImgOverlay.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/CardLink.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/CardSubtitle.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/CardText.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/CardTitle.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/Carousel.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/CloseButton.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/Col.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/Collapse.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/Container.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/Dropdown.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/DropdownItem.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/DropdownMenu.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/DropdownToggle.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/Fade.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/Form.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/FormFeedback.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/FormGroup.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/FormText.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/Input.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/InputGroup.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/InputGroupText.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/Label.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/List.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/ListGroup.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/ListGroupItem.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/ListGroupItemHeading.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/ListGroupItemText.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/ListInlineItem.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/Media.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/Modal.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/ModalBody.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/ModalFooter.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/ModalHeader.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/Nav.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/NavBrand.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/NavItem.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/NavLink.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/Navbar.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/NavbarText.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/NavbarToggler.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/Offcanvas.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/OffcanvasBody.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/OffcanvasHeader.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/Pagination.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/PaginationItem.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/PaginationLink.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/Placeholder.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/PlaceholderButton.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/Popover.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/PopoverBody.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/PopoverHeader.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/PopperContent.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/Progress.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/Row.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/Spinner.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/Table.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/Tabs.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/Toast.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/ToastBody.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/ToastHeader.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/Tooltip.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/TooltipPopoverWrapper.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/Uncontrolled.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/UncontrolledAccordion.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/UncontrolledCarousel.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/__tests__/UncontrolledCollapse.spec.js",
+      "obfuscated": true
+    },
+    {
+      "file": "esm/__tests__/utils.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/polyfill.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/testUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Accordion.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/AccordionBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/AccordionContext.js",
+      "obfuscated": false
+    }
+  ]
+}

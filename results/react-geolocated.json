@@ -1,0 +1,10 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/react-geolocated/package",
+  "fileCount": 1,
+  "results": [
+    {
+      "file": "dist-modules/index.js",
+      "obfuscated": false
+    }
+  ]
+}

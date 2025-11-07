@@ -1,0 +1,378 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@seidor-cloud-produtos+orbit-backend-lib/package",
+  "fileCount": 93,
+  "results": [
+    {
+      "file": "dist/clean-arch/application/cache/cache.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/application/cache/client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/application/logger/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/application/orbit-http-client/orbit-http-client-dto.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/application/orbit-http-client/orbit-http-client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/application/oribit-notification-client/orbit-notification-client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/application/queue/handler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/application/queue/messages-in-memory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/application/queue/queue-connection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/application/queue/queue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/domain/entities/aggregate-root.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/domain/entities/common-dto.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/domain/entities/entity.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/domain/entities/unique-entity-id.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/domain/entities/value-object.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/domain/entities/watched-list.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/domain/entities/watched-list.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/domain/errors/application-error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/domain/errors/conflict-error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/domain/errors/domain-error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/domain/errors/http-error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/domain/errors/invalid-cnpj-error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/domain/errors/invalid-password-algorithm-error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/domain/errors/invalid-password-length-error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/domain/errors/validation-error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/domain/events/domain-event.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/domain/factories/create-password-factory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/domain/factories/random-password-temporary-factory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/domain/interfaces/address-type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/domain/interfaces/city.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/domain/interfaces/country.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/domain/interfaces/ddd.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/domain/interfaces/state.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/domain/types/optional.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/domain/value-objects/password.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/domain/value-objects/pbkdf2-password.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/domain/value-objects/sha1-password.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/infra/adapters/express-adapter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/infra/adapters/fastify-adapter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/infra/authorizations/authorization.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/infra/authorizations/authorizer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/infra/authorizations/authorizer.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/infra/authorizations/not-allowed.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/infra/environment/env.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/infra/environment/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/infra/errors/infra-error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/infra/http/controller.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/infra/http/controller.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/infra/http/handle-bool-filter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/infra/http/handle-is-active-query.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/infra/http/handle-sort-param-query.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/infra/http/handle-user-headers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/infra/http/health-connections.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/infra/http/http.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/infra/http/net.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/infra/orbit-notification-client/discord-client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/infra/queue/create-consumers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/infra/queue/queue-controller.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/infra/queue/worker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/infra/validations/validation-http.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/shared/pagination/dto-response.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/shared/pagination/get-take-and-skip.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/clean-arch/shared/pagination/pagination.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/frameworks/express/api-gateway/mapping-model.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/frameworks/express/api-gateway/mapping-model.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/frameworks/express/api-gateway/middleware-express.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/frameworks/express/authorizations/authorization-express.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/frameworks/express/authorizations/authorization-express.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/frameworks/express/authorizations/middleware-express.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/frameworks/express/compression/middleware-express.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/frameworks/express/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/frameworks/nest/authorizations/authorization-nest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/frameworks/nest/authorizations/guard-nest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/frameworks/nest/authorizations/not-allowed-nest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/frameworks/nest/errors/orbit-error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/frameworks/nest/exception-filters/orbit-exception-filter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/infra/authorizations/auth-matcher.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/infra/authorizations/auth-matcher.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/infra/authorizations/validator/auth-validator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/infra/authorizations/validator/auth-validator.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/infra/http/api-gateway/mapping-model.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/infra/http/api-gateway/mapping-model.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/infra/http/compression/filter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/infra/http/errors/api-common-error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/infra/http/errors/api-error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/infra/http/errors/unauthorized-response.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/static/address-types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/static/cities.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/static/cnaes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/static/countries.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/static/ddd.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/static/states.js",
+      "obfuscated": false
+    }
+  ]
+}

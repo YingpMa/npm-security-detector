@@ -1,0 +1,182 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@wordpress+api-fetch/package",
+  "fileCount": 44,
+  "results": [
+    {
+      "file": "build/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/middlewares/fetch-all-middleware.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/middlewares/http-v1.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/middlewares/media-upload.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/middlewares/namespace-endpoint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/middlewares/nonce.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/middlewares/preloading.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/middlewares/root-url.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/middlewares/theme-preview.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/middlewares/user-locale.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/utils/response.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/middlewares/fetch-all-middleware.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/middlewares/http-v1.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/middlewares/media-upload.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/middlewares/namespace-endpoint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/middlewares/nonce.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/middlewares/preloading.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/middlewares/root-url.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/middlewares/theme-preview.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/middlewares/user-locale.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/utils/response.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/middlewares/fetch-all-middleware.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/middlewares/http-v1.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/middlewares/media-upload.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/middlewares/namespace-endpoint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/middlewares/nonce.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/middlewares/preloading.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/middlewares/root-url.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/middlewares/test/fetch-all-middleware.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/middlewares/test/http-v1.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/middlewares/test/media-upload.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/middlewares/test/namespace-endpoint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/middlewares/test/nonce.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/middlewares/test/preloading.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/middlewares/test/root-url.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/middlewares/test/user-locale.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/middlewares/theme-preview.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/middlewares/user-locale.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/test/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/response.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,806 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@fluentui+react-teaching-popover/package",
+  "fileCount": 200,
+  "results": [
+    {
+      "file": "lib/TeachingPopover.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/TeachingPopoverBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/TeachingPopoverCarousel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/TeachingPopoverCarouselCard.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/TeachingPopoverCarouselFooter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/TeachingPopoverCarouselFooterButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/TeachingPopoverCarouselNav.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/TeachingPopoverCarouselNavButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/TeachingPopoverCarouselPageCount.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/TeachingPopoverFooter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/TeachingPopoverHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/TeachingPopoverSurface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/TeachingPopoverTitle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/TeachingPopoverTrigger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopover/TeachingPopover.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopover/TeachingPopover.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopover/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopover/renderTeachingPopover.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopover/useTeachingPopover.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverBody/TeachingPopoverBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverBody/TeachingPopoverBody.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverBody/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverBody/renderTeachingPopoverBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverBody/useTeachingPopoverBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverBody/useTeachingPopoverBodyStyles.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverBody/useTeachingPopoverBodyStyles.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarousel/Carousel/Carousel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarousel/Carousel/Carousel.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarousel/Carousel/CarouselContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarousel/Carousel/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarousel/Carousel/createCarouselStore.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarousel/Carousel/useCarouselValues.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarousel/Carousel/useCarouselWalker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarousel/TeachingPopoverCarousel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarousel/TeachingPopoverCarousel.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarousel/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarousel/renderTeachingPopoverCarousel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarousel/useTeachingPopoverCarousel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarousel/useTeachingPopoverCarouselContextValues.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarousel/useTeachingPopoverCarouselStyles.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarousel/useTeachingPopoverCarouselStyles.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselCard/TeachingPopoverCarouselCard.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselCard/TeachingPopoverCarouselCard.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselCard/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselCard/renderTeachingPopoverCarouselCard.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselCard/useTeachingPopoverCarouselCard.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselCard/useTeachingPopoverCarouselCardStyles.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselCard/useTeachingPopoverCarouselCardStyles.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselFooter/TeachingPopoverCarouselFooter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselFooter/TeachingPopoverCarouselFooter.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselFooter/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselFooter/renderTeachingPopoverCarouselFooter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselFooter/useTeachingPopoverCarouselFooter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselFooter/useTeachingPopoverCarouselFooterStyles.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselFooter/useTeachingPopoverCarouselFooterStyles.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselFooterButton/TeachingPopoverCarouselFooterButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselFooterButton/TeachingPopoverCarouselFooterButton.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselFooterButton/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselFooterButton/renderTeachingPopoverCarouselFooterButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselFooterButton/useTeachingPopoverCarouselFooterButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselFooterButton/useTeachingPopoverCarouselFooterButtonStyles.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselFooterButton/useTeachingPopoverCarouselFooterButtonStyles.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselNav/TeachingPopoverCarouselNav.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselNav/TeachingPopoverCarouselNav.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselNav/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselNav/renderTeachingPopoverCarouselNav.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselNav/useTeachingPopoverCarouselNav.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselNav/useTeachingPopoverCarouselNavStyles.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselNav/useTeachingPopoverCarouselNavStyles.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselNav/valueIdContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselNavButton/TeachingPopoverCarouselNavButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselNavButton/TeachingPopoverCarouselNavButton.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselNavButton/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselNavButton/renderTeachingPopoverCarouselNavButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselNavButton/useTeachingPopoverCarouselNavButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselNavButton/useTeachingPopoverCarouselNavButtonStyles.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselNavButton/useTeachingPopoverCarouselNavButtonStyles.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselPageCount/TeachingPopoverCarouselPageCount.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselPageCount/TeachingPopoverCarouselPageCount.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselPageCount/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselPageCount/renderTeachingPopoverCarouselPageCount.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselPageCount/useTeachingPopoverCarouselPageCount.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselPageCount/useTeachingPopoverCarouselPageCountStyles.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverCarouselPageCount/useTeachingPopoverCarouselPageCountStyles.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverFooter/TeachingPopoverFooter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverFooter/TeachingPopoverFooter.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverFooter/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverFooter/renderTeachingPopoverFooter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverFooter/useTeachingPopoverFooter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverFooter/useTeachingPopoverFooterStyles.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverFooter/useTeachingPopoverFooterStyles.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverHeader/TeachingPopoverHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverHeader/TeachingPopoverHeader.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverHeader/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverHeader/renderTeachingPopoverHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverHeader/useTeachingPopoverHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverHeader/useTeachingPopoverHeaderStyles.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverHeader/useTeachingPopoverHeaderStyles.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverSurface/TeachingPopoverSurface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverSurface/TeachingPopoverSurface.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverSurface/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverSurface/renderTeachingPopoverSurface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverSurface/useTeachingPopoverSurface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverSurface/useTeachingPopoverSurfaceStyles.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverSurface/useTeachingPopoverSurfaceStyles.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverTitle/TeachingPopoverTitle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverTitle/TeachingPopoverTitle.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverTitle/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverTitle/renderTeachingPopoverTitle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverTitle/useTeachingPopoverTitle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverTitle/useTeachingPopoverTitleStyles.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverTitle/useTeachingPopoverTitleStyles.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverTrigger/TeachingPopoverTrigger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverTrigger/TeachingPopoverTrigger.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverTrigger/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverTrigger/renderTeachingPopoverTrigger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TeachingPopoverTrigger/useTeachingPopoverTrigger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": true
+    },
+    {
+      "file": "lib-commonjs/TeachingPopover.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/TeachingPopoverBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/TeachingPopoverCarousel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/TeachingPopoverCarouselCard.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/TeachingPopoverCarouselFooter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/TeachingPopoverCarouselFooterButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/TeachingPopoverCarouselNav.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/TeachingPopoverCarouselNavButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/TeachingPopoverCarouselPageCount.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/TeachingPopoverFooter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/TeachingPopoverHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/TeachingPopoverSurface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/TeachingPopoverTitle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/TeachingPopoverTrigger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopover/TeachingPopover.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopover/TeachingPopover.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopover/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopover/renderTeachingPopover.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopover/useTeachingPopover.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverBody/TeachingPopoverBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverBody/TeachingPopoverBody.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverBody/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverBody/renderTeachingPopoverBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverBody/useTeachingPopoverBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverBody/useTeachingPopoverBodyStyles.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverBody/useTeachingPopoverBodyStyles.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarousel/Carousel/Carousel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarousel/Carousel/Carousel.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarousel/Carousel/CarouselContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarousel/Carousel/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarousel/Carousel/createCarouselStore.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarousel/Carousel/useCarouselValues.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarousel/Carousel/useCarouselWalker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarousel/TeachingPopoverCarousel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarousel/TeachingPopoverCarousel.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarousel/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarousel/renderTeachingPopoverCarousel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarousel/useTeachingPopoverCarousel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarousel/useTeachingPopoverCarouselContextValues.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarousel/useTeachingPopoverCarouselStyles.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarousel/useTeachingPopoverCarouselStyles.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarouselCard/TeachingPopoverCarouselCard.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarouselCard/TeachingPopoverCarouselCard.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarouselCard/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarouselCard/renderTeachingPopoverCarouselCard.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarouselCard/useTeachingPopoverCarouselCard.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarouselCard/useTeachingPopoverCarouselCardStyles.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarouselCard/useTeachingPopoverCarouselCardStyles.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarouselFooter/TeachingPopoverCarouselFooter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarouselFooter/TeachingPopoverCarouselFooter.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarouselFooter/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarouselFooter/renderTeachingPopoverCarouselFooter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarouselFooter/useTeachingPopoverCarouselFooter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarouselFooter/useTeachingPopoverCarouselFooterStyles.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarouselFooter/useTeachingPopoverCarouselFooterStyles.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarouselFooterButton/TeachingPopoverCarouselFooterButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarouselFooterButton/TeachingPopoverCarouselFooterButton.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarouselFooterButton/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarouselFooterButton/renderTeachingPopoverCarouselFooterButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarouselFooterButton/useTeachingPopoverCarouselFooterButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarouselFooterButton/useTeachingPopoverCarouselFooterButtonStyles.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarouselFooterButton/useTeachingPopoverCarouselFooterButtonStyles.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarouselNav/TeachingPopoverCarouselNav.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarouselNav/TeachingPopoverCarouselNav.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarouselNav/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarouselNav/renderTeachingPopoverCarouselNav.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarouselNav/useTeachingPopoverCarouselNav.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarouselNav/useTeachingPopoverCarouselNavStyles.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarouselNav/useTeachingPopoverCarouselNavStyles.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarouselNav/valueIdContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarouselNavButton/TeachingPopoverCarouselNavButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarouselNavButton/TeachingPopoverCarouselNavButton.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarouselNavButton/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarouselNavButton/renderTeachingPopoverCarouselNavButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarouselNavButton/useTeachingPopoverCarouselNavButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarouselNavButton/useTeachingPopoverCarouselNavButtonStyles.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarouselNavButton/useTeachingPopoverCarouselNavButtonStyles.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarouselPageCount/TeachingPopoverCarouselPageCount.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarouselPageCount/TeachingPopoverCarouselPageCount.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarouselPageCount/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarouselPageCount/renderTeachingPopoverCarouselPageCount.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/TeachingPopoverCarouselPageCount/useTeachingPopoverCarouselPageCount.js",
+      "obfuscated": false
+    }
+  ]
+}

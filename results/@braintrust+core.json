@@ -1,0 +1,30 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@braintrust+core/package",
+  "fileCount": 6,
+  "results": [
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/main/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/typespecs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/typespecs-stainless/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "typespecs/dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "typespecs-stainless/dist/index.js",
+      "obfuscated": false
+    }
+  ]
+}

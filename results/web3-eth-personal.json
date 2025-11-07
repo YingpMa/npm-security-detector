@@ -1,0 +1,30 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/web3-eth-personal/package",
+  "fileCount": 6,
+  "results": [
+    {
+      "file": "lib/commonjs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/personal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/rpc_method_wrappers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/personal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/esm/rpc_method_wrappers.js",
+      "obfuscated": false
+    }
+  ]
+}

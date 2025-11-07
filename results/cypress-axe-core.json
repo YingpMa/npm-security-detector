@@ -1,0 +1,30 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/cypress-axe-core/package",
+  "fileCount": 6,
+  "results": [
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/assertViolations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/consoleReporter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/isEmptyOrNullObject.js",
+      "obfuscated": false
+    }
+  ]
+}

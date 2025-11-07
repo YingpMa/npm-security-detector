@@ -1,0 +1,46 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/geo-util/package",
+  "fileCount": 10,
+  "results": [
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/line.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/point.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/line.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/point.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-line.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-point.js",
+      "obfuscated": false
+    }
+  ]
+}

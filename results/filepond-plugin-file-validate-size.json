@@ -1,0 +1,22 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/filepond-plugin-file-validate-size/package",
+  "fileCount": 4,
+  "results": [
+    {
+      "file": "dist/filepond-plugin-file-validate-size.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/filepond-plugin-file-validate-size.esm.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/filepond-plugin-file-validate-size.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/filepond-plugin-file-validate-size.min.js",
+      "obfuscated": true
+    }
+  ]
+}

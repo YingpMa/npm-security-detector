@@ -1,0 +1,82 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/node-hubspot-api/package",
+  "fileCount": 19,
+  "results": [
+    {
+      "file": "dist/endpoints/blog.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/endpoints/contacts.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/endpoints/deals.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/helpers/errorHandler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/helpers/request.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/helpers/responseHandler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "playground.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/endpoints/blog.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/endpoints/contacts.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/endpoints/deals.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/helpers/errorHandler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/helpers/request.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/helpers/responseHandler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/blog.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/contacts.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/deals.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/setup.js",
+      "obfuscated": false
+    }
+  ]
+}

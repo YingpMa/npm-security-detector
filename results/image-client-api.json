@@ -1,0 +1,102 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/image-client-api/package",
+  "fileCount": 24,
+  "results": [
+    {
+      "file": "dist/cjs/api/max/api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/api/max/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/api/transform.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/api/uri/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/api/uri.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/engines/attributes/SVGAttributes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/engines/attributes/backgroundAttributes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/engines/attributes/imgAttributes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/engines/attributes/imgPolyfillAttributes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/engines/attributes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/engines/transforms.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/helpers/browserFeatureSupport.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/helpers/imagePlaceholderUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/helpers/imageServiceConstants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/helpers/imageServiceFeatureSupportObject.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/helpers/imageServiceUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/helpers/imageTransformOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/helpers/imageTransformParts.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/helpers/populateFeatureSupport.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/helpers/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/helpers/webPDetection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/sdk/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/imageClientApi.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/imageClientSDK.js",
+      "obfuscated": true
+    }
+  ]
+}

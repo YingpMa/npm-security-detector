@@ -1,0 +1,18 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/azu-pck-orm-ts-cli/package",
+  "fileCount": 3,
+  "results": [
+    {
+      "file": "copy-files.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    }
+  ]
+}

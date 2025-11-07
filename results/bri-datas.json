@@ -1,0 +1,10 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/bri-datas/package",
+  "fileCount": 1,
+  "results": [
+    {
+      "file": "lib/bri-datas.min.js",
+      "obfuscated": true
+    }
+  ]
+}

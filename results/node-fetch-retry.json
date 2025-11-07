@@ -1,0 +1,14 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/node-fetch-retry/package",
+  "fileCount": 2,
+  "results": [
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/fetch-retry.test.js",
+      "obfuscated": false
+    }
+  ]
+}

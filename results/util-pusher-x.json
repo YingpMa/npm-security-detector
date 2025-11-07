@@ -1,0 +1,26 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/util-pusher-x/package",
+  "fileCount": 5,
+  "results": [
+    {
+      "file": "dist/util-pusher-x.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/util-pusher-x.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/util-pusher-x.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/.eslintrc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/util-pusher-x.js",
+      "obfuscated": false
+    }
+  ]
+}

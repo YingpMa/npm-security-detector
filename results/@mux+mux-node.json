@@ -1,0 +1,314 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@mux+mux-node/package",
+  "fileCount": 77,
+  "results": [
+    {
+      "file": "_shims/MultipartBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "_shims/auto/jwt-bun.js",
+      "obfuscated": false
+    },
+    {
+      "file": "_shims/auto/jwt-node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "_shims/auto/jwt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "_shims/auto/runtime-bun.js",
+      "obfuscated": false
+    },
+    {
+      "file": "_shims/auto/runtime-node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "_shims/auto/runtime.js",
+      "obfuscated": false
+    },
+    {
+      "file": "_shims/auto/types-node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "_shims/auto/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "_shims/bun-runtime.js",
+      "obfuscated": false
+    },
+    {
+      "file": "_shims/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "_shims/manual-types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "_shims/node-runtime.js",
+      "obfuscated": false
+    },
+    {
+      "file": "_shims/node-types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "_shims/registry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "_shims/web-runtime.js",
+      "obfuscated": false
+    },
+    {
+      "file": "_shims/web-types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core.js",
+      "obfuscated": false
+    },
+    {
+      "file": "error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/qs/formats.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/qs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/qs/stringify.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/qs/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/qs/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "pagination.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/data/annotations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/data/data.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/data/dimensions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/data/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/data/exports.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/data/filters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/data/incidents.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/data/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/data/metrics.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/data/monitoring/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/data/monitoring/metrics.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/data/monitoring/monitoring.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/data/monitoring.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/data/real-time.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/data/video-views.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/data.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/jwt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/shared.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/system/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/system/signing-keys.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/system/system.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/system/utilities.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/system.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/video/assets.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/video/delivery-usage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/video/drm-configurations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/video/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/video/live-streams.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/video/playback-ids.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/video/playback-restrictions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/video/playback.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/video/transcription-vocabularies.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/video/uploads.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/video/video.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/video/web-inputs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/video.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/webhooks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources.js",
+      "obfuscated": false
+    },
+    {
+      "file": "shims/node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "shims/web.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/_shims/auto/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/_shims/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/_shims/manual-types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/_shims/node-types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/_shims/web-types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "uploads.js",
+      "obfuscated": false
+    },
+    {
+      "file": "util/jwt-types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "util/jwt-util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "version.js",
+      "obfuscated": false
+    }
+  ]
+}

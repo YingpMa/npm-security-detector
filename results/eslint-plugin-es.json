@@ -1,0 +1,530 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/eslint-plugin-es/package",
+  "fileCount": 131,
+  "results": [
+    {
+      "file": "lib/configs/no-new-in-es2015.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/configs/no-new-in-es2016.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/configs/no-new-in-es2017.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/configs/no-new-in-es2018.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/configs/no-new-in-es2019.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/configs/no-new-in-es2020.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/configs/no-new-in-es5.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/configs/no-new-in-esnext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/configs/restrict-to-es2015.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/configs/restrict-to-es2016.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/configs/restrict-to-es2017.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/configs/restrict-to-es2018.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/configs/restrict-to-es2019.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/configs/restrict-to-es3.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/configs/restrict-to-es5.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-accessor-properties.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-array-from.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-array-isarray.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-array-of.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-arrow-functions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-async-functions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-async-iteration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-atomics.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-bigint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-binary-numeric-literals.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-block-scoped-functions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-block-scoped-variables.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-classes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-computed-properties.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-date-now.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-default-parameters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-destructuring.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-dynamic-import.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-exponential-operators.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-export-ns-from.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-for-of-loops.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-generators.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-global-this.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-import-meta.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-json-superset.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-json.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-keyword-properties.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-logical-assignment-operators.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-malformed-template-literals.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-map.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-math-acosh.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-math-asinh.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-math-atanh.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-math-cbrt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-math-clz32.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-math-cosh.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-math-expm1.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-math-fround.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-math-hypot.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-math-imul.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-math-log10.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-math-log1p.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-math-log2.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-math-sign.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-math-sinh.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-math-tanh.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-math-trunc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-modules.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-new-target.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-nullish-coalescing-operators.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-number-epsilon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-number-isfinite.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-number-isinteger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-number-isnan.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-number-issafeinteger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-number-maxsafeinteger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-number-minsafeinteger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-number-parsefloat.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-number-parseint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-numeric-separators.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-object-assign.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-object-defineproperties.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-object-defineproperty.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-object-entries.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-object-freeze.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-object-fromentries.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-object-getownpropertydescriptor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-object-getownpropertydescriptors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-object-getownpropertynames.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-object-getownpropertysymbols.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-object-getprototypeof.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-object-is.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-object-isextensible.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-object-isfrozen.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-object-issealed.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-object-keys.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-object-preventextensions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-object-seal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-object-setprototypeof.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-object-super-properties.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-object-values.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-octal-numeric-literals.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-optional-catch-binding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-optional-chaining.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-promise-all-settled.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-promise-any.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-promise.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-property-shorthands.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-proxy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-reflect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-regexp-lookbehind-assertions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-regexp-named-capture-groups.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-regexp-s-flag.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-regexp-u-flag.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-regexp-unicode-property-escapes-2019.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-regexp-unicode-property-escapes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-regexp-y-flag.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-rest-parameters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-rest-spread-properties.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-set.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-shared-array-buffer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-spread-elements.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-string-fromcodepoint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-string-raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-subclassing-builtins.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-symbol.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-template-literals.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-trailing-commas.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-trailing-function-commas.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-typed-arrays.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-unicode-codepoint-escapes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-weak-map.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-weak-set.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-weakrefs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils.js",
+      "obfuscated": false
+    }
+  ]
+}

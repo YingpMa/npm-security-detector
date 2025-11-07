@@ -1,0 +1,50 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@terrestris+base-util/package",
+  "fileCount": 11,
+  "results": [
+    {
+      "file": "dist/ArrayUtil/ArrayUtil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/CsrfUtil/CsrfUtil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/HttpUtil/HttpUtil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/Logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/MathUtil/MathUtil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ObjectUtil/ObjectUtil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/StringUtil/StringUtil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/UndoUtil/UndoUtil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/UrlUtil/UrlUtil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/types.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@agm+js-marker-clusterer/package",
+  "fileCount": 20,
+  "results": [
+    {
+      "file": "bundles/agm-js-marker-clusterer.umd.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundles/agm-js-marker-clusterer.umd.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "esm2015/agm-js-marker-clusterer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm2015/directives/marker-cluster.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm2015/directives.js",
+      "obfuscated": true
+    },
+    {
+      "file": "esm2015/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm2015/js-marker-clusterer.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm2015/services/google-clusterer-types.js",
+      "obfuscated": true
+    },
+    {
+      "file": "esm2015/services/managers/cluster-manager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm2015/services.js",
+      "obfuscated": true
+    },
+    {
+      "file": "esm5/agm-js-marker-clusterer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm5/directives/marker-cluster.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm5/directives.js",
+      "obfuscated": true
+    },
+    {
+      "file": "esm5/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm5/js-marker-clusterer.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm5/services/google-clusterer-types.js",
+      "obfuscated": true
+    },
+    {
+      "file": "esm5/services/managers/cluster-manager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm5/services.js",
+      "obfuscated": true
+    },
+    {
+      "file": "fesm2015/agm-js-marker-clusterer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "fesm5/agm-js-marker-clusterer.js",
+      "obfuscated": false
+    }
+  ]
+}

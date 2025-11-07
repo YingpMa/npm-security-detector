@@ -1,0 +1,334 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/eslint-plugin-lit-a11y/package",
+  "fileCount": 82,
+  "results": [
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/accessible-emoji.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/accessible-name.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/alt-text.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/anchor-is-valid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/aria-activedescendant-has-tabindex.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/aria-attr-valid-value.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/aria-attrs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/aria-role.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/aria-unsupported-elements.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/autocomplete-valid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/click-events-have-key-events.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/definition-list.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/heading-hidden.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/iframe-title.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/img-redundant-alt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/list.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/mouse-events-have-key-events.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-access-key.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-aria-slot.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-autofocus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-distracting-elements.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-invalid-change-handler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-redundant-role.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/obj-alt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/role-has-required-aria-attrs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/role-supports-aria-attr.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/scope.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/tabindex-no-positive.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/valid-lang.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/HasLitHtmlImportRuleExtension.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/aria.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/ast.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/attributesComparator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/elementHasAttribute.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/getContextSourceCode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/getExplicitRole.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/getImplicitRole.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/getLiteralAttributeValue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/hasAccessibleChildren.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/hasAccessibleName.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/implicitRoles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/isCustomElement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/isHiddenFromScreenReader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/isIncludedInAOM.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/isInteractiveElement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/isLitHtmlTemplate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/isNonInteractiveElement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/isPresentationRole.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/schemas.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/lib/rules/accessible-emoji.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/lib/rules/accessible-name.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/lib/rules/alt-text.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/lib/rules/anchor-is-valid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/lib/rules/aria-activedescendant-has-tabindex.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/lib/rules/aria-attr-valid-value.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/lib/rules/aria-attrs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/lib/rules/aria-role.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/lib/rules/aria-unsupported-elements.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/lib/rules/autocomplete-valid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/lib/rules/click-events-have-key-events.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/lib/rules/definition-list.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/lib/rules/heading-hidden.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/lib/rules/iframe-title.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/lib/rules/img-redundant-alt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/lib/rules/list.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/lib/rules/lit-html-imports.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/lib/rules/mouse-events-have-key-events.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/lib/rules/no-access-key.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/lib/rules/no-aria-slot.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/lib/rules/no-autofocus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/lib/rules/no-distracting-elements.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/lib/rules/no-invalid-change-handler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/lib/rules/no-redundant-role.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/lib/rules/obj-alt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/lib/rules/role-has-required-aria-attrs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/lib/rules/role-supports-aria-attr.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/lib/rules/scope.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/lib/rules/tabindex-no-positive.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/lib/rules/valid-lang.js",
+      "obfuscated": false
+    }
+  ]
+}

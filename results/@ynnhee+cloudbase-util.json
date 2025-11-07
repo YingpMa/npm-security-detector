@@ -1,0 +1,30 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@ynnhee+cloudbase-util/package",
+  "fileCount": 6,
+  "results": [
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "libs/byte_to_size.js",
+      "obfuscated": false
+    },
+    {
+      "file": "libs/compare_version.js",
+      "obfuscated": false
+    },
+    {
+      "file": "libs/convert_time.js",
+      "obfuscated": false
+    },
+    {
+      "file": "libs/format.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/utils.js",
+      "obfuscated": false
+    }
+  ]
+}

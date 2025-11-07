@@ -1,0 +1,22 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@use-gesture+react/package",
+  "fileCount": 4,
+  "results": [
+    {
+      "file": "dist/use-gesture-react.cjs.dev.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/use-gesture-react.cjs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/use-gesture-react.cjs.prod.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/use-gesture-react.esm.js",
+      "obfuscated": false
+    }
+  ]
+}

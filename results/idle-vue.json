@@ -1,0 +1,18 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/idle-vue/package",
+  "fileCount": 3,
+  "results": [
+    {
+      "file": ".eslintrc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/build.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    }
+  ]
+}

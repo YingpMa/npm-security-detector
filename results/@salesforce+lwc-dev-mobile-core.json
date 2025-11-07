@@ -1,0 +1,98 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@salesforce+lwc-dev-mobile-core/package",
+  "fileCount": 23,
+  "results": [
+    {
+      "file": "dist/common/AndroidEnvironmentRequirements.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/AndroidLauncher.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/AndroidTypes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/AndroidUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/BaseCommand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/CommandLineUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/Common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/CommonUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/CryptoUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/IOSEnvironmentRequirements.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/IOSUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/MacNetworkUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/PerformanceMarkers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/PlatformConfig.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/PreviewConfigFile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/PreviewUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/Requirements.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/device/AndroidDevice.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/device/AndroidDeviceManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/device/AppleDevice.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/device/AppleDeviceManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/device/BaseDevice.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    }
+  ]
+}

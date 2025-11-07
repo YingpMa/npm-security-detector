@@ -1,0 +1,78 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@ocap+util/package",
+  "fileCount": 18,
+  "results": [
+    {
+      "file": "esm/constant.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/create-sorted-list.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/get-list-field.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/get-related-addr.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/md5.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/ready.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/retry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/constant.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/create-sorted-list.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/get-list-field.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/get-related-addr.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/md5.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ready.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/retry.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@netlify+plugin-edge-handlers/package",
+  "fileCount": 7,
+  "results": [
+    {
+      "file": "src/cli.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/consts.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/node-compat/assets/browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/node-compat/globals.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/upload.js",
+      "obfuscated": false
+    }
+  ]
+}

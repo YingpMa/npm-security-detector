@@ -1,0 +1,806 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@timetac+js-client-library/package",
+  "fileCount": 200,
+  "results": [
+    {
+      "file": "dist/cjs/absenceBans/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/absenceBans/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/absenceDays/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/absenceDays/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/absenceTypes/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/absenceTypes/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/absences/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/absences/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/authentication/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/authentication/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/automaticBreakTemplates/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/automaticBreakTemplates/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/baseApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/calculationStates/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/calculationStates/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/changeTimeTrackingRequests/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/changeTimeTrackingRequests/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/clients/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/clients/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/countries/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/countries/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/deltaSync/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/deltaSync/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/departments/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/departments/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/enums/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/errors/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/favouriteTasks/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/favouriteTasks/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/features/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/features/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/feedback/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/feedback/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/fetchData/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/fetchData/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/files/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/files/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/generalSettings/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/generalSettings/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/geoFences/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/geoFences/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/geofenceToNodes/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/geofenceToNodes/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/holidayAdjustment/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/holidayAdjustment/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/hourTypes/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/hourTypes/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/integrationCategories/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/integrationCategories/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/integrations/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/integrations/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/integrationsToCategories/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/integrationsToCategories/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/jobQueues/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/jobQueues/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/languages/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/languages/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/legalDocumentAcceptanceLogs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/legalDocumentAcceptanceLogs/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/legalDocuments/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/legalDocuments/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/messages/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/messages/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/monitoringRule/monitoringRuleFrequencies/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/monitoringRule/monitoringRuleFrequencies/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/monitoringRule/monitoringRuleIntervals/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/monitoringRule/monitoringRuleIntervals/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/monitoringRule/monitoringRuleRecipients/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/monitoringRule/monitoringRuleRecipients/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/monitoringRule/monitoringRuleTemplates/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/monitoringRule/monitoringRuleTemplates/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/monitoringRule/monitoringRules/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/monitoringRule/monitoringRules/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/notificationUrls/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/notificationUrls/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/notifications/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/notifications/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/notificationsTypeHtml/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/notificationsTypeHtml/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/onboardingStepToUsers/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/onboardingStepToUsers/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/onboardingSteps/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/onboardingSteps/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/otherPaidLeaveLimitations/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/otherPaidLeaveLimitations/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/paidBreaksHistory/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/paidBreaksHistory/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/permissions/permissionResolveAbsenceTypesAndUsers/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/permissions/permissionResolveAbsenceTypesAndUsers/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/permissions/permissionResolveDepartments/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/permissions/permissionResolveDepartments/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/permissions/permissionResolveEntities/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/permissions/permissionResolveEntities/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/permissions/permissionResolveUsers/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/permissions/permissionResolveUsers/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/projects/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/projects/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/publicHolidayTemplates/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/publicHolidayTemplates/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/publicHolidays/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/publicHolidays/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/recentTasks/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/recentTasks/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/salutations/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/salutations/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/serverCommunication/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/serverCommunication/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/ssoConfig/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/ssoConfig/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/tasks/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/tasks/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/teamMembers/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/teamMembers/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/teams/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/teams/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/tiers/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/tiers/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/timeTrackingChangelogs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/timeTrackingChangelogs/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/timeplannings/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/timeplannings/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/timesheetAccountingSummaries/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/timesheetAccountingSummaries/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/timesheetAccountings/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/timesheetAccountings/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/timesheetActionLogs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/timesheetActionLogs/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/timetrackings/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/timetrackings/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/timezones/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/timezones/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/todoTasks/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/todoTasks/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/translations/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/translations/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/userDefinedFieldDefinitionOptions/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/userDefinedFieldDefinitionOptions/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/userDefinedFieldDefinitions/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/userDefinedFieldDefinitions/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/userEvents/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/userEvents/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/userHistory/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/userHistory/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/userPreferences/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/userPreferences/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/userRoles/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/userRoles/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/userStatusOverview/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/userStatusOverview/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/userTemplateHistory/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/userTemplateHistory/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/users/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/users/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/usersArchiveHistory/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/usersArchiveHistory/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/utils/axiosSetup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/utils/canonicalTime.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/utils/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/utils/pages/pages.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/utils/params/deltaSyncParams.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/utils/params/requestParams.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/utils/response/apiResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/utils/response/deltaSyncResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/utils/response/fetchDataUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/utils/response/rawApiResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/utils/response/readRawResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/utils/response/resourceResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/utils/response/responseHandlers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/utils/response/updateRawResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/workScheduleDayDefinitions/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/workScheduleDayDefinitions/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/workScheduleDays/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/workScheduleDays/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/workSchedules/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/workSchedules/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/workingTimeBalanceRules/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/workingTimeBalanceRules/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/workingTimeCycles/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/workingTimeCycles/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/absenceBans/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/absenceBans/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/absenceDays/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/absenceDays/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/absenceTypes/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/absenceTypes/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/absences/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/absences/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/authentication/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/authentication/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/automaticBreakTemplates/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/automaticBreakTemplates/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/baseApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/calculationStates/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/calculationStates/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/changeTimeTrackingRequests/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/changeTimeTrackingRequests/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/clients/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/clients/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/countries/index.js",
+      "obfuscated": false
+    }
+  ]
+}

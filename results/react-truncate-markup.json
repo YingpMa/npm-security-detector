@@ -1,0 +1,38 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/react-truncate-markup/package",
+  "fileCount": 8,
+  "results": [
+    {
+      "file": "es/atom.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/tokenize-rules.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/atom.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/tokenize-rules.js",
+      "obfuscated": false
+    },
+    {
+      "file": "umd/react-truncate-markup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "umd/react-truncate-markup.min.js",
+      "obfuscated": true
+    }
+  ]
+}

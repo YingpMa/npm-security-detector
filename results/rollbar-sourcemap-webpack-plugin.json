@@ -1,0 +1,38 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/rollbar-sourcemap-webpack-plugin/package",
+  "fileCount": 8,
+  "results": [
+    {
+      "file": ".eslintrc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/RollbarSourceMapPlugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/helpers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "jest.config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/RollbarSourceMapPlugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/helpers.js",
+      "obfuscated": false
+    }
+  ]
+}

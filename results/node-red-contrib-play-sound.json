@@ -1,0 +1,10 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/node-red-contrib-play-sound/package",
+  "fileCount": 1,
+  "results": [
+    {
+      "file": "node-red-contrib-play-sound.js",
+      "obfuscated": false
+    }
+  ]
+}

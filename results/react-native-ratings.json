@@ -1,0 +1,26 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/react-native-ratings/package",
+  "fileCount": 5,
+  "results": [
+    {
+      "file": ".eslintrc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/SwipeRating.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/TapRating.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/components/Star.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    }
+  ]
+}

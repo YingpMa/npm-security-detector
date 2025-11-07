@@ -1,0 +1,126 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@fluentui+react-jsx-runtime/package",
+  "fileCount": 30,
+  "results": [
+    {
+      "file": "lib/createElement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/jsx/createElementFromSlotComponent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/jsx/createJSX.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/jsx/jsxDEVSlot.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/jsx/jsxSlot.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/jsx/jsxsSlot.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/jsx-dev-runtime.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/jsx-runtime.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/DevRuntime.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/Runtime.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/createCompatSlotComponent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/getMetadataFromSlotComponent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/warnIfElementTypeIsInvalid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/createElement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/jsx/createElementFromSlotComponent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/jsx/createJSX.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/jsx/jsxDEVSlot.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/jsx/jsxSlot.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/jsx/jsxsSlot.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/jsx-dev-runtime.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/jsx-runtime.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/utils/DevRuntime.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/utils/Runtime.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/utils/createCompatSlotComponent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/utils/getMetadataFromSlotComponent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/utils/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/utils/warnIfElementTypeIsInvalid.js",
+      "obfuscated": false
+    }
+  ]
+}

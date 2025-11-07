@@ -1,0 +1,194 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@onedialog.io+od-message-lib/package",
+  "fileCount": 47,
+  "results": [
+    {
+      "file": "dist/common/enums/attachment-type.enum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/enums/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/enums/message-channel.enum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/enums/message-direction.enum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/enums/message-sender.enum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/enums/message-status.enum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/enums/message-type.enum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/enums/template-category.enum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/enums/template-domain.enum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/enums/template-origin.enum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/enums/whatsapp-interactive-action-type.enum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/helpers/is-url.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/restrictions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/supported-types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/whatsapp/interactive-action-type-checks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/interfaces/attachment.interface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/interfaces/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/interfaces/message/message.interface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/interfaces/message/metadata.interface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/interfaces/template/metadata.interface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/interfaces/template/template.interface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/modules/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/modules/transformer.module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/base-message-transformer.service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/email-message-transformer.service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/facebook-message-transformer.service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/services/whatsapp-message-transformer.service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/types/action.type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/types/whatsapp/action.type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/types/whatsapp/base-body.type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/types/whatsapp/incoming-message.type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/types/whatsapp/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/types/whatsapp/interactive/buttons-action.type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/types/whatsapp/interactive/interactive-body.type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/types/whatsapp/interactive/interactive-reply-button.type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/types/whatsapp/interactive/list-action.type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/types/whatsapp/media/audio.type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/types/whatsapp/media/base-body.type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/types/whatsapp/media/document.type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/types/whatsapp/media/image.type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/types/whatsapp/media/media-body.type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/types/whatsapp/media/video.type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/types/whatsapp/text-body.type.js",
+      "obfuscated": false
+    }
+  ]
+}

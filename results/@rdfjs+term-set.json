@@ -1,0 +1,26 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@rdfjs+term-set/package",
+  "fileCount": 5,
+  "results": [
+    {
+      "file": "Factory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "TermSet.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/simple.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/Factory.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test.js",
+      "obfuscated": false
+    }
+  ]
+}

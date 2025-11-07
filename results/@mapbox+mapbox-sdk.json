@@ -1,0 +1,258 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@mapbox+mapbox-sdk/package",
+  "fileCount": 63,
+  "results": [
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/browser/__tests__/browser-layer.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/browser/browser-client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/browser/browser-layer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/classes/__tests__/mapi-client.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/classes/__tests__/mapi-error.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/classes/__tests__/mapi-request.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/classes/__tests__/mapi-response.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/classes/mapi-client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/classes/mapi-error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/classes/mapi-request.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/classes/mapi-response.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/__tests__/parse-headers.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/__tests__/parse-link-header.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/__tests__/url-utils.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/parse-headers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/parse-link-header.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/url-utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/node/node-client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/node/node-layer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/__tests__/datasets.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/__tests__/directions.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/__tests__/geocoding-v6.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/__tests__/geocoding.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/__tests__/isochrone.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/__tests__/map-matching.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/__tests__/matrix.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/__tests__/optimization.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/__tests__/static.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/__tests__/styles.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/__tests__/tilequery.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/__tests__/tilesets.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/__tests__/tokens.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/__tests__/uploads.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/datasets.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/directions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/geocoding-v6.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/geocoding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/isochrone.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/map-matching.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/matrix.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/optimization.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/service-helpers/__tests__/validator-browser.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/service-helpers/__tests__/validator.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/service-helpers/create-service-factory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/service-helpers/generic-types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/service-helpers/object-clean.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/service-helpers/object-map.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/service-helpers/pick.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/service-helpers/stringify-booleans.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/service-helpers/validator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/static.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/tilequery.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/tilesets.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/tokens.js",
+      "obfuscated": false
+    },
+    {
+      "file": "services/uploads.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-shared-interface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "umd/mapbox-sdk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "umd/mapbox-sdk.min.js",
+      "obfuscated": true
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@vuepress+plugin-prismjs/package",
+  "fileCount": 22,
+  "results": [
+    {
+      "file": "lib/node/getTheme.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/node/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/node/loadLanguages.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/node/markdown/highlightPlugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/node/markdown/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/node/markdown/preWrapperPlugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/node/options.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/node/parser/createNotationRule.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/node/parser/getCodeParser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/node/parser/highlightLines.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/node/parser/highlightWord.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/node/parser/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/node/parser/notation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/node/parser/whitespace.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/node/prepareClientConfigFile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/node/prismjsPlugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/node/resolveHighlighter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/node/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/node/utils/escapeRegExp.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/node/utils/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/node/utils/languages.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/node/utils/resolveLanguage.js",
+      "obfuscated": false
+    }
+  ]
+}

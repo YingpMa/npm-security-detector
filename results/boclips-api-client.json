@@ -1,0 +1,806 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/boclips-api-client/package",
+  "fileCount": 200,
+  "results": [
+    {
+      "file": "dist/ApiBoclipsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/BoclipsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/axios/axiosErrorToBoclipsApiError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/axios/copyAxiosInterceptorsAndHeaders.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/axios/createAxiosInstanceFrom.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/dayjs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/pact-support/axiosFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/pact-support/globalPactSetup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/pact-support/matchers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/pact-support/pactSetup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/accounts/AccountConverter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/accounts/AccountUserConverter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/accounts/client/AccountsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/accounts/client/ApiAccountsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/accounts/client/FakeAccountsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/accounts/client/GetAccountBulkUsersRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/accounts/client/GetAccountUsersRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/accounts/client/GetAccountsRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/accounts/client/TestAccount.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/accounts/model/Account.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/accounts/model/AccountApiClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/accounts/model/AccountApiClientEntity.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/accounts/model/AccountContentPackage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/accounts/model/AccountContentPackagesResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/accounts/model/AccountMarketingInformationRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/accounts/model/AccountPrices.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/accounts/model/AccountPricesEntity.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/accounts/model/AccountUser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/accounts/model/AccountUserEntity.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/accounts/model/AccountUserProfile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/accounts/model/AccountUserProfileEntity.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/accounts/model/AccountUserProfileResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/accounts/model/AccountUserResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/accounts/model/AccountsEntity.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/accounts/model/CreateAccountRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/accounts/model/ExternalIdentityRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/accounts/model/SortAccountBy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/accounts/model/UpdateAccountContentPackages.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/accounts/model/UpdateAccountRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/accounts/pact/AccountInteractions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/adminLinks/AdminLinksConverter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/adminLinks/model/AdminLinks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/adminLinks/pact/AdminLinksInteractions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/adminLinks/pact/AdminLinksInteractionsV4.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/alignments/client/AlignmentsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/alignments/client/ApiAlignmentsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/alignments/client/FakeAlignmentsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/alignments/pact/AlignmentsInteractions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/attachments/client/ApiAttachmentsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/attachments/client/AttachmentTypeConverter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/attachments/client/AttachmentsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/attachments/client/FakeAttachmentsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/attachments/model/AttachmentType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/attachments/pact/AttachmentInteractions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/bestForTags/client/ApiBestForClients.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/bestForTags/client/BestForTagsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/bestForTags/client/FakeBestForTagsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/bestForTags/client/convertToBestForTag.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/bestForTags/model/BestForTag.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/carts/CartConverter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/carts/client/ApiCartsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/carts/client/CartsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/carts/client/FakeCartsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/carts/model/AdditionalServices.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/carts/model/Cart.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/carts/model/CartItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/carts/model/CartItemResource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/carts/model/CartResource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/carts/pact/CartsInteractions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/channels/ChannelsConverter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/channels/client/ApiChannelsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/channels/client/ChannelsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/channels/client/FakeChannelsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/channels/model/CategoriesInformation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/channels/model/Channel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/channels/model/ChannelFilterRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/channels/model/ChannelRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/channels/model/ChannelTaxonomy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/channels/model/ContentCategories.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/channels/model/EducationLevel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/channels/model/IngestDetails.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/channels/model/IngestType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/channels/model/Language.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/channels/model/MarketingInformation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/channels/model/MarketingInformationRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/channels/model/PedagogyInformation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/channels/model/SortKey.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/channels/pact/ChannelsInteractions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/channels/resources/ChannelResource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/channels/resources/IngestDetailsResource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/chat/client/ApiChatClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/chat/client/ChatClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/chat/client/FakeChatClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/chat/model/ChatClipFeedbackRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/chat/model/ChatEntry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/chat/model/ChatMessageFeedbackRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/chat/model/ChatRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/chat/model/ChatResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/chat/model/Clip.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/chat/model/ClipFeedbackOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/collections/CollectionsConverter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/collections/client/ApiCollectionsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/collections/client/CollectionUpdateConflictError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/collections/client/CollectionsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/collections/client/FakeCollectionsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/collections/model/Collection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/collections/model/CollectionAsset.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/collections/model/CollectionComment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/collections/model/CollectionEntity.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/collections/model/CollectionFilter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/collections/model/CollectionPermissions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/collections/model/CollectionRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/collections/model/ListViewCollection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/collections/model/PromotedForCollectionFilter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/collections/model/PromotedForProduct.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/collections/model/Segment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/collections/pact/CollectionsInteractions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/common/client/ApiSubClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/common/model/AgeRange.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/common/model/Attachment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/common/model/DeepPartial.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/common/model/DeliveryMethod.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/common/model/DistributionMethod.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/common/model/FeatureKey.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/common/model/LinkEntity.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/common/model/PageRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/common/model/PageSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/common/model/Pageable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/common/model/PageableConverter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/common/model/PageableEntity.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/common/model/PageableFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/common/model/Playback.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/common/model/PlaybackConverter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/common/model/ProjectedResource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/common/model/Projection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/common/model/ResourceProjection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/common/model/common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/common/utils/Clearable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/common/utils/convertAttachment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/common/utils/convertLinks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/common/utils/expandUrlTemplate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/contentPackages/ContentPackageConverter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/contentPackages/client/ApiContentPackagesClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/contentPackages/client/ContentPackagesClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/contentPackages/client/FakeContentPackagesClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/contentPackages/model/ContentPackage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/contentPackages/pact/ContentPackageInteractions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/contentWarnings/ContentWarningsConverter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/contentWarnings/client/ApiContentWarningsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/contentWarnings/client/ContentWarningsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/contentWarnings/client/FakeContentWarningsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/contentWarnings/model/ContentWarning.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/contractLegalRestrictions/ContractLegalRestrictionsConverter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/contractLegalRestrictions/client/ApiContractLegalRestrictionsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/contractLegalRestrictions/client/ContractLegalRestrictionsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/contractLegalRestrictions/client/FakeContractLegalRestrictionsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/contractLegalRestrictions/model/ContractLegalRestriction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/contractLegalRestrictions/pact/ContractLegalRestrictionsInteraction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/contracts/ContractsConverter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/contracts/client/ApiContractsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/contracts/client/ContractsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/contracts/client/FakeContractsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/contracts/client/IdExtractor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/contracts/client/ResourceLinkRegex.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/contracts/model/AiRestrictionsRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/contracts/model/Contract.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/contracts/model/ContractResource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/contracts/model/CreateContractRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/contracts/model/EditingRestrictions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/contracts/model/UpdateContractRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/contracts/pact/ContractsInteractions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/countries/client/CountriesClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/countries/model/Country.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/countries/model/State.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/customMetadata/client/ApiCustomMetadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/customMetadata/client/CustomMetadataClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/customMetadata/client/FakeCustomMetadataClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/disciplines/DisciplinesConverter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/disciplines/client/ApiDisciplinesClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/disciplines/client/DisciplinesClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/disciplines/client/FakeDisciplinesClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/disciplines/model/Discipline.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/disciplines/model/DisciplineLinks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/disciplines/pact/DisciplinesInteractions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/distributionMethods/client/ApiDistributionMethodsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/distributionMethods/client/DistributionMethodsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/distributionMethods/client/FakeDistributionMethodsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/distributionMethods/model/DistributionMethods.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/distributionMethods/pact/DistributionMethodsInteractions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/districts/DistrictsConverter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/districts/client/ApiDistrictsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/districts/client/DistrictsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/districts/client/FakeDistrictsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/districts/model/District.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/educationLevels/client/ApiEducationLevelsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/educationLevels/client/EducationLevelsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/educationLevels/client/FakeEducationLevelsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/educationLevels/model/EducationLevel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/sub-clients/educationalAgeRanges/client/ApiEduAgeRangesClient.js",
+      "obfuscated": false
+    }
+  ]
+}

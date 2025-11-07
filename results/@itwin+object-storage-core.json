@@ -1,0 +1,102 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@itwin+object-storage-core/package",
+  "fileCount": 24,
+  "results": [
+    {
+      "file": "lib/client/ClientStorage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/client/ClientStorageDependency.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/client/StrategyClientStorage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/client/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common/Interfaces.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common/Types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common/Utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common/internal/Helpers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common/internal/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/frontend/FrontendInterfaces.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/frontend/FrontendStorage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/frontend/FrontendStorageDependency.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/frontend/StrategyFrontendStorage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/frontend/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/frontend/internal/Helpers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/frontend/internal/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/server/Interfaces.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/server/ServerStorage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/server/ServerStorageDependency.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/server/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/server/internal/Helpers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/server/internal/index.js",
+      "obfuscated": false
+    }
+  ]
+}

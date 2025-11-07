@@ -1,0 +1,102 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/react/package",
+  "fileCount": 24,
+  "results": [
+    {
+      "file": "cjs/react-compiler-runtime.development.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/react-compiler-runtime.production.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/react-compiler-runtime.profiling.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/react-jsx-dev-runtime.development.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/react-jsx-dev-runtime.production.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/react-jsx-dev-runtime.profiling.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/react-jsx-dev-runtime.react-server.development.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/react-jsx-dev-runtime.react-server.production.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/react-jsx-runtime.development.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/react-jsx-runtime.production.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/react-jsx-runtime.profiling.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/react-jsx-runtime.react-server.development.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/react-jsx-runtime.react-server.production.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/react.development.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/react.production.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/react.react-server.development.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/react.react-server.production.js",
+      "obfuscated": false
+    },
+    {
+      "file": "compiler-runtime.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "jsx-dev-runtime.js",
+      "obfuscated": false
+    },
+    {
+      "file": "jsx-dev-runtime.react-server.js",
+      "obfuscated": false
+    },
+    {
+      "file": "jsx-runtime.js",
+      "obfuscated": false
+    },
+    {
+      "file": "jsx-runtime.react-server.js",
+      "obfuscated": false
+    },
+    {
+      "file": "react.react-server.js",
+      "obfuscated": false
+    }
+  ]
+}

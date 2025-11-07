@@ -1,0 +1,38 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/rc-steps/package",
+  "fileCount": 8,
+  "results": [
+    {
+      "file": "es/Step.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/Steps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/interface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Step.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Steps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/interface.js",
+      "obfuscated": false
+    }
+  ]
+}

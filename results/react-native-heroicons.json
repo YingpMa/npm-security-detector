@@ -1,0 +1,806 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/react-native-heroicons/package",
+  "fileCount": 200,
+  "results": [
+    {
+      "file": "micro/AcademicCapIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/AdjustmentsHorizontalIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/AdjustmentsVerticalIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArchiveBoxArrowDownIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArchiveBoxIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArchiveBoxXMarkIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArrowDownCircleIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArrowDownIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArrowDownLeftIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArrowDownOnSquareIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArrowDownOnSquareStackIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArrowDownRightIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArrowDownTrayIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArrowLeftCircleIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArrowLeftEndOnRectangleIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArrowLeftIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArrowLeftStartOnRectangleIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArrowLongDownIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArrowLongLeftIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArrowLongRightIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArrowLongUpIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArrowPathIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArrowPathRoundedSquareIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArrowRightCircleIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArrowRightEndOnRectangleIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArrowRightIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArrowRightStartOnRectangleIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArrowTopRightOnSquareIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArrowTrendingDownIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArrowTrendingUpIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArrowUpCircleIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArrowUpIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArrowUpLeftIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArrowUpOnSquareIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArrowUpOnSquareStackIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArrowUpRightIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArrowUpTrayIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArrowUturnDownIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArrowUturnLeftIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArrowUturnRightIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArrowUturnUpIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArrowsPointingInIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArrowsPointingOutIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArrowsRightLeftIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ArrowsUpDownIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/AtSymbolIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/BackspaceIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/BackwardIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/BanknotesIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/Bars2Icon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/Bars3BottomLeftIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/Bars3BottomRightIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/Bars3CenterLeftIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/Bars3Icon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/Bars4Icon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/BarsArrowDownIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/BarsArrowUpIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/Battery0Icon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/Battery100Icon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/Battery50Icon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/BeakerIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/BellAlertIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/BellIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/BellSlashIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/BellSnoozeIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/BoltIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/BoltSlashIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/BookOpenIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/BookmarkIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/BookmarkSlashIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/BookmarkSquareIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/BriefcaseIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/BugAntIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/BuildingLibraryIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/BuildingOffice2Icon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/BuildingOfficeIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/BuildingStorefrontIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/CakeIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/CalculatorIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/CalendarDaysIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/CalendarIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/CameraIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ChartBarIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ChartBarSquareIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ChartPieIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ChatBubbleBottomCenterIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ChatBubbleBottomCenterTextIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ChatBubbleLeftEllipsisIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ChatBubbleLeftIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ChatBubbleLeftRightIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ChatBubbleOvalLeftEllipsisIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ChatBubbleOvalLeftIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/CheckBadgeIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/CheckCircleIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/CheckIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ChevronDoubleDownIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ChevronDoubleLeftIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ChevronDoubleRightIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ChevronDoubleUpIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ChevronDownIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ChevronLeftIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ChevronRightIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ChevronUpDownIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ChevronUpIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/CircleStackIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ClipboardDocumentCheckIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ClipboardDocumentIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ClipboardDocumentListIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ClipboardIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ClockIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/CloudArrowDownIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/CloudArrowUpIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/CloudIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/CodeBracketIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/CodeBracketSquareIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/Cog6ToothIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/Cog8ToothIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/CogIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/CommandLineIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ComputerDesktopIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/CpuChipIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/CreditCardIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/CubeIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/CubeTransparentIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/CurrencyBangladeshiIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/CurrencyDollarIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/CurrencyEuroIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/CurrencyPoundIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/CurrencyRupeeIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/CurrencyYenIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/CursorArrowRaysIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/CursorArrowRippleIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/DevicePhoneMobileIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/DeviceTabletIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/DocumentArrowDownIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/DocumentArrowUpIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/DocumentChartBarIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/DocumentCheckIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/DocumentDuplicateIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/DocumentIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/DocumentMagnifyingGlassIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/DocumentMinusIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/DocumentPlusIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/DocumentTextIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/EllipsisHorizontalCircleIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/EllipsisHorizontalIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/EllipsisVerticalIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/EnvelopeIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/EnvelopeOpenIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ExclamationCircleIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ExclamationTriangleIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/EyeDropperIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/EyeIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/EyeSlashIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/FaceFrownIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/FaceSmileIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/FilmIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/FingerPrintIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/FireIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/FlagIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/FolderArrowDownIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/FolderIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/FolderMinusIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/FolderOpenIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/FolderPlusIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ForwardIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/FunnelIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/GifIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/GiftIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/GiftTopIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/GlobeAltIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/GlobeAmericasIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/GlobeAsiaAustraliaIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/GlobeEuropeAfricaIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/HandRaisedIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/HandThumbDownIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/HandThumbUpIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/HashtagIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/HeartIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/HomeIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/HomeModernIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/IdentificationIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/InboxArrowDownIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/InboxIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/InboxStackIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/InformationCircleIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/KeyIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/LanguageIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/LifebuoyIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/LightBulbIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/LinkIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/ListBulletIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/LockClosedIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/LockOpenIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/MagnifyingGlassCircleIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/MagnifyingGlassIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/MagnifyingGlassMinusIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/MagnifyingGlassPlusIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/MapIcon.js",
+      "obfuscated": true
+    },
+    {
+      "file": "micro/MapPinIcon.js",
+      "obfuscated": true
+    }
+  ]
+}

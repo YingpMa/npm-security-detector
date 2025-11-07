@@ -1,0 +1,806 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@cardano-sdk+core/package",
+  "fileCount": 200,
+  "results": [
+    {
+      "file": "dist/cjs/Asset/NftMetadata/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Asset/NftMetadata/fromMetadatum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Asset/NftMetadata/fromPlutusData.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Asset/NftMetadata/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Asset/NftMetadata/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Asset/NftMetadata/util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Asset/cip67.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Asset/crc8.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Asset/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Asset/types/AssetInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Asset/types/TokenMetadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Asset/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Asset/util/coalesceTokenMaps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Asset/util/getAssetNameAsText.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Asset/util/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Asset/util/isValidHandle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Asset/util/removeNegativesFromTokenMap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Asset/util/subtractTokenMaps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Cardano/Address/Address.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Cardano/Address/BaseAddress.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Cardano/Address/ByronAddress.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Cardano/Address/DRepID.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Cardano/Address/EnterpriseAddress.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Cardano/Address/PaymentAddress.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Cardano/Address/PointerAddress.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Cardano/Address/RewardAccount.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Cardano/Address/RewardAddress.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Cardano/Address/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Cardano/ChainId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Cardano/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Cardano/types/Asset.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Cardano/types/AuxiliaryData.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Cardano/types/Block.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Cardano/types/Certificate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Cardano/types/Cip1854ExtendedAccountPublicKey.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Cardano/types/DelegationsAndRewards.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Cardano/types/Genesis.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Cardano/types/Governance.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Cardano/types/PlutusData.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Cardano/types/ProtocolParameters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Cardano/types/Script.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Cardano/types/Transaction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Cardano/types/UtilityTypes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Cardano/types/Utxo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Cardano/types/Value.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Cardano/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Cardano/util/addressesShareAnyKey.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Cardano/util/computeImplicitCoin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Cardano/util/computeMinUtxoValue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Cardano/util/estimateStakePoolAPY.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Cardano/util/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Cardano/util/isScriptAddress.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Cardano/util/phase2Validation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Cardano/util/plutusDataUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Cardano/util/resolveInputValue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/CardanoNode/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/CardanoNode/types/CardanoNode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/CardanoNode/types/CardanoNodeErrors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/CardanoNode/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/CardanoNode/util/cardanoNodeErrors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/CardanoNode/util/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/CardanoNode/util/stakeDistribution.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Provider/AssetProvider/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Provider/AssetProvider/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Provider/ChainHistoryProvider/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Provider/ChainHistoryProvider/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Provider/DRepProvider/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Provider/DRepProvider/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Provider/HandleProvider/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Provider/HandleProvider/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Provider/NetworkInfoProvider/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Provider/NetworkInfoProvider/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Provider/Provider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Provider/RewardAccountInfoProvider/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Provider/RewardAccountInfoProvider/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Provider/RewardsProvider/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Provider/RewardsProvider/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Provider/StakePoolProvider/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Provider/StakePoolProvider/util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Provider/TxSubmitProvider/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Provider/TxSubmitProvider/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Provider/UtxoProvider/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Provider/UtxoProvider/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Provider/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Provider/providerFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Provider/providerUtil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Provider/types/Pagination.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Provider/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/AuxiliaryData/AuxiliaryData.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/AuxiliaryData/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/CBOR/CborAdditionalInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/CBOR/CborInitialByte.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/CBOR/CborMajorType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/CBOR/CborReader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/CBOR/CborReaderState.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/CBOR/CborSimpleValue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/CBOR/CborTag.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/CBOR/CborWriter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/CBOR/Half.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/CBOR/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/CBOR/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Certificates/AuthCommitteeHot.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Certificates/Certificate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Certificates/CertificateKind.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Certificates/GenesisKeyDelegation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Certificates/PoolRegistration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Certificates/PoolRetirement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Certificates/RegisterDelegateRepresentative.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Certificates/Registration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Certificates/ResignCommitteeCold.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Certificates/StakeDelegation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Certificates/StakeDeregistration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Certificates/StakeRegistration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Certificates/StakeRegistrationDelegation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Certificates/StakeVoteDelegation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Certificates/StakeVoteRegistrationDelegation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Certificates/UnregisterDelegateRepresentative.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Certificates/Unregistration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Certificates/UpdateDelegateRepresentative.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Certificates/VoteDelegation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Certificates/VoteRegistrationDelegation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Certificates/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Common/Anchor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Common/CborSet.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Common/Credential.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Common/Datum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Common/ExUnits.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Common/GovernanceActionId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Common/Hash.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Common/ProtocolVersion.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Common/UnitInterval.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Common/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/PlutusData/ConstrPlutusData.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/PlutusData/PlutusData.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/PlutusData/PlutusDataKind.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/PlutusData/PlutusList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/PlutusData/PlutusMap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/PlutusData/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Scripts/Script.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Scripts/ScriptLanguage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Scripts/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Transaction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/TransactionBody/TransactionBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/TransactionBody/TransactionInput.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/TransactionBody/TransactionOutput.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/TransactionBody/Utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/TransactionBody/Value.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/TransactionBody/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/TransactionUnspentOutput.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/TransactionWitnessSet/BootstrapWitness.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/TransactionWitnessSet/TransactionWitnessSet.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/TransactionWitnessSet/VkeyWitness.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/TransactionWitnessSet/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Update/DrepVotingThresholds.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Update/ExUnitPrices.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Update/PoolVotingThresholds.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Update/ProposedProtocolParameterUpdates.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Update/ProtocolParamUpdate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Update/Update.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/Update/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Serialization/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/const.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/util/calcStabilityWindow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/util/coalesceValueQuantities.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/util/conwayEra.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/util/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/util/metadatum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/util/misc/encoding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/util/misc/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/util/nativeScript.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/util/promiseTimeout.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/util/slotCalc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/util/subtractValueQuantities.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/util/time.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/util/tokenTransferInspector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/util/transactionSummaryInspector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/util/tryGetAssetInfos.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/util/txInspector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/util/utxo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/Asset/NftMetadata/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/Asset/NftMetadata/fromMetadatum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/Asset/NftMetadata/fromPlutusData.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/Asset/NftMetadata/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/Asset/NftMetadata/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/Asset/NftMetadata/util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/Asset/cip67.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/Asset/crc8.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/Asset/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/Asset/types/AssetInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/Asset/types/TokenMetadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/Asset/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/Asset/util/coalesceTokenMaps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/Asset/util/getAssetNameAsText.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/Asset/util/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/Asset/util/isValidHandle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/Asset/util/removeNegativesFromTokenMap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/Asset/util/subtractTokenMaps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/Cardano/Address/Address.js",
+      "obfuscated": false
+    }
+  ]
+}

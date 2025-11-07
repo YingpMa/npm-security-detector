@@ -1,0 +1,194 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/color-util/package",
+  "fileCount": 47,
+  "results": [
+    {
+      "file": "dist/color-util.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/Color.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ColorUtil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ConversionUtil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Gradient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Repeat.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/gradientData/GradientData.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/gradientData/GradientDataArray2D.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/gradientData/GradientDataFlat1D.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/gradientData/GradientDataFlat2D.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/gradientData/GradientDataObject2D.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/gradientData/GradientDataUtil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/types/Any.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/types/Csshsl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/types/Csshsla.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/types/Cssrgb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/types/Cssrgba.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/types/Hex.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/types/Hsl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/types/Hsv.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/types/Int.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/types/Intabgr.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/types/Intrgba.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/types/Rgb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/types/shared.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/types/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/Color.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/ColorUtil.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/ConversionUtil.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/Gradient.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/Utils.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/types/Any.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/types/Csshsl.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/types/Csshsla.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/types/Cssrgb.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/types/Cssrgba.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/types/Hex.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/types/Hsl.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/types/Hsv.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/types/Int.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/types/Intabgr.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/types/Intrgba.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/types/Rgb.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/validator/GradientData.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/validator/GradientDataUtil.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "webpack.config.js",
+      "obfuscated": false
+    }
+  ]
+}

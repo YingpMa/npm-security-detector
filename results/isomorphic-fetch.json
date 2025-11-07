@@ -1,0 +1,22 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/isomorphic-fetch/package",
+  "fileCount": 4,
+  "results": [
+    {
+      "file": "fetch-bower.js",
+      "obfuscated": false
+    },
+    {
+      "file": "fetch-npm-browserify.js",
+      "obfuscated": false
+    },
+    {
+      "file": "fetch-npm-node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/api.test.js",
+      "obfuscated": false
+    }
+  ]
+}

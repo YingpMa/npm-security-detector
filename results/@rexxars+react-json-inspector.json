@@ -1,0 +1,18 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@rexxars+react-json-inspector/package",
+  "fileCount": 3,
+  "results": [
+    {
+      "file": "dist/JsonInspector.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/JsonInspector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    }
+  ]
+}

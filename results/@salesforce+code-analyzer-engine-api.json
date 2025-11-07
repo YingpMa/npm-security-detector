@@ -1,0 +1,62 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@salesforce+code-analyzer-engine-api/package",
+  "fileCount": 14,
+  "results": [
+    {
+      "file": "dist/config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/engine-plugins.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/engines.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/events.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/messages.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/results.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/rules.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/datetime-utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/fs-utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/java-utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/utils/string-utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/workspace.js",
+      "obfuscated": false
+    }
+  ]
+}

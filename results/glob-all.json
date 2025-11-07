@@ -1,0 +1,34 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/glob-all/package",
+  "fileCount": 7,
+  "results": [
+    {
+      "file": "example/async.js",
+      "obfuscated": false
+    },
+    {
+      "file": "example/events.js",
+      "obfuscated": false
+    },
+    {
+      "file": "example/order.js",
+      "obfuscated": false
+    },
+    {
+      "file": "example/perf.js",
+      "obfuscated": false
+    },
+    {
+      "file": "example/sync.js",
+      "obfuscated": false
+    },
+    {
+      "file": "glob-all.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test.js",
+      "obfuscated": false
+    }
+  ]
+}

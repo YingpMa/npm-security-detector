@@ -1,0 +1,34 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@metamask+ethjs-util/package",
+  "fileCount": 7,
+  "results": [
+    {
+      "file": "dist/ethjs-util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ethjs-util.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "internals/webpack/webpack.config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/tests/test.index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tests/test.index.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@edsdk+n1ed-react/package",
+  "fileCount": 4,
+  "results": [
+    {
+      "file": "lib/cjs/N1ED.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cjs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es2015/N1ED.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/es2015/index.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@tscircuit+core/package",
+  "fileCount": 1,
+  "results": [
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    }
+  ]
+}

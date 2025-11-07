@@ -1,0 +1,410 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@zackad+prettier-plugin-twig/package",
+  "fileCount": 101,
+  "results": [
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-code-frame/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-code-frame/lineNumbers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-extension-core/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-extension-core/operators.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-extension-core/parser/autoescape.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-extension-core/parser/block.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-extension-core/parser/do.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-extension-core/parser/embed.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-extension-core/parser/extends.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-extension-core/parser/filter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-extension-core/parser/flush.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-extension-core/parser/for.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-extension-core/parser/from.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-extension-core/parser/if.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-extension-core/parser/import.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-extension-core/parser/include.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-extension-core/parser/macro.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-extension-core/parser/mount.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-extension-core/parser/props.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-extension-core/parser/set.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-extension-core/parser/spaceless.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-extension-core/parser/use.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-extension-core/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-extension-core/visitors/filters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-extension-core/visitors/for.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-extension-core/visitors/functions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-extension-core/visitors/tests.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-parser/Associativity.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-parser/CharStream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-parser/GenericMultiTagParser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-parser/GenericTagParser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-parser/Lexer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-parser/Parser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-parser/TokenStream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-parser/TokenTypes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-parser/elementInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-parser/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-parser/util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-traverse/Binding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-traverse/Path.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-traverse/Scope.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-traverse/TraversalContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-traverse/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-traverse/traverse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-traverse/visitors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/melody/melody-types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/parser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/AliasExpression.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/ArrayExpression.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/ArrowFunction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/Attribute.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/AutoescapeBlock.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/BinaryExpression.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/BlockStatement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/CallExpression.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/ConditionalExpression.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/Declaration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/DoStatement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/Element.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/EmbedStatement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/ExpressionStatement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/ExtendsStatement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/FilterBlockStatement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/FilterExpression.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/FlushStatement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/ForStatement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/FromStatement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/GenericToken.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/GenericTwigTag.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/HtmlComment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/Identifier.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/IfStatement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/ImportDeclaration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/IncludeStatement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/MacroDeclarationStatement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/MemberExpression.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/MountStatement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/NamedArgumentExpression.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/ObjectExpression.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/ObjectProperty.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/PropItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/PropsStatement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/SequenceExpression.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/SetStatement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/SliceExpression.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/SpacelessBlock.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/StringLiteral.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/SwitchTag.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/TestExpression.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/TextStatement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/TwigComment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/UnaryExpression.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/UnarySubclass.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/UseStatement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/print/VariableDeclarationStatement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/printer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/util/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/util/printFunctions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/util/publicFunctions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/util/publicSymbols.js",
+      "obfuscated": false
+    }
+  ]
+}

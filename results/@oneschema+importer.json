@@ -1,0 +1,26 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@oneschema+importer/package",
+  "fileCount": 5,
+  "results": [
+    {
+      "file": "dist/main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/oneschema-importer-0.7.2.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/oneschema-importer-0.7.latest.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "rollup.config.js",
+      "obfuscated": false
+    }
+  ]
+}

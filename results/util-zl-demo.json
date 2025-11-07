@@ -1,0 +1,14 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/util-zl-demo/package",
+  "fileCount": 2,
+  "results": [
+    {
+      "file": "lib/lego-util.esm.js",
+      "obfuscated": true
+    },
+    {
+      "file": "lib/lego-util.min.js",
+      "obfuscated": true
+    }
+  ]
+}

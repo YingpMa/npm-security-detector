@@ -1,0 +1,806 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/tns-core-modules/package",
+  "fileCount": 200,
+  "results": [
+    {
+      "file": "_bump_core.js",
+      "obfuscated": false
+    },
+    {
+      "file": "animation-frame/animation-frame.js",
+      "obfuscated": false
+    },
+    {
+      "file": "animation-frame/animation-native.js",
+      "obfuscated": false
+    },
+    {
+      "file": "application/application-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "application/application-interfaces.js",
+      "obfuscated": false
+    },
+    {
+      "file": "application/application.js",
+      "obfuscated": false
+    },
+    {
+      "file": "application-settings/application-settings-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "application-settings/application-settings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "bundle-entry-points.js",
+      "obfuscated": false
+    },
+    {
+      "file": "color/color-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "color/color.js",
+      "obfuscated": false
+    },
+    {
+      "file": "color/known-colors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "connectivity/connectivity.js",
+      "obfuscated": false
+    },
+    {
+      "file": "console/console.js",
+      "obfuscated": false
+    },
+    {
+      "file": "css/css-tree-parser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "css/parser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "css/reworkcss.js",
+      "obfuscated": false
+    },
+    {
+      "file": "css/system-classes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "css-value/reworkcss-value.js",
+      "obfuscated": false
+    },
+    {
+      "file": "data/observable/observable-interfaces.js",
+      "obfuscated": false
+    },
+    {
+      "file": "data/observable/observable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "data/observable-array/observable-array.js",
+      "obfuscated": false
+    },
+    {
+      "file": "data/virtual-array/virtual-array.js",
+      "obfuscated": false
+    },
+    {
+      "file": "debugger/debugger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "debugger/devtools-elements-interfaces.js",
+      "obfuscated": false
+    },
+    {
+      "file": "debugger/devtools-elements.common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "debugger/devtools-elements.js",
+      "obfuscated": false
+    },
+    {
+      "file": "debugger/dom-node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "fetch/fetch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "file-system/file-name-resolver/file-name-resolver.js",
+      "obfuscated": false
+    },
+    {
+      "file": "file-system/file-system-access.js",
+      "obfuscated": false
+    },
+    {
+      "file": "file-system/file-system.js",
+      "obfuscated": false
+    },
+    {
+      "file": "fps-meter/fps-meter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "fps-meter/fps-native.js",
+      "obfuscated": false
+    },
+    {
+      "file": "globals/core/globals-core.js",
+      "obfuscated": false
+    },
+    {
+      "file": "globals/decorators.js",
+      "obfuscated": false
+    },
+    {
+      "file": "globals/globals.js",
+      "obfuscated": false
+    },
+    {
+      "file": "globals/polyfills/animation/animation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "globals/polyfills/dialogs/dialogs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "globals/polyfills/fetch/fetch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "globals/polyfills/polyfill-helpers/polyfill-helpers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "globals/polyfills/text/text.js",
+      "obfuscated": false
+    },
+    {
+      "file": "globals/polyfills/timers/timers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "globals/polyfills/xhr/xhr.js",
+      "obfuscated": false
+    },
+    {
+      "file": "globals/register-module-helpers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "globals/ts-helpers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "http/http-request/http-request-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "http/http-request/http-request.js",
+      "obfuscated": false
+    },
+    {
+      "file": "http/http.js",
+      "obfuscated": false
+    },
+    {
+      "file": "image-asset/image-asset-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "image-asset/image-asset.js",
+      "obfuscated": false
+    },
+    {
+      "file": "image-source/image-source-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "image-source/image-source.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "inspector_modules.js",
+      "obfuscated": false
+    },
+    {
+      "file": "js-libs/easysax/easysax.js",
+      "obfuscated": false
+    },
+    {
+      "file": "js-libs/esprima/esprima.js",
+      "obfuscated": false
+    },
+    {
+      "file": "js-libs/polymer-expressions/polymer-expressions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "matrix/matrix.js",
+      "obfuscated": false
+    },
+    {
+      "file": "module-name-resolver/module-name-resolver.js",
+      "obfuscated": false
+    },
+    {
+      "file": "module-name-resolver/non-bundle-workflow-compat.js",
+      "obfuscated": false
+    },
+    {
+      "file": "module-name-resolver/qualifier-matcher/qualifier-matcher.js",
+      "obfuscated": false
+    },
+    {
+      "file": "platform/platform.js",
+      "obfuscated": false
+    },
+    {
+      "file": "profiling/profiling.js",
+      "obfuscated": false
+    },
+    {
+      "file": "text/formatted-string.js",
+      "obfuscated": false
+    },
+    {
+      "file": "text/span.js",
+      "obfuscated": false
+    },
+    {
+      "file": "text/text-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "text/text.js",
+      "obfuscated": false
+    },
+    {
+      "file": "timer/timer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "trace/trace.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/action-bar/action-bar-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/action-bar/action-bar.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/activity-indicator/activity-indicator-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/activity-indicator/activity-indicator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/animation/animation-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/animation/animation-interfaces.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/animation/animation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/animation/keyframe-animation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/border/border.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/bottom-navigation/bottom-navigation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/builder/binding-builder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/builder/builder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/builder/component-builder/component-builder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/builder/module-name-sanitizer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/button/button-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/button/button.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/content-view/content-view.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/core/bindable/bindable-resources.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/core/bindable/bindable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/core/control-state-change/control-state-change.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/core/properties/properties.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/core/view/view-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/core/view/view-helper/view-helper-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/core/view/view-helper/view-helper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/core/view/view.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/core/view-base/view-base.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/core/weak-event-listener/weak-event-listener.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/date-picker/date-picker-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/date-picker/date-picker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/dialogs/dialogs-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/dialogs/dialogs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/editable-text-base/editable-text-base-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/editable-text-base/editable-text-base.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/enums/enums.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/frame/activity.android.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/frame/fragment.transitions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/frame/fragment.transitions.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/frame/frame-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/frame/frame-interfaces.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/frame/frame-stack.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/frame/frame.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/gestures/gestures-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/gestures/gestures.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/html-view/html-view-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/html-view/html-view.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/image/image-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/image/image.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/image-cache/image-cache-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/image-cache/image-cache.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/label/label.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/layouts/absolute-layout/absolute-layout-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/layouts/absolute-layout/absolute-layout.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/layouts/dock-layout/dock-layout-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/layouts/dock-layout/dock-layout.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/layouts/flexbox-layout/flexbox-layout-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/layouts/flexbox-layout/flexbox-layout.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/layouts/grid-layout/grid-layout-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/layouts/grid-layout/grid-layout.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/layouts/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/layouts/layout-base-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/layouts/layout-base.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/layouts/stack-layout/stack-layout-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/layouts/stack-layout/stack-layout.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/layouts/wrap-layout/wrap-layout-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/layouts/wrap-layout/wrap-layout.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/list-picker/list-picker-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/list-picker/list-picker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/list-view/list-view-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/list-view/list-view.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/page/page-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/page/page.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/placeholder/placeholder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/progress/progress-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/progress/progress.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/proxy-view-container/proxy-view-container.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/repeater/repeater.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/scroll-view/scroll-view-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/scroll-view/scroll-view.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/search-bar/search-bar-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/search-bar/search-bar.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/segmented-bar/segmented-bar-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/segmented-bar/segmented-bar.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/slider/slider-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/slider/slider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/styling/background-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/styling/background.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/styling/converters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/styling/css-animation-parser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/styling/css-selector/css-selector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/styling/font-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/styling/font-interfaces.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/styling/font.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/styling/linear-gradient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/styling/style/style.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/styling/style-properties.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/styling/style-scope.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/switch/switch-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/switch/switch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/tab-navigation-base/tab-content-item/tab-content-item-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/tab-navigation-base/tab-content-item/tab-content-item.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/tab-navigation-base/tab-navigation-base/tab-navigation-base.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/tab-navigation-base/tab-strip/tab-strip.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/tab-navigation-base/tab-strip-item/tab-strip-item.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/tab-view/tab-view-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/tab-view/tab-view.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/tabs/tabs-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/tabs/tabs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/text-base/formatted-string.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/text-base/span.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/text-base/text-base-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/text-base/text-base-interfaces.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/text-base/text-base.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/text-field/text-field-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/text-field/text-field.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/text-view/text-view-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/text-view/text-view.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/time-picker/time-picker-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/time-picker/time-picker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/transition/fade-transition.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/transition/slide-transition.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/transition/transition.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/web-view/web-view-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/web-view/web-view-interfaces.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ui/web-view/web-view.js",
+      "obfuscated": false
+    },
+    {
+      "file": "utils/debug.js",
+      "obfuscated": false
+    },
+    {
+      "file": "utils/layout-helper/layout-helper-common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "utils/layout-helper/layout-helper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "utils/lazy.js",
+      "obfuscated": false
+    }
+  ]
+}

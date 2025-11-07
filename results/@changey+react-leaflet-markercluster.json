@@ -1,0 +1,58 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@changey+react-leaflet-markercluster/package",
+  "fileCount": 13,
+  "results": [
+    {
+      "file": ".storybook/examples/basic.js",
+      "obfuscated": false
+    },
+    {
+      "file": ".storybook/examples/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": ".storybook/examples/event-listeners.js",
+      "obfuscated": false
+    },
+    {
+      "file": ".storybook/examples/helpers.js",
+      "obfuscated": false
+    },
+    {
+      "file": ".storybook/examples/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": ".storybook/examples/marker-cluster-options.js",
+      "obfuscated": false
+    },
+    {
+      "file": ".storybook/examples/marker-options.js",
+      "obfuscated": false
+    },
+    {
+      "file": ".storybook/examples/marker-popup.js",
+      "obfuscated": false
+    },
+    {
+      "file": ".storybook/examples/marker-tooltip.js",
+      "obfuscated": false
+    },
+    {
+      "file": ".storybook/main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "babel.config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/react-leaflet-markercluster.js",
+      "obfuscated": false
+    }
+  ]
+}

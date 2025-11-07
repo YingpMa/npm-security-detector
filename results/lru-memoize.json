@@ -1,0 +1,42 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/lru-memoize/package",
+  "fileCount": 9,
+  "results": [
+    {
+      "file": "coverage/lcov-report/block-navigation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "coverage/lcov-report/prettify.js",
+      "obfuscated": true
+    },
+    {
+      "file": "coverage/lcov-report/sorter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lru-memoize.cjs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lru-memoize.es.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lru-memoize.umd.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lru-memoize.umd.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "package-scripts.js",
+      "obfuscated": false
+    },
+    {
+      "file": "rollup.config.js",
+      "obfuscated": false
+    }
+  ]
+}

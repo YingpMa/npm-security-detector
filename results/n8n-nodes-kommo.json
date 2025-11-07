@@ -1,0 +1,26 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/n8n-nodes-kommo/package",
+  "fileCount": 5,
+  "results": [
+    {
+      "file": "dist/credentials/kommoLongLivedApi.credentials.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/credentials/kommoOAuth2Api.credentials.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/nodes/Kommo/Kommo.node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/nodes/Kommo/V1/KommoV1.node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    }
+  ]
+}

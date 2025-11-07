@@ -1,0 +1,806 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@rc-ex+core/package",
+  "fileCount": 200,
+  "results": [
+    {
+      "file": "dist/cjs/FormData.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Rest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/RestException.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/SdkExtension.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/ADGError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/ADGErrorResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AIInsights.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AIScoreInsightUnit.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/APNSInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/APSInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/ASGErrorResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AccountBusinessAddressResource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AccountCountryInfoRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AccountDeviceUpdate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AccountDirectoryProfileImageResource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AccountFormattingLocaleInfoRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AccountGreetingLanguageInfoRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AccountHistoryPaging.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AccountHistoryPublicRecord.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AccountHistoryRecordDetailsParameters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AccountHistoryRecordPublicDetails.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AccountHistoryRecordPublicInitiator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AccountHistoryRecordTarget.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AccountHistorySearchPublicRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AccountHistorySearchPublicResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AccountInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AccountLanguageInfoRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AccountLimits.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AccountLockSettingRecordResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AccountLockedSettingResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AccountOperatorInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AccountPhoneNumberInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AccountPhoneNumberInfoExtension.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AccountPhoneNumberList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AccountPhoneNumbers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AccountPresenceEvent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AccountPresenceEventBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AccountPresenceInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AccountRegionalSettingRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AccountRegionalSettings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AccountResource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AccountServiceInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AccountServiceInfoRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AccountStatusInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AccountTelephonySessionsEvent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AccountTimezoneInfoRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/ActionAdaptiveCardInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/ActionCardBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/ActiveCallInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/ActiveCallInfoWithoutSIP.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/ActivePermissionResource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AdaptiveCardAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AdaptiveCardColumnInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AdaptiveCardColumnItemInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AdaptiveCardCreator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AdaptiveCardInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AdaptiveCardInfoBackgroundImage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AdaptiveCardInfoRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AdaptiveCardInfoRequestItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AdaptiveCardRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AdaptiveCardRequestBackgroundImage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AdaptiveCardSelectAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AdaptiveCardShortInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AddBlockedAllowedPhoneNumber.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AddDeviceToInventoryRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AddDeviceToInventoryRequestSite.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AddDeviceToInventoryResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AddDeviceToInventoryResponseDevices.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AddInviteeRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AddPartyRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AddPhoneNumberRequestItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AddPhoneNumbersRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AddPhoneNumbersResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AddPhoneNumbersResponseItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AddPhoneNumbersTask.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AdditionalCQInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AddonInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AddressBookBulkContactAddressInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AddressBookBulkContactResource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AddressBookBulkUploadRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AddressBookBulkUploadResource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AddressBookBulkUploadResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AddressBookBulkUploadTaskResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AddressBookSync.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AdgPhoneNumberResource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AdminAccessMeeting.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AdminAccessMeetings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AdvancedTimeSettings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AggregateA2PSMSStatusesParameters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AggregationRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AggregationResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AggregationResponseData.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AggregationResponseOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AggregationResponseOptionsCounters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AggregationResponseOptionsCountersAllCalls.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AggregationResponseOptionsCountersCallsByActions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AggregationResponseOptionsCountersCallsByCompanyHours.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AggregationResponseOptionsCountersCallsByDirection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AggregationResponseOptionsCountersCallsByEndingParty.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AggregationResponseOptionsCountersCallsByOrigin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AggregationResponseOptionsCountersCallsByQueueSla.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AggregationResponseOptionsCountersCallsByResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AggregationResponseOptionsCountersCallsByResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AggregationResponseOptionsCountersCallsByType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AggregationResponseOptionsCountersCallsSegments.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AggregationResponseOptionsCountersQueueOpportunities.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AggregationResponseOptionsTimers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AggregationResponseOptionsTimersAllCallsDuration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AggregationResponseOptionsTimersCallsDurationByCompanyHours.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AggregationResponseOptionsTimersCallsDurationByDirection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AggregationResponseOptionsTimersCallsDurationByEndingParty.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AggregationResponseOptionsTimersCallsDurationByOrigin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AggregationResponseOptionsTimersCallsDurationByQueueSla.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AggregationResponseOptionsTimersCallsDurationByResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AggregationResponseOptionsTimersCallsDurationByResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AggregationResponseOptionsTimersCallsDurationByType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AggregationResponseOptionsTimersCallsSegmentsDuration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AggregationResponseRecord.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AlertInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AllCalls.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AnalyticsCallsAggregationFetchParameters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AnalyticsCallsTimelineFetchParameters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AnswerTarget.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AnsweringRuleQueryRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AnyPublicDeliveryMode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AnyPublicDeliveryModeRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/ApiError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/ApiErrorResponseModel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/ApiErrorWithParameter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/ApiVersionInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/ApiVersionsList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/ArchiveInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AsrApiResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AsrApiResponseResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AsrInput.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AssignMultipleDevicesAutomaticLocationUpdates.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AssignPhoneNumberRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AssignPhoneNumberRequestExtension.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AssignedCountryInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AssignedRoleResource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AssignedRolesResource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AssistantResource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AssistantsResource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AssistedUserResource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AssistedUsersResource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/Attachment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AudioInput.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AudioPromptInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AuthCodeTokenRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AuthProfileCheckResource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AuthProfileResource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AuthorizeParameters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AutoShared.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AutomaticLocationUpdatesDeviceInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AutomaticLocationUpdatesModelInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AutomaticLocationUpdatesPhoneLine.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AutomaticLocationUpdatesPhoneNumberInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AutomaticLocationUpdatesSiteInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AutomaticLocationUpdatesTaskInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AutomaticLocationUpdatesUserInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AutomaticLocationUpdatesUserList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/AutomaticRecordingResource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/BackgroundImage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/BaseCallLogFromParty.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/BaseCallLogParty.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/BaseCallLogRecord.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/BaseCallLogRecordTransferTarget.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/BaseCallLogRecordTransferee.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/BaseCallLogToParty.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/BaseTokenRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/BasicContactInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/BasicContactInfoWithPhone.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/BasicExtensionInfoResource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/BasicMeeting.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/BasicPaging.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/BasicParticipant.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/BatchListResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/BatchProvisionErrorItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/BatchProvisionUsersRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/BatchProvisionUsersRequestItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/BatchProvisionUsersRequestItemContact.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/BatchProvisionUsersRequestItemCostCenter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/BatchProvisionUsersRequestItemDevices.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/BatchProvisionUsersRequestItemRoles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/BatchProvisionUsersResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/BatchProvisionUsersResponseResults.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/BatchProvisionUsersResponseResultsExtension.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/BatchProvisionUsersResponseResultsExtensionDevices.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/BatchProvisionUsersSuccessItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/BatchProvisionUsersSuccessItemExtension.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/BatchProvisionUsersSuccessItemExtensionDevices.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/BillingInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/BillingPackageInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/BillingPlanInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/BillingStatementCharges.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/BillingStatementFees.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/BillingStatementInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/BlockedAllowedPhoneNumberInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/definitions/BlockedAllowedPhoneNumbersList.js",
+      "obfuscated": false
+    }
+  ]
+}

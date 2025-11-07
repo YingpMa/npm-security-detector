@@ -1,0 +1,30 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@aws-sdk+util-user-agent-browser/package",
+  "fileCount": 6,
+  "results": [
+    {
+      "file": "dist-cjs/configurations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/index.native.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/configurations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/index.native.js",
+      "obfuscated": false
+    }
+  ]
+}

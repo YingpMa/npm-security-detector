@@ -1,0 +1,194 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/pactum/package",
+  "fileCount": 47,
+  "results": [
+    {
+      "file": "src/adapters/form.data.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/adapters/json.like.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/adapters/json.match.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/adapters/json.schema.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/adapters/logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exports/events.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exports/expect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exports/handler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exports/mock.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exports/reporter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exports/request.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exports/response.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exports/settings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exports/stash.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exports/state.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exports/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/helpers/colors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/helpers/dataProcessor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/helpers/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/helpers/file.utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/helpers/graphQL.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/helpers/handler.runner.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/helpers/helper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/helpers/memo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/helpers/remoteServer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/helpers/reporter.lifeCycle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/helpers/requestProcessor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/helpers/toss.helper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/helpers/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/models/E2E.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/models/Fuzz.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/models/FuzzTosser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/models/Interaction.model.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/models/Spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/models/State.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/models/Step.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/models/Tosser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/models/expect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/models/server.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/plugins/form.data.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/plugins/json.like.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/plugins/json.match.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/plugins/json.schema.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/plugins/logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/plugins/plugin.base.js",
+      "obfuscated": false
+    }
+  ]
+}

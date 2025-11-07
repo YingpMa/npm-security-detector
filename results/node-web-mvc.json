@@ -1,0 +1,806 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/node-web-mvc/package",
+  "fileCount": 200,
+  "results": [
+    {
+      "file": "dist/aop/CglibAopProxy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/aop/advice/AbstractMethodAdviceInterceptor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/aop/advice/Advice.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/aop/advice/MethodAfterAdviceInterceptor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/aop/advice/MethodAfterReturningAdviceInterceptor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/aop/advice/MethodAfterThrowingAdviceInterceptor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/aop/advice/MethodBeforeAdviceInterceptor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/aop/advice/MethodInterceptor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/aop/advisor/AbstractPointcutAdvisor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/aop/advisor/Advisor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/aop/advisor/DefaultPointcutAdvisor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/aop/advisor/PointcutAdvisor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/aop/annotations/After.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/aop/annotations/AfterReturning.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/aop/annotations/AfterThrowing.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/aop/annotations/Around.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/aop/annotations/Aspect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/aop/annotations/Before.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/aop/invocation/AopJoinpoint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/aop/invocation/Invocation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/aop/invocation/JoinPoint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/aop/invocation/MethodInvocation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/aop/invocation/MethodInvocationProceedingJoinPoint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/aop/invocation/ProxyMethodInvocation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/aop/invocation/ReflectiveMethodInvocation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/aop/pointcut/FunctionExpressionPointcut.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/aop/pointcut/Pointcut.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/AnnotationElementTypeError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/ArgumentConvertError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/ArgumentResolvError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/BeanCreationException.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/BeanDefinitionNotfoundException.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/BeanDefinitionOverrideException.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/BeanPropertyCreationException.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/ConvertPropertyTypeError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/DateTimeParseException.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/EntityTooLargeError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/Exception.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/ForwardEndlessLoopError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/HttpMediaTypeNotAcceptableException.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/HttpMediaTypeNotSupportedException.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/HttpRequestMethodNotSupportedException.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/HttpStatusError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/IllegalArgumentException.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/IllegalMappingPatternError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/InvalidBeanDefinitionException.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/InvalidDateTimeFormatException.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/LoopDependenciesException.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/MethodArgumentNotValidException.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/MultipartException.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/NoBoundaryException.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/NoHandlerFoundException.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/Normalizer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/ParameterRequiredError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/ResponseStatusException.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/SerializationCreateInstanceError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/UnexpectedTypeException.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/UnsupportReturnValueHandlerError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/ValueConvertError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/errors/ViewNotFoundError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/hmr/src/Hook.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/hmr/src/HotModule.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/hmr/src/HotUpdater.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/hmr/src/HotUpdaterReleaseManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/hmr/src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/hmr/src/updater/AbstractUpdater.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/hmr/src/updater/ArrayUpdater.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/hmr/src/updater/ListReplacement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/hmr/src/updater/MapUpdater.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/hmr/src/updater/ObjectUpdater.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/hmr/src/updater/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/interface/Javascript.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/interface/Method.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/interface/StringUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/interface/declare.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/interface/polyfill.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ioc/annotations/Autowired.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ioc/annotations/Bean.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ioc/annotations/Component.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ioc/annotations/Configuration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ioc/annotations/Qualifier.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ioc/annotations/Repository.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ioc/annotations/Service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ioc/factory/AbstractBeanFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ioc/factory/Aware.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ioc/factory/BeanDefinition.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ioc/factory/BeanDefinitionRegistry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ioc/factory/BeanFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ioc/factory/BeanFactoryAware.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ioc/factory/BeanNameAware.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ioc/factory/DefaultListableBeanFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ioc/factory/OrderedHelper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ioc/factory/ProxyHelper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ioc/processor/ApplicationContextAwareProcessor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ioc/processor/AutowiredAnnotationBeanPostProcessor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ioc/processor/AutowiredUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ioc/processor/BeanPostProcessor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ioc/processor/CglibAopProxyPostProcesor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ioc/processor/ConfigurationBeanPostProcessor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ioc/processor/InitializingBean.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/ioc/processor/InstantiationAwareBeanPostProcessor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/locale/Locale.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/serialization/BasicTypeConverter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/serialization/JsonDeserialize.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/serialization/JsonDeserializer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/serialization/JsonFormat.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/serialization/JsonSerialize.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/serialization/JsonSerializer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/serialization/Serialization.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/serialization/TypeConverter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/serialization/date/DateConverter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/serialization/date/DateTimeTextProvider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/serialization/date/formatters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/serialization/date/parsers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/BootConfiguration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/DispatcherServlet.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/SpringApplication.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/SpringBootApplication.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/annotations/AliasFor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/annotations/Controller.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/annotations/ControllerAdvice.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/annotations/ExceptionHandler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/annotations/Merge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/annotations/MetaProperty.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/annotations/ModelAttribute.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/annotations/ResponseBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/annotations/ResponseStatus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/annotations/RestController.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/annotations/Scope.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/annotations/Target.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/annotations/annotation/Alias.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/annotations/annotation/AnnotationIndexer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/annotations/annotation/ElementType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/annotations/annotation/FunctionExtends.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/annotations/annotation/IRuntimeAnnotation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/annotations/annotation/RuntimeAnnotation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/annotations/annotation/Tracer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/annotations/annotation/create.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/annotations/annotation/metadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/annotations/annotation/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/annotations/mapping/BasicMapping.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/annotations/mapping/DeleteMapping.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/annotations/mapping/GetMapping.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/annotations/mapping/PatchMapping.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/annotations/mapping/PostMapping.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/annotations/mapping/PutMapping.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/annotations/mapping/RequestMapping.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/annotations/params/ParamAnnotation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/annotations/params/PathVariable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/annotations/params/RequestBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/annotations/params/RequestContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/annotations/params/RequestHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/annotations/params/RequestParam.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/annotations/params/RequestPart.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/annotations/params/ServletRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/annotations/params/ServletResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/config/MultipartConfig.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/config/PathMatchConfigurer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/config/WebAppConfigurerOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/config/WebMvcConfigurationSupport.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/connector/HandlerConnector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/connector/NodeNativeConnector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/context/AbstractApplicationContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/context/ApplicationContextAware.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/context/GenericApplicationContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/context/Ordered.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/context/hot-update.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/cors/CorsConfiguration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/cors/CorsConfigurationSource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/cors/CorsInterceptor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/cors/CorsOrigin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/cors/CorsProcessor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/cors/CorsRegistration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/cors/CorsRegistry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/cors/DefaultCorsProcessor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/cors/PreFlightHandler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/cors/UrlBasedCorsConfigurationSource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/filter/DefaultFilterChain.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/filter/Filter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/filter/FilterChain.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/filter/FilterDispatcher.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/filter/FilterHandlerAdapter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/filter/FilterRegistrationBean.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/filter/WebFilter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/http/ApplicationDispatcher.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/http/Cache.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/http/CacheControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/http/HttpHeaders.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/http/HttpMethod.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/http/HttpRange.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/http/HttpRequestHandler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/http/HttpRequestHandlerAdapter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/http/HttpRequestValidation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/http/HttpServletRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/http/HttpServletResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/http/HttpStatus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/http/MediaFactory/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/http/MediaType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/servlets/http/MultipartFile.js",
+      "obfuscated": false
+    }
+  ]
+}

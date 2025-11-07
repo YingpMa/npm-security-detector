@@ -1,0 +1,806 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@arrowsphere+api-client/package",
+  "fileCount": 200,
+  "results": [
+    {
+      "file": "build/AbstractHttpClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/abstractEntity.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/abstractGraphQLClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/abstractRestfulClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/analytics/analyticsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/analytics/entities/analytics.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/analytics/entities/dataAnalytics.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/analytics/entities/price.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/analytics/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/axiosSingleton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/billing/billingClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/billing/entities/export/exportAsyncRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/billing/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/campaign/campaignClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/campaign/entities/campaign/campaign.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/campaign/entities/campaign/campaignAggregation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/campaign/entities/campaignAssets/campaignAssets.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/campaign/entities/campaignAssets/campaignAssetsUpload.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/campaign/entities/v2/campaignList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/campaign/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/cart/cartClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/cart/entities/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/cart/entities/item.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/cart/entities/itemList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/cart/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/catalog/catalogClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/catalog/catalogGraphQLClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/catalog/entities/program.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/catalog/entities/programs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/catalog/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/catalog/types/FindOneProductQueryOutput.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/catalog/types/catalogGraphQLQueries.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/catalog/types/catalogGraphQLSchemas.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/catalog/types/catalogGraphQLTypes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/catalog/types/queryProductArguments.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/consumption/consumptionClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/consumption/entities/bi/consumptionBI.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/consumption/entities/consumption/classification.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/consumption/entities/consumption/consumption.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/consumption/entities/consumption/consumptionBudget.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/consumption/entities/consumption/consumptionDailyPrediction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/consumption/entities/consumption/consumptionDownloadRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/consumption/entities/consumption/costs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/consumption/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/contact/contactClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/contact/entities/contact.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/contact/entities/contactCreate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/contact/entities/contactList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/contact/entities/xcpInvitation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/contact/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/customers/customersClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/customers/entities/customerCredentials.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/customers/entities/customerProvision.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/customers/entities/customers/customer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/customers/entities/dataCustomers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/customers/entities/dataInvitation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/customers/entities/dataUnknownLicenses.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/customers/entities/unknownLicenses/relation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/customers/entities/unknownLicenses/unknownLicense.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/customers/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/exception/entityValidationException.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/exception/exception-handlers/HandleHttpExceptionOutput.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/exception/exception-handlers/Hooks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/exception/exception-handlers/HttpExceptionHandler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/exception/exception-handlers/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/exception/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/exception/notFoundException.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/exception/publicApiClientException.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/general/checkDomainClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/general/entities/whoAmI.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/general/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/general/whoAmIClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/getResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/graphqlApi/graphqlApiClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/graphqlApi/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/graphqlApi/types/entities/comment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/graphqlApi/types/entities/company.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/graphqlApi/types/entities/contact.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/graphqlApi/types/entities/contributor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/graphqlApi/types/entities/counting.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/graphqlApi/types/entities/country.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/graphqlApi/types/entities/currency.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/graphqlApi/types/entities/disclaimer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/graphqlApi/types/entities/eav.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/graphqlApi/types/entities/licenseBudget.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/graphqlApi/types/entities/order.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/graphqlApi/types/entities/organizationUnit.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/graphqlApi/types/entities/partnertag.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/graphqlApi/types/entities/program.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/graphqlApi/types/entities/quote.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/graphqlApi/types/entities/quoteVersion.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/graphqlApi/types/entities/report.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/graphqlApi/types/entities/specialPriceRate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/graphqlApi/types/entities/subscription.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/graphqlApi/types/entities/supportLevel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/graphqlApi/types/entities/unit.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/graphqlApi/types/entities/user.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/graphqlApi/types/entities/vendor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/graphqlApi/types/entities/workgroup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/graphqlApi/types/graphqlApiQueries.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/graphqlApi/types/graphqlApiSchemas.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/endCustomerOrganizationUnit/endCustomerOrganizationUnitFindResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/event/licenseEvent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/event/licenseEventGraphQL.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/event/licensesEventQueries.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/event/licensesEventSchemas.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/filterFindResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/findResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/getLicense/actionMessagesGetResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/getLicense/actionsGetResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/getLicense/assetsFindResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/getLicense/buySellFindResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/getLicense/extraDataGetResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/getLicense/licenseGetResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/getLicense/licensePriceGetResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/getLicense/orderGetResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/getLicense/priceBandGetResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/getLicense/promotionFindResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/getLicense/ratesGetResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/getLicense/relationGetResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/getResult/getLicenseResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/history/actionHistoryResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/history/couponCodeHistoryResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/history/licenceCouponCodeHistoryResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/history/licenceHistoryResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/license/activeSeatsFindResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/license/configFindResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/license/conversionSkuResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/license/credentialsResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/license/licenseConversionSkuResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/license/licenseFindResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/license/priceFindResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/license/securityFindResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/license/upgradeResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/license/warningFindResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/offer/actionFlagsFindResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/offer/offerFindResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/offer/priceBandFindResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/pricingRate/getPricingRateResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/request/licenseRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/schedule/getScheduleTaskResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/schedule/getScheduledTasksResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/entities/schedule/scheduleTasksResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/licenseRequestClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/licensesClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/licensesEventClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/licenses/types/bulkArguments.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/monitoring/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/monitoring/monitoringClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/notifications/entities/details/notificationDetails.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/notifications/entities/notifications.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/notifications/entities/total.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/notifications/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/notifications/notificationsClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/orderSoftware/entities/dataListOrderSoftware.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/orderSoftware/entities/orderSoftware.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/orderSoftware/entities/orderSoftwarePrice.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/orderSoftware/entities/orderSoftwareProduct.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/orderSoftware/entities/orderSoftwareReference.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/orderSoftware/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/orderSoftware/orderSoftwareClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/orders/entities/dataListOrders.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/orders/entities/orders/attachment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/orders/entities/orders/order.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/orders/entities/orders/updateOrderResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/orders/entities/referenceLink.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/orders/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/orders/ordersClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/orders/types/orderItemStatus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/orders/types/orderStatus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/organisationUnit/entities/organizationUnit.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/organisationUnit/entities/organizationUnitList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/organisationUnit/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/organisationUnit/organizationUnitClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/pagination.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/partialResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/partner/entities/company/company.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/partner/entities/contact/contact.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/partner/entities/dataPartner.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/partner/entities/user/user.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/partner/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/partner/partnerClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/partner/types/getUserImpersonationsResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/partner/types/updateUserTypes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/partner/types/userImpersonation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/publicApiClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/publicGraphQLClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/quotes/entities/PutQuoteResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/quotes/entities/QuoteComments.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/quotes/entities/QuoteRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/quotes/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/quotes/quotesClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/reports/entities/dataListReports.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/reports/entities/reference.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/reports/entities/report.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/reports/entities/reportProduct.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/reports/entities/reportProductPrice.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/reports/entities/reportReferenceLink.js",
+      "obfuscated": false
+    }
+  ]
+}

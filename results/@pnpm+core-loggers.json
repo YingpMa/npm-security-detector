@@ -1,0 +1,110 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@pnpm+core-loggers/package",
+  "fileCount": 26,
+  "results": [
+    {
+      "file": "lib/all.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/contextLogger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/deprecationLogger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/executionTimeLogger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/fetchingProgressLogger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hookLogger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ignoredScriptsLogger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/installCheckLogger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/installingConfigDeps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/lifecycleLogger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/linkLogger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/packageImportMethodLogger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/packageManifestLogger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/peerDependencyIssues.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/progressLogger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/registryLogger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/removalLogger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/requestRetryLogger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rootLogger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/scopeLogger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/skippedOptionalDependencyLogger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/stageLogger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/statsLogger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/summaryLogger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/updateCheckLogger.js",
+      "obfuscated": false
+    }
+  ]
+}

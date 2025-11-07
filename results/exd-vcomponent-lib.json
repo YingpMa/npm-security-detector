@@ -1,0 +1,490 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/exd-vcomponent-lib/package",
+  "fileCount": 121,
+  "results": [
+    {
+      "file": "dist/es/_virtual/Axios2.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/Cancel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/CancelToken.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/InterceptorManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/ReactPropTypesSecret.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/_assert.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/_commonjsHelpers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/_http.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/_https.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/_os.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/_stream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/_tslib.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/es/_virtual/_tty.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/_url.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/_util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/_zlib.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/axios.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/bind.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/buildURL.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/checkPropTypes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/combineURLs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/cookies.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/createError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/debug.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/defaults.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/dispatchRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/enhanceError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/has.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/http.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/index2.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/index3.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/index4.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/index5.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/index6.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/index7.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/index8.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/isAbsoluteURL.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/isCancel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/isURLSameOrigin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/normalizeHeaderName.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/package.json.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/parseHeaders.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/react-is.development.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/react-is.production.min.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/react.development.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/react.production.min.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/settle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/spread.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/transformData.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/_virtual/xhr.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/exdhttp/axiosIns.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/es/exdhttp/globalConfig.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/exdhttp/httpRequest.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/es/exdhttp/interface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es/test/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/Axios2.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/Cancel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/CancelToken.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/InterceptorManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/ReactPropTypesSecret.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/_assert.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/_commonjsHelpers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/_http.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/_https.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/_os.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/_stream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/_tslib.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/lib/_virtual/_tty.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/_url.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/_util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/_zlib.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/axios.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/bind.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/buildURL.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/checkPropTypes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/combineURLs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/cookies.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/createError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/debug.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/defaults.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/dispatchRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/enhanceError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/has.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/http.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/index2.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/index3.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/index4.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/index5.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/index6.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/index7.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/index8.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/isAbsoluteURL.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/isCancel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/isURLSameOrigin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/normalizeHeaderName.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/package.json.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/parseHeaders.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/react-is.development.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/react-is.production.min.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/react.development.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/react.production.min.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/settle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/spread.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/transformData.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/_virtual/xhr.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/exdhttp/axiosIns.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/lib/exdhttp/globalConfig.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/exdhttp/httpRequest.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/lib/exdhttp/interface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/lib/test/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/umd/exd-vcomponent-lib.js",
+      "obfuscated": true
+    }
+  ]
+}

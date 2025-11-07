@@ -1,0 +1,714 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@pdfme+pdf-lib/package",
+  "fileCount": 177,
+  "results": [
+    {
+      "file": "dist/cjs/__tests__/api/PDFDocument.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/__tests__/api/PDFImage.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/__tests__/api/PDFPage.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/__tests__/api/svgPath.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/__tests__/core/PDFContext.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/__tests__/core/PDFObjectCopier.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/__tests__/index.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/__tests__/utils/base64.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/__tests__/utils/pdfDocEncoding.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/__tests__/utils/png.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/__tests__/utils/rng.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/__tests__/utils/strings.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/__tests__/utils/unicode.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/api/Embeddable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/api/PDFDocument.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/api/PDFDocumentOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/api/PDFEmbeddedFile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/api/PDFEmbeddedPage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/api/PDFFont.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/api/PDFImage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/api/PDFJavaScript.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/api/PDFPage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/api/PDFPageOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/api/StandardFonts.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/api/colors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/api/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/api/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/api/objects.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/api/operations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/api/operators.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/api/rotations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/api/sizes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/api/svg.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/api/svgPath.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/core/PDFContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/core/PDFObjectCopier.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/core/crypto.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/core/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/core/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/types/fontkit.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/types/matrix.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/utils/Cache.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/utils/arrays.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/utils/async.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/utils/base64.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/utils/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/utils/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/utils/intersections.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/utils/maths.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/utils/numbers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/utils/objects.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/utils/pdfDocEncoding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/utils/png.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/utils/rng.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/utils/strings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/utils/unicode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/src/utils/validators.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/__tests__/api/PDFDocument.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/__tests__/api/PDFImage.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/__tests__/api/PDFPage.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/__tests__/api/svgPath.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/__tests__/core/PDFContext.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/__tests__/core/PDFObjectCopier.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/__tests__/index.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/__tests__/utils/base64.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/__tests__/utils/pdfDocEncoding.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/__tests__/utils/png.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/__tests__/utils/rng.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/__tests__/utils/strings.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/__tests__/utils/unicode.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/api/Embeddable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/api/PDFDocument.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/api/PDFDocumentOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/api/PDFEmbeddedFile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/api/PDFEmbeddedPage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/api/PDFFont.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/api/PDFImage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/api/PDFJavaScript.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/api/PDFPage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/api/PDFPageOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/api/StandardFonts.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/api/colors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/api/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/api/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/api/objects.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/api/operations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/api/operators.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/api/rotations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/api/sizes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/api/svg.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/api/svgPath.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/core/PDFContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/core/PDFObjectCopier.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/core/crypto.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/core/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/core/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/types/fontkit.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/types/matrix.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/utils/Cache.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/utils/arrays.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/utils/async.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/utils/base64.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/utils/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/utils/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/utils/intersections.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/utils/maths.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/utils/numbers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/utils/objects.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/utils/pdfDocEncoding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/utils/png.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/utils/rng.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/utils/strings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/utils/unicode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/src/utils/validators.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/__tests__/api/PDFDocument.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/__tests__/api/PDFImage.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/__tests__/api/PDFPage.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/__tests__/api/svgPath.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/__tests__/core/PDFContext.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/__tests__/core/PDFObjectCopier.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/__tests__/index.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/__tests__/utils/base64.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/__tests__/utils/pdfDocEncoding.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/__tests__/utils/png.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/__tests__/utils/rng.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/__tests__/utils/strings.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/__tests__/utils/unicode.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/api/Embeddable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/api/PDFDocument.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/api/PDFDocumentOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/api/PDFEmbeddedFile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/api/PDFEmbeddedPage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/api/PDFFont.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/api/PDFImage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/api/PDFJavaScript.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/api/PDFPage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/api/PDFPageOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/api/StandardFonts.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/api/colors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/api/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/api/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/api/objects.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/api/operations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/api/operators.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/api/rotations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/api/sizes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/api/svg.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/api/svgPath.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/core/PDFContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/core/PDFObjectCopier.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/core/crypto.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/core/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/core/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/types/fontkit.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/types/matrix.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/utils/Cache.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/utils/arrays.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/utils/async.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/utils/base64.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/utils/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/utils/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/utils/intersections.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/utils/maths.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/utils/numbers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/utils/objects.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/utils/pdfDocEncoding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/utils/png.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/utils/rng.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/utils/strings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/utils/unicode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/node/src/utils/validators.js",
+      "obfuscated": false
+    }
+  ]
+}

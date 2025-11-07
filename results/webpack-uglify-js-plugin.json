@@ -1,0 +1,150 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/webpack-uglify-js-plugin/package",
+  "fileCount": 36,
+  "results": [
+    {
+      "file": "example/build1/a.bundle.js",
+      "obfuscated": true
+    },
+    {
+      "file": "example/build1/b.bundle.js",
+      "obfuscated": true
+    },
+    {
+      "file": "example/build1/c.bundle.js",
+      "obfuscated": true
+    },
+    {
+      "file": "example/build1/common.js",
+      "obfuscated": true
+    },
+    {
+      "file": "example/build1/pages/a3.chunk-60b9faa90ccb0fa5efbc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "example/build1/pages/a4.chunk-60b9faa90ccb0fa5efbc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "example/build2/a.bundle.js",
+      "obfuscated": true
+    },
+    {
+      "file": "example/build2/b.bundle.js",
+      "obfuscated": true
+    },
+    {
+      "file": "example/build2/c.bundle.js",
+      "obfuscated": true
+    },
+    {
+      "file": "example/build2/common.js",
+      "obfuscated": true
+    },
+    {
+      "file": "example/build2/pages/a3.chunk-cb908a52ddc2578ddaff.js",
+      "obfuscated": false
+    },
+    {
+      "file": "example/build2/pages/a4.chunk-cb908a52ddc2578ddaff.js",
+      "obfuscated": false
+    },
+    {
+      "file": "example/build2/pages/b3.chunk-cb908a52ddc2578ddaff.js",
+      "obfuscated": false
+    },
+    {
+      "file": "example/gulpfile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "example/public/webpack_cached/cached_uglify/a.bundle.138e96669537827c2b57fe99665f6cb2fab9a1ed.js",
+      "obfuscated": true
+    },
+    {
+      "file": "example/public/webpack_cached/cached_uglify/b.bundle.353d34abc1361185f29506f4d3412187ddc450ce.js",
+      "obfuscated": true
+    },
+    {
+      "file": "example/public/webpack_cached/cached_uglify/b.bundle.a4564b7b088f251f0d5ed250486b5de6506045f3.js",
+      "obfuscated": true
+    },
+    {
+      "file": "example/public/webpack_cached/cached_uglify/c.bundle.645ce75e65a478d4cc37319ff05d3ea88814dd2a.js",
+      "obfuscated": true
+    },
+    {
+      "file": "example/public/webpack_cached/cached_uglify/common.a073b43d8221a18d6c80fa4f1857826eaf733527.js",
+      "obfuscated": true
+    },
+    {
+      "file": "example/public/webpack_cached/cached_uglify/common.e4f3c1538976f26b3ca59ab20d23707d9ae5bef0.js",
+      "obfuscated": true
+    },
+    {
+      "file": "example/src/a.js",
+      "obfuscated": false
+    },
+    {
+      "file": "example/src/a1.js",
+      "obfuscated": false
+    },
+    {
+      "file": "example/src/a2.js",
+      "obfuscated": false
+    },
+    {
+      "file": "example/src/a3.js",
+      "obfuscated": false
+    },
+    {
+      "file": "example/src/a4.js",
+      "obfuscated": false
+    },
+    {
+      "file": "example/src/b.js",
+      "obfuscated": false
+    },
+    {
+      "file": "example/src/b1.js",
+      "obfuscated": false
+    },
+    {
+      "file": "example/src/b2.js",
+      "obfuscated": false
+    },
+    {
+      "file": "example/src/b3.js",
+      "obfuscated": false
+    },
+    {
+      "file": "example/src/c.js",
+      "obfuscated": false
+    },
+    {
+      "file": "example/webpack.config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "utils/ModuleFilenameHelpers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "utils/RequestShortener.js",
+      "obfuscated": false
+    },
+    {
+      "file": "utils/file.js",
+      "obfuscated": false
+    },
+    {
+      "file": "utils/genHash.js",
+      "obfuscated": false
+    }
+  ]
+}

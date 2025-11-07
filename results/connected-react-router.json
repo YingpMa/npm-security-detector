@@ -1,0 +1,130 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/connected-react-router/package",
+  "fileCount": 31,
+  "results": [
+    {
+      "file": "esm/ConnectedRouter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/actions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/immutable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/middleware.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/reducer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/seamless-immutable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/selectors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/structure/immutable/getIn.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/structure/immutable/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/structure/plain/getIn.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/structure/plain/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/structure/seamless-immutable/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "immutable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ConnectedRouter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/actions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/immutable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/middleware.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/reducer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/seamless-immutable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/selectors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/structure/immutable/getIn.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/structure/immutable/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/structure/plain/getIn.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/structure/plain/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/structure/seamless-immutable/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "seamless-immutable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "umd/ConnectedReactRouter.js",
+      "obfuscated": true
+    },
+    {
+      "file": "umd/ConnectedReactRouter.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "webpack.config.js",
+      "obfuscated": false
+    }
+  ]
+}

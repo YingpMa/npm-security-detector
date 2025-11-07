@@ -1,0 +1,150 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/redux-act/package",
+  "fileCount": 36,
+  "results": [
+    {
+      "file": "babel.config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/redux-act.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/redux-act.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "esm/asError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/assignAll.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/batch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/bindAll.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/createAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/createReducer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/disbatch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/loggers/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/loggers/reduxLogger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/asError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/assignAll.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/batch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/bindAll.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/createAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/createReducer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/disbatch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/loggers/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/loggers/reduxLogger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/asError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/assignAll.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/batch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/bindAll.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/createAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/createReducer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/disbatch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/loggers/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/loggers/reduxLogger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/types.js",
+      "obfuscated": false
+    }
+  ]
+}

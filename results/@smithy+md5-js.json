@@ -1,0 +1,22 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@smithy+md5-js/package",
+  "fileCount": 4,
+  "results": [
+    {
+      "file": "dist-cjs/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/index.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,806 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/bcrypto/package",
+  "fileCount": 200,
+  "results": [
+    {
+      "file": "lib/aead-browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/aead.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/aes-browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/aes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/arc4-browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/arc4.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/bcrypt-browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/bcrypt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/bcrypto.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/blake2b-browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/blake2b.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/blake2b160.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/blake2b256.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/blake2b384.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/blake2b512.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/blake2s-browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/blake2s.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/blake2s128.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/blake2s160.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/blake2s224.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/blake2s256.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/bn-browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/bn.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/box.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/chacha20-browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/chacha20.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cipher-browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cipher.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cleanse-browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cleanse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cshake.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cshake128.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cshake256.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ctr-drbg-browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ctr-drbg.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dsa-browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dsa.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dsaies.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/eb2k-browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/eb2k.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ecies.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ed25519-browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ed25519.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ed448-browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ed448.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/encoding/asn1.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/encoding/base16-browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/encoding/base16.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/encoding/base32-browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/encoding/base32.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/encoding/base58-browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/encoding/base58.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/encoding/base64-browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/encoding/base64.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/encoding/bech32-browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/encoding/bech32.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/encoding/bech32m-browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/encoding/bech32m.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/encoding/cash32-browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/encoding/cash32.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/encoding/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/encoding/lines.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/encoding/openssl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/encoding/pem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/encoding/pemcrypt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/encoding/pkcs1.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/encoding/pkcs3.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/encoding/pkcs5.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/encoding/pkcs8.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/encoding/rfc3279.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/encoding/sec1.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/encoding/util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/encoding/x509.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/gost94-browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/gost94.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hash-drbg-browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hash-drbg.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hash160-browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hash160.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hash256-browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hash256.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hkdf-browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hkdf.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hmac-drbg-browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hmac-drbg.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/internal/asn1.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/internal/assert.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/internal/custom-browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/internal/custom.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/internal/hmac.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/internal/objects.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/internal/pgpdf-browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/internal/pgpdf.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/internal/primes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/aead.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/aes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/arc4.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/base16.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/base32.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/base58.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/base64.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/batch-rng.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/bcrypt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/bech32.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/blake2b.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/blake2s.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/bn.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/cash32.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/chacha20.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/cipher.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/ciphers/aes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/ciphers/arc2.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/ciphers/blowfish.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/ciphers/camellia.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/ciphers/cast5.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/ciphers/des.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/ciphers/ghash.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/ciphers/idea.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/ciphers/modes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/ciphers/serpent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/ciphers/twofish.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/cleanse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/ctr-drbg.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/dsa.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/eb2k.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/ecdh.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/ecdsa.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/ed25519.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/ed448.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/eddsa.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/elliptic.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/gost94.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/hash-drbg.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/hash160.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/hash256.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/hkdf.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/hmac-drbg.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/keccak.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/md2.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/md4.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/md5.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/md5sha1.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/murmur3.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/p192.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/p224.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/p256.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/p384.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/p521.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/pbkdf2.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/pgpdf.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/poly1305.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/random.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/ripemd160.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/ristretto.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/rsa.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/salsa20.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/schnorr-legacy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/schnorr.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/scrypt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/secp256k1.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/secretbox.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/sha1.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/sha224.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/sha256.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/sha3.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/sha384.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/sha512.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/siphash.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/whirlpool.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/x25519.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/x448.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/keccak-browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/keccak.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/keccak224.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/keccak256.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/keccak384.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/keccak512.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/kmac.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/kmac128.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/kmac256.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/md2-browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/md2.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/md4-browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/md4.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/md5-browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/md5.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/md5sha1-browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/md5sha1.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/merkle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/mrkl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/murmur3-browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/murmur3.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/native/aead.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/native/aes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/native/arc4.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/native/base16.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/native/base32.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/native/base58.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/native/base64.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/native/bcrypt.js",
+      "obfuscated": false
+    }
+  ]
+}

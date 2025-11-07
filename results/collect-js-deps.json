@@ -1,0 +1,22 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/collect-js-deps/package",
+  "fileCount": 4,
+  "results": [
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/fixtures/a/foo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/testutil.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/app-store-server-api/package",
+  "fileCount": 12,
+  "results": [
+    {
+      "file": "dist/cjs/AppStoreServerAPI.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/AppleRootCertificate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Decoding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/Models.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/AppStoreServerAPI.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/AppleRootCertificate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/Decoding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/Errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/Models.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/index.js",
+      "obfuscated": false
+    }
+  ]
+}

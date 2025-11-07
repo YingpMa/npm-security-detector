@@ -1,0 +1,806 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/facebook-nodejs-business-sdk/package",
+  "fileCount": 200,
+  "results": [
+    {
+      "file": "__tests__/batch-processor.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "__tests__/content.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "__tests__/custom-data.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "__tests__/event-request.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "__tests__/signal.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "__tests__/user-data.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "__tests__/utils.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/amd.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/globals.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/iife.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/umd.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/BasicExample.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/BatchExample.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/PROMOTE_YOUR_PAGE.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_ad_creatives_edge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_ad_creatives_post.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_ad_creatives_post_create_ad_creative.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_ad_creatives_post_create_ad_creative_canvas.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_ad_creatives_post_create_ad_creative_customization_canvas_d_v.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_ad_creatives_post_create_ad_creative_customization_canvas_image.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_ad_creatives_post_create_ad_creative_customization_canvas_video.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_ad_creatives_post_enroll_status.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_ad_labels_post.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_ad_sets_edge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_ad_sets_post_ad_set_create_cpa.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_ad_sets_post_ad_set_create_cpa_app_events.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_ad_sets_post_behavior_targeting.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_ad_sets_post_bid_multiplier.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_ad_sets_post_create_ad_set.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_ad_sets_post_create_audience_network.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_ad_sets_post_create_m_a_i_a.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_ad_sets_post_daily_budget20.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_ad_sets_post_demographic_targeting.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_ad_sets_post_interest_targeting.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_ad_sets_post_lifetime_budget200_duration10_days.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_ad_sets_post_optimize_post_engagement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_ad_sets_post_page_likes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_ad_sets_post_placement_targeting.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_ad_sets_post_reach.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_ad_videos_post.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_ads_edge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_ads_pixel_edge_get_pixel_code.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_ads_pixels_post.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_ads_post.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_ads_post_ads_redownload.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_ads_post_authorization_category.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_ads_post_tracking_post_engagement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_campaigns_edge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_campaigns_post.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_campaigns_post_categories.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_campaigns_post_daily_budget.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_campaigns_post_lead_gen.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_campaigns_post_link_clicks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_campaigns_post_local_awareness.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_campaigns_post_m_a_i_a.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_campaigns_post_m_a_i_d_p_a.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_campaigns_post_page_likes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_campaigns_post_post_engagement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_campaigns_post_video_views.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_custom_audiences_edge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_custom_audiences_edge_data_source_subtype.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_custom_audiences_post_create_custom_audience.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_custom_audiences_post_dynamic_event_value_based_lookalike_custom_audience.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_custom_audiences_post_dynamic_value_based_lookalike_custom_audience.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_custom_audiences_post_platform_custom_audience_m_a_c_a_rule.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_custom_audiences_post_platform_e_c_a_exclusions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_custom_audiences_post_platform_e_c_a_multi_filters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_custom_audiences_post_platform_e_c_a_multi_pages.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_custom_audiences_post_platform_engagement_custom_audience.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_custom_audiences_post_platform_website_custom_audience.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_custom_audiences_post_value_based_custom_audience.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_custom_audiences_post_value_based_lookalike_custom_audience.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_generate_previews_edge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_generate_previews_edge_desktop_with_story_id.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_generate_previews_edge_instagram_standards.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_generate_previews_edge_maia_with_object_story_spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_product_audiences_post_iphone_view_no_purchase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_product_audiences_post_no_purchase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_account_reach_estimate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_campaign_ads_edge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_campaign_group_ads_edge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_campaign_group_ads_edge_adgroups_with_status_archived.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_campaign_group_adsets_edge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_campaign_node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_campaign_node_read.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_campaign_node_read_format_u_n_i_x.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_campaign_post.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_campaign_post_adset_update_cpa.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_creative_node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_creative_node_read.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_creative_node_read_instagram_permalink_url.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_creative_previews_edge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_creative_previews_edge_preview.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_creative_previews_edge_preview_dynamic_ads.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_creative_previews_edge_preview_dynamic_ads_with_customizations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ad_sets_delete.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/adgroup_delete.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/adgroup_leads_edge_adgroup_leads.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/adgroup_leads_edge_adgroup_leads_d_p_a.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/adgroup_leads_edge_adgroup_leads_filtered.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/adgroup_node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/adgroup_post.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/adgroup_post_add_label.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/adgroup_post_update_status.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ads_insights_edge_ad_campaign_insights.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ads_insights_edge_ad_group_insights.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ads_insights_edge_campaign_group_ad_level_insights.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ads_insights_edge_campaign_group_insights.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ads_pixel_c_r_m_events_post_custom.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ads_pixel_events_post.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ads_pixel_events_post_custom.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ads_pixel_shared_accounts_edge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ads_pixel_shared_accounts_post.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/ads_pixel_shared_agencies_edge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/campaigns_delete.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/custom_audience_delete.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/custom_audience_node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/custom_audience_node_read_rule.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/custom_audience_post.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/custom_audience_users_post.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/custom_audience_users_post_cross_platform.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/m_u_l_t_i_post.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/m_u_l_t_i_post_one.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/m_u_l_t_i_post_two.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/offline_conversions_create_offline_set.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/page_feed_edge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/page_feed_post.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/page_feed_post_feed_image_deep_link.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/page_node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/page_node_page_search.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/page_photos_edge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/page_photos_post.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/page_picture_edge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/page_post_comments_post.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/page_post_delete.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/page_post_node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/page_post_post.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/page_posts_edge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/page_posts_edge_page_post_create_carousel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/page_roles_edge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/page_subscribed_apps_post.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/product_catalog_event_stats_edge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/product_catalog_hotels_post.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/product_catalog_hotels_post_update_hotels_catalog_settings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/product_catalog_product_feeds_post_product_feed.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/product_catalog_product_sets_post_hotel_set.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/product_catalog_product_sets_post_product_set.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/user_accounts_edge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/user_ad_accounts_edge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/user_lead_gen_info_node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/user_node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/video_thumbnails_edge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "gulpfile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/abstract-crud-object.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/abstract-object.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api-batch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api-request.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api-response.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/crash-reporter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/cursor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/exceptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/http-status.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/http.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/objects/ab-test-post-test-actions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/objects/ad-account-aaa-compatible-ad-objects.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/objects/ad-account-aaa-similar-campaigns.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/objects/ad-account-ad-limits-insights.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/objects/ad-account-ad-rules-count-by-type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/objects/ad-account-ad-rules-history.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/objects/ad-account-ad-volume.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/objects/ad-account-ads-recommended-audios.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/objects/ad-account-agency-fee-config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/objects/ad-account-all-payment-methods.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/objects/ad-account-amount-spent-history.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/objects/ad-account-app-setup-requirements.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/objects/ad-account-asl-schedule.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/objects/ad-account-bank-info-list.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/objects/ad-account-billing-date-preference.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/objects/ad-account-business-constraints.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/objects/ad-account-campaign-attribution-option-info.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/objects/ad-account-creation-request.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/objects/ad-account-custom-audience-limits.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/objects/ad-account-default-destination.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/objects/ad-account-default-objective.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/objects/ad-account-delivery-estimate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/objects/ad-account-dsa-recommendations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/objects/ad-account-ios-fourteen-campaign-limits.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/objects/ad-account-live-video-advertiser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/objects/ad-account-matched-search-applications-edge-data.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/objects/ad-account-max-bid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/objects/ad-account-optimization-goals-aemv2-eligibility.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/objects/ad-account-payment-details.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/objects/ad-account-payment-options.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/objects/ad-account-prepay-details.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/objects/ad-account-promotable-objects.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/objects/ad-account-promotion-progress-bar.js",
+      "obfuscated": false
+    }
+  ]
+}

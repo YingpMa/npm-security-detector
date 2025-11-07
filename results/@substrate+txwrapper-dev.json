@@ -1,0 +1,150 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@substrate+txwrapper-dev/package",
+  "fileCount": 36,
+  "results": [
+    {
+      "file": "lib/constants/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/constants/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/jest-helpers/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/jest-helpers/itHasCorrectBaseTxInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/metadata/asset-hub-kusama/assetHubKusamaMetadataHex.js",
+      "obfuscated": true
+    },
+    {
+      "file": "lib/metadata/asset-hub-kusama/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/metadata/asset-hub-polkadot/assetHubPolkadotMetadataHex.js",
+      "obfuscated": true
+    },
+    {
+      "file": "lib/metadata/asset-hub-polkadot/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/metadata/asset-hub-westend/assetHubWestendMetadataHex.js",
+      "obfuscated": true
+    },
+    {
+      "file": "lib/metadata/asset-hub-westend/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/metadata/astar/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/metadata/astar/metadataHex.js",
+      "obfuscated": true
+    },
+    {
+      "file": "lib/metadata/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/metadata/kusama/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/metadata/kusama/metadataHex.js",
+      "obfuscated": true
+    },
+    {
+      "file": "lib/metadata/mockCreateMetadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/metadata/polkadot/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/metadata/polkadot/metadataHex.js",
+      "obfuscated": true
+    },
+    {
+      "file": "lib/metadata/westend/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/metadata/westend/metadataHex.js",
+      "obfuscated": true
+    },
+    {
+      "file": "lib/mock-types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/mock-types/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/registries/assetHubKusamaRegistry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/registries/assetHubPolkadotRegistry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/registries/astarRegistry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/registries/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/registries/kusamaRegistry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/registries/mockGetRegistry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/registries/polkadotRegistry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/registries/westendAssetHubRegistry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/registries/westendRegistry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/knownChainProperties.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/signWithAlice.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/signWithAliceAstar.js",
+      "obfuscated": false
+    }
+  ]
+}

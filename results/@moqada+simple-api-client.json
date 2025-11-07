@@ -1,0 +1,10 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@moqada+simple-api-client/package",
+  "fileCount": 1,
+  "results": [
+    {
+      "file": "lib/SimpleAPIClient.js",
+      "obfuscated": false
+    }
+  ]
+}

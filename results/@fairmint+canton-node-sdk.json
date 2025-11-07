@@ -1,0 +1,158 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@fairmint+canton-node-sdk/package",
+  "fileCount": 38,
+  "results": [
+    {
+      "file": "build/src/clients/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/clients/ledger-json-api/LedgerJsonApiClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/clients/ledger-json-api/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/clients/lighthouse-api/LighthouseApiClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/clients/lighthouse-api/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/clients/lighthouse-api/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/clients/register.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/clients/validator-api/ValidatorApiClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/clients/validator-api/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/core/BaseClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/core/ClientFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/core/auth/AuthenticationManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/core/auth/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/core/config/EnvLoader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/core/config/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/core/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/core/http/HttpClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/core/http/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/core/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/core/logging/FileLogger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/core/logging/Logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/core/logging/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/core/operations/ApiOperation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/core/operations/ApiOperationFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/core/operations/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/core/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/utils/amulet/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/utils/amulet/pre-approve-transfers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/utils/amulet/transfer-to-preapproved.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/utils/contracts/contract-monitor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/utils/contracts/disclosed-contracts.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/utils/contracts/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/utils/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/utils/mining/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/utils/mining/mining-rounds.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/utils/parsers/fee-parser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/src/utils/parsers/index.js",
+      "obfuscated": false
+    }
+  ]
+}

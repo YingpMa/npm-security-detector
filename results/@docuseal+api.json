@@ -1,0 +1,46 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@docuseal+api/package",
+  "fileCount": 10,
+  "results": [
+    {
+      "file": "cjs/api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/http.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/index.cjs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "cjs/version.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/http.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/version.js",
+      "obfuscated": false
+    }
+  ]
+}

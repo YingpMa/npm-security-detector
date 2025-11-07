@@ -1,0 +1,806 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@wordpress+blocks/package",
+  "fileCount": 200,
+  "results": [
+    {
+      "file": "build/api/categories.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/children.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/factory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/matchers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/parser/apply-block-deprecated-versions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/parser/apply-built-in-validation-fixes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/parser/convert-legacy-block.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/parser/fix-aria-label.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/parser/fix-custom-classname.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/parser/get-block-attributes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/parser/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/parser/serialize-raw-block.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/raw-handling/blockquote-normaliser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/raw-handling/br-remover.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/raw-handling/comment-remover.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/raw-handling/div-normaliser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/raw-handling/empty-paragraph-remover.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/raw-handling/figure-content-reducer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/raw-handling/get-raw-transforms.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/raw-handling/google-docs-uid-remover.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/raw-handling/head-remover.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/raw-handling/html-formatting-remover.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/raw-handling/html-to-blocks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/raw-handling/iframe-remover.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/raw-handling/image-corrector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/raw-handling/image-corrector.native.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/raw-handling/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/raw-handling/index.native.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/raw-handling/is-inline-content.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/raw-handling/list-reducer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/raw-handling/markdown-converter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/raw-handling/ms-list-converter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/raw-handling/ms-list-ignore.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/raw-handling/normalise-blocks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/raw-handling/paste-handler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/raw-handling/phrasing-content-reducer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/raw-handling/shortcode-converter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/raw-handling/slack-paragraph-corrector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/raw-handling/special-comment-converter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/raw-handling/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/registration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/serializer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/templates.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/validation/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/api/validation/logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/deprecated.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/lock-unlock.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/store/actions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/store/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/store/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/store/private-actions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/store/private-selectors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/store/process-block-type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/store/reducer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/store/selectors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/store/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/categories.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/children.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/factory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/matchers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/parser/apply-block-deprecated-versions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/parser/apply-built-in-validation-fixes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/parser/convert-legacy-block.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/parser/fix-aria-label.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/parser/fix-custom-classname.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/parser/get-block-attributes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/parser/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/parser/serialize-raw-block.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/raw-handling/blockquote-normaliser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/raw-handling/br-remover.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/raw-handling/comment-remover.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/raw-handling/div-normaliser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/raw-handling/empty-paragraph-remover.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/raw-handling/figure-content-reducer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/raw-handling/get-raw-transforms.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/raw-handling/google-docs-uid-remover.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/raw-handling/head-remover.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/raw-handling/html-formatting-remover.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/raw-handling/html-to-blocks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/raw-handling/iframe-remover.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/raw-handling/image-corrector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/raw-handling/image-corrector.native.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/raw-handling/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/raw-handling/index.native.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/raw-handling/is-inline-content.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/raw-handling/list-reducer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/raw-handling/markdown-converter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/raw-handling/ms-list-converter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/raw-handling/ms-list-ignore.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/raw-handling/normalise-blocks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/raw-handling/paste-handler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/raw-handling/phrasing-content-reducer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/raw-handling/shortcode-converter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/raw-handling/slack-paragraph-corrector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/raw-handling/special-comment-converter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/raw-handling/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/registration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/serializer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/templates.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/validation/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/api/validation/logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/deprecated.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/lock-unlock.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/store/actions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/store/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/store/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/store/private-actions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/store/private-selectors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/store/process-block-type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/store/reducer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/store/selectors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-module/store/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/categories.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/children.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/factory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/matchers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/parser/apply-block-deprecated-versions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/parser/apply-built-in-validation-fixes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/parser/convert-legacy-block.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/parser/fix-aria-label.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/parser/fix-custom-classname.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/parser/get-block-attributes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/parser/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/parser/serialize-raw-block.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/parser/test/apply-block-deprecated-versions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/parser/test/fix-custom-classname.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/parser/test/get-block-attributes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/parser/test/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/parser/test/serialize-raw-block.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/blockquote-normaliser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/br-remover.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/comment-remover.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/div-normaliser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/empty-paragraph-remover.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/figure-content-reducer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/get-raw-transforms.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/google-docs-uid-remover.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/head-remover.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/html-formatting-remover.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/html-to-blocks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/iframe-remover.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/image-corrector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/image-corrector.native.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/index.native.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/is-inline-content.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/list-reducer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/markdown-converter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/ms-list-converter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/ms-list-ignore.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/normalise-blocks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/paste-handler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/phrasing-content-reducer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/shortcode-converter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/slack-paragraph-corrector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/special-comment-converter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/test/blockquote-normaliser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/test/comment-remover.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/test/figure-content-reducer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/test/html-formatting-remover.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/test/image-corrector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/test/is-inline-content.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/test/list-reducer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/test/markdown-converter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/test/ms-list-converter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/test/normalise-blocks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/test/paste-handler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/test/phrasing-content-reducer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/test/special-comment-converter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/test/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/raw-handling/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/registration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/serializer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/templates.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/test/children.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/test/factory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/test/matchers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/test/node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/test/registration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/test/serializer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/test/templates.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/test/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/test/validation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/validation/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/validation/logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/deprecated.js",
+      "obfuscated": false
+    }
+  ]
+}

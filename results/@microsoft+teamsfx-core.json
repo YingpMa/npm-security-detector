@@ -1,0 +1,806 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@microsoft+teamsfx-core/package",
+  "fileCount": 200,
+  "results": [
+    {
+      "file": "build/client/graphClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/client/interfaces/CreateChannelResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/client/interfaces/CreateTeamAndChannelResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/client/interfaces/GetAppInstallationResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/client/interfaces/GetChannelResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/client/interfaces/GetJoinedTeamsResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/client/interfaces/GetTeamsAppSettingsResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/client/interfaces/ListSensitivityCacheValue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/client/teamsDevPortalClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/common/authInterface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/common/azureUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/common/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/common/correlator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/common/daSpecParser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/common/featureFlags.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/common/globalState.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/common/globalVars.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/common/jsonUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/common/kiotaClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/common/localizeUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/common/permissionInterface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/common/projectSettingsHelper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/common/projectTypeChecker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/common/requestUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/common/samples.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/common/secretmasker/dict.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/common/secretmasker/feature.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/common/secretmasker/masker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/common/stringUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/common/telemetry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/common/tools.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/common/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/common/versionMetadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/common/wrappedAxiosClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/configManager/actionInjector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/configManager/constant.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/configManager/interface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/configManager/lifecycle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/configManager/parser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/configManager/validator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/constant/commonConstant.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/constant/deployConstant.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/coordinator/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/coordinator/summary.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/deployUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/deps-checker/checkerFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/deps-checker/constant/helpLink.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/deps-checker/constant/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/deps-checker/constant/message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/deps-checker/constant/telemetry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/deps-checker/coreDepsLoggerAdapter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/deps-checker/coreDepsTelemetryAdapter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/deps-checker/depsChecker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/deps-checker/depsLogger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/deps-checker/depsManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/deps-checker/depsTelemetry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/deps-checker/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/deps-checker/internal/dotnetChecker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/deps-checker/internal/funcToolChecker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/deps-checker/internal/nodeChecker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/deps-checker/internal/testToolChecker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/deps-checker/internal/vxTestAppChecker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/deps-checker/util/cpUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/deps-checker/util/downloadHelper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/deps-checker/util/fileHelper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/deps-checker/util/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/deps-checker/util/progressIndicator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/deps-checker/util/system.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/developerPortalScaffoldUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/aad/create.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/aad/update.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/add/addWebPart.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/apiKey/create.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/apiKey/update.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/arm/constant.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/arm/deploy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/arm/deployImpl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/arm/interface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/arm/validator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/botAadApp/create.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/botFramework/createOrUpdateBot.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/devChannel/create.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/devChannel/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/devChannel/installApp.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/devTool/constant.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/devTool/httpClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/devTool/installDriver.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/devTool/nodeInstaller.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/error/outputEnvironmentVariableUndefinedError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/file/createOrUpdateEnvironmentFile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/file/createOrUpdateJsonFile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/interface/buildAndDeployArgs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/interface/commonArgs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/interface/provisionArgs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/interface/stepDriver.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/m365/acquire.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/middleware/addSWADeployTelemetry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/middleware/addStartAndEndTelemetry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/oauth/create.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/oauth/update.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/script/baseBuildDriver.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/script/baseBuildStepDriver.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/script/dotnetBuildDriver.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/script/npmBuildDriver.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/script/npxBuildDriver.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/script/scriptDriver.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/share/shareToOthers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/share/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/teamsApp/appStudio.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/teamsApp/configure.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/teamsApp/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/teamsApp/copyAppPackageToSPFx.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/teamsApp/create.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/teamsApp/createAppPackage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/teamsApp/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/teamsApp/publishAppPackage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/teamsApp/results.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/teamsApp/syncManifest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/teamsApp/teamsappMgr.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/teamsApp/validate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/teamsApp/validateAppPackage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/teamsApp/validateTestCases.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/typeSpec/compile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/typeSpec/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/util/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/driver/util/wrapUtil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/error/componentError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/error/deployError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/feature/collaboration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/feature/createAuthFiles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/feature/sso.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/generator/combinedProject/generator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/generator/constant.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/generator/declarativeAgent/generator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/generator/declarativeAgent/helper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/generator/declarativeAgent/oneDriveSharePointHandler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/generator/defaultGenerator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/generator/error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/generator/generator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/generator/generatorAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/generator/generatorProvider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/generator/officeAddin/generator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/generator/officeAddin/helperMethods.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/generator/officeAddin/metaOSHelper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/generator/openApiSpec/common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/generator/openApiSpec/const.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/generator/openApiSpec/customEngineAgentGenerator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/generator/openApiSpec/declarativeAgentGenerator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/generator/openApiSpec/helper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/generator/openApiSpec/interface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/generator/openApiSpec/kiota.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/generator/openApiSpec/messageExtensionGenerator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/generator/other/ssrTabGenerator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/generator/other/tdpGenerator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/generator/spfx/error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/generator/spfx/spfxGenerator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/generator/templates/templateInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/generator/templates/templateNames.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/generator/templates/templateReplaceMap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/generator/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/local/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/local/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/local/localCertificateManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/local/localEnvManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/local/localTelemetryReporter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/local/npmLogHelper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/local/packageJsonHelper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/local/portChecker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/local/process.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/local/taskDefinition.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/m365/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/m365/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/m365/interface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/m365/launchHelper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/m365/packageService.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/m365/serviceConstant.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/messages.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/middleware/actionExecutionMW.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/middleware/envMW.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/middleware/questionMW.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/migrate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/provisionUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/registerService.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/resource/botService/common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/resource/botService/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/resource/botService/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/resource/botService/messages.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/resource/botService/retryHandler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/resource/botService/strings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/telemetry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/utils/ResourceGroupHelper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/utils/azureResourceOperation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/utils/azureSdkErrorHandler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/utils/charsetUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/utils/common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/utils/depsChecker/common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/utils/depsChecker/cpUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/component/utils/envFunctionUtils.js",
+      "obfuscated": false
+    }
+  ]
+}

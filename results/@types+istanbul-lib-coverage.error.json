@@ -1,0 +1,5 @@
+{
+  "pkg": "@types/istanbul-lib-coverage",
+  "error": "target not found",
+  "target": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@types+istanbul-lib-coverage/package"
+}

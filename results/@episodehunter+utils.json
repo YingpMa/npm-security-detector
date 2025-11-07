@@ -1,0 +1,70 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@episodehunter+utils/package",
+  "fileCount": 16,
+  "results": [
+    {
+      "file": "coverage/lcov-report/block-navigation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "coverage/lcov-report/prettify.js",
+      "obfuscated": true
+    },
+    {
+      "file": "coverage/lcov-report/sorter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/__tests__/util.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/arrary.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/episode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/gql.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/common/time.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/module/__tests__/util.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/module/arrary.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/module/episode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/module/gql.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/module/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/module/time.js",
+      "obfuscated": false
+    },
+    {
+      "file": "jest.config.js",
+      "obfuscated": false
+    }
+  ]
+}

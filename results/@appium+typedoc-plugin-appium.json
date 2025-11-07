@@ -1,0 +1,158 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@appium+typedoc-plugin-appium/package",
+  "fileCount": 38,
+  "results": [
+    {
+      "file": "build/lib/converter/base-converter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/lib/converter/builder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/lib/converter/builtin-external-driver.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/lib/converter/builtin-method-map.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/lib/converter/comment/finder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/lib/converter/comment/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/lib/converter/comment/method.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/lib/converter/comment/parameter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/lib/converter/comment/signature.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/lib/converter/comment/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/lib/converter/exec-method-map.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/lib/converter/external.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/lib/converter/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/lib/converter/method-map.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/lib/converter/overrides.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/lib/converter/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/lib/converter/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/lib/guards.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/lib/logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/lib/model/builtin-commands.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/lib/model/command-data.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/lib/model/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/lib/model/module-commands.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/lib/model/project-commands.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/lib/model/reflection/command.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/lib/model/reflection/extension.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/lib/model/reflection/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/lib/model/reflection/kind.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/lib/model/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/lib/options/declarations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/lib/options/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/lib/options/reader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/lib/theme/helpers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/lib/theme/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/lib/theme/template.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build/lib/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    }
+  ]
+}

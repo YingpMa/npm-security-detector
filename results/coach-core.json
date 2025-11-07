@@ -1,0 +1,394 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/coach-core/package",
+  "fileCount": 97,
+  "results": [
+    {
+      "file": "dist/coach.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/coach.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "lib/dom/bestpractice/amp.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/bestpractice/charset.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/bestpractice/cumulativeLayoutShift.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/bestpractice/doctype.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/bestpractice/language.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/bestpractice/metaDescription.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/bestpractice/optimizely.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/bestpractice/pageTitle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/bestpractice/spdy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/bestpractice/url.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/info/amp.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/info/browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/info/connectionType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/info/documentHeight.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/info/documentTitle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/info/documentWidth.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/info/domDepth.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/info/domElements.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/info/generator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/info/head.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/info/iframes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/info/localStorageSize.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/info/metaDescription.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/info/networkConnectionType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/info/resourceHints.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/info/responsive.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/info/scripts.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/info/serializedDomSize.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/info/serviceWorker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/info/sessionStorageSize.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/info/userTiming.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/info/windowSize.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/performance/avoidRenderBlocking.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/performance/avoidScalingImages.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/performance/cssPrint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/performance/firstContentfulPaint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/performance/googleTagManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/performance/inlineCss.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/performance/jquery.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/performance/largestContentfulPaint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/performance/longTasks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/performance/spof.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/privacy/facebook.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/privacy/fingerprint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/privacy/ga.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/privacy/https.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/privacy/surveillance.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/privacy/youtube.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/timings/elementTimings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/timings/fullyLoaded.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/timings/largestContentfulPaint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/timings/navigationTimings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/timings/paintTimings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/timings/userTimings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/dom/util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/har/bestpractice/longHeaders.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/har/bestpractice/manyHeaders.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/har/bestpractice/thirdParty.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/har/bestpractice/unnecessaryHeaders.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/har/harCutter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/har/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/har/info/technology.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/har/info/thirdParty.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/har/performance/assetsRedirects.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/har/performance/avoidRenderBlocking.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/har/performance/cacheHeaders.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/har/performance/cacheHeadersLong.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/har/performance/compressAssets.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/har/performance/connectionKeepAlive.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/har/performance/cpuTimeSpentInRendering.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/har/performance/cpuTimeSpentInScripting.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/har/performance/cssSize.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/har/performance/documentRedirect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/har/performance/favicon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/har/performance/fewFonts.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/har/performance/fewRequestsPerDomain.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/har/performance/headerSize.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/har/performance/imageSize.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/har/performance/javascriptSize.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/har/performance/mimeTypes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/har/performance/optimalCssSize.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/har/performance/pageSize.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/har/performance/privateAssets.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/har/performance/responseOk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/har/privacy/contentSecurityPolicyHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/har/privacy/googleReCaptcha.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/har/privacy/mixedContent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/har/privacy/referrerPolicyHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/har/privacy/strictTransportSecurityHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/har/privacy/thirdPartyCookies.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/har/privacy/thirdPartyPrivacy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/har/thirdParty.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/har/util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/merge.js",
+      "obfuscated": false
+    }
+  ]
+}

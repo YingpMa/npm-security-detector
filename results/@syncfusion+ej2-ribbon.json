@@ -1,0 +1,206 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@syncfusion+ej2-ribbon/package",
+  "fileCount": 50,
+  "results": [
+    {
+      "file": "dist/ej2-ribbon.umd.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/es6/ej2-ribbon.es2015.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es6/ej2-ribbon.es5.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/global/ej2-ribbon.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "ribbon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/global.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/base/constant.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/base/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/base/interface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/base/ribbon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/base/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/items/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/items/ribbon-button.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/items/ribbon-checkbox.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/items/ribbon-colorpicker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/items/ribbon-combobox.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/items/ribbon-dropdown.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/items/ribbon-gallery.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/items/ribbon-groupbutton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/items/ribbon-splitbutton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/models/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/models/ribbon-back-button.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/models/ribbon-back-stage-settings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/models/ribbon-backstage-item.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/models/ribbon-button-settings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/models/ribbon-checkbox-settings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/models/ribbon-collection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/models/ribbon-colorpicker-settings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/models/ribbon-combobox-settings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/models/ribbon-contextual-tab-settings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/models/ribbon-dropdown-settings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/models/ribbon-file-menu-settings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/models/ribbon-gallery-group.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/models/ribbon-gallery-item.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/models/ribbon-gallery-settings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/models/ribbon-group-button-item.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/models/ribbon-group-button-settings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/models/ribbon-group.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/models/ribbon-item.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/models/ribbon-splitbutton-settings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/models/ribbon-tab.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/models/ribbon-tooltip.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/modules/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/modules/ribbon-backstage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/modules/ribbon-contextualtab.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/modules/ribbon-filemenu.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ribbon/modules/ribbon-keytip.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@openziti+ziti-console-lib/package",
+  "fileCount": 47,
+  "results": [
+    {
+      "file": "assets/scripts/chart.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "assets/scripts/commands.js",
+      "obfuscated": false
+    },
+    {
+      "file": "assets/scripts/components/codemirror/codemirror.js",
+      "obfuscated": false
+    },
+    {
+      "file": "assets/scripts/components/column.js",
+      "obfuscated": false
+    },
+    {
+      "file": "assets/scripts/components/flows.js",
+      "obfuscated": false
+    },
+    {
+      "file": "assets/scripts/components/leaflet/leaflet-src.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "assets/scripts/components/leaflet/leaflet-src.js",
+      "obfuscated": false
+    },
+    {
+      "file": "assets/scripts/components/leaflet/leaflet.js",
+      "obfuscated": true
+    },
+    {
+      "file": "assets/scripts/components/moment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "assets/scripts/components/multiselect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "assets/scripts/components/network/vis-network.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "assets/scripts/components/network/vis-network.esm.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "assets/scripts/components/network/vis-network.js",
+      "obfuscated": false
+    },
+    {
+      "file": "assets/scripts/components/network/vis-network.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "assets/scripts/components/qrcode.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "assets/scripts/components/resources.js",
+      "obfuscated": false
+    },
+    {
+      "file": "assets/scripts/components/selector-new.js",
+      "obfuscated": false
+    },
+    {
+      "file": "assets/scripts/components/selector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "assets/scripts/components/spectrum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "assets/scripts/components/timezone.js",
+      "obfuscated": false
+    },
+    {
+      "file": "assets/scripts/context.js",
+      "obfuscated": false
+    },
+    {
+      "file": "assets/scripts/dragging.js",
+      "obfuscated": false
+    },
+    {
+      "file": "assets/scripts/forms/forms.js",
+      "obfuscated": false
+    },
+    {
+      "file": "assets/scripts/forms/schema.js",
+      "obfuscated": false
+    },
+    {
+      "file": "assets/scripts/growler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "assets/scripts/header.js",
+      "obfuscated": false
+    },
+    {
+      "file": "assets/scripts/jquery-3.6.3.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "assets/scripts/jquery.datetimepicker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "assets/scripts/locale.js",
+      "obfuscated": false
+    },
+    {
+      "file": "assets/scripts/modal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "assets/scripts/model/data.js",
+      "obfuscated": false
+    },
+    {
+      "file": "assets/scripts/model/fabric.js",
+      "obfuscated": false
+    },
+    {
+      "file": "assets/scripts/model/fabricServices.js",
+      "obfuscated": false
+    },
+    {
+      "file": "assets/scripts/model/known.js",
+      "obfuscated": false
+    },
+    {
+      "file": "assets/scripts/model/links.js",
+      "obfuscated": false
+    },
+    {
+      "file": "assets/scripts/model/routers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "assets/scripts/model/series.js",
+      "obfuscated": false
+    },
+    {
+      "file": "assets/scripts/model/sessions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "assets/scripts/model/settings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "assets/scripts/model/summary.js",
+      "obfuscated": false
+    },
+    {
+      "file": "assets/scripts/model/tags.js",
+      "obfuscated": false
+    },
+    {
+      "file": "assets/scripts/model/templates.js",
+      "obfuscated": false
+    },
+    {
+      "file": "assets/scripts/model/user.js",
+      "obfuscated": false
+    },
+    {
+      "file": "assets/scripts/restrictions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "assets/scripts/service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "assets/scripts/validation-tools.js",
+      "obfuscated": false
+    },
+    {
+      "file": "assets/scripts/ziti.js",
+      "obfuscated": false
+    }
+  ]
+}

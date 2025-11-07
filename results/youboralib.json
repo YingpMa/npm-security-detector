@@ -1,0 +1,282 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/youboralib/package",
+  "fileCount": 69,
+  "results": [
+    {
+      "file": "src/adapter/adapter+ads.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/adapter/adapter+content.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/adapter/adapter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/adapter/playbackchronos.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/adapter/playbackflags.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/adapter/playheadmonitor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/adapter/statemonitor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/chrono.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/comm/communication.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/comm/request.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/comm/transform/flow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/comm/transform/offline.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/comm/transform/resource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/comm/transform/resourceparsers/cdnSwitch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/comm/transform/resourceparsers/cdnparser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/comm/transform/transform.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/comm/transform/view.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/comm/transform/wrong.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/constants/adInsertionType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/constants/adPosition.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/constants/adapter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/constants/event.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/constants/manifestError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/constants/requestMethod.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/constants/service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/constants/streamingProtocols.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/constants/transportFormat.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/constants/willSendEvent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/detectors/backgroundDetector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/detectors/deviceDetector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/detectors/resizeScrollDetector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/deviceUUID/dataextractor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/deviceUUID/hashgenerator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/deviceUUID/md5.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/emitter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/infinity/infinity.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/log.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/mixins/assign.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/mixins/create.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/mixins/isarray.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/monitors/browserLoadTimes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/monitors/hybridnetwork.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/monitors/speedIndex.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/object.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/plugin/deprecatedOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/plugin/offlineStorage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/plugin/options.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/plugin/plugin+ads+getters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/plugin/plugin+ads.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/plugin/plugin+content+getters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/plugin/plugin+content.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/plugin/plugin+fire.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/plugin/plugin+getters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/plugin/plugin+infinity+getters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/plugin/plugin+infinity.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/plugin/plugin+pings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/plugin/plugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/plugin/requestbuilder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/plugin/storage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/polyfills.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/productanalytics/productanalytics.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/productanalytics/productanalytics_config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/productanalytics/productanalytics_userstate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/timer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/version.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/youboralib.js",
+      "obfuscated": false
+    },
+    {
+      "file": "webpack.config.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@atlaskit+ds-lib/package",
+  "fileCount": 63,
+  "results": [
+    {
+      "file": "dist/cjs/hooks/use-auto-focus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/hooks/use-close-on-escape-press.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/hooks/use-controlled.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/hooks/use-focus-event.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/hooks/use-layout-effect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/hooks/use-lazy-callback.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/hooks/use-lazy-ref.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/hooks/use-previous-value.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/hooks/use-scrollbar-width.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/hooks/use-stable-ref.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/hooks/use-state-ref.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/utils/deprecation-warning.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/utils/device-check.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/utils/keycodes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/utils/merge-refs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/utils/noop.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/utils/once.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/utils/use-id.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/utils/warn-once.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/cjs/utils/with-resolvers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es2019/hooks/use-auto-focus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es2019/hooks/use-close-on-escape-press.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es2019/hooks/use-controlled.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es2019/hooks/use-focus-event.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es2019/hooks/use-layout-effect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es2019/hooks/use-lazy-callback.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es2019/hooks/use-lazy-ref.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es2019/hooks/use-previous-value.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es2019/hooks/use-scrollbar-width.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es2019/hooks/use-stable-ref.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es2019/hooks/use-state-ref.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es2019/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es2019/utils/deprecation-warning.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es2019/utils/device-check.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es2019/utils/keycodes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es2019/utils/merge-refs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es2019/utils/noop.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es2019/utils/once.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es2019/utils/use-id.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es2019/utils/warn-once.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/es2019/utils/with-resolvers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/hooks/use-auto-focus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/hooks/use-close-on-escape-press.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/hooks/use-controlled.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/hooks/use-focus-event.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/hooks/use-layout-effect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/hooks/use-lazy-callback.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/hooks/use-lazy-ref.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/hooks/use-previous-value.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/hooks/use-scrollbar-width.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/hooks/use-stable-ref.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/hooks/use-state-ref.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/utils/deprecation-warning.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/utils/device-check.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/utils/keycodes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/utils/merge-refs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/utils/noop.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/utils/once.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/utils/use-id.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/utils/warn-once.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/esm/utils/with-resolvers.js",
+      "obfuscated": false
+    }
+  ]
+}

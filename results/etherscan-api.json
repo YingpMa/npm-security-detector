@@ -1,0 +1,50 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/etherscan-api/package",
+  "fileCount": 11,
+  "results": [
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/account.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/block.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/contract.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/get-request.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/init.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/log.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/pick-chain-url.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/proxy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/stats.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/transaction.js",
+      "obfuscated": false
+    }
+  ]
+}

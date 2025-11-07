@@ -1,0 +1,42 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/babel-plugin-module-resolver/package",
+  "fileCount": 9,
+  "results": [
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/log.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/mapPath.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/mapToRelative.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/normalizeOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/resolvePath.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/transformers/call.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/transformers/import.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils.js",
+      "obfuscated": false
+    }
+  ]
+}

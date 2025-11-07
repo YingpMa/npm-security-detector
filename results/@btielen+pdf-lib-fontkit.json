@@ -1,0 +1,10 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@btielen+pdf-lib-fontkit/package",
+  "fileCount": 1,
+  "results": [
+    {
+      "file": "dist/fontkit.js",
+      "obfuscated": false
+    }
+  ]
+}

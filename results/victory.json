@@ -1,0 +1,22 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/victory/package",
+  "fileCount": 4,
+  "results": [
+    {
+      "file": "dist/victory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/victory.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "es/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    }
+  ]
+}

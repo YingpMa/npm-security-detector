@@ -1,0 +1,42 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/eslint-plugin-barrel-files/package",
+  "fileCount": 9,
+  "results": [
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/avoid-barrel-files.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/avoid-importing-barrel-files.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/avoid-namespace-import.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/avoid-re-export-all.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/lib/rules/avoid-barrel-files-ts.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/lib/rules/avoid-barrel-files.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/lib/rules/avoid-namespace-import.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/lib/rules/avoid-re-export-all.js",
+      "obfuscated": false
+    }
+  ]
+}

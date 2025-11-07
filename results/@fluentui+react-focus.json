@@ -1,0 +1,90 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@fluentui+react-focus/package",
+  "fileCount": 21,
+  "results": [
+    {
+      "file": "config/tests.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/react-focus.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/react-focus.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "lib/common/isConformant.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/FocusZone/FocusZone.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/FocusZone/FocusZone.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/FocusZone/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/version.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-amd/common/isConformant.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-amd/components/FocusZone/FocusZone.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-amd/components/FocusZone/FocusZone.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-amd/components/FocusZone/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-amd/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-amd/version.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/common/isConformant.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/FocusZone/FocusZone.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/FocusZone/FocusZone.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/FocusZone/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/version.js",
+      "obfuscated": false
+    }
+  ]
+}

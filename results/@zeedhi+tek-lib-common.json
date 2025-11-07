@@ -1,0 +1,18 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@zeedhi+tek-lib-common/package",
+  "fileCount": 3,
+  "results": [
+    {
+      "file": "dist/tek-lib-common.esm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/tek-lib-common.umd.js",
+      "obfuscated": false
+    },
+    {
+      "file": "jest.config.js",
+      "obfuscated": false
+    }
+  ]
+}

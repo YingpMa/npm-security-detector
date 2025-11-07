@@ -1,0 +1,38 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/bitcoin-core/package",
+  "fileCount": 8,
+  "results": [
+    {
+      "file": "src/errors/rpc-error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/errors/standard-error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/logging/request-logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/logging/request-obfuscator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/methods.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/parser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/requester.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@paystack+checkout-js/package",
+  "fileCount": 3,
+  "results": [
+    {
+      "file": "dist/checkout.js",
+      "obfuscated": true
+    },
+    {
+      "file": "es/checkout.js",
+      "obfuscated": true
+    },
+    {
+      "file": "lib/checkout.js",
+      "obfuscated": true
+    }
+  ]
+}

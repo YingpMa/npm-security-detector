@@ -1,0 +1,102 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@junobuild+core/package",
+  "fileCount": 24,
+  "results": [
+    {
+      "file": "dist/browser/index.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/declarations/deprecated/console-0-0-14.factory.did.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/declarations/deprecated/console-0-0-8-patch1.factory.did.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/declarations/deprecated/mission_control-0-0-13.factory.did.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/declarations/deprecated/mission_control-0-0-14.factory.did.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/declarations/deprecated/mission_control-0-0-4.factory.did.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/declarations/deprecated/observatory-0-0-9.factory.did.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/declarations/deprecated/orbiter-0-0-6.factory.did.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/declarations/deprecated/orbiter-0-0-7.factory.did.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/declarations/deprecated/orbiter-0-0-8.factory.did.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/declarations/deprecated/orbiter-0-2-0.factory.did.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/declarations/deprecated/satellite-0-0-16.factory.did.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/declarations/deprecated/satellite-0-0-17.factory.did.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/declarations/deprecated/satellite-0-0-21.factory.did.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/declarations/deprecated/satellite-0-0-22.factory.did.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/declarations/deprecated/satellite-0-0-8.factory.did.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/declarations/deprecated/satellite-0-0-9.factory.did.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/declarations/satellite/satellite.factory.certified.did.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/declarations/satellite/satellite.factory.did.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/declarations/sputnik/sputnik.factory.certified.did.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/declarations/sputnik/sputnik.factory.did.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/workers/_auth.worker.handler.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/workers/auth.worker.js",
+      "obfuscated": true
+    }
+  ]
+}

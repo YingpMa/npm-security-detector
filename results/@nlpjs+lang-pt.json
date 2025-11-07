@@ -1,0 +1,38 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@nlpjs+lang-pt/package",
+  "fileCount": 8,
+  "results": [
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lang-pt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/normalizer-pt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/sentiment/sentiment_pt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/stemmer-pt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/stopwords-pt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tokenizer-pt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/trigrams.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,806 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/webflow-api/package",
+  "fileCount": 200,
+  "results": [
+    {
+      "file": "Client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/errors/BadRequestError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/errors/ConflictError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/errors/ForbiddenError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/errors/InternalServerError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/errors/NotFoundError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/errors/TooManyRequestsError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/errors/UnauthorizedError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/errors/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/accessGroups/client/Client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/accessGroups/client/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/accessGroups/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/accessGroups/types/AccessGroupsListRequestSort.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/accessGroups/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/assets/client/Client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/assets/client/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/assets/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/collections/client/Client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/collections/client/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/collections/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/collections/resources/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/components/client/Client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/components/client/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/components/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/components/types/ComponentDomWriteNodesItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/components/types/ComponentPropertiesWritePropertiesItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/components/types/ComponentsUpdateContentResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/components/types/ComponentsUpdatePropertiesResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/components/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/ecommerce/client/Client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/ecommerce/client/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/ecommerce/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/forms/client/Client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/forms/client/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/forms/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/inventory/client/Client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/inventory/client/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/inventory/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/inventory/types/InventoryUpdateRequestInventoryType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/inventory/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/orders/client/Client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/orders/client/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/orders/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/orders/types/OrdersListRequestStatus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/orders/types/OrdersRefundRequestReason.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/orders/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/pages/client/Client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/pages/client/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/pages/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/pages/resources/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/pages/types/PageDomWriteNodesItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/pages/types/UpdateStaticContentResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/pages/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/products/client/Client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/products/client/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/products/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/products/types/ProductSkuCreateProduct.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/products/types/ProductSkuCreateSku.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/products/types/ProductsCreateSkuResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/products/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/scripts/client/Client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/scripts/client/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/scripts/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/sites/client/Client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/sites/client/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/sites/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/sites/resources/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/sites/types/SitesPublishResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/sites/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/token/client/Client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/token/client/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/token/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/users/client/Client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/users/client/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/users/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/users/types/UsersListRequestSort.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/users/types/UsersUpdateRequestData.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/users/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/webhooks/client/Client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/webhooks/client/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/webhooks/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/workspaces/client/Client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/workspaces/client/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/workspaces/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/workspaces/resources/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/AccessGroup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/AccessGroupList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/Application.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/Asset.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/AssetFolder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/AssetFolderList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/AssetUpload.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/AssetUploadUploadDetails.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/AssetVariant.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/Assets.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/Authorization.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/AuthorizationAuthorization.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/AuthorizationAuthorizationAuthorizedTo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/AuthorizedUser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/BadRequestErrorBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/BulkCollectionItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/BulkCollectionItemFieldData.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/Collection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/CollectionItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/CollectionItemFieldData.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/CollectionItemList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/CollectionItemListNoPagination.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/CollectionItemListPagination.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/CollectionItemPatchSingle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/CollectionItemPatchSingleFieldData.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/CollectionItemPostSingle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/CollectionItemPostSingleFieldData.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/CollectionItemWithIdInput.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/CollectionItemWithIdInputFieldData.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/CollectionList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/CollectionListArrayItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/CommentReply.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/CommentReplyAuthor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/CommentReplyList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/CommentReplyListPagination.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/CommentReplyMentionedUsersItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/CommentThread.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/CommentThreadAuthor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/CommentThreadList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/CommentThreadListPagination.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/CommentThreadMentionedUsersItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/Component.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/ComponentDom.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/ComponentInstanceNodePropertyOverridesWrite.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/ComponentInstanceNodePropertyOverridesWritePropertyOverridesItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/ComponentList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/ComponentNode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/ComponentProperties.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/ComponentProperty.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/ComponentPropertyType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/Conflict.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/ConflictErrorBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/CustomCodeBlock.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/CustomCodeBlockType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/CustomCodeHostedResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/CustomCodeInlineResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/CustomRole.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/CustomRoleAuditLogItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/CustomRoleAuditLogItemEventSubType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/Dom.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/Domain.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/Domains.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/DuplicateUserEmail.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/EcommerceSettings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/ErrorCode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/Error_.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/Field.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/FieldCreate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/FieldType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/ForbiddenErrorBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/Form.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/FormField.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/FormFieldValue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/FormFieldValueType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/FormList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/FormResponseSettings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/FormSubmission.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/FormSubmissionList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/ImageNode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/ImageNodeImage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/InvalidDomain.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/InvalidScopes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/InventoryItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/InventoryItemInventoryType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/ListCustomCodeBlocks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/Locale.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/Locales.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/Metadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/MetadataOptionsItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/NoDomains.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/Node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/NotEnterprisePlanSite.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/NotEnterprisePlanWorkspace.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/OAuthScope.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/OptionField.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/Order.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/OrderAddress.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/OrderAddressJapanType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/OrderAddressType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/OrderCustomerInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/OrderDisputeLastStatus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/OrderDownloadFilesItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/OrderList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/OrderMetadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/OrderPrice.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/OrderPurchasedItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/OrderPurchasedItemVariantImage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/OrderPurchasedItemVariantImageFile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/OrderPurchasedItemVariantImageFileVariantsItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/OrderStatus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/OrderTotals.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/OrderTotalsExtrasItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/types/OrderTotalsExtrasItemType.js",
+      "obfuscated": false
+    }
+  ]
+}

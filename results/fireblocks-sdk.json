@@ -1,0 +1,58 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/fireblocks-sdk/package",
+  "fileCount": 13,
+  "results": [
+    {
+      "file": "dist/src/api-client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/api-token-provider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/common/public_key_info.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/fireblocks-sdk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/iauth-provider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/ncw-api-client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/ncw-sdk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/pii-client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/staking/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/staking/staking-api-client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/staking/staking-sdk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/staking/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/types.js",
+      "obfuscated": false
+    }
+  ]
+}

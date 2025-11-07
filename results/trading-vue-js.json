@@ -1,0 +1,238 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/trading-vue-js/package",
+  "fileCount": 58,
+  "results": [
+    {
+      "file": "dist/trading-vue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/trading-vue.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "src/components/js/botbar.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/js/crosshair.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/js/grid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/js/grid_maker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/js/layout.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/js/layout_cnv.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/js/layout_fn.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/js/log_scale.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/js/sidebar.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/js/ti_mapping.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/js/updater.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/primitives/candle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/primitives/line.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/primitives/pin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/primitives/price.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/primitives/ray.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/primitives/seg.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/primitives/volbar.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/helpers/agg_tool.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/helpers/datacube.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/helpers/dataset.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/helpers/dc_core.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/helpers/dc_events.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/helpers/sampler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/helpers/script_engine.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/helpers/script_env.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/helpers/script_std.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/helpers/script_ts.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/helpers/script_utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/helpers/script_ww.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/helpers/script_ww_api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/helpers/sett_proxy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/helpers/symbol.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/helpers/symstd.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/helpers/tmp/dc_calc_syntax1.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/helpers/tmp/dc_calc_syntax2.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/mixins/canvas.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/mixins/datatrack.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/mixins/interface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/mixins/overlay.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/mixins/shaders.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/mixins/tool.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/mixins/uxlist.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/mixins/xcontrol.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/stuff/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/stuff/context.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/stuff/frame.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/stuff/keys.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/stuff/layer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/stuff/linreg.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/stuff/math.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/stuff/mouse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/stuff/shader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/stuff/utils.js",
+      "obfuscated": false
+    }
+  ]
+}

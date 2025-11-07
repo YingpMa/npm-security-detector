@@ -1,0 +1,86 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@antv+dom-util/package",
+  "fileCount": 20,
+  "results": [
+    {
+      "file": "esm/add-event-listener.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/create-dom.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/get-height.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/get-outer-height.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/get-outer-width.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/get-ratio.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/get-style.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/get-width.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "esm/modify-css.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/add-event-listener.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/create-dom.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/get-height.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/get-outer-height.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/get-outer-width.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/get-ratio.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/get-style.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/get-width.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/modify-css.js",
+      "obfuscated": false
+    }
+  ]
+}

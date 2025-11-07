@@ -1,0 +1,90 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@lhci+utils/package",
+  "fileCount": 21,
+  "results": [
+    {
+      "file": "src/api-client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/assertions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/audit-diff-finder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/budget.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/budgets-converter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/build-context.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/child-process-helper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lighthouserc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lodash.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/markdown.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/presets/all.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/presets/no-pwa.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/presets/recommended.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/psi-client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/psi-runner.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/representative-runs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/saved-reports.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/seed-data/dataset-generator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/seed-data/lhr-generator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/seed-data/prandom.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/seed-data/seed-data.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@sap-ux+odata-annotation-core-types/package",
+  "fileCount": 14,
+  "results": [
+    {
+      "file": "dist/annotation-file.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/base.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/diagnostics.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/edm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/edmx.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/general.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/language-server.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/specification/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/specification/names.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/text-formatting.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/types/metadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/types/vocabularies.js",
+      "obfuscated": false
+    }
+  ]
+}

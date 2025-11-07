@@ -1,0 +1,30 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@octokit+graphql/package",
+  "fileCount": 6,
+  "results": [
+    {
+      "file": "dist-bundle/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-src/error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-src/graphql.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-src/version.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-src/with-defaults.js",
+      "obfuscated": false
+    }
+  ]
+}

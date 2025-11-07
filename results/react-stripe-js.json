@@ -1,0 +1,22 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/react-stripe-js/package",
+  "fileCount": 4,
+  "results": [
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/react-stripe-js.cjs.development.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/react-stripe-js.cjs.production.min.js",
+      "obfuscated": true
+    },
+    {
+      "file": "dist/react-stripe-js.esm.js",
+      "obfuscated": false
+    }
+  ]
+}

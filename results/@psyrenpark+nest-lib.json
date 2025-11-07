@@ -1,0 +1,138 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@psyrenpark+nest-lib/package",
+  "fileCount": 33,
+  "results": [
+    {
+      "file": "dist/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/nest-lib/bootstrap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/nest-lib/coomon-variable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/nest-lib/db.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/nest-lib/decorator/appsync-decorator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/nest-lib/decorator/cognito-event-decorator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/nest-lib/decorator/cognito-info-decorator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/nest-lib/decorator/cognito-user-attributes-decorator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/nest-lib/decorator/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/nest-lib/decorator/list-input-decorator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/nest-lib/decorator/stepfunction-decorator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/nest-lib/dto/cognito-info.dto.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/nest-lib/dto/cognito-user-attribute.dto.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/nest-lib/dto/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/nest-lib/dto/list-input.dto.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/nest-lib/dto/list-respone.dto.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/nest-lib/guard/api-type.guard.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/nest-lib/guard/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/nest-lib/guard/role-type.guard.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/nest-lib/guard/version-type.guard.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/nest-lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/nest-lib/mapping/appsync-event-mappings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/nest-lib/mapping/cognito-event-mappings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/nest-lib/mapping/http-event-mappings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/nest-lib/mapping/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/nest-lib/mapping/stepfuntion-event-mappings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/nest-lib/middleware/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/nest-lib/middleware/role-type.middleware.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/nest-lib/sequelizeExtend/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/nest-lib/sequelizeExtend/replace.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/nest-lib/type/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/src/nest-lib/util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist/test/nest-lib.test.js",
+      "obfuscated": false
+    }
+  ]
+}
