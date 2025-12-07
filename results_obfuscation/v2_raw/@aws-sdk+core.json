@@ -1,0 +1,238 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@aws-sdk+core/package",
+  "fileCount": 58,
+  "results": [
+    {
+      "file": "account-id-endpoint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/submodules/account-id-endpoint/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/submodules/client/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/submodules/httpAuthSchemes/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/submodules/protocols/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/account-id-endpoint/AccountIdEndpointModeConfigResolver.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/account-id-endpoint/AccountIdEndpointModeConstants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/account-id-endpoint/NodeAccountIdEndpointModeConfigOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/account-id-endpoint/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/client/emitWarningIfUnsupportedVersion.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/client/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/client/setCredentialFeature.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/client/setFeature.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/client/setTokenFeature.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/httpAuthSchemes/aws_sdk/AwsSdkSigV4ASigner.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/httpAuthSchemes/aws_sdk/AwsSdkSigV4Signer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/httpAuthSchemes/aws_sdk/NODE_AUTH_SCHEME_PREFERENCE_OPTIONS.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/httpAuthSchemes/aws_sdk/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/httpAuthSchemes/aws_sdk/resolveAwsSdkSigV4AConfig.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/httpAuthSchemes/aws_sdk/resolveAwsSdkSigV4Config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/httpAuthSchemes/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/httpAuthSchemes/utils/getArrayForCommaSeparatedString.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/httpAuthSchemes/utils/getBearerTokenEnvKey.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/httpAuthSchemes/utils/getDateHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/httpAuthSchemes/utils/getSkewCorrectedDate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/httpAuthSchemes/utils/getUpdatedSystemClockOffset.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/httpAuthSchemes/utils/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/httpAuthSchemes/utils/isClockSkewed.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/protocols/ConfigurableSerdeContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/protocols/coercing-serializers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/protocols/common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/protocols/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/protocols/json/AwsJson1_0Protocol.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/protocols/json/AwsJson1_1Protocol.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/protocols/json/AwsJsonRpcProtocol.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/protocols/json/AwsRestJsonProtocol.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/protocols/json/JsonCodec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/protocols/json/JsonShapeDeserializer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/protocols/json/JsonShapeSerializer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/protocols/json/awsExpectUnion.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/protocols/json/jsonReplacer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/protocols/json/jsonReviver.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/protocols/json/parseJsonBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/protocols/query/AwsEc2QueryProtocol.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/protocols/query/AwsQueryProtocol.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/protocols/query/QuerySerializerSettings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/protocols/query/QueryShapeSerializer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/protocols/xml/AwsRestXmlProtocol.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/protocols/xml/XmlCodec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/protocols/xml/XmlShapeDeserializer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/protocols/xml/XmlShapeSerializer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/protocols/xml/parseXmlBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-es/submodules/protocols/xml/simpleFormatXml.js",
+      "obfuscated": false
+    },
+    {
+      "file": "httpAuthSchemes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "protocols.js",
+      "obfuscated": false
+    }
+  ]
+}

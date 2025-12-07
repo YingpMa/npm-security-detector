@@ -1,0 +1,70 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/pm2-axon/package",
+  "fileCount": 16,
+  "results": [
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/configurable/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/configurable/lib/configurable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/plugins/queue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/plugins/round-robin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/sockets/pub-emitter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/sockets/pub.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/sockets/pull.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/sockets/push.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/sockets/rep.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/sockets/req.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/sockets/sock.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/sockets/sub-emitter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/sockets/sub.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils.js",
+      "obfuscated": false
+    }
+  ]
+}

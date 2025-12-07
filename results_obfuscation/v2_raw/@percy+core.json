@@ -1,0 +1,26 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@percy+core/package",
+  "fileCount": 5,
+  "results": [
+    {
+      "file": "post-install.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/helpers/dedent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/helpers/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/helpers/request.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/helpers/server.js",
+      "obfuscated": false
+    }
+  ]
+}

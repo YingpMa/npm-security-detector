@@ -1,0 +1,314 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@ilovepdf+ilovepdf-js-core/package",
+  "fileCount": 77,
+  "results": [
+    {
+      "file": "ILovePDFCoreApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "auth/Auth.js",
+      "obfuscated": false
+    },
+    {
+      "file": "auth/JWT.js",
+      "obfuscated": false
+    },
+    {
+      "file": "errors/AuthError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "errors/BaseError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "errors/ConnectError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "errors/DeleteError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "errors/DownloadError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "errors/ElementAlreadyExistsError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "errors/ElementNotExistError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "errors/FileAlreadyExistsError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "errors/FileEncryptionKeyError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "errors/FileNotExistsError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "errors/HTTPVerbNotSupportedError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "errors/PathError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "errors/ProcessError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "errors/RequiredParamError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "errors/SignerAlreadyExistsError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "errors/StartError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "errors/TaskTypeNotExistsError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "errors/UpdateError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tasks/BaseFile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tasks/CompressTask.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tasks/ExtractTask.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tasks/HtmlPdfTask.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tasks/ImagePdfTask.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tasks/MergeTask.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tasks/OfficePdfTask.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tasks/PageNumberTask.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tasks/PdfJpgTask.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tasks/PdfOcrTask.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tasks/PdfaTask.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tasks/ProtectTask.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tasks/RepairTask.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tasks/RotateTask.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tasks/SplitTask.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tasks/Task.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tasks/TaskBaseProcess.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tasks/TaskFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tasks/TaskI.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tasks/UnlockTask.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tasks/ValidatePdfaTask.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tasks/WatermarkTask.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tasks/edit/EditTask.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tasks/edit/Element.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tasks/edit/Image.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tasks/edit/Svg.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tasks/edit/Text.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tasks/sign/SignTask.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tasks/sign/elements/SignatureElement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tasks/sign/elements/SignatureFile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tasks/sign/receivers/Receiver.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tasks/sign/receivers/Signer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tasks/sign/receivers/Validator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tasks/sign/receivers/Witness.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/expectToBeWithinRange.js",
+      "obfuscated": false
+    },
+    {
+      "file": "types/ILovePDFTool.js",
+      "obfuscated": false
+    },
+    {
+      "file": "types/ServerFile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "types/responses/ConnectResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "types/responses/DeleteFileResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "types/responses/DeleteResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "types/responses/DownloadResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "types/responses/FileStatus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "types/responses/GetSignatureListResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "types/responses/GetSignatureResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "types/responses/GetSignerResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "types/responses/GetTaskResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "types/responses/ProcessResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "types/responses/SignatureStatus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "types/responses/StartResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "types/responses/TaskStatus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "types/responses/UploadResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "utils/ILovePDFFile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "utils/XHRInterface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "utils/XHRPromise.js",
+      "obfuscated": false
+    },
+    {
+      "file": "utils/typecheck.js",
+      "obfuscated": false
+    }
+  ]
+}

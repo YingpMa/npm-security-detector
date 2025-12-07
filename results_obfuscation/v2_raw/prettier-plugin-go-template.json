@@ -1,0 +1,18 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/prettier-plugin-go-template/package",
+  "fileCount": 3,
+  "results": [
+    {
+      "file": "lib/create-id-generator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/parse.js",
+      "obfuscated": false
+    }
+  ]
+}

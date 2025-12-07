@@ -1,0 +1,406 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@fluentui+react-positioning/package",
+  "fileCount": 100,
+  "results": [
+    {
+      "file": "lib/PositioningConfigurationContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/createArrowStyles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/createPositionManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/createSlideStyles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/createVirtualElementFromClick.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useSafeZoneArea/SafeZoneArea.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useSafeZoneArea/SafeZoneArea.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useSafeZoneArea/SafeZoneArea.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useSafeZoneArea/computeOutsideClipPath.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useSafeZoneArea/createSafeZoneAreaStateStore.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useSafeZoneArea/getMouseAnchor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useSafeZoneArea/getRectCorners.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useSafeZoneArea/pointsToSvgPath.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useSafeZoneArea/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useSafeZoneArea/useSafeZoneArea.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/middleware/coverTarget.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/middleware/flip.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/middleware/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/middleware/intersecting.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/middleware/matchTargetSize.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/middleware/maxSize.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/middleware/offset.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/middleware/shift.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/usePositioning.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/usePositioningMouseTarget.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/usePositioningOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/createResizeObserver.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/debounce.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/devtools.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/fromFloatingUIPlacement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/getBoundary.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/getFloatingUIOffset.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/getReactFiberFromNode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/getScrollParent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/hasAutoFocusFilter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/listScrollParents.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/mergeArrowOffset.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/normalizeAutoSize.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/parseFloatingUIPlacement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/resolvePositioningShorthand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/toFloatingUIPadding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/toFloatingUIPlacement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/toggleScrollListener.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/useCallbackRef.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/writeArrowUpdates.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/writeContainerupdates.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/PositioningConfigurationContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/createArrowStyles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/createPositionManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/createSlideStyles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/createVirtualElementFromClick.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/hooks/useSafeZoneArea/SafeZoneArea.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/hooks/useSafeZoneArea/SafeZoneArea.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/hooks/useSafeZoneArea/SafeZoneArea.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/hooks/useSafeZoneArea/computeOutsideClipPath.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/hooks/useSafeZoneArea/createSafeZoneAreaStateStore.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/hooks/useSafeZoneArea/getMouseAnchor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/hooks/useSafeZoneArea/getRectCorners.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/hooks/useSafeZoneArea/pointsToSvgPath.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/hooks/useSafeZoneArea/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/hooks/useSafeZoneArea/useSafeZoneArea.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/middleware/coverTarget.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/middleware/flip.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/middleware/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/middleware/intersecting.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/middleware/matchTargetSize.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/middleware/maxSize.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/middleware/offset.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/middleware/shift.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/usePositioning.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/usePositioningMouseTarget.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/usePositioningOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/utils/createResizeObserver.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/utils/debounce.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/utils/devtools.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/utils/fromFloatingUIPlacement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/utils/getBoundary.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/utils/getFloatingUIOffset.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/utils/getReactFiberFromNode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/utils/getScrollParent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/utils/hasAutoFocusFilter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/utils/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/utils/listScrollParents.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/utils/mergeArrowOffset.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/utils/normalizeAutoSize.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/utils/parseFloatingUIPlacement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/utils/resolvePositioningShorthand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/utils/toFloatingUIPadding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/utils/toFloatingUIPlacement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/utils/toggleScrollListener.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/utils/useCallbackRef.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/utils/writeArrowUpdates.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/utils/writeContainerupdates.js",
+      "obfuscated": false
+    }
+  ]
+}

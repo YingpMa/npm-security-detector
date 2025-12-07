@@ -1,0 +1,94 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/eslint-plugin-es5/package",
+  "fileCount": 22,
+  "results": [
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/rules/no-arrow-functions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/rules/no-binary-and-octal-literals.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/rules/no-block-scoping.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/rules/no-classes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/rules/no-computed-properties.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/rules/no-default-parameters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/rules/no-destructuring.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/rules/no-es6-methods.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/rules/no-es6-static-methods.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/rules/no-exponentiation-operator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/rules/no-for-of.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/rules/no-generators.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/rules/no-modules.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/rules/no-object-super.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/rules/no-rest-parameters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/rules/no-shorthand-properties.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/rules/no-spread.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/rules/no-template-literals.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/rules/no-typeof-symbol.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/rules/no-unicode-code-point-escape.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/rules/no-unicode-regex.js",
+      "obfuscated": false
+    }
+  ]
+}

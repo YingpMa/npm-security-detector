@@ -1,0 +1,54 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/react-responsive-carousel/package",
+  "fileCount": 12,
+  "results": [
+    {
+      "file": "lib/js/CSSTranslate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/components/Carousel/animations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/components/Carousel/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/components/Carousel/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/components/Carousel/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/components/Thumbs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/cssClasses.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/dimensions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/shims/document.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/js/shims/window.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@polkadot+wasm-bridge/package",
+  "fileCount": 7,
+  "results": [
+    {
+      "file": "bridge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "init.js",
+      "obfuscated": false
+    },
+    {
+      "file": "packageDetect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "packageInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "wbg.js",
+      "obfuscated": false
+    }
+  ]
+}

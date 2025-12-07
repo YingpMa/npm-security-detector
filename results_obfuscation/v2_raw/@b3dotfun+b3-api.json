@@ -1,0 +1,90 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@b3dotfun+b3-api/package",
+  "fileCount": 21,
+  "results": [
+    {
+      "file": "lib/client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/services/ai-nft-images/ai-nft-images.shared.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/services/ai-nfts/ai-nfts.shared.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/services/bondkit-tokens/bondkit-tokens.shared.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/services/bondkit-transactions/bondkit-transactions.shared.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/services/emulator/user-states/user-states.shared.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/services/ens-webhooks/ens-webhooks.shared.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/services/global-accounts-challenge/global-accounts-challenge.shared.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/services/global-accounts-partner-verification/global-accounts-partner-verification.shared.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/services/global-accounts-partners/global-accounts-partners.shared.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/services/global-accounts-user-logs/global-accounts-user-logs.shared.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/services/indexer-webhook/indexer-webhook.shared.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/services/partner-permissions/partner-permissions.shared.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/services/signature-minting-collections/signature-minting-collections.shared.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/services/stake/games/games.shared.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/services/stake/prizes/prizes.shared.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/services/thirdweb-webhook/thirdweb-webhook.shared.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/services/thirdweb-webhook-configurations/thirdweb-webhook-configuration.shared.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/services/thirdweb-webhook-requests/thirdweb-webhook-requests.shared.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/services/tokens/tokens.shared.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/services/users/users.shared.js",
+      "obfuscated": false
+    }
+  ]
+}

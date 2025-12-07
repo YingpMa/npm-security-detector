@@ -1,0 +1,122 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/anypoint-cli-governance-plugin/package",
+  "fileCount": 29,
+  "results": [
+    {
+      "file": "lib/commands/governance/api/evaluate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/governance/api/inspect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/governance/api/validate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/governance/document.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/governance/profile/create.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/governance/profile/delete.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/governance/profile/info.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/governance/profile/list.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/governance/profile/update.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/governance/ruleset/clone.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/governance/ruleset/info.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/governance/ruleset/init.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commands/governance/ruleset/validate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/amlUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/dialect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/doc_const.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/schema/schemaGenerator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/schema/schemaParser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/schema/schemaTranslator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/schema/schemaUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/schemaGeneratorCmd.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/schemaGeneratorParser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/types/fragment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/types/profile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/uris.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/validate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@smoovy+tween/package",
+  "fileCount": 11,
+  "results": [
+    {
+      "file": "controller.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dom.js",
+      "obfuscated": false
+    },
+    {
+      "file": "easing.js",
+      "obfuscated": false
+    },
+    {
+      "file": "helper/setters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "helper/timeline.js",
+      "obfuscated": false
+    },
+    {
+      "file": "helper/tween.js",
+      "obfuscated": false
+    },
+    {
+      "file": "helper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "props.js",
+      "obfuscated": false
+    },
+    {
+      "file": "timeline.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tween.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/sanity-plugin-icon-picker/package",
+  "fileCount": 1,
+  "results": [
+    {
+      "file": "v2-incompatible.js",
+      "obfuscated": false
+    }
+  ]
+}

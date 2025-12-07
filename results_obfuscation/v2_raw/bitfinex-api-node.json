@@ -1,0 +1,38 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/bitfinex-api-node/package",
+  "fileCount": 8,
+  "results": [
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/transports/ws2.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/is_class.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/is_snapshot.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/precision.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/ws2.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ws2_manager.js",
+      "obfuscated": false
+    }
+  ]
+}

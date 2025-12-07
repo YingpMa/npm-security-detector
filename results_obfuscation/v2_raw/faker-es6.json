@@ -1,0 +1,50 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/faker-es6/package",
+  "fileCount": 11,
+  "results": [
+    {
+      "file": ".eslintrc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/getLocale.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/randomArrayElement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/randomArrayElements.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/randomNumber.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/name/firstName/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/name/firstName/locales/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/name/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types/locale.js",
+      "obfuscated": false
+    }
+  ]
+}

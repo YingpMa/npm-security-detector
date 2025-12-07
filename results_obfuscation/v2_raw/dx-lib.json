@@ -1,0 +1,118 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/dx-lib/package",
+  "fileCount": 28,
+  "results": [
+    {
+      "file": "babel.config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "jest.config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Events/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Promise/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ajax/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ajax/isPlainObject.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ajax/parseHeaders.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/base64/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/base64/utf8.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cookie/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/domready/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/json/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/json/parse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/json/stringify.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/jsonp/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/loader/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/loader/loadScript.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/param/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/Events/Events.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/Promise/Promise.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/ajax/ajax.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/base64/base64.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/cookie/cookie.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/domready/domready.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/json/json.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/jsonp/jsonp.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/loader/loader.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/param/param.spec.js",
+      "obfuscated": false
+    }
+  ]
+}

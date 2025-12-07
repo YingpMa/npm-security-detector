@@ -1,0 +1,26 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@salaku+js-sdk/package",
+  "fileCount": 5,
+  "results": [
+    {
+      "file": "bn.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build.js",
+      "obfuscated": false
+    },
+    {
+      "file": "jest.config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "nacl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sha3.js",
+      "obfuscated": false
+    }
+  ]
+}

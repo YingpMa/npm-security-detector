@@ -1,0 +1,14 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@mdit+plugin-uml/package",
+  "fileCount": 2,
+  "results": [
+    {
+      "file": "lib/browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": true
+    }
+  ]
+}

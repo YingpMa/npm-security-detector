@@ -1,0 +1,10 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@oneschema+importer/package",
+  "fileCount": 1,
+  "results": [
+    {
+      "file": "rollup.config.js",
+      "obfuscated": false
+    }
+  ]
+}

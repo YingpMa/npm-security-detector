@@ -1,0 +1,38 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/react-lazylog/package",
+  "fileCount": 8,
+  "results": [
+    {
+      "file": "src/ansiparse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/encoding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/request.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/search.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/stream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/websocket.js",
+      "obfuscated": false
+    }
+  ]
+}

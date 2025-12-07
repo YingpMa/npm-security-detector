@@ -1,0 +1,30 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@nkmjs+core/package",
+  "fileCount": 6,
+  "results": [
+    {
+      "file": "core.js",
+      "obfuscated": false
+    },
+    {
+      "file": "electron.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/fetch-polyfill.js",
+      "obfuscated": false
+    },
+    {
+      "file": "nkm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "nkmin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "nkmserver.js",
+      "obfuscated": false
+    }
+  ]
+}

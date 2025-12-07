@@ -1,0 +1,34 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/react-native-onesignal/package",
+  "fileCount": 7,
+  "results": [
+    {
+      "file": ".eslintrc.js",
+      "obfuscated": false
+    },
+    {
+      "file": ".github/os_probot_metadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": ".github/set_response_times.js",
+      "obfuscated": false
+    },
+    {
+      "file": ".prettierrc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "babel.config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "jest.config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "metro.config.js",
+      "obfuscated": false
+    }
+  ]
+}

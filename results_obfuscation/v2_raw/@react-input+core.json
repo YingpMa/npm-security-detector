@@ -1,0 +1,34 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@react-input+core/package",
+  "fileCount": 7,
+  "results": [
+    {
+      "file": "module/Input.js",
+      "obfuscated": true
+    },
+    {
+      "file": "module/SyntheticChangeError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "module/createProxy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "module/helpers-C8k3UfPS.js",
+      "obfuscated": true
+    },
+    {
+      "file": "module/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "module/useConnectedRef.js",
+      "obfuscated": false
+    },
+    {
+      "file": "module/useInput.js",
+      "obfuscated": false
+    }
+  ]
+}

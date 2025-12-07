@@ -1,0 +1,414 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@semcore+core/package",
+  "fileCount": 102,
+  "results": [
+    {
+      "file": "lib/LastInteractionType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core-types/Component.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core-types/UnknownProperties.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core-types/reshadow.d.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core-types/symbols.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/coreFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/enhancement/Children.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/enhancement/Root.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/enhancement/bindHandler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/enhancement/dataName.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/enhancement/enhance.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/enhancement/functionDefaultProps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/enhancement/hoistProps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/enhancement/i18n.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/enhancement/inheritedName.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/enhancement/staticChildren.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/enhancement/style.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/enhancement/uncontrolledProps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/register.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/styled/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/styled/reshadow-core.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/styled/sstyled.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/theme/processor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/theme/themes/dark.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/theme/themes/default.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/theme/themes/highlights-dark.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/theme/themes/highlights-light.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/theme/themes/light.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/theme/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/CSSinJS.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/ScreenReaderOnly.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/ThemeProvider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/addonText.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/addonTextChildren.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/ariaProps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/assignProps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/canUseDOM.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/capitalizeFirstLetter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/color.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/compose.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/createHoc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/createUUID.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/cssToIntDefault.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/enhances/WithAutoFocus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/enhances/WithCSS.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/enhances/WithI18n.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/enhances/WithKeyboardFocus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/enhances/WithRef.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/enhances/a11yEnhance.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/enhances/animatedSizeEnhance.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/enhances/autoFocusEnhance.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/enhances/contextEnhance.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/enhances/i18nEnhance.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/enhances/keyboardFocusEnhance.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/enhances/resolveColorEnhance.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/eventEmitter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/findComponent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/fire.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/focus-lock/focusBorders.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/focus-lock/getFocusableIn.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/focus-lock/isFocusInside.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/focus-lock/isFocusable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/focus-lock/setFocus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/getAccessibleName.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/getDisplayName.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/getEventTarget.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/getOriginChildren.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/getRandomInt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/getValue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/hasLabels.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/hasParent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/if.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/ifChildren.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/injectStyle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/inputProps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/isInteractiveElement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/isNode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/isPromise.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/isRetina.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/numericChecker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/ownerDocument.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/pick.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/propsForElement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/rafTrottle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/reactToText.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/ref.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/setRef.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/syncScroll.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/uncontroll.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/uniqueID.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/use/useColorResolver.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/use/useCss.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/use/useEnhancedEffect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/use/useEventCallback.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/use/useEventListener.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/use/useFocusLock.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/use/usePreventScroll.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/use/useScrollBarWidth.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/useCssVariable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/zIndexStacking.js",
+      "obfuscated": false
+    }
+  ]
+}

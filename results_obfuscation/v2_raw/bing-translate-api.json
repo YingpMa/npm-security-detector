@@ -1,0 +1,34 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/bing-translate-api/package",
+  "fileCount": 7,
+  "results": [
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lang.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/met/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/met/lang.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/lang.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/met.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@jouwomgeving+util-redux/package",
+  "fileCount": 24,
+  "results": [
+    {
+      "file": "es/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/reducers/api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/reducers/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/sagas/api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/sagas/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/selectors/api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/selectors/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/utils/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/reducers/api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/reducers/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/sagas/api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/sagas/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/selectors/api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/selectors/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/reducers/api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/reducers/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/sagas/api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/sagas/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/selectors/api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/selectors/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/index.js",
+      "obfuscated": false
+    }
+  ]
+}

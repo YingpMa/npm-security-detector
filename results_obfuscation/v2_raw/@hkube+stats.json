@@ -1,0 +1,42 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@hkube+stats/package",
+  "fileCount": 9,
+  "results": [
+    {
+      "file": ".eslintrc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/mean.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/median.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/sum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/mean.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/median.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/sum.test.js",
+      "obfuscated": false
+    }
+  ]
+}

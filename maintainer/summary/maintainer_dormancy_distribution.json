@@ -1,0 +1,124 @@
+{
+  "totalPackages": 1000,
+  "withMetadata": 1000,
+  "missingMetadata": 0,
+  "bins": {
+    "0-3": 408,
+    "3-6": 87,
+    "6-12": 103,
+    ">12": 402,
+    "missing": 0
+  },
+  "share": {
+    "0-3": 0.408,
+    "3-6": 0.087,
+    "6-12": 0.103,
+    ">12": 0.402,
+    "missing": 0
+  },
+  "dormantPackages": 402,
+  "dormantShareOfAll": 0.402,
+  "dormantShareOfWithMetadata": 0.402,
+  "topDormant": [
+    {
+      "package": "@hkube/stats",
+      "diffMonths": 44,
+      "lastPublish": "2022-04-05T17:58:28.153Z"
+    },
+    {
+      "package": "@episodehunter/utils",
+      "diffMonths": 44,
+      "lastPublish": "2022-04-05T08:02:25.042Z"
+    },
+    {
+      "package": "@brandandcelebrities/lib",
+      "diffMonths": 44,
+      "lastPublish": "2022-04-04T20:22:06.689Z"
+    },
+    {
+      "package": "@edde-js/edde-js",
+      "diffMonths": 44,
+      "lastPublish": "2022-04-05T06:40:57.273Z"
+    },
+    {
+      "package": "@eturino/significant-diff-round",
+      "diffMonths": 44,
+      "lastPublish": "2022-04-05T08:27:15.644Z"
+    },
+    {
+      "package": "@crello/react-lottie",
+      "diffMonths": 44,
+      "lastPublish": "2022-04-05T01:47:10.452Z"
+    },
+    {
+      "package": "@affinityproject/common-lib",
+      "diffMonths": 44,
+      "lastPublish": "2022-04-16T17:58:20.918Z"
+    },
+    {
+      "package": "@did-core/data-model",
+      "diffMonths": 44,
+      "lastPublish": "2022-04-05T04:23:35.312Z"
+    },
+    {
+      "package": "draw2d",
+      "diffMonths": 44,
+      "lastPublish": "2022-04-29T05:27:27.651Z"
+    },
+    {
+      "package": "@tooui/util",
+      "diffMonths": 44,
+      "lastPublish": "2022-04-07T06:57:20.757Z"
+    },
+    {
+      "package": "dhj-string",
+      "diffMonths": 44,
+      "lastPublish": "2022-04-28T12:10:03.447Z"
+    },
+    {
+      "package": "@opencensus/resource-util",
+      "diffMonths": 44,
+      "lastPublish": "2022-04-06T11:33:08.285Z"
+    },
+    {
+      "package": "@strathcole/iob-lib",
+      "diffMonths": 44,
+      "lastPublish": "2022-04-07T02:55:24.083Z"
+    },
+    {
+      "package": "@phenomic/bs-platform",
+      "diffMonths": 44,
+      "lastPublish": "2022-04-06T14:14:47.018Z"
+    },
+    {
+      "package": "@biut-block/biutjs-blockchain",
+      "diffMonths": 44,
+      "lastPublish": "2022-04-04T19:14:51.272Z"
+    },
+    {
+      "package": "@salaku/js-sdk",
+      "diffMonths": 44,
+      "lastPublish": "2022-04-06T21:22:36.526Z"
+    },
+    {
+      "package": "database-js-firebase",
+      "diffMonths": 44,
+      "lastPublish": "2022-04-28T05:04:29.787Z"
+    },
+    {
+      "package": "@spacebox/util",
+      "diffMonths": 44,
+      "lastPublish": "2022-04-07T01:22:14.521Z"
+    },
+    {
+      "package": "@acq/enum-ret",
+      "diffMonths": 44,
+      "lastPublish": "2022-04-04T11:16:05.084Z"
+    },
+    {
+      "package": "@codate/commons",
+      "diffMonths": 44,
+      "lastPublish": "2022-04-04T23:56:39.665Z"
+    }
+  ]
+}

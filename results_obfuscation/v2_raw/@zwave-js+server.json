@@ -1,0 +1,470 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@zwave-js+server/package",
+  "fileCount": 116,
+  "results": [
+    {
+      "file": "dist-cjs/bin/client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/bin/server.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/broadcast_node/command.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/broadcast_node/incoming_message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/broadcast_node/message_handler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/broadcast_node/outgoing_message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/command.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/config_manager/command.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/config_manager/incoming_message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/config_manager/message_handler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/config_manager/outgoing_message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/const.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/controller/command.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/controller/incoming_message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/controller/message_handler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/controller/outgoing_message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/driver/command.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/driver/incoming_message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/driver/message_handler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/driver/outgoing_message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/endpoint/command.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/endpoint/incoming_message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/endpoint/message_handler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/endpoint/outgoing_message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/forward.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/inclusion_user_callbacks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/incoming_message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/incoming_message_base.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/instance.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/logging.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/message_handler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/multicast_group/command.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/multicast_group/incoming_message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/multicast_group/message_handler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/multicast_group/outgoing_message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/node/command.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/node/incoming_message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/node/message_handler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/node/outgoing_message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/outgoing_message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/server.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/state.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/utils/command.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/utils/incoming_message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/utils/message_handler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/utils/outgoing_message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/zniffer/command.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/zniffer/incoming_message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/zniffer/message_handler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/lib/zniffer/outgoing_message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/mock/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/test/integration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/util/logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/util/parse-args.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-cjs/util/stringify.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/bin/client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/bin/server.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/broadcast_node/command.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/broadcast_node/incoming_message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/broadcast_node/message_handler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/broadcast_node/outgoing_message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/command.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/config_manager/command.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/config_manager/incoming_message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/config_manager/message_handler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/config_manager/outgoing_message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/const.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/controller/command.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/controller/incoming_message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/controller/message_handler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/controller/outgoing_message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/driver/command.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/driver/incoming_message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/driver/message_handler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/driver/outgoing_message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/endpoint/command.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/endpoint/incoming_message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/endpoint/message_handler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/endpoint/outgoing_message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/forward.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/inclusion_user_callbacks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/incoming_message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/incoming_message_base.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/instance.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/logging.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/message_handler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/multicast_group/command.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/multicast_group/incoming_message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/multicast_group/message_handler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/multicast_group/outgoing_message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/node/command.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/node/incoming_message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/node/message_handler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/node/outgoing_message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/outgoing_message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/server.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/state.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/utils/command.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/utils/incoming_message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/utils/message_handler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/utils/outgoing_message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/zniffer/command.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/zniffer/incoming_message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/zniffer/message_handler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/lib/zniffer/outgoing_message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/mock/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/test/integration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/util/logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/util/parse-args.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dist-esm/util/stringify.js",
+      "obfuscated": false
+    }
+  ]
+}

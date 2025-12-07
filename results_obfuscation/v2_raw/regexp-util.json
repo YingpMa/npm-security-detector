@@ -1,0 +1,26 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/regexp-util/package",
+  "fileCount": 5,
+  "results": [
+    {
+      "file": "lib/base.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/charset.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/or.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util.js",
+      "obfuscated": false
+    }
+  ]
+}

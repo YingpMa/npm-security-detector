@@ -1,0 +1,138 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/treport/package",
+  "fileCount": 33,
+  "results": [
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cardinal-theme.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/color.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/pretty-diff.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/pretty-source.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/reports/base/assert-counts.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/reports/base/assert-name.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/reports/base/counts.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/reports/base/footer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/reports/base/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/reports/base/log.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/reports/base/pass-fail.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/reports/base/result.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/reports/base/runs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/reports/base/status-mark.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/reports/base/suite-counts.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/reports/base/summary.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/reports/base/test-point.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/reports/base/test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/reports/specy/assert-name.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/reports/specy/footer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/reports/specy/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/reports/specy/log.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/reports/specy/summary.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/reports/specy/test-point.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/reports/terse/footer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/reports/terse/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/reports/terse/log.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/reports/terse/summary.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/reset.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/string-length.js",
+      "obfuscated": false
+    },
+    {
+      "file": "types.js",
+      "obfuscated": false
+    }
+  ]
+}

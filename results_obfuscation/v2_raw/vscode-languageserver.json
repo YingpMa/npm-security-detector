@@ -1,0 +1,110 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/vscode-languageserver/package",
+  "fileCount": 26,
+  "results": [
+    {
+      "file": "lib/browser/main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common/api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common/callHierarchy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common/configuration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common/diagnostic.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common/fileOperations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common/foldingRange.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common/inlayHint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common/inlineCompletion.proposed.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common/inlineValue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common/linkedEditingRange.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common/moniker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common/notebook.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common/progress.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common/semanticTokens.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common/server.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common/showDocument.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common/textDocumentContent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common/textDocuments.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common/typeHierarchy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common/utils/is.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common/utils/uuid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common/workspaceFolder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/node/files.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/node/main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/node/resolve.js",
+      "obfuscated": false
+    }
+  ]
+}

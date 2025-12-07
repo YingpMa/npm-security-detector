@@ -1,0 +1,26 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/mint-common/package",
+  "fileCount": 5,
+  "results": [
+    {
+      "file": "common-functions/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "database-service/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "http-service/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "s3-service/index.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/grunt-jasmine-node/package",
+  "fileCount": 3,
+  "results": [
+    {
+      "file": "Gruntfile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "spec/test_spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tasks/jasmine-node-task.js",
+      "obfuscated": false
+    }
+  ]
+}

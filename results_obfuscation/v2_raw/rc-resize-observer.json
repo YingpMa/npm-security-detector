@@ -1,0 +1,46 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/rc-resize-observer/package",
+  "fileCount": 10,
+  "results": [
+    {
+      "file": "es/Collection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/SingleObserver/DomWrapper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/SingleObserver/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/utils/observerUtil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Collection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/SingleObserver/DomWrapper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/SingleObserver/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/observerUtil.js",
+      "obfuscated": false
+    }
+  ]
+}

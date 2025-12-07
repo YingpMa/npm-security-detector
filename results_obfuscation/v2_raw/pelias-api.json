@@ -1,0 +1,806 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/pelias-api/package",
+  "fileCount": 200,
+  "results": [
+    {
+      "file": "app.js",
+      "obfuscated": false
+    },
+    {
+      "file": "controller/coarse_reverse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "controller/libpostal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "controller/markdownToHtml.js",
+      "obfuscated": false
+    },
+    {
+      "file": "controller/place.js",
+      "obfuscated": false
+    },
+    {
+      "file": "controller/placeholder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "controller/predicates/hasParsedTextProperties.js",
+      "obfuscated": false
+    },
+    {
+      "file": "controller/predicates/hasRequestErrors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "controller/predicates/hasRequestParameter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "controller/predicates/hasResponseData.js",
+      "obfuscated": false
+    },
+    {
+      "file": "controller/predicates/hasResultsAtLayers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "controller/predicates/isAdminOnlyAnalysis.js",
+      "obfuscated": false
+    },
+    {
+      "file": "controller/predicates/isCoarseReverse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "controller/predicates/isOnlyNonAdminLayers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "controller/predicates/isPeliasParse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "controller/predicates/isRequestLayersAnyAddressRelated.js",
+      "obfuscated": false
+    },
+    {
+      "file": "controller/predicates/isRequestSourcesIncludesWhosOnFirst.js",
+      "obfuscated": false
+    },
+    {
+      "file": "controller/predicates/isRequestSourcesOnlyWhosOnFirst.js",
+      "obfuscated": false
+    },
+    {
+      "file": "controller/predicates/isRequestSourcesUndefined.js",
+      "obfuscated": false
+    },
+    {
+      "file": "controller/search.js",
+      "obfuscated": false
+    },
+    {
+      "file": "controller/status.js",
+      "obfuscated": false
+    },
+    {
+      "file": "controller/structured_libpostal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "helper/TypeMapping.js",
+      "obfuscated": false
+    },
+    {
+      "file": "helper/debug.js",
+      "obfuscated": false
+    },
+    {
+      "file": "helper/decode_gid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "helper/diffPlaces.js",
+      "obfuscated": false
+    },
+    {
+      "file": "helper/fieldValue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "helper/geojsonify.js",
+      "obfuscated": false
+    },
+    {
+      "file": "helper/geojsonify_place_details.js",
+      "obfuscated": false
+    },
+    {
+      "file": "helper/iso3166.js",
+      "obfuscated": false
+    },
+    {
+      "file": "helper/logging.js",
+      "obfuscated": false
+    },
+    {
+      "file": "helper/placeTypes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "helper/stackTraceLine.js",
+      "obfuscated": false
+    },
+    {
+      "file": "helper/type_mapping.js",
+      "obfuscated": false
+    },
+    {
+      "file": "helper/type_mapping_discovery.js",
+      "obfuscated": false
+    },
+    {
+      "file": "helper/unicode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "middleware/404.js",
+      "obfuscated": false
+    },
+    {
+      "file": "middleware/500.js",
+      "obfuscated": false
+    },
+    {
+      "file": "middleware/access_log.js",
+      "obfuscated": false
+    },
+    {
+      "file": "middleware/accuracy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "middleware/applyOverrides.js",
+      "obfuscated": false
+    },
+    {
+      "file": "middleware/assignLabels.js",
+      "obfuscated": false
+    },
+    {
+      "file": "middleware/changeLanguage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "middleware/confidenceScore.js",
+      "obfuscated": false
+    },
+    {
+      "file": "middleware/confidenceScoreFallback.js",
+      "obfuscated": false
+    },
+    {
+      "file": "middleware/confidenceScoreReverse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "middleware/cors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "middleware/dedupe.js",
+      "obfuscated": false
+    },
+    {
+      "file": "middleware/distance.js",
+      "obfuscated": false
+    },
+    {
+      "file": "middleware/expandDocument.js",
+      "obfuscated": false
+    },
+    {
+      "file": "middleware/geocodeJSON.js",
+      "obfuscated": false
+    },
+    {
+      "file": "middleware/headers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "middleware/interpolate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "middleware/jsonp.js",
+      "obfuscated": false
+    },
+    {
+      "file": "middleware/localNamingConventions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "middleware/mapFields.js",
+      "obfuscated": false
+    },
+    {
+      "file": "middleware/normalizeParentIds.js",
+      "obfuscated": false
+    },
+    {
+      "file": "middleware/options.js",
+      "obfuscated": false
+    },
+    {
+      "file": "middleware/parseBBox.js",
+      "obfuscated": false
+    },
+    {
+      "file": "middleware/requestLanguage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "middleware/robots.js",
+      "obfuscated": false
+    },
+    {
+      "file": "middleware/sendJSON.js",
+      "obfuscated": false
+    },
+    {
+      "file": "middleware/sizeCalculator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "middleware/sortResponseData.js",
+      "obfuscated": false
+    },
+    {
+      "file": "middleware/trimByGranularity.js",
+      "obfuscated": false
+    },
+    {
+      "file": "middleware/trimByGranularityStructured.js",
+      "obfuscated": false
+    },
+    {
+      "file": "query/address_search_using_ids.js",
+      "obfuscated": false
+    },
+    {
+      "file": "query/autocomplete.js",
+      "obfuscated": false
+    },
+    {
+      "file": "query/autocomplete_defaults.js",
+      "obfuscated": false
+    },
+    {
+      "file": "query/reverse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "query/reverse_defaults.js",
+      "obfuscated": false
+    },
+    {
+      "file": "query/search.js",
+      "obfuscated": false
+    },
+    {
+      "file": "query/search_defaults.js",
+      "obfuscated": false
+    },
+    {
+      "file": "query/search_pelias_parser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "query/structured_geocoding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "query/text_parser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "query/text_parser_pelias.js",
+      "obfuscated": false
+    },
+    {
+      "file": "query/view/admin_multi_match_first.js",
+      "obfuscated": false
+    },
+    {
+      "file": "query/view/admin_multi_match_last.js",
+      "obfuscated": false
+    },
+    {
+      "file": "query/view/boost_sources_and_layers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "query/view/focus_point_distance_filter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "query/view/helper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "query/view/max_character_count_layer_filter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "query/view/ngrams_last_token_only.js",
+      "obfuscated": false
+    },
+    {
+      "file": "query/view/ngrams_last_token_only_multi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "query/view/ngrams_strict.js",
+      "obfuscated": false
+    },
+    {
+      "file": "query/view/phrase_first_tokens_only.js",
+      "obfuscated": false
+    },
+    {
+      "file": "routes/default.js",
+      "obfuscated": false
+    },
+    {
+      "file": "routes/v1.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sanitizer/PeliasParameterError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sanitizer/PeliasServiceError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sanitizer/PeliasTimeoutError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sanitizer/_address_layer_filter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sanitizer/_boundary_country.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sanitizer/_boundary_gid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sanitizer/_categories.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sanitizer/_city_name_standardizer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sanitizer/_debug.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sanitizer/_default_parameters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sanitizer/_flag_bool.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sanitizer/_geo_autocomplete.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sanitizer/_geo_common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sanitizer/_geo_reverse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sanitizer/_geo_search.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sanitizer/_geonames_deprecation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sanitizer/_geonames_warnings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sanitizer/_groups.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sanitizer/_ids.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sanitizer/_iso2_to_iso3.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sanitizer/_request_language.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sanitizer/_single_scalar_parameters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sanitizer/_size.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sanitizer/_sources_and_layers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sanitizer/_synthesize_analysis.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sanitizer/_targets.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sanitizer/_text.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sanitizer/_text_pelias_parser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sanitizer/_tokenizer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sanitizer/autocomplete.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sanitizer/defer_to_pelias_parser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sanitizer/nearby.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sanitizer/place.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sanitizer/reverse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sanitizer/sanitizeAll.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sanitizer/search.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sanitizer/structured_geocoding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "sanitizer/wrap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "schema.js",
+      "obfuscated": false
+    },
+    {
+      "file": "service/configurations/Interpolation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "service/configurations/Language.js",
+      "obfuscated": false
+    },
+    {
+      "file": "service/configurations/Libpostal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "service/configurations/PlaceHolder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "service/configurations/PointInPolygon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "service/mget.js",
+      "obfuscated": false
+    },
+    {
+      "file": "service/search.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/ciao_test_data.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/app.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/controller/coarse_reverse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/controller/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/controller/libpostal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/controller/place.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/controller/placeholder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/controller/predicates/hasParsedTextProperties.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/controller/predicates/hasRequestErrors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/controller/predicates/hasRequestParameter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/controller/predicates/hasResponseData.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/controller/predicates/hasResultsAtLayers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/controller/predicates/isAdminOnlyAnalysis.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/controller/predicates/isCoarseReverse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/controller/predicates/isOnlyNonAdminLayers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/controller/predicates/isPeliasParse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/controller/predicates/isRequestLayersAnyAddressRelated.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/controller/predicates/isRequestSourcesIncludesWhosOnFirst.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/controller/predicates/isRequestSourcesOnlyWhosOnFirst.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/controller/predicates/isRequestSourcesUndefined.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/controller/search.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/controller/structured_libpostal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/autocomplete_boundary_country.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/autocomplete_boundary_gid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/autocomplete_linguistic_bbox_san_francisco.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/autocomplete_linguistic_circle_san_francisco.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/autocomplete_linguistic_final_token.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/autocomplete_linguistic_focus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/autocomplete_linguistic_focus_null_island.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/autocomplete_linguistic_multiple_tokens.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/autocomplete_linguistic_multiple_tokens_complete_numeric.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/autocomplete_linguistic_one_char_token.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/autocomplete_linguistic_only.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/autocomplete_linguistic_three_char_token.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/autocomplete_linguistic_two_char_token.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/autocomplete_linguistic_with_admin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/autocomplete_single_character_street.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/autocomplete_with_category_filtering.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/autocomplete_with_layer_filtering.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/autocomplete_with_source_filtering.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/dedupe_elasticsearch_custom_layer_results.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/dedupe_elasticsearch_nonascii_results.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/dedupe_elasticsearch_results.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/dedupe_only_postalcode_differs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/search_boundary_country.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/search_boundary_country_multi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/search_boundary_gid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/search_fallback.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/search_fallback_postalcode_only.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/search_linguistic_bbox.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/search_linguistic_focus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/search_linguistic_focus_bbox.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/search_linguistic_focus_null_island.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/search_linguistic_only.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/search_pelias_parser_boundary_country.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/search_pelias_parser_boundary_gid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/search_pelias_parser_full_address.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/search_pelias_parser_linguistic_bbox.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/search_pelias_parser_linguistic_focus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/search_pelias_parser_linguistic_focus_bbox.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/search_pelias_parser_linguistic_focus_null_island.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/search_pelias_parser_linguistic_only.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/search_pelias_parser_partial_address.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/unit/fixture/search_pelias_parser_regions_address.js",
+      "obfuscated": false
+    }
+  ]
+}

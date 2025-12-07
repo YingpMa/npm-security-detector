@@ -1,0 +1,9 @@
+{
+  "name": "synthetic-malicious",
+  "version": "1.0.0",
+  "description": "Synthetic malicious NPM package constructed for static supply-chain security analysis.",
+  "main": "index.js",
+  "dependencies": {
+    "synthetic-obf-lib": "1.0.0"
+  }
+}

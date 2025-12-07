@@ -1,0 +1,50 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@fink+std-lib/package",
+  "fileCount": 11,
+  "results": [
+    {
+      "file": "async.js",
+      "obfuscated": false
+    },
+    {
+      "file": "error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "fn.js",
+      "obfuscated": false
+    },
+    {
+      "file": "iter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "json.js",
+      "obfuscated": false
+    },
+    {
+      "file": "math.js",
+      "obfuscated": false
+    },
+    {
+      "file": "num.js",
+      "obfuscated": false
+    },
+    {
+      "file": "rec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "regex.js",
+      "obfuscated": false
+    },
+    {
+      "file": "stack-trace.js",
+      "obfuscated": false
+    },
+    {
+      "file": "str.js",
+      "obfuscated": false
+    }
+  ]
+}

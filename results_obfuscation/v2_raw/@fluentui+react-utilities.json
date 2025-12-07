@@ -1,0 +1,494 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@fluentui+react-utilities/package",
+  "fileCount": 122,
+  "results": [
+    {
+      "file": "lib/compose/assertSlots.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/compose/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/compose/deprecated/getSlots.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/compose/deprecated/getSlotsNext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/compose/deprecated/resolveShorthand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/compose/getIntrinsicElementProps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/compose/getSlotClassNameProp.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/compose/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/compose/isResolvedShorthand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/compose/isSlot.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/compose/slot.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/compose/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/events/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/events/mouseTouchHelpers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useAnimationFrame.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useBrowserTimer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useControllableState.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useEventCallback.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useFirstMount.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useForceUpdate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useIsomorphicLayoutEffect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useMergedRefs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useOnClickOutside.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useOnScrollOutside.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/usePrevious.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useScrollbarWidth.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useTimeout.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/selection/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/selection/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/selection/useSelection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ssr/SSRContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ssr/canUseDOM.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ssr/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/trigger/applyTriggerPropsToChildren.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/trigger/getTriggerChild.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/trigger/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/trigger/isFluentTrigger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/trigger/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/clamp.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/createSetFromIterable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/generated-types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/getNativeElementProps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/getRTLSafeKey.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/getReactCallbackName.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/isHTMLElement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/isInteractiveHTMLElement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/mergeCallbacks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/omit.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/priorityQueue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/properties.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/virtualParent/elementContains.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/virtualParent/getParent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/virtualParent/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/virtualParent/isVirtualElement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/virtualParent/setVirtualParent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/virtualParent/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/compose/assertSlots.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/compose/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/compose/deprecated/getSlots.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/compose/deprecated/getSlotsNext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/compose/deprecated/resolveShorthand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/compose/getIntrinsicElementProps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/compose/getSlotClassNameProp.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/compose/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/compose/isResolvedShorthand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/compose/isSlot.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/compose/slot.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/compose/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/events/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/events/mouseTouchHelpers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/hooks/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/hooks/useAnimationFrame.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/hooks/useBrowserTimer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/hooks/useControllableState.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/hooks/useEventCallback.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/hooks/useFirstMount.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/hooks/useForceUpdate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/hooks/useId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/hooks/useIsomorphicLayoutEffect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/hooks/useMergedRefs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/hooks/useOnClickOutside.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/hooks/useOnScrollOutside.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/hooks/usePrevious.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/hooks/useScrollbarWidth.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/hooks/useTimeout.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/selection/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/selection/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/selection/useSelection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/ssr/SSRContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/ssr/canUseDOM.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/ssr/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/trigger/applyTriggerPropsToChildren.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/trigger/getTriggerChild.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/trigger/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/trigger/isFluentTrigger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/trigger/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/utils/clamp.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/utils/createSetFromIterable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/utils/generated-types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/utils/getNativeElementProps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/utils/getRTLSafeKey.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/utils/getReactCallbackName.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/utils/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/utils/isHTMLElement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/utils/isInteractiveHTMLElement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/utils/mergeCallbacks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/utils/omit.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/utils/priorityQueue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/utils/properties.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/utils/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/virtualParent/elementContains.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/virtualParent/getParent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/virtualParent/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/virtualParent/isVirtualElement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/virtualParent/setVirtualParent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/virtualParent/types.js",
+      "obfuscated": false
+    }
+  ]
+}

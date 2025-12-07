@@ -1,0 +1,7002 @@
+[
+  {
+    "package": "@react-spring/three",
+    "lastPublish": "2025-09-18T14:39:45.739Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@floating-ui/react-native",
+    "lastPublish": "2024-11-09T03:05:24.428Z",
+    "diffMonths": 13,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@wandelbots/nova-api",
+    "lastPublish": "2025-12-03T08:03:16.587Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "node-http",
+    "lastPublish": "2022-06-21T15:35:30.439Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@medplum/core",
+    "lastPublish": "2025-11-30T02:28:42.288Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@antv/dom-util",
+    "lastPublish": "2025-10-20T06:28:21.746Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "image-client-api",
+    "lastPublish": "2025-11-02T11:31:29.827Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "vaul",
+    "lastPublish": "2024-12-14T00:56:01.059Z",
+    "diffMonths": 12,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "kbone-api",
+    "lastPublish": "2022-05-07T05:01:08.818Z",
+    "diffMonths": 43,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "jsedn",
+    "lastPublish": "2022-06-19T05:59:47.383Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "kalix-vue-lib-qiao",
+    "lastPublish": "2022-05-07T03:25:27.591Z",
+    "diffMonths": 43,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@buffetjs/core",
+    "lastPublish": "2022-06-24T12:27:59.516Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-google-charts",
+    "lastPublish": "2024-10-26T15:48:02.818Z",
+    "diffMonths": 14,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@nlpjs/lang-pt",
+    "lastPublish": "2025-01-23T09:16:42.067Z",
+    "diffMonths": 11,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@fishertsau/moonlight",
+    "lastPublish": "2025-10-24T16:46:33.764Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@datadog/browser-rum-core",
+    "lastPublish": "2025-11-19T17:32:03.006Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "vite-plugin-webfont-dl",
+    "lastPublish": "2025-07-18T15:15:42.283Z",
+    "diffMonths": 5,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "indx",
+    "lastPublish": "2022-06-19T01:07:40.060Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@hkube/stats",
+    "lastPublish": "2022-04-05T17:58:28.153Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "connected-react-router",
+    "lastPublish": "2022-07-11T03:27:58.375Z",
+    "diffMonths": 41,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "rc-dropdown",
+    "lastPublish": "2024-12-11T07:28:24.100Z",
+    "diffMonths": 12,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "node-fetch-retry",
+    "lastPublish": "2022-09-10T21:06:41.483Z",
+    "diffMonths": 39,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@nsnanocat/util",
+    "lastPublish": "2025-01-11T05:17:40.965Z",
+    "diffMonths": 11,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@mfs-carl/util",
+    "lastPublish": "2022-06-12T21:23:24.169Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "hast-util-heading-rank",
+    "lastPublish": "2023-08-02T13:17:52.008Z",
+    "diffMonths": 28,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@bitgo/utxo-ord",
+    "lastPublish": "2025-11-26T03:12:12.395Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@ctx-core/nav-ui-svelte",
+    "lastPublish": "2024-09-01T17:08:44.661Z",
+    "diffMonths": 15,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@ejada/ejada-eversa-util",
+    "lastPublish": "2022-08-09T13:03:40.150Z",
+    "diffMonths": 40,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@odata2ts/converter-api",
+    "lastPublish": "2025-02-08T19:29:39.108Z",
+    "diffMonths": 10,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@serialport/parser-delimiter",
+    "lastPublish": "2024-12-24T20:49:35.660Z",
+    "diffMonths": 12,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@episodehunter/utils",
+    "lastPublish": "2022-04-05T08:02:25.042Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@foliojs-fork/fontkit",
+    "lastPublish": "2024-03-07T14:25:24.773Z",
+    "diffMonths": 21,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "istanbul-lib-hook",
+    "lastPublish": "2022-06-19T03:08:38.451Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@subsquid/util-internal-commander",
+    "lastPublish": "2024-04-17T12:50:17.057Z",
+    "diffMonths": 20,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@fluentui/react-jsx-runtime",
+    "lastPublish": "2025-12-03T04:21:46.367Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@vue/cli-plugin-router",
+    "lastPublish": "2025-08-21T10:57:04.356Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-daum-postcode",
+    "lastPublish": "2024-12-17T11:15:53.305Z",
+    "diffMonths": 12,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "semantic-release-replace-plugin",
+    "lastPublish": "2023-07-20T08:07:48.572Z",
+    "diffMonths": 29,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@michalrakus/x-react-web-lib",
+    "lastPublish": "2025-11-05T15:35:57.959Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@apollo/react-hoc",
+    "lastPublish": "2025-11-05T14:28:49.090Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "union-class-names",
+    "lastPublish": "2022-06-28T04:37:29.151Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-konva",
+    "lastPublish": "2025-11-26T16:26:56.569Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "input-otp",
+    "lastPublish": "2025-01-06T11:48:28.956Z",
+    "diffMonths": 11,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@oxc-minify/binding-win32-arm64-msvc",
+    "lastPublish": "2025-12-02T09:25:29.244Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-use-intercom",
+    "lastPublish": "2025-07-10T20:49:18.517Z",
+    "diffMonths": 5,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "sysop-util",
+    "lastPublish": "2022-06-27T03:18:21.543Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "search-insights",
+    "lastPublish": "2024-11-18T02:06:21.890Z",
+    "diffMonths": 13,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@brandandcelebrities/lib",
+    "lastPublish": "2022-04-04T20:22:06.689Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "grunt-rename-util",
+    "lastPublish": "2022-06-18T15:49:29.351Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-native-element-dropdown",
+    "lastPublish": "2025-01-11T03:16:34.536Z",
+    "diffMonths": 11,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@appium/typedoc-plugin-appium",
+    "lastPublish": "2023-11-15T18:52:27.559Z",
+    "diffMonths": 25,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@spare/util",
+    "lastPublish": "2025-03-14T02:40:38.026Z",
+    "diffMonths": 9,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@react-aria/label",
+    "lastPublish": "2025-11-24T09:08:30.769Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@types/react-autosuggest",
+    "lastPublish": "2025-08-03T07:34:15.826Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@react-input/core",
+    "lastPublish": "2024-12-05T03:04:13.446Z",
+    "diffMonths": 12,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "aws-serverless-express",
+    "lastPublish": "2022-06-13T03:55:24.913Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "p14-dropdown-lib-alternance",
+    "lastPublish": "2024-01-08T16:25:23.511Z",
+    "diffMonths": 23,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@bhsd/stylelint-util",
+    "lastPublish": "2025-08-09T06:06:13.770Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-geolocated",
+    "lastPublish": "2025-10-23T13:34:03.196Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@fullhuman/postcss-purgecss",
+    "lastPublish": "2024-11-21T16:02:22.804Z",
+    "diffMonths": 13,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@textwd/api",
+    "lastPublish": "2023-07-25T10:52:16.652Z",
+    "diffMonths": 29,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@paystack/checkout-js",
+    "lastPublish": "2025-11-19T15:45:57.157Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "node-calls-python",
+    "lastPublish": "2024-12-02T00:33:11.913Z",
+    "diffMonths": 12,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "changelog-parser",
+    "lastPublish": "2022-12-24T00:41:52.407Z",
+    "diffMonths": 36,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@fairmint/canton-node-sdk",
+    "lastPublish": "2025-11-20T22:45:51.978Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "testcafe-reporter-json",
+    "lastPublish": "2025-10-09T13:28:30.223Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@types/node-persist",
+    "lastPublish": "2025-08-03T07:22:42.528Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@types/facebook-js-sdk",
+    "lastPublish": "2025-08-03T06:43:13.938Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@hmcts/rpx-xui-common-lib",
+    "lastPublish": "2025-12-01T15:15:57.479Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@rdfjs/term-set",
+    "lastPublish": "2024-06-02T15:04:28.289Z",
+    "diffMonths": 18,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "js-nacl",
+    "lastPublish": "2022-06-19T05:39:15.768Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "unist-util-parents",
+    "lastPublish": "2023-07-07T10:43:51.497Z",
+    "diffMonths": 29,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-plaid-link",
+    "lastPublish": "2025-08-06T16:29:38.495Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@turnkey/api-key-stamper",
+    "lastPublish": "2025-10-21T18:21:52.537Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@ikas/api-client",
+    "lastPublish": "2025-11-26T11:18:01.924Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@datx/utils",
+    "lastPublish": "2025-09-17T07:25:43.914Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@solana/web3.js",
+    "lastPublish": "2025-07-31T19:13:58.114Z",
+    "diffMonths": 5,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@react-stately/disclosure",
+    "lastPublish": "2025-11-24T09:08:47.923Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@vscode/debugadapter",
+    "lastPublish": "2024-11-05T08:46:59.826Z",
+    "diffMonths": 13,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "fep-util",
+    "lastPublish": "2022-06-18T00:11:40.354Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-with-styles-interface-css",
+    "lastPublish": "2024-11-08T00:35:20.925Z",
+    "diffMonths": 13,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@amedia/user",
+    "lastPublish": "2025-11-04T11:20:58.524Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@splightplatform/splight-lib-ts",
+    "lastPublish": "2024-06-03T19:16:12.647Z",
+    "diffMonths": 18,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@kazura/node-util",
+    "lastPublish": "2025-12-01T08:16:37.433Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@smithy/md5-js",
+    "lastPublish": "2025-11-10T20:13:10.927Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@likec4/core",
+    "lastPublish": "2025-11-23T21:38:45.972Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@ctx-core/fontawesome-ui-svelte",
+    "lastPublish": "2024-09-01T17:07:54.461Z",
+    "diffMonths": 15,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@types/node-sass",
+    "lastPublish": "2025-08-03T07:22:57.178Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@hpcc-js/codemirror-shim",
+    "lastPublish": "2025-10-23T08:13:29.106Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@nkmjs/core",
+    "lastPublish": "2023-08-05T21:39:39.705Z",
+    "diffMonths": 28,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@types/istanbul-lib-coverage",
+    "lastPublish": "2025-08-03T07:02:02.636Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "tns-core-modules",
+    "lastPublish": "2025-09-15T18:12:01.059Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@moqada/simple-api-client",
+    "lastPublish": "2022-06-12T21:39:00.459Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@flatfile/api",
+    "lastPublish": "2025-11-21T21:10:41.024Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@emmetio/node",
+    "lastPublish": "2022-06-12T17:33:27.865Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "create-directus-project",
+    "lastPublish": "2025-11-04T20:21:45.662Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@oozcitak/util",
+    "lastPublish": "2025-11-26T14:20:41.117Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@anatine/zod-mock",
+    "lastPublish": "2025-04-04T15:42:44.861Z",
+    "diffMonths": 8,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "vuepress-plugin-container",
+    "lastPublish": "2022-05-23T22:07:34.422Z",
+    "diffMonths": 43,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "ansi-to-react",
+    "lastPublish": "2022-06-13T03:05:29.244Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@exodus/multi-account-redux",
+    "lastPublish": "2025-10-13T19:16:35.541Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@mdit/plugin-uml",
+    "lastPublish": "2025-12-01T09:08:52.017Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@placetopay/spartan-vue",
+    "lastPublish": "2025-09-15T21:50:03.903Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "npm-api",
+    "lastPublish": "2024-11-12T07:13:31.289Z",
+    "diffMonths": 13,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@prismicio/react",
+    "lastPublish": "2025-11-07T16:43:12.030Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@edde-js/edde-js",
+    "lastPublish": "2022-04-05T06:40:57.273Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@solana/kit",
+    "lastPublish": "2025-11-19T23:16:04.681Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "amdefine",
+    "lastPublish": "2022-06-13T02:44:14.627Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@terrestris/base-util",
+    "lastPublish": "2025-10-06T13:36:06.663Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@oxc-resolver/binding-wasm32-wasi",
+    "lastPublish": "2025-12-02T11:47:12.086Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@jshomee/js-learn",
+    "lastPublish": "2024-07-30T14:42:28.391Z",
+    "diffMonths": 17,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "magic-wand-js",
+    "lastPublish": "2022-06-19T15:20:14.536Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "hast-util-definition-list",
+    "lastPublish": "2024-03-18T01:29:43.536Z",
+    "diffMonths": 21,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@app-config/core",
+    "lastPublish": "2025-05-22T16:03:54.960Z",
+    "diffMonths": 7,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@types/api-error-handler",
+    "lastPublish": "2025-10-24T04:03:21.369Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@eturino/significant-diff-round",
+    "lastPublish": "2022-04-05T08:27:15.644Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@crello/react-lottie",
+    "lastPublish": "2022-04-05T01:47:10.452Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@storybook/react-native",
+    "lastPublish": "2025-11-27T12:51:16.689Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@aws-sdk/core",
+    "lastPublish": "2025-12-02T17:58:13.069Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "bitcoin-core",
+    "lastPublish": "2025-01-23T15:16:40.951Z",
+    "diffMonths": 11,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@react-aria/grid",
+    "lastPublish": "2025-11-24T09:10:10.407Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@braintrust/core",
+    "lastPublish": "2025-08-26T21:31:38.347Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@wyw-in-js/rollup",
+    "lastPublish": "2025-11-03T17:26:45.117Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@react-types/shared",
+    "lastPublish": "2025-11-24T09:08:17.568Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "rc-motion",
+    "lastPublish": "2024-12-19T11:11:02.636Z",
+    "diffMonths": 12,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@gritcode/inversifyjs-core",
+    "lastPublish": "2025-05-28T07:02:38.923Z",
+    "diffMonths": 7,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@rushstack/heft-lint-plugin",
+    "lastPublish": "2025-12-03T01:13:03.669Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "rollbar-sourcemap-webpack-plugin",
+    "lastPublish": "2022-06-26T13:55:51.278Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-google-recaptcha-v3",
+    "lastPublish": "2025-06-02T00:29:02.704Z",
+    "diffMonths": 6,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "cluster-key-slot",
+    "lastPublish": "2022-11-01T14:03:06.386Z",
+    "diffMonths": 37,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "node-red-node-serialport",
+    "lastPublish": "2024-08-06T13:45:26.438Z",
+    "diffMonths": 16,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@microsoft/eslint-plugin-sdl",
+    "lastPublish": "2025-02-18T11:02:59.959Z",
+    "diffMonths": 10,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@formatjs/intl-listformat",
+    "lastPublish": "2025-10-09T16:52:22.863Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@changey/react-leaflet-markercluster",
+    "lastPublish": "2022-06-20T21:48:21.649Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@emoji-mart/react",
+    "lastPublish": "2023-01-02T15:30:25.180Z",
+    "diffMonths": 35,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-popper-tooltip",
+    "lastPublish": "2022-06-27T11:04:13.830Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@easepick/base-plugin",
+    "lastPublish": "2023-02-22T18:20:37.701Z",
+    "diffMonths": 34,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "node-hubspot-api",
+    "lastPublish": "2022-06-21T15:38:10.536Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@itwin/object-storage-core",
+    "lastPublish": "2025-09-25T07:50:18.553Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@react-google-maps/api",
+    "lastPublish": "2025-06-18T16:45:20.460Z",
+    "diffMonths": 6,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@enonic-types/lib-io",
+    "lastPublish": "2025-12-01T11:19:58.766Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "exd-vcomponent-lib",
+    "lastPublish": "2023-03-02T10:26:39.821Z",
+    "diffMonths": 33,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-use-draggable-scroll",
+    "lastPublish": "2022-09-28T20:15:22.607Z",
+    "diffMonths": 39,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "node-js-marker-clusterer",
+    "lastPublish": "2022-06-21T16:05:10.934Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@types/node-unifi",
+    "lastPublish": "2025-08-03T07:23:14.218Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@widgetloom/countdown",
+    "lastPublish": "2024-09-28T06:05:48.441Z",
+    "diffMonths": 15,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@theia/plugin-ext-vscode",
+    "lastPublish": "2025-11-26T09:15:20.484Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@scalar/api-reference-react",
+    "lastPublish": "2025-11-19T21:29:38.246Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-inspector",
+    "lastPublish": "2025-09-04T10:13:52.909Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@react-native/codegen",
+    "lastPublish": "2025-12-03T04:01:46.092Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-stripe-js",
+    "lastPublish": "2023-03-13T19:55:36.014Z",
+    "diffMonths": 33,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@umijs/plugin-layout",
+    "lastPublish": "2025-09-10T06:49:05.110Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@substrate/txwrapper-dev",
+    "lastPublish": "2025-09-01T19:50:49.833Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@zwave-js/server",
+    "lastPublish": "2025-11-25T10:12:26.891Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@affinityproject/common-lib",
+    "lastPublish": "2022-04-16T17:58:20.918Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "isomorphic-fetch",
+    "lastPublish": "2023-10-23T23:47:36.189Z",
+    "diffMonths": 26,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@itly/plugin-iteratively-node",
+    "lastPublish": "2024-06-24T22:40:59.248Z",
+    "diffMonths": 18,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@twilio/flex-ui-core",
+    "lastPublish": "2025-09-10T11:20:22.905Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@unrs/resolver-binding-linux-arm-musleabihf",
+    "lastPublish": "2025-07-09T14:57:58.055Z",
+    "diffMonths": 5,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "core-types-graphql",
+    "lastPublish": "2023-03-19T09:04:25.505Z",
+    "diffMonths": 33,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@kiroboio/safe-transfer-crypto",
+    "lastPublish": "2024-12-19T10:16:54.918Z",
+    "diffMonths": 12,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@did-core/data-model",
+    "lastPublish": "2022-04-05T04:23:35.312Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@oneschema/importer",
+    "lastPublish": "2025-07-01T20:52:33.393Z",
+    "diffMonths": 5,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@redefined/name-resolver-js",
+    "lastPublish": "2023-11-13T16:38:43.760Z",
+    "diffMonths": 25,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@types/connect-history-api-fallback",
+    "lastPublish": "2025-08-03T06:33:12.009Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@wordpress/blocks",
+    "lastPublish": "2025-11-27T13:23:52.225Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@react-pdf/render",
+    "lastPublish": "2025-09-23T21:28:41.563Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@meshsdk/core-csl",
+    "lastPublish": "2025-11-13T10:26:12.894Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@std-uritemplate/std-uritemplate",
+    "lastPublish": "2025-10-16T15:51:51.783Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "mid-end-lib",
+    "lastPublish": "2024-05-16T03:19:24.336Z",
+    "diffMonths": 19,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "vite-plugin-stylex",
+    "lastPublish": "2024-11-06T19:00:48.239Z",
+    "diffMonths": 13,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@oxc-minify/binding-linux-arm64-gnu",
+    "lastPublish": "2025-12-02T09:25:32.801Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@syncfusion/ej2-ribbon",
+    "lastPublish": "2025-11-18T07:48:18.673Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@bristolinfotech/graphql-util",
+    "lastPublish": "2022-06-12T15:30:16.318Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@roots/bud-extensions",
+    "lastPublish": "2025-01-23T06:35:47.219Z",
+    "diffMonths": 11,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@tranzac/pricing-lib",
+    "lastPublish": "2025-08-18T11:57:50.640Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@jouwomgeving/util-redux",
+    "lastPublish": "2025-10-29T13:09:53.701Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@storybook/router",
+    "lastPublish": "2025-05-16T11:32:14.955Z",
+    "diffMonths": 7,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "astro-image",
+    "lastPublish": "2022-08-28T16:22:35.508Z",
+    "diffMonths": 40,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "ipushpull-js",
+    "lastPublish": "2022-05-06T03:51:15.401Z",
+    "diffMonths": 43,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "immutable-devtools",
+    "lastPublish": "2022-06-19T00:48:41.720Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@zhongnansu/http-aws-es",
+    "lastPublish": "2023-04-27T23:44:05.817Z",
+    "diffMonths": 32,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@types/react-linkify",
+    "lastPublish": "2025-08-03T07:36:18.562Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "util-zl-demo",
+    "lastPublish": "2023-01-13T04:25:49.489Z",
+    "diffMonths": 35,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "webpack-font-preload-plugin",
+    "lastPublish": "2022-08-01T14:01:29.122Z",
+    "diffMonths": 40,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "tg-core-api",
+    "lastPublish": "2024-08-29T11:18:19.771Z",
+    "diffMonths": 16,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@kiroboio/core",
+    "lastPublish": "2024-12-19T10:16:45.833Z",
+    "diffMonths": 12,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@aws-sdk/util-user-agent-browser",
+    "lastPublish": "2025-11-19T23:35:45.549Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@clipboard-health/eslint-plugin",
+    "lastPublish": "2025-12-03T03:53:46.384Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@aws-sdk/util-utf8-node",
+    "lastPublish": "2025-03-27T18:45:09.132Z",
+    "diffMonths": 9,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "draw2d",
+    "lastPublish": "2022-04-29T05:27:27.651Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@webassemblyjs/helper-api-error",
+    "lastPublish": "2024-11-06T21:53:36.145Z",
+    "diffMonths": 13,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@permify/permify-node",
+    "lastPublish": "2025-11-14T10:32:46.251Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "rollup-plugin-typescript-paths",
+    "lastPublish": "2023-12-22T10:52:15.874Z",
+    "diffMonths": 24,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "mdast-util-phrasing",
+    "lastPublish": "2024-02-01T10:26:42.475Z",
+    "diffMonths": 22,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@tooui/util",
+    "lastPublish": "2022-04-07T06:57:20.757Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "snyk-sbt-plugin",
+    "lastPublish": "2025-08-12T13:18:36.149Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "pm2-axon",
+    "lastPublish": "2022-06-24T04:46:22.858Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@react-native-kakao/core",
+    "lastPublish": "2025-11-11T12:59:48.326Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@semcore/core",
+    "lastPublish": "2025-10-29T14:07:05.144Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@intlify/eslint-plugin-vue-i18n",
+    "lastPublish": "2025-07-29T10:01:56.405Z",
+    "diffMonths": 5,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@tsconfig/node22",
+    "lastPublish": "2025-11-18T04:18:11.115Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "deasync",
+    "lastPublish": "2025-11-13T00:53:25.009Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@prosemirror-adapter/core",
+    "lastPublish": "2025-10-11T06:24:58.795Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "format-util",
+    "lastPublish": "2022-06-18T03:05:07.841Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-mde",
+    "lastPublish": "2022-06-26T02:00:21.016Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-responsive-modal",
+    "lastPublish": "2025-10-01T15:43:44.885Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "coach-core",
+    "lastPublish": "2025-08-04T19:34:49.447Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "retimer",
+    "lastPublish": "2023-08-11T07:59:45.239Z",
+    "diffMonths": 28,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@onflow/typedefs",
+    "lastPublish": "2025-11-10T21:10:01.255Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "nhentai-api",
+    "lastPublish": "2022-06-21T08:53:03.741Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@mdit/plugin-sup",
+    "lastPublish": "2025-12-01T09:08:45.050Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@vect/column-getter",
+    "lastPublish": "2022-05-13T03:50:54.333Z",
+    "diffMonths": 43,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "ts-api-utils",
+    "lastPublish": "2025-03-20T12:24:50.789Z",
+    "diffMonths": 9,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "create-react-class",
+    "lastPublish": "2023-08-24T18:09:50.054Z",
+    "diffMonths": 28,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@svgr/hast-util-to-babel-ast",
+    "lastPublish": "2023-05-09T07:03:17.024Z",
+    "diffMonths": 31,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@digitransit-search-util/digitransit-search-util-execute-search-immidiate",
+    "lastPublish": "2025-12-03T07:41:33.962Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@toastdotdev/lib-win32-x64-msvc",
+    "lastPublish": "2022-09-03T21:58:20.997Z",
+    "diffMonths": 39,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@plasmohq/edge-addons-api",
+    "lastPublish": "2025-01-07T00:04:06.827Z",
+    "diffMonths": 11,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "vscode-languageserver",
+    "lastPublish": "2025-11-13T15:33:49.790Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@item-enonic-types/lib-http-client",
+    "lastPublish": "2025-08-06T10:09:33.743Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "esast-util-from-estree",
+    "lastPublish": "2023-07-31T08:38:02.411Z",
+    "diffMonths": 29,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@openziti/ziti-console-lib",
+    "lastPublish": "2025-12-02T14:45:07.637Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@types/office-js-preview",
+    "lastPublish": "2025-12-01T20:35:20.994Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "youboralib",
+    "lastPublish": "2025-09-10T08:41:27.704Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "citation-js-utils",
+    "lastPublish": "2025-06-24T17:34:20.093Z",
+    "diffMonths": 6,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-sweet-progress",
+    "lastPublish": "2022-06-26T08:30:43.373Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "dhj-string",
+    "lastPublish": "2022-04-28T12:10:03.447Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@fluentui/react-positioning",
+    "lastPublish": "2025-12-03T04:21:41.025Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@ngx-resource/core",
+    "lastPublish": "2023-02-21T08:27:41.812Z",
+    "diffMonths": 34,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "postcss-simple-vars",
+    "lastPublish": "2022-11-10T18:58:42.230Z",
+    "diffMonths": 37,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "unist-util-modify-children",
+    "lastPublish": "2023-07-07T11:30:09.794Z",
+    "diffMonths": 29,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "kinesis-local",
+    "lastPublish": "2025-11-27T17:08:21.234Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@nx-js/compiler-util",
+    "lastPublish": "2022-06-12T22:10:51.754Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@nuka9510/simple-validation",
+    "lastPublish": "2025-11-12T00:40:53.589Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@whyframe/core",
+    "lastPublish": "2025-09-17T02:25:43.216Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@optionfactory/ful",
+    "lastPublish": "2025-11-10T10:01:03.830Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "nswag",
+    "lastPublish": "2025-11-20T19:29:51.700Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@regexp-cjk/regex-iterator",
+    "lastPublish": "2024-09-03T12:13:30.865Z",
+    "diffMonths": 15,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-confetti",
+    "lastPublish": "2025-03-04T00:22:29.574Z",
+    "diffMonths": 9,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "median-js-bridge",
+    "lastPublish": "2025-11-24T10:36:07.603Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "prisma-nested-middleware",
+    "lastPublish": "2024-01-13T14:40:13.912Z",
+    "diffMonths": 23,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@types/node-tlv",
+    "lastPublish": "2025-08-03T07:23:12.181Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@flexdash/node-red-fd-corewidgets",
+    "lastPublish": "2023-01-03T22:35:32.217Z",
+    "diffMonths": 35,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-truncate-markup",
+    "lastPublish": "2022-07-11T14:40:58.377Z",
+    "diffMonths": 41,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@beesley/bags-of-cache",
+    "lastPublish": "2023-07-11T16:50:21.813Z",
+    "diffMonths": 29,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@opencensus/resource-util",
+    "lastPublish": "2022-04-06T11:33:08.285Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "passkit-node-sdk",
+    "lastPublish": "2025-02-23T07:58:28.958Z",
+    "diffMonths": 10,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "jm-playsdk",
+    "lastPublish": "2022-06-19T04:35:04.034Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@atlaskit/ds-lib",
+    "lastPublish": "2025-11-21T08:58:35.678Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "http-parser-js",
+    "lastPublish": "2025-04-08T14:12:27.857Z",
+    "diffMonths": 8,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-native-redash",
+    "lastPublish": "2025-09-21T16:47:21.316Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@types/transducers-js",
+    "lastPublish": "2025-08-03T07:54:16.685Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "dom-helper",
+    "lastPublish": "2022-06-15T21:12:57.339Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@lissome/util",
+    "lastPublish": "2024-07-10T03:39:28.930Z",
+    "diffMonths": 17,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@adobe/aio-lib-test-proxy",
+    "lastPublish": "2025-06-16T12:44:29.163Z",
+    "diffMonths": 6,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "node-red-contrib-cron-plus",
+    "lastPublish": "2025-09-28T19:25:58.179Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@workadventure/iframe-api-typings",
+    "lastPublish": "2025-12-02T17:13:38.904Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "eslint-plugin-es",
+    "lastPublish": "2023-06-08T21:37:54.703Z",
+    "diffMonths": 30,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@mocks-server/admin-api-client",
+    "lastPublish": "2023-06-06T15:49:05.410Z",
+    "diffMonths": 30,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@payloadcms/plugin-stripe",
+    "lastPublish": "2025-12-03T03:35:22.166Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "sanity-plugin-icon-picker",
+    "lastPublish": "2025-03-19T15:28:48.392Z",
+    "diffMonths": 9,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@web-atoms/core",
+    "lastPublish": "2025-11-25T07:23:22.209Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@strathcole/iob-lib",
+    "lastPublish": "2022-04-07T02:55:24.083Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "tabbable",
+    "lastPublish": "2025-10-22T18:16:05.661Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "node-esapi",
+    "lastPublish": "2022-06-21T14:18:57.989Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "eslint-plugin-chakra-ui",
+    "lastPublish": "2025-01-15T07:39:09.197Z",
+    "diffMonths": 11,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@vect/vector-merge",
+    "lastPublish": "2022-05-13T03:50:47.758Z",
+    "diffMonths": 43,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@arrowsphere/api-client",
+    "lastPublish": "2025-11-26T16:17:56.545Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "is-date-object",
+    "lastPublish": "2024-12-13T00:04:08.342Z",
+    "diffMonths": 12,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@vaadin/hilla-frontend",
+    "lastPublish": "2025-11-28T10:03:25.757Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@relay-graphql-js/validation-rules",
+    "lastPublish": "2022-07-30T15:20:45.967Z",
+    "diffMonths": 41,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "fuzzy",
+    "lastPublish": "2022-06-18T04:29:06.895Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@atjson/util",
+    "lastPublish": "2025-08-27T16:33:31.866Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@react-native-community/cli-platform-ios",
+    "lastPublish": "2025-11-05T22:03:50.176Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "powerbi-client-react",
+    "lastPublish": "2025-01-27T20:46:13.906Z",
+    "diffMonths": 11,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@types/node-dijkstra",
+    "lastPublish": "2025-08-03T07:22:11.935Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "util-promisify",
+    "lastPublish": "2022-06-28T07:12:51.199Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@tacc/core-styles",
+    "lastPublish": "2025-12-01T16:36:55.526Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "imagemin-svgo",
+    "lastPublish": "2024-09-09T15:34:42.303Z",
+    "diffMonths": 15,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "tiktoken",
+    "lastPublish": "2025-08-09T01:00:32.134Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@phenomic/bs-platform",
+    "lastPublish": "2022-04-06T14:14:47.018Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "prettier-plugin-go-template",
+    "lastPublish": "2023-07-20T15:07:41.406Z",
+    "diffMonths": 29,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@google-cloud/tasks",
+    "lastPublish": "2025-10-13T22:20:45.889Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@biut-block/biutjs-blockchain",
+    "lastPublish": "2022-04-04T19:14:51.272Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@react-spring/native",
+    "lastPublish": "2025-09-18T14:39:45.745Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "denodeify",
+    "lastPublish": "2022-06-15T00:40:30.363Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@oxc-minify/binding-freebsd-x64",
+    "lastPublish": "2025-12-02T09:26:05.301Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@laravel/vite-plugin-wayfinder",
+    "lastPublish": "2025-09-22T15:53:33.924Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "bpmn-js-executable-fix",
+    "lastPublish": "2025-09-01T09:52:47.001Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@metamask/ethjs-util",
+    "lastPublish": "2025-11-27T20:11:34.552Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "uglify-js",
+    "lastPublish": "2025-11-26T01:49:29.316Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-timezone-select",
+    "lastPublish": "2024-09-03T14:36:57.598Z",
+    "diffMonths": 15,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@babel/plugin-transform-react-jsx",
+    "lastPublish": "2025-10-23T14:45:17.266Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@achingbrain/http-parser-js",
+    "lastPublish": "2025-04-09T16:33:10.959Z",
+    "diffMonths": 8,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-mentions",
+    "lastPublish": "2023-06-30T14:42:58.534Z",
+    "diffMonths": 30,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@pigment-css/react",
+    "lastPublish": "2025-01-14T09:27:04.467Z",
+    "diffMonths": 11,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-lottie",
+    "lastPublish": "2024-11-30T08:10:00.617Z",
+    "diffMonths": 13,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "node-upload-images",
+    "lastPublish": "2023-08-07T20:59:33.319Z",
+    "diffMonths": 28,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@salaku/js-sdk",
+    "lastPublish": "2022-04-06T21:22:36.526Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@coveo/headless",
+    "lastPublish": "2025-11-20T21:14:55.487Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-fetch-hook",
+    "lastPublish": "2022-05-14T10:43:07.117Z",
+    "diffMonths": 43,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-helmet",
+    "lastPublish": "2022-09-25T22:10:24.272Z",
+    "diffMonths": 39,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@bitovi/n8n-nodes-utils",
+    "lastPublish": "2025-08-06T19:01:52.153Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@app-masters/js-lib",
+    "lastPublish": "2023-07-06T16:26:30.661Z",
+    "diffMonths": 29,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@patternfly/react-icons",
+    "lastPublish": "2025-11-20T17:30:07.350Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@ngx-lib/multiselect",
+    "lastPublish": "2023-04-09T08:44:12.807Z",
+    "diffMonths": 32,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@mapbox/mapbox-sdk",
+    "lastPublish": "2025-09-12T09:24:04.534Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "yom-form-util",
+    "lastPublish": "2022-06-29T07:55:58.412Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "eslint-plugin-storybook",
+    "lastPublish": "2025-12-03T08:08:08.281Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "publiqjs-lib",
+    "lastPublish": "2022-06-24T23:28:46.426Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@longvansoftware/storefront-js-client",
+    "lastPublish": "2025-12-02T04:39:52.736Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react",
+    "lastPublish": "2025-12-02T16:21:32.041Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "remark-mdx",
+    "lastPublish": "2025-08-29T18:02:52.563Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "database-js-firebase",
+    "lastPublish": "2022-04-28T05:04:29.787Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@egova/egova-api",
+    "lastPublish": "2025-12-02T09:37:01.044Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "coffeeify",
+    "lastPublish": "2022-11-11T06:33:59.620Z",
+    "diffMonths": 37,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "sitemap-webpack-plugin",
+    "lastPublish": "2022-06-26T20:23:41.105Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "universal-github-app-jwt",
+    "lastPublish": "2025-03-17T22:35:31.851Z",
+    "diffMonths": 9,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@types/webassembly-web-api",
+    "lastPublish": "2025-08-03T07:59:02.223Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@backstage/plugin-api-docs",
+    "lastPublish": "2025-12-03T02:57:19.598Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@types/murmurhash-js",
+    "lastPublish": "2025-08-03T07:20:21.837Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@types/giphy-api",
+    "lastPublish": "2025-08-03T06:53:20.805Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@tscircuit/core",
+    "lastPublish": "2025-12-02T20:44:33.980Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@edsdk/n1ed-react",
+    "lastPublish": "2025-09-08T16:39:59.632Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@vect/clone",
+    "lastPublish": "2025-03-29T00:46:19.847Z",
+    "diffMonths": 9,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "gatsby-plugin-netlify",
+    "lastPublish": "2025-10-09T14:58:11.776Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@serverless-devs/core",
+    "lastPublish": "2025-04-22T02:39:02.730Z",
+    "diffMonths": 8,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "uniforms-react18-core",
+    "lastPublish": "2024-06-27T19:48:06.328Z",
+    "diffMonths": 18,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@spacebox/util",
+    "lastPublish": "2022-04-07T01:22:14.521Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "neverbounce",
+    "lastPublish": "2025-05-13T06:54:45.775Z",
+    "diffMonths": 7,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "eslint-plugin-babel",
+    "lastPublish": "2025-02-27T16:11:49.176Z",
+    "diffMonths": 10,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "webpack-uglify-js-plugin",
+    "lastPublish": "2022-06-29T00:12:19.210Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@opentelemetry/instrumentation-grpc",
+    "lastPublish": "2025-11-06T15:57:25.237Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@cybrid/cybrid-api-bank-typescript",
+    "lastPublish": "2025-12-02T17:18:21.896Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "vite-plugin-externals",
+    "lastPublish": "2023-03-04T04:57:57.366Z",
+    "diffMonths": 33,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@plasmohq/parcel-core",
+    "lastPublish": "2025-05-18T09:59:01.199Z",
+    "diffMonths": 7,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@acq/enum-ret",
+    "lastPublish": "2022-04-04T11:16:05.084Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@segment/actions-core",
+    "lastPublish": "2025-11-29T15:22:01.622Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@sberdevices/plasma-core",
+    "lastPublish": "2023-01-13T10:34:08.395Z",
+    "diffMonths": 35,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "facebook-nodejs-business-sdk",
+    "lastPublish": "2025-11-21T07:53:28.504Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@lottiefiles/react-lottie-player",
+    "lastPublish": "2025-01-14T10:30:37.222Z",
+    "diffMonths": 11,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@bugsnag/plugin-browser-session",
+    "lastPublish": "2025-09-25T09:23:43.399Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "request-promise-core",
+    "lastPublish": "2022-06-26T11:32:33.752Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@operations1/pdf-lib-linux-x64-gnu",
+    "lastPublish": "2025-05-15T12:41:41.750Z",
+    "diffMonths": 7,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "offline-plugin",
+    "lastPublish": "2022-06-22T19:35:23.702Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "node-yaml",
+    "lastPublish": "2022-06-21T23:46:23.686Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-instantsearch-nextjs",
+    "lastPublish": "2025-11-18T15:27:44.449Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "trepur_components",
+    "lastPublish": "2025-09-04T10:49:10.771Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@objectif-lune/core",
+    "lastPublish": "2025-11-19T12:15:54.952Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "declare.js",
+    "lastPublish": "2022-06-14T22:31:12.226Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "dropbox-v2-api",
+    "lastPublish": "2025-09-09T06:41:02.823Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "swc_mut_cjs_exports",
+    "lastPublish": "2025-04-04T03:33:32.192Z",
+    "diffMonths": 8,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@bazel/ibazel",
+    "lastPublish": "2025-10-09T06:16:56.104Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "systemjs-plugin-json",
+    "lastPublish": "2022-06-27T03:21:05.585Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-simple-wysiwyg",
+    "lastPublish": "2025-09-09T13:19:36.014Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@umijs/plugin-crossorigin",
+    "lastPublish": "2025-09-10T06:48:55.133Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@rushstack/rush-sdk",
+    "lastPublish": "2025-11-25T17:05:36.935Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@serenity-js/assertions",
+    "lastPublish": "2025-12-02T18:17:22.783Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@codate/commons",
+    "lastPublish": "2022-04-04T23:56:39.665Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@types/node-targz",
+    "lastPublish": "2025-08-03T07:23:09.274Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@nlpjs/lang-zh",
+    "lastPublish": "2025-01-23T09:16:44.994Z",
+    "diffMonths": 11,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "victory",
+    "lastPublish": "2025-12-02T17:28:45.977Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "statsig-node-vercel",
+    "lastPublish": "2025-10-21T23:08:21.741Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "keymirror",
+    "lastPublish": "2022-06-19T08:33:37.677Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-native-uuid",
+    "lastPublish": "2024-11-11T23:41:01.413Z",
+    "diffMonths": 13,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "is-core-module",
+    "lastPublish": "2024-12-21T21:23:27.438Z",
+    "diffMonths": 12,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@hirosystems/clarinet-sdk-wasm",
+    "lastPublish": "2025-11-17T10:57:35.950Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@mdit/plugin-align",
+    "lastPublish": "2025-12-01T09:08:11.710Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "core",
+    "lastPublish": "2022-06-30T11:29:26.748Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "treport",
+    "lastPublish": "2022-07-04T17:07:58.374Z",
+    "diffMonths": 41,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@module-federation/rsbuild-plugin",
+    "lastPublish": "2025-12-01T04:21:35.512Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "ibcore-lib",
+    "lastPublish": "2024-06-24T13:46:51.073Z",
+    "diffMonths": 18,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@tryghost/content-api",
+    "lastPublish": "2025-11-19T13:18:57.360Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "testrail-js-api",
+    "lastPublish": "2022-09-30T12:51:07.133Z",
+    "diffMonths": 39,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@goauthentik/api",
+    "lastPublish": "2025-12-02T21:27:17.600Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@spec.dev/core",
+    "lastPublish": "2023-12-15T22:56:56.444Z",
+    "diffMonths": 24,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "node-linux-armv7l",
+    "lastPublish": "2025-11-26T00:33:09.302Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "continuation-local-storage",
+    "lastPublish": "2022-06-13T22:38:09.868Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "web-ui-deps",
+    "lastPublish": "2024-09-08T20:42:30.229Z",
+    "diffMonths": 15,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "canvas",
+    "lastPublish": "2025-08-19T01:22:30.502Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "app-store-server-api",
+    "lastPublish": "2025-10-30T19:26:53.962Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@octokit/graphql",
+    "lastPublish": "2025-10-31T00:04:08.289Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@types/react-paginate",
+    "lastPublish": "2025-08-03T08:04:55.380Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "txml",
+    "lastPublish": "2025-10-20T21:45:36.713Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "azu-pck-orm-ts-cli",
+    "lastPublish": "2024-04-06T17:42:28.552Z",
+    "diffMonths": 20,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "image-minimizer-webpack-plugin",
+    "lastPublish": "2025-08-14T10:36:12.145Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@mdit/plugin-stylize",
+    "lastPublish": "2025-12-01T09:08:04.685Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "anima-yocto-core",
+    "lastPublish": "2022-06-13T03:03:44.931Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@zeedhi/tek-lib-common",
+    "lastPublish": "2025-08-14T18:34:46.163Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "has-tostringtag",
+    "lastPublish": "2024-02-01T21:44:00.323Z",
+    "diffMonths": 22,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@wordpress/babel-plugin-import-jsx-pragma",
+    "lastPublish": "2025-11-27T13:23:13.813Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "express-useragent",
+    "lastPublish": "2025-11-09T16:03:52.265Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@graphql-hive/cli",
+    "lastPublish": "2025-12-01T13:26:23.085Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@angular-devkit/core",
+    "lastPublish": "2025-11-26T17:32:15.676Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@fluentui/react-utilities",
+    "lastPublish": "2025-12-03T04:21:37.219Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@hypnosphi/create-react-context",
+    "lastPublish": "2022-04-05T18:57:21.478Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@react-types/accordion",
+    "lastPublish": "2025-03-05T09:10:26.655Z",
+    "diffMonths": 9,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "useragent-utils",
+    "lastPublish": "2024-09-04T08:31:44.375Z",
+    "diffMonths": 15,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "effector-react",
+    "lastPublish": "2024-12-11T16:26:48.576Z",
+    "diffMonths": 12,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@types/node-telegram-bot-api",
+    "lastPublish": "2025-11-22T16:36:56.726Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@timetac/js-client-library",
+    "lastPublish": "2025-10-01T13:35:06.844Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@cartesi/util",
+    "lastPublish": "2025-10-16T13:05:36.852Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "siot-plugin-lib",
+    "lastPublish": "2024-07-31T12:28:37.747Z",
+    "diffMonths": 17,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "dom-helpers",
+    "lastPublish": "2025-06-20T07:39:05.937Z",
+    "diffMonths": 6,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@waves/ledger",
+    "lastPublish": "2025-08-28T18:31:17.320Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@linaria/preeval",
+    "lastPublish": "2023-01-19T12:07:03.732Z",
+    "diffMonths": 35,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "storybook-addon-remix-react-router",
+    "lastPublish": "2025-05-16T08:11:34.868Z",
+    "diffMonths": 7,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@hpcc-js/phosphor",
+    "lastPublish": "2025-11-20T16:11:25.691Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@graphiql/plugin-history",
+    "lastPublish": "2025-11-30T08:46:52.441Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@ctx-core/ripple-effect",
+    "lastPublish": "2024-09-01T17:09:01.062Z",
+    "diffMonths": 15,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "cypress-axe-core",
+    "lastPublish": "2022-06-14T02:23:37.108Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@cdk-constructs-zone/super-ec2",
+    "lastPublish": "2024-04-29T00:55:59.264Z",
+    "diffMonths": 20,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "promise-mysql",
+    "lastPublish": "2022-06-24T18:53:07.752Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "polylabel",
+    "lastPublish": "2024-07-06T09:05:28.496Z",
+    "diffMonths": 17,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@fks-ticketing/common",
+    "lastPublish": "2022-04-05T11:09:38.062Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@zag-js/date-picker",
+    "lastPublish": "2025-11-26T13:09:47.591Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@originjs/vite-plugin-commonjs",
+    "lastPublish": "2022-04-06T12:15:54.818Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@ctx-core/carousel",
+    "lastPublish": "2024-09-01T17:06:50.407Z",
+    "diffMonths": 15,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-router-hash-link",
+    "lastPublish": "2022-11-22T07:16:05.017Z",
+    "diffMonths": 37,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "statsig-node-cloudflare-kv",
+    "lastPublish": "2025-10-21T23:08:19.258Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "less-plugin-clean-css",
+    "lastPublish": "2024-11-18T12:21:25.136Z",
+    "diffMonths": 13,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@cypress/react",
+    "lastPublish": "2025-03-25T18:29:18.470Z",
+    "diffMonths": 9,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "collect-js-deps",
+    "lastPublish": "2025-01-22T15:37:35.126Z",
+    "diffMonths": 11,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "eslint-import-resolver-typescript",
+    "lastPublish": "2025-06-25T17:46:33.663Z",
+    "diffMonths": 6,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "date-fns-tz",
+    "lastPublish": "2024-09-30T05:32:59.309Z",
+    "diffMonths": 15,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "load-bmfont",
+    "lastPublish": "2024-07-09T07:34:06.050Z",
+    "diffMonths": 17,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@rnters/i18n",
+    "lastPublish": "2022-04-06T20:19:00.236Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "kubernetes-client",
+    "lastPublish": "2025-10-06T15:56:38.186Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@stainless-api/sdk",
+    "lastPublish": "2025-09-26T18:26:58.133Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "node-web-mvc",
+    "lastPublish": "2025-02-21T08:14:05.337Z",
+    "diffMonths": 10,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@vuepress/plugin-prismjs",
+    "lastPublish": "2025-11-28T06:02:26.263Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "nx",
+    "lastPublish": "2025-12-02T20:31:04.492Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "azure-pipelines-tasks-azure-arm-rest",
+    "lastPublish": "2025-09-24T13:47:39.822Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@zag-js/carousel",
+    "lastPublish": "2025-11-26T13:09:46.800Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "babel-plugin-jsx-remove-data-test-id",
+    "lastPublish": "2022-06-13T04:01:55.766Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@cardano-sdk/core",
+    "lastPublish": "2025-11-06T16:18:01.729Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "snyk-api-import",
+    "lastPublish": "2025-11-25T11:02:27.057Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@oxc-transform/binding-linux-arm64-gnu",
+    "lastPublish": "2025-12-02T09:25:37.337Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@agm/js-marker-clusterer",
+    "lastPublish": "2022-04-04T11:59:57.009Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "apollo-cache-inmemory",
+    "lastPublish": "2022-04-11T14:43:10.793Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@modern-js/libuild-plugin-node-polyfill",
+    "lastPublish": "2024-12-19T09:14:21.062Z",
+    "diffMonths": 12,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "vimeo-video-element",
+    "lastPublish": "2025-11-25T16:09:28.498Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "uniforms",
+    "lastPublish": "2025-02-28T13:50:32.675Z",
+    "diffMonths": 10,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "mjml-core-4-terser",
+    "lastPublish": "2024-07-06T21:50:54.279Z",
+    "diffMonths": 17,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "eval",
+    "lastPublish": "2022-06-17T21:21:05.092Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "wasabi-common",
+    "lastPublish": "2022-06-28T21:52:47.187Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@kameleoon/javascript-sdk-core",
+    "lastPublish": "2025-10-23T14:54:43.053Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@percy/core",
+    "lastPublish": "2025-12-03T05:21:55.739Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "light-h5-core-lib",
+    "lastPublish": "2025-11-25T02:10:36.767Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@bigbear713/nb-trans",
+    "lastPublish": "2025-10-07T13:13:24.081Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@ilovepdf/ilovepdf-js-core",
+    "lastPublish": "2025-05-19T09:28:03.386Z",
+    "diffMonths": 7,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@types/bitcore-lib",
+    "lastPublish": "2025-08-03T06:27:26.092Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "rc-config-loader",
+    "lastPublish": "2023-06-13T22:40:55.171Z",
+    "diffMonths": 30,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@holocentric/angular-core",
+    "lastPublish": "2025-11-10T05:04:08.013Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "node-red-contrib-aedes",
+    "lastPublish": "2025-07-22T20:58:27.633Z",
+    "diffMonths": 5,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "easytimer-react-hook",
+    "lastPublish": "2023-08-29T11:10:11.317Z",
+    "diffMonths": 28,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@react-aria/dnd",
+    "lastPublish": "2025-11-24T09:10:58.515Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@aryth/rank",
+    "lastPublish": "2025-03-23T14:06:43.888Z",
+    "diffMonths": 9,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@react-aria/radio",
+    "lastPublish": "2025-11-24T09:12:01.030Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@nlpjs/lang-eu",
+    "lastPublish": "2025-01-23T09:16:38.952Z",
+    "diffMonths": 11,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@contrail/document-util",
+    "lastPublish": "2025-10-29T17:33:34.243Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "appium-ios-device",
+    "lastPublish": "2025-11-15T19:35:00.157Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "node-red-node-test-helper",
+    "lastPublish": "2025-07-31T16:34:30.034Z",
+    "diffMonths": 5,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@aryth/subset",
+    "lastPublish": "2025-03-23T14:06:44.710Z",
+    "diffMonths": 9,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@onflow/util-rpc",
+    "lastPublish": "2025-11-10T21:10:55.125Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@babel/preset-react",
+    "lastPublish": "2025-10-23T15:17:42.320Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "amazeui-doc-util",
+    "lastPublish": "2022-06-13T02:43:04.947Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@buzuli/util",
+    "lastPublish": "2022-04-04T21:11:24.522Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@allurereport/plugin-dashboard",
+    "lastPublish": "2025-11-19T14:32:48.578Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "contensis-core-api",
+    "lastPublish": "2025-06-10T12:32:07.483Z",
+    "diffMonths": 6,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "trading-vue-js",
+    "lastPublish": "2022-05-22T03:23:40.883Z",
+    "diffMonths": 43,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "mdast-util-to-hast",
+    "lastPublish": "2025-11-23T21:08:34.448Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@wangeditor-next/core",
+    "lastPublish": "2025-09-03T16:02:31.562Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@types/empower-core",
+    "lastPublish": "2025-08-03T06:40:30.145Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@ocap/util",
+    "lastPublish": "2025-12-01T07:32:07.619Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@flmngr/flmngr-server-node",
+    "lastPublish": "2023-08-25T14:38:17.102Z",
+    "diffMonths": 28,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@fluentui/react-table",
+    "lastPublish": "2025-12-03T04:23:34.198Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "custom-exception",
+    "lastPublish": "2022-04-28T01:19:06.151Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@zuplo/core",
+    "lastPublish": "2025-11-27T21:09:00.073Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@react-types/checkbox",
+    "lastPublish": "2025-11-24T09:09:43.576Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@backstage/plugin-user-settings-common",
+    "lastPublish": "2024-06-18T14:30:01.264Z",
+    "diffMonths": 18,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@coze-editor/core-plugins",
+    "lastPublish": "2025-12-01T05:50:41.109Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "filepond-plugin-file-validate-size",
+    "lastPublish": "2022-11-28T12:59:01.418Z",
+    "diffMonths": 37,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@nlpjs/lang-en",
+    "lastPublish": "2025-01-23T09:16:45.503Z",
+    "diffMonths": 11,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@itwin/core-bentley",
+    "lastPublish": "2025-12-03T05:38:44.058Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@byteluck-fe/model-driven-core",
+    "lastPublish": "2025-11-24T01:51:30.375Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "eslint-plugin-react-hooks-extra",
+    "lastPublish": "2025-12-03T08:23:33.677Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@imtbl/core-sdk",
+    "lastPublish": "2024-05-16T02:31:39.296Z",
+    "diffMonths": 19,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "nostr",
+    "lastPublish": "2023-03-05T15:56:49.057Z",
+    "diffMonths": 33,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@anzerr/fs.hash",
+    "lastPublish": "2022-04-04T14:28:10.533Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@mocks-server/admin-api-paths",
+    "lastPublish": "2022-09-14T04:43:21.294Z",
+    "diffMonths": 39,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@cscec/udp-core",
+    "lastPublish": "2024-06-19T02:43:49.297Z",
+    "diffMonths": 18,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@playkit-js/playkit-js",
+    "lastPublish": "2025-11-30T12:36:14.632Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@metahkg/api",
+    "lastPublish": "2024-06-13T05:15:13.096Z",
+    "diffMonths": 18,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@mvneerven/xo-js",
+    "lastPublish": "2022-04-06T06:59:34.827Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "clang-format",
+    "lastPublish": "2023-06-18T02:17:15.908Z",
+    "diffMonths": 30,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@anzerr/dockerfile.util",
+    "lastPublish": "2022-04-04T14:28:06.583Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@stigg/node-server-sdk",
+    "lastPublish": "2025-12-02T12:51:51.598Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@griddo/core",
+    "lastPublish": "2025-12-02T12:58:19.768Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "docusign-esign",
+    "lastPublish": "2025-10-27T06:18:34.881Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@types/react-google-recaptcha",
+    "lastPublish": "2025-08-03T08:04:49.035Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "gatsby-react-router-scroll",
+    "lastPublish": "2025-11-27T13:48:51.468Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@yichui/uni-contrib",
+    "lastPublish": "2022-04-11T11:04:24.666Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "senogulp",
+    "lastPublish": "2022-06-26T17:41:34.780Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "sodium",
+    "lastPublish": "2022-06-26T22:01:07.495Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "m-vue-util",
+    "lastPublish": "2022-12-14T08:01:02.213Z",
+    "diffMonths": 36,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@opensumi/ide-core-node",
+    "lastPublish": "2025-12-02T11:26:33.847Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@uuv/runner-commons",
+    "lastPublish": "2025-11-30T16:01:32.584Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@serverless-stack/core",
+    "lastPublish": "2022-11-24T21:10:27.404Z",
+    "diffMonths": 37,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "eslint-plugin-react-debug",
+    "lastPublish": "2025-12-03T08:23:00.551Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "thinkjs-util",
+    "lastPublish": "2022-06-27T06:11:54.801Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@arizeai/openinference-core",
+    "lastPublish": "2025-12-02T20:39:41.751Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@cloudflare/util-http",
+    "lastPublish": "2025-10-21T13:04:22.013Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@hpcc-js/graph",
+    "lastPublish": "2025-11-20T16:11:30.083Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@contentkit/util",
+    "lastPublish": "2022-04-05T01:06:38.147Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@fay-react/lib",
+    "lastPublish": "2022-04-05T10:22:34.641Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@web-std/fetch",
+    "lastPublish": "2023-08-29T02:06:58.063Z",
+    "diffMonths": 28,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@sentry/react-native",
+    "lastPublish": "2025-11-25T14:44:25.432Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "util-http",
+    "lastPublish": "2025-10-03T21:24:45.486Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@ht-sdks/events-sdk-js-node",
+    "lastPublish": "2024-03-20T22:48:01.330Z",
+    "diffMonths": 21,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "azure-pipelines-tool-lib",
+    "lastPublish": "2025-09-02T07:55:41.467Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@interopio/search-api",
+    "lastPublish": "2025-11-21T10:55:14.749Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@types/tar-js",
+    "lastPublish": "2025-08-03T07:52:08.770Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "checkbook-api",
+    "lastPublish": "2022-04-12T06:02:08.295Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "mac-address-util",
+    "lastPublish": "2022-05-08T15:39:03.077Z",
+    "diffMonths": 43,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "extend-shallow",
+    "lastPublish": "2023-07-12T19:12:28.409Z",
+    "diffMonths": 29,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "babel-plugin-transform-react-remove-prop-types",
+    "lastPublish": "2022-06-13T04:05:13.645Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "asn1.js-rfc5280",
+    "lastPublish": "2022-06-13T03:32:32.496Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@iden3/js-jwz",
+    "lastPublish": "2025-11-24T14:29:16.553Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "simplebar-react",
+    "lastPublish": "2025-07-03T10:04:25.070Z",
+    "diffMonths": 5,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@zeainc/drive-lib",
+    "lastPublish": "2022-04-11T11:34:39.333Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@vect/enum-select-styles",
+    "lastPublish": "2022-05-13T03:50:47.672Z",
+    "diffMonths": 43,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "babel-plugin-named-exports-order",
+    "lastPublish": "2022-04-11T16:40:22.924Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "expected-node-version",
+    "lastPublish": "2022-06-17T22:01:47.763Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@knightly/vue__compiler-core",
+    "lastPublish": "2022-04-05T23:55:03.341Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@coinmasters/tokens",
+    "lastPublish": "2025-04-05T00:07:28.336Z",
+    "diffMonths": 8,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@balena/jellyfish-core",
+    "lastPublish": "2025-03-06T09:41:30.073Z",
+    "diffMonths": 9,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@smithy/hash-node",
+    "lastPublish": "2025-11-10T20:13:09.352Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@junobuild/core",
+    "lastPublish": "2025-12-01T07:22:58.752Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@sanity/core",
+    "lastPublish": "2025-12-02T11:17:04.246Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "tinybounce",
+    "lastPublish": "2022-06-27T07:02:46.606Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@alicloud/http-core-sdk",
+    "lastPublish": "2022-04-04T12:56:55.163Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "nypr-publisher-lib",
+    "lastPublish": "2024-12-09T18:06:59.532Z",
+    "diffMonths": 12,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@digifi/digifi-node-js",
+    "lastPublish": "2025-10-30T11:21:51.990Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@exposure-lib/vue2",
+    "lastPublish": "2022-04-05T09:23:45.366Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@ray-teams/app-core",
+    "lastPublish": "2024-03-18T09:30:50.744Z",
+    "diffMonths": 21,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "rc-cascader",
+    "lastPublish": "2025-04-01T06:39:56.421Z",
+    "diffMonths": 8,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@leverj/gluon-plasma.exchange",
+    "lastPublish": "2024-12-03T16:02:46.987Z",
+    "diffMonths": 12,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "activity-lib-mobile",
+    "lastPublish": "2022-04-11T12:35:06.729Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@types/node-geocoder",
+    "lastPublish": "2025-08-03T07:22:20.329Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "node-bin-setup",
+    "lastPublish": "2025-05-14T16:10:51.834Z",
+    "diffMonths": 7,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@babel/plugin-transform-modules-systemjs",
+    "lastPublish": "2025-10-23T15:17:55.091Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "mg-api-node",
+    "lastPublish": "2025-04-23T17:29:43.217Z",
+    "diffMonths": 8,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "dmn-js-literal-expression",
+    "lastPublish": "2025-09-01T09:46:17.651Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@expo/rudder-sdk-node",
+    "lastPublish": "2025-10-22T20:02:07.082Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@argos-ci/api-client",
+    "lastPublish": "2025-11-03T10:06:55.566Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@react-native-menu/menu",
+    "lastPublish": "2025-09-10T00:20:59.598Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-native-onesignal",
+    "lastPublish": "2025-11-05T21:45:38.411Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "regexp-util",
+    "lastPublish": "2025-03-08T04:36:15.707Z",
+    "diffMonths": 9,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-date-picker",
+    "lastPublish": "2025-08-05T13:27:56.522Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@ctx-core/queue",
+    "lastPublish": "2024-09-01T17:08:52.782Z",
+    "diffMonths": 15,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "istanbul-lib-processinfo",
+    "lastPublish": "2022-06-02T18:34:04.996Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "async-hook-jl",
+    "lastPublish": "2022-06-13T03:37:04.639Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "rtcpeerconnection-shim",
+    "lastPublish": "2022-05-16T07:00:53.052Z",
+    "diffMonths": 43,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "docusaurus-plugin-openapi-docs",
+    "lastPublish": "2025-11-20T16:01:48.000Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@ctx-core/svelte-preprocess",
+    "lastPublish": "2024-09-01T17:09:37.677Z",
+    "diffMonths": 15,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "node-red-node-arduino",
+    "lastPublish": "2025-04-04T18:36:38.357Z",
+    "diffMonths": 8,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "fireblocks-sdk",
+    "lastPublish": "2025-09-29T09:47:01.937Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "is-node",
+    "lastPublish": "2025-04-23T22:25:12.978Z",
+    "diffMonths": 8,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@google-cloud/text-to-speech",
+    "lastPublish": "2025-10-22T22:11:36.271Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@arcgis/languages-api-utils",
+    "lastPublish": "2025-12-03T04:38:57.716Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@rspack/binding-win32-x64-msvc",
+    "lastPublish": "2025-12-02T08:25:08.229Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-native-push-notification",
+    "lastPublish": "2022-11-04T11:25:05.056Z",
+    "diffMonths": 37,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "enzyme",
+    "lastPublish": "2022-06-17T06:51:00.947Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@avanio/variable-util-node",
+    "lastPublish": "2025-11-20T09:02:57.208Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@slack/socket-mode",
+    "lastPublish": "2025-08-25T20:22:51.148Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@antv/matrix-util",
+    "lastPublish": "2025-10-20T06:31:57.772Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "sqb-util",
+    "lastPublish": "2025-08-02T03:49:34.346Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@cloudinary/react",
+    "lastPublish": "2025-05-14T09:11:20.869Z",
+    "diffMonths": 7,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@docusaurus/utils-common",
+    "lastPublish": "2025-11-21T18:23:19.046Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "eform-common-util",
+    "lastPublish": "2022-04-30T22:08:20.903Z",
+    "diffMonths": 43,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@salesforce/lwc-dev-mobile-core",
+    "lastPublish": "2025-10-30T21:25:32.329Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@nlpjs/core-loader",
+    "lastPublish": "2025-01-23T09:16:37.022Z",
+    "diffMonths": 11,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "eslint-plugin-react-native",
+    "lastPublish": "2024-12-30T20:29:16.947Z",
+    "diffMonths": 12,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@salesforce/code-analyzer-engine-api",
+    "lastPublish": "2025-11-24T15:07:34.395Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "last-call-webpack-plugin",
+    "lastPublish": "2022-06-19T10:45:36.889Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@aminya/node-gyp-build",
+    "lastPublish": "2024-06-14T11:03:10.058Z",
+    "diffMonths": 18,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@types/amap-js-api-autocomplete",
+    "lastPublish": "2025-08-03T06:21:54.951Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "wkhtml-helper",
+    "lastPublish": "2022-06-29T02:50:02.206Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@pnpm/core-loggers",
+    "lastPublish": "2025-11-20T14:03:03.729Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@pkgr/core",
+    "lastPublish": "2025-07-21T00:05:21.220Z",
+    "diffMonths": 5,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@truedat/core",
+    "lastPublish": "2025-12-01T11:34:00.132Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@auto-euro/ae-tools-lib",
+    "lastPublish": "2025-12-02T14:14:25.030Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "rc-resize-observer",
+    "lastPublish": "2024-12-19T04:40:06.465Z",
+    "diffMonths": 12,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@netlify/plugin-edge-handlers",
+    "lastPublish": "2025-10-09T15:02:20.346Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@authenio/samlify-node-xmllint",
+    "lastPublish": "2022-04-04T16:31:06.859Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@ctx-core/pagination",
+    "lastPublish": "2024-09-01T17:08:48.094Z",
+    "diffMonths": 15,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "tsconfig-paths",
+    "lastPublish": "2025-10-14T10:55:58.343Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@rsbuild/plugin-react",
+    "lastPublish": "2025-11-06T08:37:49.677Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@wxa/core",
+    "lastPublish": "2024-03-17T15:47:22.586Z",
+    "diffMonths": 21,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@ffmpeg-installer/ffmpeg",
+    "lastPublish": "2022-06-12T17:54:11.982Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "eslint-import-resolver-alias",
+    "lastPublish": "2022-06-17T20:24:49.703Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "has-symbols",
+    "lastPublish": "2024-12-02T16:34:17.942Z",
+    "diffMonths": 12,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "filepond-plugin-image-resize",
+    "lastPublish": "2022-06-18T00:44:03.110Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "oauth4webapi",
+    "lastPublish": "2025-11-20T09:52:21.320Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@mergeapi/react-merge-link",
+    "lastPublish": "2025-10-30T13:55:54.794Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "sugar-core",
+    "lastPublish": "2022-06-27T01:55:59.367Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@bearer/core",
+    "lastPublish": "2022-06-12T15:05:54.325Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "moment-business-days",
+    "lastPublish": "2022-06-20T05:04:07.705Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@types/bigbluebutton-js",
+    "lastPublish": "2025-08-03T06:27:07.325Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "rc-steps",
+    "lastPublish": "2023-07-19T03:22:35.979Z",
+    "diffMonths": 29,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "api",
+    "lastPublish": "2025-11-14T19:45:49.916Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@genkit-ai/core",
+    "lastPublish": "2025-11-18T17:31:43.828Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@woltapp/browserbug-core",
+    "lastPublish": "2024-10-29T14:06:04.585Z",
+    "diffMonths": 14,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "pawsh-basic-utils",
+    "lastPublish": "2024-05-16T19:42:33.558Z",
+    "diffMonths": 19,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-native-builder-bob",
+    "lastPublish": "2025-11-24T12:13:04.134Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "prettier-plugin-two-style-order",
+    "lastPublish": "2022-05-13T09:26:02.984Z",
+    "diffMonths": 43,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@near-wallet-selector/core",
+    "lastPublish": "2025-12-02T23:02:02.080Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "zustand",
+    "lastPublish": "2025-11-30T01:03:43.467Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "dva-core",
+    "lastPublish": "2022-06-16T02:08:40.269Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@knocklabs/node",
+    "lastPublish": "2025-11-20T16:22:53.934Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "hast-util-interactive",
+    "lastPublish": "2023-08-01T09:44:06.801Z",
+    "diffMonths": 28,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "mt-front-util",
+    "lastPublish": "2022-06-20T12:32:11.890Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-linkify",
+    "lastPublish": "2022-06-26T01:12:07.961Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@umbraco-ui/uui-ref-node-member",
+    "lastPublish": "2025-10-17T06:54:10.545Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "idle-vue",
+    "lastPublish": "2022-06-19T00:11:43.085Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "dx-lib",
+    "lastPublish": "2023-04-14T09:04:39.355Z",
+    "diffMonths": 32,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@chakra-ui/react-use-latest-ref",
+    "lastPublish": "2025-08-25T12:24:59.905Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@mocks-server/plugin-admin-api",
+    "lastPublish": "2023-06-06T15:49:07.358Z",
+    "diffMonths": 30,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@zag-js/switch",
+    "lastPublish": "2025-11-26T13:10:01.189Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-native-autolink",
+    "lastPublish": "2023-10-07T18:15:27.404Z",
+    "diffMonths": 26,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "node-red-contrib-industrial-machine-forecast",
+    "lastPublish": "2023-07-12T06:27:17.145Z",
+    "diffMonths": 29,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-native-heroicons",
+    "lastPublish": "2024-01-01T20:41:51.264Z",
+    "diffMonths": 23,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "babel-plugin-module-resolver",
+    "lastPublish": "2024-04-18T17:49:48.612Z",
+    "diffMonths": 20,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@noovolari/leapp-core-nightly",
+    "lastPublish": "2025-09-02T12:40:49.745Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "is-callable",
+    "lastPublish": "2023-03-08T01:54:26.654Z",
+    "diffMonths": 33,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@jqq-cli-dev/util",
+    "lastPublish": "2022-09-29T08:19:19.869Z",
+    "diffMonths": 39,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "n8n-nodes-kommo",
+    "lastPublish": "2024-10-15T09:23:03.191Z",
+    "diffMonths": 14,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@tsparticles/plugin-poisson-disc",
+    "lastPublish": "2025-08-03T21:50:33.026Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@authenio/xml-encryption",
+    "lastPublish": "2022-11-06T03:52:30.307Z",
+    "diffMonths": 37,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "node-red-node-base64",
+    "lastPublish": "2025-04-14T16:50:36.405Z",
+    "diffMonths": 8,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@vscode/copilot-api",
+    "lastPublish": "2025-12-01T23:22:28.957Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@docusaurus/plugin-content-pages",
+    "lastPublish": "2025-11-21T18:23:29.853Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "globals-docs",
+    "lastPublish": "2022-06-18T12:57:35.890Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@react-types/breadcrumbs",
+    "lastPublish": "2025-11-24T09:10:39.363Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "babylonjs-node-geometry-editor",
+    "lastPublish": "2025-12-01T23:18:45.098Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@lawrence666/le-util",
+    "lastPublish": "2022-04-06T00:53:33.377Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@types/react-signature-canvas",
+    "lastPublish": "2025-08-03T07:39:04.708Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@helia/delegated-routing-v1-http-api-client",
+    "lastPublish": "2025-12-03T06:37:05.980Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "metismenujs",
+    "lastPublish": "2023-01-12T11:47:29.043Z",
+    "diffMonths": 35,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@zackad/prettier-plugin-twig",
+    "lastPublish": "2025-03-17T09:15:50.833Z",
+    "diffMonths": 9,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "js-interpreter",
+    "lastPublish": "2025-04-04T06:09:39.282Z",
+    "diffMonths": 8,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-native-web-linear-gradient",
+    "lastPublish": "2022-06-26T07:19:28.872Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@ngx-grpc/core",
+    "lastPublish": "2025-11-14T12:46:21.028Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@zag-js/checkbox",
+    "lastPublish": "2025-11-26T13:09:47.493Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@robhan-cdk-lib/utils",
+    "lastPublish": "2025-12-03T02:38:38.934Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@types/data-api-client",
+    "lastPublish": "2025-08-03T06:36:05.076Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-simple-animate",
+    "lastPublish": "2024-12-16T10:49:05.641Z",
+    "diffMonths": 12,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@devexpress/dx-grid-core",
+    "lastPublish": "2025-11-25T16:10:33.000Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-transition-group",
+    "lastPublish": "2023-06-09T06:29:47.325Z",
+    "diffMonths": 30,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "gulp-optimize-js",
+    "lastPublish": "2022-06-18T17:39:13.446Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "ethernaut-util-ui",
+    "lastPublish": "2024-04-08T10:38:51.382Z",
+    "diffMonths": 20,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "heroku-client",
+    "lastPublish": "2025-11-20T15:33:04.591Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "bri-datas",
+    "lastPublish": "2025-11-18T07:03:59.233Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "eslint-plugin-editorconfig",
+    "lastPublish": "2023-06-08T21:37:53.448Z",
+    "diffMonths": 30,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@abtnode/auth",
+    "lastPublish": "2025-12-02T12:29:37.062Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@sap-ux/odata-annotation-core-types",
+    "lastPublish": "2025-11-05T12:03:16.961Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "clipboard-polyfill",
+    "lastPublish": "2024-12-14T01:44:51.268Z",
+    "diffMonths": 12,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@proficient/util",
+    "lastPublish": "2022-04-06T16:40:24.040Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@ctx-core/nav",
+    "lastPublish": "2024-09-01T17:08:45.853Z",
+    "diffMonths": 15,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@onflow/util-logger",
+    "lastPublish": "2025-11-10T21:10:03.483Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@dumlj/util-lib",
+    "lastPublish": "2024-04-17T14:54:35.419Z",
+    "diffMonths": 20,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@pothos/plugin-validation",
+    "lastPublish": "2025-10-04T03:41:16.304Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "unist-util-remove",
+    "lastPublish": "2023-07-07T13:59:04.857Z",
+    "diffMonths": 29,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@types/spotify-api",
+    "lastPublish": "2025-08-03T07:48:55.151Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@pancakeswap/pancake-swap-lib",
+    "lastPublish": "2024-07-09T05:15:55.779Z",
+    "diffMonths": 17,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "bing-translate-api",
+    "lastPublish": "2025-11-24T07:53:52.235Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "js-message",
+    "lastPublish": "2024-01-11T09:43:04.774Z",
+    "diffMonths": 23,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "shogun-core",
+    "lastPublish": "2025-11-17T14:41:46.559Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "node-fetch-har",
+    "lastPublish": "2022-05-11T00:44:04.171Z",
+    "diffMonths": 43,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@fluentui/react-label",
+    "lastPublish": "2025-12-03T04:22:28.660Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "node-red-admin",
+    "lastPublish": "2025-10-09T10:29:29.621Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "vite-plugin-checker",
+    "lastPublish": "2025-09-29T09:27:58.011Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@oxc-resolver/binding-win32-ia32-msvc",
+    "lastPublish": "2025-12-02T11:46:53.851Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "JSON",
+    "lastPublish": "2022-06-13T02:14:29.038Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@react-aria/landmark",
+    "lastPublish": "2025-11-24T09:08:32.546Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "node-datachannel",
+    "lastPublish": "2025-10-01T10:38:45.787Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@vect/vector-init",
+    "lastPublish": "2025-03-29T00:46:26.255Z",
+    "diffMonths": 9,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "prebuild-install",
+    "lastPublish": "2025-01-22T00:08:39.671Z",
+    "diffMonths": 11,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@oxc-transform/binding-linux-arm-musleabihf",
+    "lastPublish": "2025-11-24T10:56:57.515Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@types/node-red",
+    "lastPublish": "2025-08-03T08:04:31.942Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "util-vue-webpack",
+    "lastPublish": "2022-07-29T05:02:02.620Z",
+    "diffMonths": 41,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@transformation/stream",
+    "lastPublish": "2022-12-18T12:39:23.282Z",
+    "diffMonths": 36,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@saltace/vue-ui-lib",
+    "lastPublish": "2023-03-25T03:41:03.884Z",
+    "diffMonths": 33,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@reactflow/minimap",
+    "lastPublish": "2024-06-20T11:31:29.703Z",
+    "diffMonths": 18,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "pactum",
+    "lastPublish": "2025-07-03T03:17:38.568Z",
+    "diffMonths": 5,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "bcrypto",
+    "lastPublish": "2023-11-30T10:43:20.464Z",
+    "diffMonths": 25,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "ln-util",
+    "lastPublish": "2024-08-30T07:00:22.861Z",
+    "diffMonths": 16,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "prettier-plugin-sort-json",
+    "lastPublish": "2025-01-10T01:14:14.322Z",
+    "diffMonths": 11,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@rc-ex/core",
+    "lastPublish": "2025-09-25T18:27:54.685Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@otplib/plugin-crypto-js",
+    "lastPublish": "2022-04-06T12:29:33.029Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@testing-library/react",
+    "lastPublish": "2025-04-02T17:03:39.139Z",
+    "diffMonths": 8,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@shopify/react-native-skia",
+    "lastPublish": "2025-11-28T14:26:49.143Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "babel-plugin-polyfill-corejs2",
+    "lastPublish": "2025-06-27T16:37:49.972Z",
+    "diffMonths": 6,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@nx-js/observer-util",
+    "lastPublish": "2022-06-12T22:10:53.328Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "node-sql-util",
+    "lastPublish": "2022-05-24T01:49:44.496Z",
+    "diffMonths": 43,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "simple-component-library-jose",
+    "lastPublish": "2025-09-15T09:12:16.325Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "prettier-plugin-packagejson",
+    "lastPublish": "2025-11-28T06:03:17.932Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@microsoft/teamsfx-core",
+    "lastPublish": "2025-12-03T03:16:46.396Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "browserstack-node-sdk",
+    "lastPublish": "2025-12-01T05:37:36.046Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@slickgrid-universal/row-detail-view-plugin",
+    "lastPublish": "2025-11-24T19:20:27.823Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "scan-deps",
+    "lastPublish": "2023-08-12T13:50:23.862Z",
+    "diffMonths": 28,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@psyrenpark/nest-lib",
+    "lastPublish": "2023-09-01T07:39:06.870Z",
+    "diffMonths": 27,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@react-native-google-signin/google-signin",
+    "lastPublish": "2025-09-07T16:33:34.597Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "pelias-api",
+    "lastPublish": "2025-12-02T12:34:44.379Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@google-cloud/kms",
+    "lastPublish": "2025-10-13T21:44:44.777Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "redux-act",
+    "lastPublish": "2022-06-26T09:56:21.586Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@babel/helper-validator-option",
+    "lastPublish": "2025-10-23T14:44:19.555Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "anypoint-cli-governance-plugin",
+    "lastPublish": "2025-09-11T15:53:40.929Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@tim-code/my-util",
+    "lastPublish": "2025-11-19T19:33:15.826Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "broccoli-node-api",
+    "lastPublish": "2022-04-12T04:27:29.852Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "glob-all",
+    "lastPublish": "2022-11-01T10:37:17.569Z",
+    "diffMonths": 37,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@studiokloek/ts-core-lib",
+    "lastPublish": "2025-10-30T15:32:30.472Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@vonage/number-insights",
+    "lastPublish": "2025-11-12T17:55:29.783Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@xzq9537/vite-vue-lib",
+    "lastPublish": "2024-05-05T10:15:27.427Z",
+    "diffMonths": 19,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@types/react-draft-wysiwyg",
+    "lastPublish": "2025-11-12T11:02:40.588Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "vite-plugin-sentry",
+    "lastPublish": "2025-03-21T01:59:18.327Z",
+    "diffMonths": 9,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@types/node-red__editor-api",
+    "lastPublish": "2025-08-03T07:22:50.356Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "n8n-nodes-thong-zalo-test-trial",
+    "lastPublish": "2025-07-02T08:15:23.345Z",
+    "diffMonths": 5,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "eslint-plugin-lit-a11y",
+    "lastPublish": "2025-07-21T13:37:42.686Z",
+    "diffMonths": 5,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@unique-nft/opal-testnet-types",
+    "lastPublish": "2024-07-31T13:29:07.363Z",
+    "diffMonths": 17,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "antd-style",
+    "lastPublish": "2025-07-24T12:26:40.580Z",
+    "diffMonths": 5,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@react-native-ohos/react-native-wechat-lib",
+    "lastPublish": "2025-11-27T03:51:13.629Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-select-search",
+    "lastPublish": "2025-10-15T21:18:11.950Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@hpcc-js/comms",
+    "lastPublish": "2025-11-20T16:11:22.682Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@wordpress/api-fetch",
+    "lastPublish": "2025-11-27T13:23:40.112Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "pdf-lib-incremental-save",
+    "lastPublish": "2024-01-29T13:43:11.996Z",
+    "diffMonths": 23,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "estree-util-to-js",
+    "lastPublish": "2023-07-31T10:25:17.995Z",
+    "diffMonths": 29,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@use-gesture/react",
+    "lastPublish": "2024-03-21T16:16:20.794Z",
+    "diffMonths": 21,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@nexys/koa-lib",
+    "lastPublish": "2022-04-06T08:36:53.537Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@liff/util",
+    "lastPublish": "2025-11-17T02:30:38.856Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@axinom/mosaic-core",
+    "lastPublish": "2025-12-01T07:46:37.524Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@storybook/core-server",
+    "lastPublish": "2025-05-16T11:32:03.330Z",
+    "diffMonths": 7,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@lhci/utils",
+    "lastPublish": "2025-06-25T23:52:53.432Z",
+    "diffMonths": 6,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@asamuzakjp/nwsapi",
+    "lastPublish": "2025-03-28T13:43:07.995Z",
+    "diffMonths": 9,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "mharj-jwt-util",
+    "lastPublish": "2025-03-16T06:28:59.071Z",
+    "diffMonths": 9,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@deriv/deriv-api",
+    "lastPublish": "2024-02-13T09:01:19.411Z",
+    "diffMonths": 22,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@bugsnag/plugin-vue",
+    "lastPublish": "2025-09-25T09:23:52.029Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "o-stream",
+    "lastPublish": "2022-06-22T15:08:31.681Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "filemanager-webpack-plugin",
+    "lastPublish": "2025-07-09T17:17:58.815Z",
+    "diffMonths": 5,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "eslint-plugin-json-schema-validator",
+    "lastPublish": "2025-11-10T09:04:48.503Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "expo-background-fetch",
+    "lastPublish": "2025-11-27T15:36:04.141Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "bpmn-js-i18n",
+    "lastPublish": "2025-09-01T09:45:58.333Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@asyncapi/generator-react-sdk",
+    "lastPublish": "2025-11-24T11:52:37.135Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "mdast-util-toc",
+    "lastPublish": "2024-06-02T14:43:13.409Z",
+    "diffMonths": 18,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@rspack/binding-linux-x64-gnu",
+    "lastPublish": "2025-12-02T08:24:32.864Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "swagger-ui-dist",
+    "lastPublish": "2025-11-25T12:41:43.534Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "traveltime-api",
+    "lastPublish": "2025-10-23T14:32:56.884Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-native-fast-image",
+    "lastPublish": "2022-10-31T01:41:09.950Z",
+    "diffMonths": 38,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "typhonjs-object-util",
+    "lastPublish": "2022-06-28T02:08:31.696Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "haraka-plugin-greylist",
+    "lastPublish": "2025-01-30T19:13:51.601Z",
+    "diffMonths": 11,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@react-oauth/google",
+    "lastPublish": "2025-05-07T10:10:25.347Z",
+    "diffMonths": 7,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@valjoux/util-month-days",
+    "lastPublish": "2025-03-23T14:13:50.696Z",
+    "diffMonths": 9,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-teleporter",
+    "lastPublish": "2025-05-23T19:49:23.998Z",
+    "diffMonths": 7,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@authicjs/lib-ts",
+    "lastPublish": "2022-04-04T16:31:48.235Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "statelink",
+    "lastPublish": "2023-07-11T03:30:03.322Z",
+    "diffMonths": 29,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@openfeature/flagd-core",
+    "lastPublish": "2025-09-26T19:47:46.535Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@docuseal/api",
+    "lastPublish": "2025-09-15T12:00:37.049Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "reactstrap",
+    "lastPublish": "2024-09-26T09:40:18.026Z",
+    "diffMonths": 15,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "sales-frontend-utils",
+    "lastPublish": "2025-12-02T08:43:14.630Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@react-stately/virtualizer",
+    "lastPublish": "2025-11-24T09:09:07.909Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@fluentui/react-teaching-popover",
+    "lastPublish": "2025-12-03T04:23:24.109Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@ai-sdk/react",
+    "lastPublish": "2025-12-02T15:44:21.699Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@git-diff-view/react",
+    "lastPublish": "2025-10-20T08:28:56.533Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "pocket-js-core",
+    "lastPublish": "2022-07-18T16:07:36.295Z",
+    "diffMonths": 41,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "fetch-blob",
+    "lastPublish": "2023-05-18T11:47:25.919Z",
+    "diffMonths": 31,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "iterate-value",
+    "lastPublish": "2022-05-06T07:08:16.596Z",
+    "diffMonths": 43,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "node-red-contrib-play-sound",
+    "lastPublish": "2022-06-21T19:53:10.921Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "eslint-plugin-es5",
+    "lastPublish": "2022-06-17T20:30:22.871Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "eslint-plugin-workspaces",
+    "lastPublish": "2025-05-17T20:20:53.284Z",
+    "diffMonths": 7,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "size-plugin-store",
+    "lastPublish": "2022-05-18T00:11:21.056Z",
+    "diffMonths": 43,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@redocly/hookstate-devtools",
+    "lastPublish": "2025-10-23T09:46:19.463Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "ember-cli-node-assets",
+    "lastPublish": "2022-06-16T22:07:31.593Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "hdr-histogram-percentiles-obj",
+    "lastPublish": "2022-06-18T19:42:02.199Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@unrs/resolver-binding-linux-arm-gnueabihf",
+    "lastPublish": "2025-07-09T14:57:55.112Z",
+    "diffMonths": 5,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "eslint-config-airbnb-base",
+    "lastPublish": "2024-11-08T00:35:03.997Z",
+    "diffMonths": 13,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "seroval-plugins",
+    "lastPublish": "2025-11-16T16:00:08.703Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "boclips-api-client",
+    "lastPublish": "2025-10-23T14:14:39.084Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "geo-util",
+    "lastPublish": "2022-06-18T07:33:59.440Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "browser-util-inspect",
+    "lastPublish": "2022-06-13T05:10:09.203Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "useless-lib",
+    "lastPublish": "2022-05-22T23:01:00.917Z",
+    "diffMonths": 43,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "use-debounce",
+    "lastPublish": "2025-09-01T22:38:11.115Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-leaflet-markercluster",
+    "lastPublish": "2025-01-03T16:36:52.460Z",
+    "diffMonths": 11,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@ckeditor/ckeditor5-react",
+    "lastPublish": "2025-07-09T08:10:57.600Z",
+    "diffMonths": 5,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@types/react-loadable",
+    "lastPublish": "2025-08-03T07:36:20.971Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "logger3000",
+    "lastPublish": "2023-05-05T17:51:12.678Z",
+    "diffMonths": 31,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "geojson-project",
+    "lastPublish": "2023-01-15T17:19:00.810Z",
+    "diffMonths": 35,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@milkdown/plugin-trailing",
+    "lastPublish": "2025-11-23T12:38:59.960Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@chiper-inc/ecommerce-lib",
+    "lastPublish": "2025-09-11T14:17:29.561Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@fjell/client-api",
+    "lastPublish": "2025-12-01T16:29:23.209Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "which-promise",
+    "lastPublish": "2022-06-29T01:29:08.663Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "seroval",
+    "lastPublish": "2025-11-16T16:00:09.512Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "esdoc-importpath-plugin",
+    "lastPublish": "2022-06-17T17:33:16.635Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "expo-modules-core",
+    "lastPublish": "2025-11-27T15:34:01.946Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "lib-ruby-parser",
+    "lastPublish": "2022-06-21T12:32:12.177Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "buffer-shims",
+    "lastPublish": "2022-06-13T05:15:26.820Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "faker-es6",
+    "lastPublish": "2022-05-02T03:19:14.290Z",
+    "diffMonths": 43,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@backstage/core-components",
+    "lastPublish": "2025-12-03T02:54:59.117Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@unocss/vite",
+    "lastPublish": "2025-12-02T16:47:30.053Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@zilliz/milvus2-sdk-node",
+    "lastPublish": "2025-11-21T10:16:34.658Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "fengari",
+    "lastPublish": "2022-05-02T07:21:11.748Z",
+    "diffMonths": 43,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "eslint-plugin-cypress",
+    "lastPublish": "2025-10-01T14:16:46.771Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@playkit-js/playkit-js-ui",
+    "lastPublish": "2025-12-02T14:48:57.989Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "eslint-plugin-header",
+    "lastPublish": "2022-06-17T20:32:22.890Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@baseplate-sdk/utils",
+    "lastPublish": "2023-11-24T04:44:11.056Z",
+    "diffMonths": 25,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@suprsend/node-sdk",
+    "lastPublish": "2025-10-01T16:42:44.950Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@ucanto/core",
+    "lastPublish": "2025-10-27T21:10:11.638Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@seidor-cloud-produtos/orbit-backend-lib",
+    "lastPublish": "2025-12-02T20:53:34.886Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-native-ratings",
+    "lastPublish": "2022-06-26T06:55:29.181Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@ardatan/grpc-reflection-js",
+    "lastPublish": "2022-07-19T16:50:38.076Z",
+    "diffMonths": 41,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "ngn-chassis",
+    "lastPublish": "2022-06-21T07:29:42.165Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@jshomee/js-ai",
+    "lastPublish": "2024-07-30T14:42:36.053Z",
+    "diffMonths": 17,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "whatsapp-api-js",
+    "lastPublish": "2025-11-23T06:31:18.644Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@loglayer/plugin",
+    "lastPublish": "2025-11-25T06:58:15.209Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "testcafe-reporter-minimal",
+    "lastPublish": "2025-10-09T13:28:31.966Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "build-md",
+    "lastPublish": "2025-11-01T18:54:03.313Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@nlpjs/lang-fi",
+    "lastPublish": "2025-01-23T09:16:40.045Z",
+    "diffMonths": 11,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "lib-utils-ts",
+    "lastPublish": "2023-12-14T19:42:25.346Z",
+    "diffMonths": 24,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "jhipster-core",
+    "lastPublish": "2025-08-07T04:55:01.510Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@script-wiz/lib-core",
+    "lastPublish": "2023-02-02T22:47:39.175Z",
+    "diffMonths": 34,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "util-pusher-x",
+    "lastPublish": "2022-05-22T23:52:16.385Z",
+    "diffMonths": 43,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@agoric/inter-protocol",
+    "lastPublish": "2025-12-02T22:37:50.806Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "postcss-clamp",
+    "lastPublish": "2022-05-13T06:07:10.737Z",
+    "diffMonths": 43,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@waline/api",
+    "lastPublish": "2025-01-17T06:05:29.605Z",
+    "diffMonths": 11,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "bng-react-lib",
+    "lastPublish": "2022-04-12T03:51:05.341Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-native-calendars",
+    "lastPublish": "2025-06-24T13:09:10.810Z",
+    "diffMonths": 6,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@smoovy/tween",
+    "lastPublish": "2025-11-14T23:05:54.342Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "my-node-fp",
+    "lastPublish": "2024-02-25T07:51:43.901Z",
+    "diffMonths": 22,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@bitgrow/tmf-lib",
+    "lastPublish": "2025-08-28T11:02:12.986Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "pexels",
+    "lastPublish": "2024-09-11T08:54:35.876Z",
+    "diffMonths": 15,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@b3dotfun/b3-api",
+    "lastPublish": "2025-12-02T08:47:14.629Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@zag-js/toggle-group",
+    "lastPublish": "2025-11-26T13:10:03.422Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@scalar/nestjs-api-reference",
+    "lastPublish": "2025-11-19T21:29:29.001Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@hpcc-js/preact-shim",
+    "lastPublish": "2025-10-23T08:13:31.936Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "myfanz-shared",
+    "lastPublish": "2025-09-17T13:28:28.523Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "mincu-lib",
+    "lastPublish": "2023-04-23T02:15:09.455Z",
+    "diffMonths": 32,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "zt-admin-lib",
+    "lastPublish": "2023-07-22T09:06:00.072Z",
+    "diffMonths": 29,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@jupyterlab/coreutils",
+    "lastPublish": "2025-11-18T13:25:41.328Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@mitojs/core",
+    "lastPublish": "2022-04-06T05:52:16.028Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@otplib/plugin-crypto",
+    "lastPublish": "2022-04-06T12:29:32.708Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-konva-utils",
+    "lastPublish": "2025-09-09T14:39:37.962Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-gtm-module",
+    "lastPublish": "2022-06-25T22:54:41.267Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@backstage/plugin-app-node",
+    "lastPublish": "2025-12-03T02:57:46.945Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "eslint-import-resolver-babel-module",
+    "lastPublish": "2023-01-16T20:28:10.822Z",
+    "diffMonths": 35,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@siafoundation/types",
+    "lastPublish": "2025-08-08T19:07:43.592Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@lokalise/api-contracts",
+    "lastPublish": "2025-11-24T13:50:49.438Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "wc-react",
+    "lastPublish": "2022-08-02T16:21:55.014Z",
+    "diffMonths": 40,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@chirpstack/chirpstack-api",
+    "lastPublish": "2025-10-09T10:01:45.879Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@aws-sdk/chunked-stream-reader-node",
+    "lastPublish": "2025-09-19T19:16:17.274Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@discordjs/util",
+    "lastPublish": "2025-12-03T00:03:04.114Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@steedos-ui/builder-sdk",
+    "lastPublish": "2022-12-18T12:30:05.928Z",
+    "diffMonths": 36,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "bitfinex-api-node",
+    "lastPublish": "2025-10-21T17:57:48.628Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "response-iterator",
+    "lastPublish": "2025-12-02T22:40:36.046Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "lru-memoize",
+    "lastPublish": "2022-06-19T14:30:18.793Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@zag-js/tour",
+    "lastPublish": "2025-11-26T13:10:04.080Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "unofficial-fb-chat-api",
+    "lastPublish": "2023-02-22T22:47:36.492Z",
+    "diffMonths": 34,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@node-llama-cpp/linux-arm64",
+    "lastPublish": "2025-10-26T19:44:46.240Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "mysql2",
+    "lastPublish": "2025-10-21T18:32:51.578Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "duo-api",
+    "lastPublish": "2022-06-16T01:44:51.720Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@nlpjs/core",
+    "lastPublish": "2025-01-23T09:16:33.547Z",
+    "diffMonths": 11,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@remix-run/web-file",
+    "lastPublish": "2025-10-08T16:39:20.519Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "lucide-react-native",
+    "lastPublish": "2025-11-26T08:29:57.056Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@trevoreyre/autocomplete-js",
+    "lastPublish": "2024-09-09T11:02:25.330Z",
+    "diffMonths": 15,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "app-builder-lib",
+    "lastPublish": "2025-12-01T20:28:03.562Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@enonic-types/lib-context",
+    "lastPublish": "2025-12-01T11:19:49.688Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@hi18n/core",
+    "lastPublish": "2025-09-17T11:31:52.330Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@tienhc/test-lib-tienhc",
+    "lastPublish": "2023-05-11T07:39:36.257Z",
+    "diffMonths": 31,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@babel/plugin-external-helpers",
+    "lastPublish": "2025-10-23T14:44:26.825Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@pdfme/pdf-lib",
+    "lastPublish": "2025-12-01T04:43:02.366Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@noble/secp256k1",
+    "lastPublish": "2025-09-09T01:26:26.500Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "pg-bind",
+    "lastPublish": "2022-05-12T20:23:33.189Z",
+    "diffMonths": 43,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@tsconfig/react-native",
+    "lastPublish": "2025-11-13T04:20:03.344Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@stencil/react-output-target",
+    "lastPublish": "2025-10-28T14:31:25.435Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "web3-eth-personal",
+    "lastPublish": "2025-08-14T11:04:10.362Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@cybrid/cybrid-api-organization-angular",
+    "lastPublish": "2025-12-02T17:15:35.235Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@fink/std-lib",
+    "lastPublish": "2022-04-05T10:51:57.993Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-devtools-core",
+    "lastPublish": "2025-10-20T18:06:18.763Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "soulswap-lib",
+    "lastPublish": "2022-05-18T08:54:20.289Z",
+    "diffMonths": 43,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "esbuild-plugin-tsc",
+    "lastPublish": "2025-02-24T19:17:19.690Z",
+    "diffMonths": 10,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@nestled/module-util",
+    "lastPublish": "2022-04-06T08:12:27.802Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "path-posix",
+    "lastPublish": "2022-06-23T14:38:49.659Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "webflow-api",
+    "lastPublish": "2025-11-05T16:45:11.174Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "eslint-plugin-vitest",
+    "lastPublish": "2024-04-23T14:13:00.705Z",
+    "diffMonths": 20,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@rspack/binding-linux-x64-musl",
+    "lastPublish": "2025-12-02T08:24:41.893Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "estree-util-build-jsx",
+    "lastPublish": "2023-10-22T08:22:32.108Z",
+    "diffMonths": 26,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@nlpjs/lang-hy",
+    "lastPublish": "2025-01-23T09:16:40.757Z",
+    "diffMonths": 11,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@tatumcom/js",
+    "lastPublish": "2023-07-13T09:37:09.866Z",
+    "diffMonths": 29,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "sails-js-util",
+    "lastPublish": "2025-10-04T14:39:40.995Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-lazylog",
+    "lastPublish": "2022-06-26T00:58:13.702Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "gulp-postcss",
+    "lastPublish": "2025-10-17T09:30:24.449Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@figma/plugin-typings",
+    "lastPublish": "2025-11-20T20:24:02.667Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@btielen/pdf-lib-fontkit",
+    "lastPublish": "2022-04-04T20:52:47.923Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "cim-gws-lib",
+    "lastPublish": "2023-02-17T13:23:13.758Z",
+    "diffMonths": 34,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@react-types/select",
+    "lastPublish": "2025-11-24T09:12:03.375Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "chromadb-js-bindings-darwin-x64",
+    "lastPublish": "2025-11-18T09:36:10.777Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "jquery-datepicker",
+    "lastPublish": "2022-06-19T05:01:22.277Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@vuepress/plugin-google-analytics",
+    "lastPublish": "2025-10-31T00:51:34.787Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@types/x509.js",
+    "lastPublish": "2025-08-03T08:01:10.015Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@babel/plugin-syntax-json-strings",
+    "lastPublish": "2022-06-12T15:01:02.526Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@abtnode/cron",
+    "lastPublish": "2025-12-02T12:29:28.062Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@docsearch/react",
+    "lastPublish": "2025-11-10T21:30:27.075Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@node-red-contrib-themes/theme-collection",
+    "lastPublish": "2025-07-29T15:47:11.131Z",
+    "diffMonths": 5,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "js-tokens",
+    "lastPublish": "2024-11-22T17:21:10.707Z",
+    "diffMonths": 13,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "vln-lib",
+    "lastPublish": "2022-06-28T18:04:09.672Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "fela-plugin-unit",
+    "lastPublish": "2022-11-16T14:49:29.314Z",
+    "diffMonths": 37,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-world-flags",
+    "lastPublish": "2023-10-02T11:29:31.900Z",
+    "diffMonths": 26,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "storyblok-js-client",
+    "lastPublish": "2025-11-24T14:26:47.106Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-data-grid",
+    "lastPublish": "2025-10-07T15:06:14.002Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@zag-js/floating-panel",
+    "lastPublish": "2025-11-26T13:09:51.436Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "eslint-plugin-barrel-files",
+    "lastPublish": "2025-02-14T14:23:35.755Z",
+    "diffMonths": 10,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@mparticle/data-planning-node",
+    "lastPublish": "2025-11-18T03:36:06.681Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-select-async-paginate",
+    "lastPublish": "2025-10-01T13:20:15.845Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "gtomy-lib",
+    "lastPublish": "2025-10-08T14:05:56.277Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "unleash-client",
+    "lastPublish": "2025-10-29T12:36:24.550Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@fluentui/react-focus",
+    "lastPublish": "2025-11-26T09:33:13.232Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@mux/mux-node",
+    "lastPublish": "2025-12-01T21:47:41.134Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@react-native-community/cli",
+    "lastPublish": "2025-11-05T22:03:56.367Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "today-util",
+    "lastPublish": "2023-07-31T00:36:31.483Z",
+    "diffMonths": 29,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@azure/msal-node-extensions",
+    "lastPublish": "2025-11-19T23:49:53.840Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "explain-regexp",
+    "lastPublish": "2023-04-09T08:45:28.167Z",
+    "diffMonths": 32,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-responsive-carousel",
+    "lastPublish": "2022-06-26T07:55:44.683Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@nice-devone/shared-apps-lib",
+    "lastPublish": "2025-11-23T07:27:48.056Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "pngjs",
+    "lastPublish": "2023-02-20T06:59:21.875Z",
+    "diffMonths": 34,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "node-red-node-xmpp",
+    "lastPublish": "2024-06-14T15:39:50.682Z",
+    "diffMonths": 18,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@helia/interface",
+    "lastPublish": "2025-11-27T12:14:30.849Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "google-translate-api",
+    "lastPublish": "2022-06-18T13:31:28.876Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@rbxts-js/jest-message-util",
+    "lastPublish": "2025-11-14T23:59:03.351Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "ofetch",
+    "lastPublish": "2025-11-01T08:47:11.869Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "timestamp-utils",
+    "lastPublish": "2022-07-14T16:11:28.513Z",
+    "diffMonths": 41,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-docgen-typescript-plugin",
+    "lastPublish": "2024-06-19T19:18:35.362Z",
+    "diffMonths": 18,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@assecosolutions/fox-common-models",
+    "lastPublish": "2025-10-28T13:38:21.964Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "babel-plugin-react-native-web",
+    "lastPublish": "2025-10-16T15:09:50.250Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@polkadot/wasm-bridge",
+    "lastPublish": "2025-11-24T08:24:19.319Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "tdesign-react",
+    "lastPublish": "2025-11-28T13:23:55.879Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@umijs/renderer-react",
+    "lastPublish": "2025-12-03T08:23:22.811Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@onedialog.io/od-message-lib",
+    "lastPublish": "2025-11-14T11:30:02.040Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "rc-slider",
+    "lastPublish": "2025-09-11T09:26:25.938Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "grunt-jasmine-node",
+    "lastPublish": "2022-12-02T08:58:31.994Z",
+    "diffMonths": 36,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@cspell/eslint-plugin",
+    "lastPublish": "2025-12-01T19:52:50.415Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@octokit/rest",
+    "lastPublish": "2025-10-31T20:59:36.986Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@gluestack-style/react",
+    "lastPublish": "2024-07-09T09:31:11.943Z",
+    "diffMonths": 17,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "is-uuid",
+    "lastPublish": "2022-06-19T02:52:28.391Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "eslint-plugin-valtio",
+    "lastPublish": "2024-12-16T19:11:56.699Z",
+    "diffMonths": 12,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "etherscan-api",
+    "lastPublish": "2023-01-07T12:32:17.157Z",
+    "diffMonths": 35,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "ukelli-ui",
+    "lastPublish": "2022-05-22T16:55:45.254Z",
+    "diffMonths": 43,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "autumn-js",
+    "lastPublish": "2025-11-19T15:10:48.146Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@react-pdf/font",
+    "lastPublish": "2025-09-23T21:28:40.856Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@firebase/auth",
+    "lastPublish": "2025-12-01T20:46:18.574Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "eservices-core",
+    "lastPublish": "2025-11-27T09:20:19.729Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "is-my-ip-valid",
+    "lastPublish": "2022-05-06T05:07:25.540Z",
+    "diffMonths": 43,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "openvidu-node-client",
+    "lastPublish": "2025-01-14T17:46:36.505Z",
+    "diffMonths": 11,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@lightsparkdev/core",
+    "lastPublish": "2025-10-28T18:05:07.934Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@oxc-parser/binding-linux-x64-musl",
+    "lastPublish": "2025-12-02T09:26:21.048Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-helmet-async",
+    "lastPublish": "2024-05-07T02:58:57.723Z",
+    "diffMonths": 19,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "buttercms",
+    "lastPublish": "2025-09-04T15:27:06.209Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "get-intrinsic",
+    "lastPublish": "2025-09-30T16:34:34.522Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@firebase/util",
+    "lastPublish": "2025-12-01T20:45:24.857Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "mint-common",
+    "lastPublish": "2025-11-14T12:16:07.633Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@solana/spl-token-metadata",
+    "lastPublish": "2025-06-02T16:11:27.590Z",
+    "diffMonths": 6,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "error-overlay-webpack-plugin",
+    "lastPublish": "2022-11-14T09:36:51.381Z",
+    "diffMonths": 37,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@ctx-core/matrix",
+    "lastPublish": "2024-09-01T17:08:30.972Z",
+    "diffMonths": 15,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "streamx",
+    "lastPublish": "2025-09-22T08:59:53.278Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "react-easy-swipe",
+    "lastPublish": "2023-01-25T01:57:45.823Z",
+    "diffMonths": 35,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@orval/zod",
+    "lastPublish": "2025-11-24T14:21:37.069Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@vue/apollo-composable",
+    "lastPublish": "2025-03-11T13:30:49.821Z",
+    "diffMonths": 9,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@adobe/create-aio-lib",
+    "lastPublish": "2025-06-16T12:45:33.907Z",
+    "diffMonths": 6,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@atproto/xrpc",
+    "lastPublish": "2025-11-24T21:52:49.343Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "cms-icons-lib",
+    "lastPublish": "2024-01-17T14:08:59.626Z",
+    "diffMonths": 23,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@mongosh/js-multiline-to-singleline",
+    "lastPublish": "2025-07-18T08:24:44.403Z",
+    "diffMonths": 5,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@baoxia/apirequestutil.javascript",
+    "lastPublish": "2025-10-09T12:19:52.720Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "miniapp-builder-shared",
+    "lastPublish": "2022-05-09T09:56:35.426Z",
+    "diffMonths": 43,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "recombee-js-api-client",
+    "lastPublish": "2025-12-02T12:47:33.555Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "mdast-util-gfm",
+    "lastPublish": "2025-02-10T12:33:52.509Z",
+    "diffMonths": 10,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@mdit/plugin-demo",
+    "lastPublish": "2025-10-16T04:44:43.053Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "babel-plugin-dynamic-import-node",
+    "lastPublish": "2024-11-08T00:34:49.605Z",
+    "diffMonths": 13,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "clevertap-react-native",
+    "lastPublish": "2025-10-03T08:59:32.073Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "json-api-normalizer",
+    "lastPublish": "2022-06-19T06:11:13.356Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "rc-progress",
+    "lastPublish": "2024-03-22T03:27:47.831Z",
+    "diffMonths": 21,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@react-types/meter",
+    "lastPublish": "2025-11-24T09:11:34.613Z",
+    "diffMonths": 1,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "esbuild-plugin-node-externals",
+    "lastPublish": "2022-11-21T09:12:59.030Z",
+    "diffMonths": 37,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "npm-util",
+    "lastPublish": "2022-06-22T09:41:50.223Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@google-cloud/monitoring",
+    "lastPublish": "2025-10-13T21:53:51.922Z",
+    "diffMonths": 2,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@ynnhee/cloudbase-util",
+    "lastPublish": "2025-08-20T03:27:24.825Z",
+    "diffMonths": 4,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "color-util",
+    "lastPublish": "2022-06-13T06:31:40.211Z",
+    "diffMonths": 42,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "node-clipboardy",
+    "lastPublish": "2022-05-10T23:54:48.236Z",
+    "diffMonths": 43,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "egg-core",
+    "lastPublish": "2025-09-13T15:21:19.742Z",
+    "diffMonths": 3,
+    "dormant": false,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@rnters/requests",
+    "lastPublish": "2022-04-06T20:19:01.277Z",
+    "diffMonths": 44,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@rexxars/react-json-inspector",
+    "lastPublish": "2024-12-11T21:27:36.869Z",
+    "diffMonths": 12,
+    "dormant": true,
+    "hasTimeMetadata": true
+  },
+  {
+    "package": "@firebase/firestore",
+    "lastPublish": "2025-12-01T20:48:27.566Z",
+    "diffMonths": 0,
+    "dormant": false,
+    "hasTimeMetadata": true
+  }
+]

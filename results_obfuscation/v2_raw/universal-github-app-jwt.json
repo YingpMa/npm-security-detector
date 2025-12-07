@@ -1,0 +1,34 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/universal-github-app-jwt/package",
+  "fileCount": 7,
+  "results": [
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/crypto-native.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/crypto-node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/get-token.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/deno.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/node.test.js",
+      "obfuscated": false
+    }
+  ]
+}

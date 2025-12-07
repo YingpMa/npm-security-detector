@@ -1,0 +1,70 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/offline-plugin/package",
+  "fileCount": 16,
+  "results": [
+    {
+      "file": "lib/app-cache.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/default-options.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/loaders/fonts-css.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/loaders/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/misc/async-waituntil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/misc/get-minification-plugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/misc/runtime-loader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/misc/sw-loader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/misc/sw-polyfill.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/misc/sw-template.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/misc/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/service-worker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "runtime.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tpls/empty-entry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tpls/runtime-template.js",
+      "obfuscated": false
+    }
+  ]
+}

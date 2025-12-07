@@ -1,0 +1,806 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@truedat+core/package",
+  "fileCount": 200,
+  "results": [
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/__tests__/routesTree.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api/queries.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/ActiveRoute.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/AddMemberForm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/AddResourceMember.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/AdminMenu.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/AiMenu.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Alert.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/AlertExporter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/AlertMessage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/ArrayDecorator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Authorized.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/AvailableFilters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/CSVFileModal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/CardGroupsAccordion.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/CatalogMenu.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/CommentRow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Comments.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/CommentsForm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/CommentsLoader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/ConfirmModal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/CursorPagination.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/DashboardMenu.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Date.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/DateFilter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/DateRangeFilter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/DateTime.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/DescriptionInput.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/DomainSelector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/DropdownMenuItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/ErrorBoundary.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/FieldLabel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/FilterDropdown.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/FilterItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/FilterMultilevelDropdown.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/FiltersLoader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/GenericCrumbs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/GlossaryMenu.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/GrantMenu.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Graph.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/GroupActions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Hierarchy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/HierarchyFilterDropdown.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/HierarchyNodeFinder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/HierarchySelector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/HistoryBackButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/IngestMenu.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/LanguagesTabs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/LineageMenu.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Loading.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/MembersMenu.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/ModalSaveFilter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/NodeOpenActions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/OptionGroup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/OptionModal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/OriginLabel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Pagination.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/QualityMenu.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/QxMenu.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Redirector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/ResourceMember.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/ResourceMembers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/ResourceMembersActions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/RichTextEditor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/RouteListener.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/SafeLink.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/ScrollToTop.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/SearchFilterDropdown.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/SearchInput.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/SearchMenu.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/SelectedFilters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/SideMenu.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/SidebarToggle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/StructureFilterItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Submenu.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/SystemsLoader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/TaxonomyMenu.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/TemplateSelector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/TemplatesLoader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/TreeSelector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/Unauthorized.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/UploadModal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/UserFilter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/UserFilters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/AddMemberForm.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/AddResourceMember.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/AdminMenu.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/Alert.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/ArrayDecorator.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/AvailableFilters.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/CardGroupsAccordion.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/CatalogMenu.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/CommentsLoader.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/CursorPagination.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/DashboardMenu.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/DateFilter.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/DateTime.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/DomainSelector.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/DropdownMenuItem.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/FilterDropdown.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/FilterItem.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/FilterMultilevelDropdown.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/FiltersLoader.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/GenericCrumbs.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/GlossaryMenu.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/GrantMenu.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/GroupActions.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/Hierarchy.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/HierarchyFilterDropdown.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/HierarchyNodeFinder.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/HierarchySelector.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/HistoryBackButton.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/IngestMenu.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/LineageMenu.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/Loading.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/MembersMenu.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/ModalSaveFilter.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/OptionGroup.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/OriginLabel.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/Pagination.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/QualityMenu.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/Redirector.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/ResourceMembers.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/ResourceMembersAction.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/RouteListener.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/SafeLink.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/SearchDateFilter.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/SearchFilterDropdown.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/SearchInput.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/SearchMenu.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/SelectedFilters.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/SideMenu.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/StructureFilterItem.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/Submenu.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/SystemsLoader.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/TaxonomyMenu.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/TemplateSelector.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/TemplatesLoader.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/TreeSelector.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/UploadModal.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/__tests__/UserFilters.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/common/SearchContextWrapper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/components/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/hooks/__mocks__/useAuthorized.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/hooks/__mocks__/useUserFilters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/hooks/__tests__/useAuthorized.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/hooks/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/hooks/useAclEntries.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/hooks/useActionDomains.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/hooks/useActiveRoute.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/hooks/useActiveRoutes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/hooks/useAuthorized.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/hooks/useAuthorizedAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/hooks/useHierarchies.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/hooks/useIsOverflow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/hooks/useLocales.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/hooks/useMessages.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/hooks/useOnScreen.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/hooks/useOperators.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/hooks/usePath.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/hooks/useTemplate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/hooks/useUserFilters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/hooks/useWindowSize.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/i18n/components/EditableCell.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/i18n/components/I18nRoutes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/i18n/components/LangProvider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/i18n/components/LangProviderWrapper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/i18n/components/Languages.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/i18n/components/MessageForm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/i18n/components/Messages.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/i18n/components/MessagesTable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/i18n/components/NewMessage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/i18n/components/__tests__/EditableCell.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/i18n/components/__tests__/I18nRoutes.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/i18n/components/__tests__/MessageForm.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/i18n/components/__tests__/Messages.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/i18n/components/__tests__/NewMessage.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/i18n/components/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/i18n/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/messages/__tests__/messages.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/messages/en.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/messages/es.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/messages/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/reducers/__tests__/comments.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/reducers/__tests__/commentsLoading.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/reducers/__tests__/commentsResource.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/reducers/__tests__/coreMessage.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/reducers/__tests__/dashboardDomains.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/reducers/__tests__/sidebarVisible.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/reducers/__tests__/systems.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/reducers/__tests__/systemsLoading.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/reducers/comments.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/reducers/commentsLoading.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/reducers/commentsResource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/reducers/coreMessage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/reducers/dashboardDomains.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/reducers/index.js",
+      "obfuscated": false
+    }
+  ]
+}

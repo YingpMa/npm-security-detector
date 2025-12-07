@@ -1,0 +1,70 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@tim-code+my-util/package",
+  "fileCount": 16,
+  "results": [
+    {
+      "file": "src/array.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/array.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/find.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/find.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/fs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/fs.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/math.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/math.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/object.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/object.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/promise.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/promise.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/run.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/time.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/time.test.js",
+      "obfuscated": false
+    }
+  ]
+}

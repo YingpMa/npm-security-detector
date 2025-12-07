@@ -1,0 +1,70 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/rtcpeerconnection-shim/package",
+  "fileCount": 16,
+  "results": [
+    {
+      "file": "getcommoncapabilities.js",
+      "obfuscated": false
+    },
+    {
+      "file": "karma.conf.js",
+      "obfuscated": false
+    },
+    {
+      "file": "rtcdtlstransport.js",
+      "obfuscated": false
+    },
+    {
+      "file": "rtcicegatherer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "rtcicetransport.js",
+      "obfuscated": false
+    },
+    {
+      "file": "rtcpeerconnection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "rtcrtpsender.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/gummock.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/ortcmock.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/rtcicegatherer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/rtcicetransport.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/rtcpeerconnection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/rtcrtpsender.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "writemediasection.js",
+      "obfuscated": false
+    }
+  ]
+}

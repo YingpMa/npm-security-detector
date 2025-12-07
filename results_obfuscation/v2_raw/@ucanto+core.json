@@ -1,0 +1,78 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@ucanto+core/package",
+  "fileCount": 18,
+  "results": [
+    {
+      "file": "src/car.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/cbor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/dag.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/delegation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/invocation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lib.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/link.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/message.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/receipt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/result.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/schema/did.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/schema/link.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/schema/principal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/schema/schema.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/schema/text.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/schema/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/schema/uri.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/schema.js",
+      "obfuscated": false
+    }
+  ]
+}

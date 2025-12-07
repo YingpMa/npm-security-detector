@@ -1,0 +1,10 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@knightly+vue__compiler-core/package",
+  "fileCount": 1,
+  "results": [
+    {
+      "file": "index.js",
+      "obfuscated": false
+    }
+  ]
+}

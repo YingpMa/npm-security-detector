@@ -1,0 +1,34 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@authicjs+lib-ts/package",
+  "fileCount": 7,
+  "results": [
+    {
+      "file": "lib/Model.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Project.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/User.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/express/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/express/validateToken.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/express/validateTokenScopes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    }
+  ]
+}

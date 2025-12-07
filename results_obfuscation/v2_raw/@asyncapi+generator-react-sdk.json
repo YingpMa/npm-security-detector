@@ -1,0 +1,106 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@asyncapi+generator-react-sdk/package",
+  "fileCount": 25,
+  "results": [
+    {
+      "file": "lib/components/File.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Indent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Text.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/__tests__/File.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/__tests__/Indent.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/__tests__/Text.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/renderer/__tests__/file-tests/async-template.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/renderer/__tests__/file-tests/file-templates.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/renderer/__tests__/file-tests/single-template.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/renderer/__tests__/renderer.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/renderer/__tests__/template.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/renderer/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/renderer/renderer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/renderer/template.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/transpiler/__tests__/transpiler.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/transpiler/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/transpiler/transpiler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/getStatsInDir.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/isJsFile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/withIndendation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/withNewLines.js",
+      "obfuscated": false
+    }
+  ]
+}

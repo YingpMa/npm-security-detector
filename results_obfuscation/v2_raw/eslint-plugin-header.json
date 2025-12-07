@@ -1,0 +1,34 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/eslint-plugin-header/package",
+  "fileCount": 7,
+  "results": [
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/comment-parser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/header.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/lib/comment-parser-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/lib/rules/header.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/support/block.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/support/line.js",
+      "obfuscated": false
+    }
+  ]
+}

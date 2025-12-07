@@ -1,0 +1,18 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@babel+plugin-transform-react-jsx/package",
+  "fileCount": 3,
+  "results": [
+    {
+      "file": "lib/create-plugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/development.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    }
+  ]
+}

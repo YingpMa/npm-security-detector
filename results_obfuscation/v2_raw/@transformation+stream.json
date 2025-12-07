@@ -1,0 +1,74 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@transformation+stream/package",
+  "fileCount": 17,
+  "results": [
+    {
+      "file": "src/Chunk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/concat.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/concat.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/fromFileStream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/fromFileStream.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/fromStream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/fromStream.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lineBoundaryRegex.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lines.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lines.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/pipe.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/pipe.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/toFileStream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/toFileStream.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/toStream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/toStream.spec.js",
+      "obfuscated": false
+    }
+  ]
+}

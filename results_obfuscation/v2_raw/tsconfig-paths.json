@@ -1,0 +1,82 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/tsconfig-paths/package",
+  "fileCount": 19,
+  "results": [
+    {
+      "file": "lib/__tests__/config-loader.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/__tests__/data/match-path-data.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/__tests__/filesystem.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/__tests__/mapping-entry.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/__tests__/match-path-async.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/__tests__/match-path-sync.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/__tests__/try-path.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/__tests__/tsconfig-loader.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/config-loader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/filesystem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/mapping-entry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/match-path-async.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/match-path-sync.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/options.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/register.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/try-path.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/tsconfig-loader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "register.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/docusaurus-plugin-openapi-docs/package",
+  "fileCount": 53,
+  "results": [
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/markdown/createArrayBracket.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/markdown/createAuthentication.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/markdown/createAuthorization.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/markdown/createCallbackMethodEndpoint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/markdown/createCallbacks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/markdown/createContactInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/markdown/createDeprecationNotice.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/markdown/createDescription.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/markdown/createDetails.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/markdown/createDetailsSummary.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/markdown/createDownload.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/markdown/createHeading.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/markdown/createLicense.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/markdown/createLogo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/markdown/createMethodEndpoint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/markdown/createParamsDetails.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/markdown/createRequestBodyDetails.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/markdown/createRequestHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/markdown/createRequestSchema.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/markdown/createResponseSchema.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/markdown/createSchema.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/markdown/createSchema.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/markdown/createStatusCodes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/markdown/createTermsOfService.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/markdown/createVendorExtensions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/markdown/createVersionBadge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/markdown/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/markdown/schema.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/markdown/schema.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/markdown/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/openapi/createRequestExample.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/openapi/createResponseExample.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/openapi/createSchemaExample.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/openapi/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/openapi/openapi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/openapi/openapi.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/openapi/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/openapi/utils/loadAndResolveSpec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/openapi/utils/services/OpenAPIParser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/openapi/utils/services/RedocNormalizedOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/openapi/utils/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/openapi/utils/types/open-api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/openapi/utils/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/openapi/utils/utils/JsonPointer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/openapi/utils/utils/helpers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/openapi/utils/utils/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/openapi/utils/utils/openapi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/openapi/webhooks.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/options.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/sidebars/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/sidebars/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/pocket-js-core/package",
+  "fileCount": 11,
+  "results": [
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/models/blockchain.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/models/dispatch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/models/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/models/node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/models/relay.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/models/report.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/models/wallet.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/pocket.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/pocket.js",
+      "obfuscated": false
+    }
+  ]
+}

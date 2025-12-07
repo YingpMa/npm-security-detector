@@ -1,0 +1,130 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@chirpstack+chirpstack-api/package",
+  "fileCount": 31,
+  "results": [
+    {
+      "file": "api/application_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/application_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/device_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/device_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/device_profile_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/device_profile_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/device_profile_template_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/device_profile_template_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/fuota_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/fuota_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/gateway_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/gateway_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/internal_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/internal_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/multicast_group_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/multicast_group_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/relay_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/relay_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/tenant_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/tenant_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/user_grpc_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/user_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "common/common_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "google/api/annotations_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "google/api/http_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "gw/gw_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "integration/integration_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "stream/api_request_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "stream/backend_interfaces_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "stream/frame_pb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "stream/meta_pb.js",
+      "obfuscated": false
+    }
+  ]
+}

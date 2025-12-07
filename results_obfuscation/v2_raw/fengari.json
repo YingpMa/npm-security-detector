@@ -1,0 +1,330 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/fengari/package",
+  "fileCount": 81,
+  "results": [
+    {
+      "file": "src/defs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/fengari.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/fengaricore.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/fengarilib.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lapi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lauxlib.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lbaselib.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lcode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lcorolib.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ldblib.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ldebug.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ldo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ldump.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lfunc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/linit.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/liolib.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ljstype.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/llex.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/llimits.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lmathlib.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/loadlib.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lobject.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lopcodes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/loslib.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lparser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lstate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lstring.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lstrlib.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ltable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ltablib.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ltm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lua.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/luaconf.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lualib.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lundump.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lutf8lib.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lvm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lzio.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/defs.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/lapi.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/lauxlib.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/lbaselib.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/lcorolib.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/ldblib.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/ldebug.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/lexparse.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/lmathlib.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/load.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/loadlib.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/loslib.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/lstrlib.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/ltablib.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/ltm.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/lua.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/lutf8lib.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/lvm.test.js",
+      "obfuscated": true
+    },
+    {
+      "file": "test/manual-tests/debug-cli.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-suite/api.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-suite/attrib.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-suite/bitwise.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-suite/calls.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-suite/closure.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-suite/code.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-suite/constructs.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-suite/coroutine.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-suite/db.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-suite/errors.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-suite/events.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-suite/goto.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-suite/literals.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-suite/locals.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-suite/ltests.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-suite/math.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-suite/nextvar.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-suite/pm.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-suite/sort.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-suite/strings.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-suite/tpack.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-suite/utf8.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-suite/vararg.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/tests.js",
+      "obfuscated": false
+    }
+  ]
+}

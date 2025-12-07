@@ -1,0 +1,26 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/node-yaml/package",
+  "fileCount": 5,
+  "results": [
+    {
+      "file": "lib/node-yaml.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/isNumber.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/isPlainObject.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/normalizePath.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/toAbsolute.js",
+      "obfuscated": false
+    }
+  ]
+}

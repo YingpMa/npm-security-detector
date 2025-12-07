@@ -1,0 +1,30 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@vue+cli-plugin-router/package",
+  "fileCount": 6,
+  "results": [
+    {
+      "file": "generator/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "generator/injectUseRouter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "generator/template/src/router/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "generator/template-vue3/src/router/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "prompts.js",
+      "obfuscated": false
+    }
+  ]
+}

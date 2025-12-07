@@ -1,0 +1,122 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/mdast-util-to-hast/package",
+  "fileCount": 29,
+  "results": [
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/footer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/handlers/blockquote.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/handlers/break.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/handlers/code.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/handlers/delete.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/handlers/emphasis.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/handlers/footnote-reference.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/handlers/heading.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/handlers/html.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/handlers/image-reference.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/handlers/image.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/handlers/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/handlers/inline-code.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/handlers/link-reference.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/handlers/link.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/handlers/list-item.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/handlers/list.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/handlers/paragraph.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/handlers/root.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/handlers/strong.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/handlers/table-cell.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/handlers/table-row.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/handlers/table.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/handlers/text.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/handlers/thematic-break.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/revert.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/state.js",
+      "obfuscated": false
+    }
+  ]
+}

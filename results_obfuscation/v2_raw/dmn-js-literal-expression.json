@@ -1,0 +1,146 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/dmn-js-literal-expression/package",
+  "fileCount": 35,
+  "results": [
+    {
+      "file": "lib/Editor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Viewer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/ElementRegistry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/features/decision-properties/DecisionProperties.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/features/decision-properties/DecisionPropertiesEditor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/features/decision-properties/components/DecisionPropertiesComponent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/features/decision-properties/components/DecisionPropertiesEditorComponent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/features/decision-properties/editor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/features/decision-properties/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/features/editor-actions/EditorActions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/features/editor-actions/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/features/keyboard/Keyboard.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/features/keyboard/KeyboardUtil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/features/keyboard/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/features/literal-expression-properties/LiteralExpressionProperties.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/features/literal-expression-properties/LiteralExpressionPropertiesEditor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/features/literal-expression-properties/components/LiteralExpressionPropertiesComponent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/features/literal-expression-properties/components/LiteralExpressionPropertiesEditorComponent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/features/literal-expression-properties/editor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/features/literal-expression-properties/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/features/modeling/Modeling.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/features/modeling/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/features/powered-by/PoweredBy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/features/powered-by/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/features/textarea/Textarea.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/features/textarea/TextareaEditor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/features/textarea/components/TextareaComponent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/features/textarea/components/TextareaEditorComponent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/features/textarea/editor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/features/textarea/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/features/view-drd/ViewDrd.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/features/view-drd/components/ViewDrdComponent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/features/view-drd/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    }
+  ]
+}

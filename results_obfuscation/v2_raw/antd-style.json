@@ -1,0 +1,414 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/antd-style/package",
+  "fileCount": 102,
+  "results": [
+    {
+      "file": "es/context/ThemeModeContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/context/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/CacheManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/createCSS.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/createEmotion.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/createSerializeStyles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/insertStyles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/factories/createEmotionContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/factories/createGlobalStyle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/factories/createStyish.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/factories/createStyleProvider/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/factories/createStyledThemeProvider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/factories/createStyles/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/factories/createStyles/response.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/factories/createStyles/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/factories/createThemeProvider/AntdProvider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/factories/createThemeProvider/ThemeSwitcher.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/factories/createThemeProvider/TokenContainer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/factories/createThemeProvider/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/factories/createThemeProvider/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/factories/createUseTheme.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/functions/createInstance.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/functions/extractStaticStyle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/functions/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/functions/setupStyled.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hooks/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hooks/useAntdStylish.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hooks/useAntdTheme.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hooks/useAntdToken.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hooks/useResponsive.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hooks/useThemeMode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/re-export.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/stylish/button.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/types/appearance.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/types/css.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/types/function.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/types/genericUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/types/response.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/types/styleManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/types/styled.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/types/theme.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/utils/convertStylish.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/utils/createEmotionServer/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/utils/css.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/utils/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/utils/matchBrowserPrefers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/utils/responsive.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/utils/safeStartTransition.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/context/ThemeModeContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/context/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/CacheManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/createCSS.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/createEmotion.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/createSerializeStyles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/core/insertStyles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/factories/createEmotionContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/factories/createGlobalStyle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/factories/createStyish.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/factories/createStyleProvider/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/factories/createStyledThemeProvider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/factories/createStyles/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/factories/createStyles/response.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/factories/createStyles/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/factories/createThemeProvider/AntdProvider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/factories/createThemeProvider/ThemeSwitcher.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/factories/createThemeProvider/TokenContainer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/factories/createThemeProvider/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/factories/createThemeProvider/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/factories/createUseTheme.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/functions/createInstance.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/functions/extractStaticStyle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/functions/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/functions/setupStyled.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useAntdStylish.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useAntdTheme.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useAntdToken.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useResponsive.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useThemeMode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/re-export.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/stylish/button.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types/appearance.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types/css.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types/function.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types/genericUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types/response.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types/styleManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types/styled.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types/theme.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/convertStylish.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/createEmotionServer/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/css.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/matchBrowserPrefers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/responsive.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/safeStartTransition.js",
+      "obfuscated": false
+    }
+  ]
+}

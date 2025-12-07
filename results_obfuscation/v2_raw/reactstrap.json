@@ -1,0 +1,806 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/reactstrap/package",
+  "fileCount": 200,
+  "results": [
+    {
+      "file": "lib/Accordion.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/AccordionBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/AccordionContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/AccordionHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/AccordionItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Alert.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Badge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Breadcrumb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/BreadcrumbItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Button.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ButtonDropdown.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ButtonGroup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ButtonToggle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ButtonToolbar.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Card.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/CardBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/CardColumns.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/CardDeck.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/CardFooter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/CardGroup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/CardHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/CardImg.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/CardImgOverlay.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/CardLink.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/CardSubtitle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/CardText.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/CardTitle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Carousel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/CarouselCaption.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/CarouselContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/CarouselControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/CarouselIndicators.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/CarouselItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/CloseButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Col.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Collapse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Container.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Dropdown.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/DropdownContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/DropdownItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/DropdownMenu.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/DropdownToggle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Fade.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Form.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/FormFeedback.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/FormGroup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/FormText.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Input.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/InputGroup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/InputGroupContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/InputGroupText.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Label.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/List.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ListGroup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ListGroupItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ListGroupItemHeading.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ListGroupItemText.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ListInlineItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Media.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Modal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ModalBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ModalFooter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ModalHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Nav.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/NavItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/NavLink.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Navbar.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/NavbarBrand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/NavbarText.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/NavbarToggler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Offcanvas.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/OffcanvasBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/OffcanvasHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Pagination.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/PaginationItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/PaginationLink.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Placeholder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/PlaceholderButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Popover.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/PopoverBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/PopoverHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/PopperContent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/PopperTargetHelper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Portal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Progress.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Row.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Spinner.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/TabContent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/TabContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/TabPane.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Table.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Toast.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ToastBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ToastHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Tooltip.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/TooltipPopoverWrapper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/UncontrolledAccordion.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/UncontrolledAlert.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/UncontrolledButtonDropdown.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/UncontrolledCarousel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/UncontrolledCollapse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/UncontrolledDropdown.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/UncontrolledPopover.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/UncontrolledTooltip.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/polyfill.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/testUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Accordion.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/AccordionBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/AccordionContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/AccordionHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/AccordionItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Alert.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Badge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Breadcrumb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/BreadcrumbItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Button.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ButtonDropdown.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ButtonGroup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ButtonToggle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ButtonToolbar.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Card.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/CardBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/CardColumns.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/CardDeck.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/CardFooter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/CardGroup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/CardHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/CardImg.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/CardImgOverlay.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/CardLink.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/CardSubtitle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/CardText.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/CardTitle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Carousel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/CarouselCaption.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/CarouselContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/CarouselControl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/CarouselIndicators.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/CarouselItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/CloseButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Col.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Collapse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Container.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Dropdown.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/DropdownContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/DropdownItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/DropdownMenu.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/DropdownToggle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Fade.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Form.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/FormFeedback.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/FormGroup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/FormText.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Input.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/InputGroup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/InputGroupContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/InputGroupText.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Label.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/List.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ListGroup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ListGroupItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ListGroupItemHeading.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ListGroupItemText.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ListInlineItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Media.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Modal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ModalBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ModalFooter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/ModalHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Nav.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/NavItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/NavLink.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Navbar.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/NavbarBrand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/NavbarText.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/NavbarToggler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Offcanvas.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/OffcanvasBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/OffcanvasHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Pagination.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/PaginationItem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/PaginationLink.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Placeholder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/PlaceholderButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Popover.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/PopoverBody.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/PopoverHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/PopperContent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/PopperTargetHelper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Portal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Progress.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Row.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Spinner.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/TabContent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/TabContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/TabPane.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Table.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Toast.js",
+      "obfuscated": false
+    }
+  ]
+}

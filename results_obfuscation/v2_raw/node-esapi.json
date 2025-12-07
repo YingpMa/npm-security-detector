@@ -1,0 +1,34 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/node-esapi/package",
+  "fileCount": 7,
+  "results": [
+    {
+      "file": "lib/esapi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/public/esapi-compressed.js",
+      "obfuscated": true
+    },
+    {
+      "file": "lib/public/esapi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/public/resources/Base.esapi.properties.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/public/resources/i18n/ESAPI_Standard_en_US.properties.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/unofficial-fb-chat-api/package",
+  "fileCount": 57,
+  "results": [
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/addExternalModule.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/addUserToGroup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/changeAdminStatus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/changeArchivedStatus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/changeAvatar.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/changeBio.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/changeBlockedStatus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/changeGroupImage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/changeNickname.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/changeThreadColor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/changeThreadEmoji.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/createNewGroup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/createPoll.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/deleteMessage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/deleteThread.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/forwardAttachment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/getCurrentUserID.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/getEmojiUrl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/getFriendsList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/getMessage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/getThreadHistory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/getThreadHistoryDeprecated.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/getThreadInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/getThreadInfoDeprecated.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/getThreadList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/getThreadListDeprecated.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/getThreadPictures.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/getUserID.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/getUserInfo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/handleFriendRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/handleMessageRequest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/httpGet.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/httpPost.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/httpPostFormData.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/listenMqtt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/logout.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/markAsDelivered.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/markAsRead.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/markAsReadAll.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/markAsSeen.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/muteThread.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/removeUserFromGroup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/resolvePhotoUrl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/searchForThread.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/sendMessage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/sendTypingIndicator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/setMessageReaction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/setPostReaction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/setTitle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/threadColors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/unfriend.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/unsendMessage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/data/shareAttach.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-page.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "utils.js",
+      "obfuscated": false
+    }
+  ]
+}

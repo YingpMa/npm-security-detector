@@ -1,0 +1,66 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/ipushpull-js/package",
+  "fileCount": 15,
+  "results": [
+    {
+      "file": "copy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "docs/assets/js/main.js",
+      "obfuscated": true
+    },
+    {
+      "file": "docs/assets/js/search.js",
+      "obfuscated": true
+    },
+    {
+      "file": "fixtures/cypress.js",
+      "obfuscated": false
+    },
+    {
+      "file": "fixtures/settings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "fixtures/support/getFixtures200.js",
+      "obfuscated": false
+    },
+    {
+      "file": "fixtures/support/postFixtures200.js",
+      "obfuscated": false
+    },
+    {
+      "file": "fixtures/support/postFixtures201.js",
+      "obfuscated": false
+    },
+    {
+      "file": "fixtures/support/postFixtures400.js",
+      "obfuscated": false
+    },
+    {
+      "file": "fixtures/support/putFixtures200.js",
+      "obfuscated": false
+    },
+    {
+      "file": "fixtures/support/putFixtures400.js",
+      "obfuscated": false
+    },
+    {
+      "file": "fixtures/template.js",
+      "obfuscated": false
+    },
+    {
+      "file": "fixtures/templateFunction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "postcss.config.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@exodus+multi-account-redux/package",
+  "fileCount": 4,
+  "results": [
+    {
+      "file": "src/common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/create-definitions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/multi-account-redux.js",
+      "obfuscated": false
+    }
+  ]
+}

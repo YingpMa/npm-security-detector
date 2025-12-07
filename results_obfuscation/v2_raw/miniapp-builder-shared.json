@@ -1,0 +1,114 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/miniapp-builder-shared/package",
+  "fileCount": 27,
+  "results": [
+    {
+      "file": "lib/autoInstallNpm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/componentWrapper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/filterNativePages.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/getAppConfig.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/getPluginConfig.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/normalizeStaticConfig.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/pathHelper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/platformMap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/separateNativeRoutes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/transformConfig/adaptConfig.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/transformConfig/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/checkAliInternal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/getRouteName.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/autoInstallNpm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/getPluginConfig.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/normalizeStaticConfig.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/pathHelper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/platformMap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/separateNativeRoutes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/transformConfig/adaptConfig.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/transformConfig/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/checkAliInternal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/getRouteName.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@oxc-resolver+binding-wasm32-wasi/package",
+  "fileCount": 1,
+  "results": [
+    {
+      "file": "resolver.wasi-browser.js",
+      "obfuscated": false
+    }
+  ]
+}

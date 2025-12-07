@@ -1,0 +1,94 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/testrail-js-api/package",
+  "fileCount": 22,
+  "results": [
+    {
+      "file": "lib/api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/attachments.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/case_fields.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/case_types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/cases.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/configurations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/interfaces.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/milestones.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/plans.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/priorities.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/projects.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/reports.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/result_fields.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/results.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/runs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/sections.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/statuses.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/suites.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/templates.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/tests.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/users.js",
+      "obfuscated": false
+    }
+  ]
+}

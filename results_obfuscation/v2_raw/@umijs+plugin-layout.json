@@ -1,0 +1,34 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@umijs+plugin-layout/package",
+  "fileCount": 7,
+  "results": [
+    {
+      "file": "lib/component/Exception/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/component/logo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/layout/blankLayout.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/layout/getLayoutRenderConfig.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/copySrcFiles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/getLayoutContent.js",
+      "obfuscated": false
+    }
+  ]
+}

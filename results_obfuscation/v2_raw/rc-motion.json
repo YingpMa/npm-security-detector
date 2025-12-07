@@ -1,0 +1,110 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/rc-motion/package",
+  "fileCount": 26,
+  "results": [
+    {
+      "file": "es/CSSMotion.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/CSSMotionList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/DomWrapper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/context.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hooks/useDomMotionEvents.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hooks/useIsomorphicLayoutEffect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hooks/useNextFrame.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hooks/useStatus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hooks/useStepQueue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/interface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/util/diff.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/util/motion.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/CSSMotion.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/CSSMotionList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/DomWrapper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/context.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useDomMotionEvents.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useIsomorphicLayoutEffect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useNextFrame.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useStatus.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useStepQueue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/interface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/diff.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/motion.js",
+      "obfuscated": false
+    }
+  ]
+}

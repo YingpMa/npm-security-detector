@@ -1,0 +1,74 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@theia+plugin-ext-vscode/package",
+  "fileCount": 17,
+  "results": [
+    {
+      "file": "lib/browser/plugin-vscode-commands-contribution.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/browser/plugin-vscode-contribution.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/browser/plugin-vscode-frontend-module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common/plugin-vscode-environment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common/plugin-vscode-types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/common/plugin-vscode-uri.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/node/context/plugin-vscode-init-fe.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/node/local-vsix-file-plugin-deployer-resolver.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/node/package.spec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/node/plugin-vscode-backend-module.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/node/plugin-vscode-cli-contribution.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/node/plugin-vscode-deployer-participant.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/node/plugin-vscode-directory-handler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/node/plugin-vscode-file-handler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/node/plugin-vscode-init.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/node/plugin-vscode-utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/node/scanner-vscode.js",
+      "obfuscated": false
+    }
+  ]
+}

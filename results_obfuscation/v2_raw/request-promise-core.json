@@ -1,0 +1,26 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/request-promise-core/package",
+  "fileCount": 5,
+  "results": [
+    {
+      "file": "configure/request-next.js",
+      "obfuscated": false
+    },
+    {
+      "file": "configure/request2.js",
+      "obfuscated": false
+    },
+    {
+      "file": "errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/plumbing.js",
+      "obfuscated": false
+    }
+  ]
+}

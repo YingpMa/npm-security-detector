@@ -1,0 +1,38 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/react-konva/package",
+  "fileCount": 8,
+  "results": [
+    {
+      "file": "es/ReactKonva.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/ReactKonvaCore.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/ReactKonvaHostConfig.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/makeUpdates.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ReactKonva.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ReactKonvaCore.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ReactKonvaHostConfig.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/makeUpdates.js",
+      "obfuscated": false
+    }
+  ]
+}

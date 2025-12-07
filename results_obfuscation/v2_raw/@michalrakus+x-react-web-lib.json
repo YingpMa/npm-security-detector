@@ -1,0 +1,738 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@michalrakus+x-react-web-lib/package",
+  "fileCount": 183,
+  "results": [
+    {
+      "file": "ExportImportParam.js",
+      "obfuscated": false
+    },
+    {
+      "file": "FindParam.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XAutoComplete.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XAutoCompleteBase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XBrowseMetaBrowse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XBrowseMetaForm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XButtonIconMedium.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XButtonIconNarrow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XButtonIconSmall.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XCalendar.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XChangePasswordForm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XCheckbox.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XCheckboxBase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XDocTemplateButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XDropdown.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XDropdownForEntity.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XEditBrowse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XEditor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XEditorBase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XEnvVars.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XErrors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XExportRowsDialog.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XFieldChangeEvent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XFormBase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XFormBaseModif.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XFormBaseT.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XFormCol.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XFormDataTable2.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XFormFooter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XFormHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XFormInlineRow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XFormNavigator3.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XFormRow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XFormRowCol.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XHolders.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XHtmlRenderer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XInputDate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XInputDecimal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XInputDecimalBase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XInputFileList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XInputInterval.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XInputIntervalBase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XInputText.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XInputTextarea.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XInputTextareaBase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XLazyDataTable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XLocale.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XLoginDialog.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XLoginForm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XMultiSelect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XMultiSelectBase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XMultilineRenderer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XObject.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XParamBrowse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XParamForm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XSearchButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XToOneAssocButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XToken.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XUserBrowse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XUserForm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XUtilsCommon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XUtilsConversions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XUtilsMetadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "XUtilsMetadataCommon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "gulpfile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/administration/XBrowseMetaBrowse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/administration/XBrowseMetaForm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/administration/XParamBrowse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/administration/XParamForm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/administration/XUserBrowse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/administration/XUserForm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/administration/x-enum-enum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/administration/x-enum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/SourceCodeLinkEntity.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XAutoComplete.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XAutoCompleteBase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XAutoCompleteDT.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XButtonIconMedium.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XButtonIconNarrow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XButtonIconSmall.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XCalendar.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XChangePasswordForm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XCheckbox.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XCheckboxBase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XCheckboxDT.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XDataTable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XDropdown.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XDropdownDT.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XDropdownDTFilter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XDropdownForEntity.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XDropdownFormDTFilter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XEditBrowse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XEditColumnDialog.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XEditor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XEditorBase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XEnvVars.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XErrors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XFieldChangeEvent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XFieldSelector.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XFieldSet/XFieldSetBase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XFormBase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XFormBaseModif.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XFormBaseT.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XFormComponent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XFormComponentDT.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XFormDataTable2.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XFormDialog.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XFormFooter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XFormHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XFormNavigator3.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XFormRowCol/XFormCol.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XFormRowCol/XFormInlineRow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XFormRowCol/XFormRow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XFormRowCol/XFormRowCol.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XFtsInput.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XHolders.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XInput.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XInputDT.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XInputDate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XInputDateDT.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XInputDecimal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XInputDecimalBase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XInputDecimalDT.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XInputFileList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XInputInterval.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XInputIntervalBase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XInputIntervalDT.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XInputText.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XInputTextBase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XInputTextDT.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XInputTextarea.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XInputTextareaBase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XInputTextareaDT.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XLazyDataTable/XExportRowsDialog.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XLazyDataTable/XHtmlRenderer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XLazyDataTable/XLazyDataTable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XLazyDataTable/XMultilineRenderer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XLazyDataTable/XMultilineSwitch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XLazyDataTable/XOcfDropdown.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XLocale.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XLoginDialog.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XLoginForm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XMultiSelect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XMultiSelectBase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XObject.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XResponseError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XSearchBrowseParams.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XSearchButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XSearchButtonDT.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XSearchButtonOld.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XToOneAssocButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XToken.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/XUtilsMetadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/useXStateLocal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/useXStateSession.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/useXStateStorage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/useXStateStorageBase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/useXToken.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/modules/docTemplates/XDocTemplateButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/modules/docTemplates/xt-doc-template-field-to-join.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/modules/docTemplates/xt-doc-template.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/modules/files/x-file.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/serverApi/ExportImportParam.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/serverApi/FindParam.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/serverApi/FindResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/serverApi/XBrowseMetadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/serverApi/XEntityMetadata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/serverApi/XFileJsonField.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/serverApi/XUser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/serverApi/XUserAuthenticationIfc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/serverApi/XUtilsCommon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/serverApi/XUtilsConversions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/serverApi/XUtilsMetadataCommon.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/serverApi/x-lib-api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "useXStateLocal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "useXStateSession.js",
+      "obfuscated": false
+    },
+    {
+      "file": "useXStateStorage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "useXToken.js",
+      "obfuscated": false
+    },
+    {
+      "file": "xt-doc-template.js",
+      "obfuscated": false
+    }
+  ]
+}

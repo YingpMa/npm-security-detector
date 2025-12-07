@@ -1,0 +1,806 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@flatfile+api/package",
+  "fileCount": 200,
+  "results": [
+    {
+      "file": "Client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/accounts/client/Client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/accounts/client/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/accounts/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/accounts/types/Account.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/accounts/types/AccountPatch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/accounts/types/AccountResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/accounts/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/actions/client/Client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/actions/client/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/actions/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/actions/types/ApiActionConfigs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/actions/types/ApiActionResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/actions/types/ApiActionsResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/actions/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/agentExports/client/Client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/agentExports/client/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/agentExports/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/agentExports/types/AgentExport.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/agentExports/types/AgentExportType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/agentExports/types/GetAgentExportResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/agentExports/types/ListAgentExportsResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/agentExports/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/agents/client/Client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/agents/client/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/agents/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/agents/types/ActionListenerTemplateOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/agents/types/Agent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/agents/types/AgentConfig.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/agents/types/AgentLog.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/agents/types/AgentResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/agents/types/AgentTemplateEnum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/agents/types/AgentVersion.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/agents/types/AgentVersionResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/agents/types/AutobuildTemplateOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/agents/types/AutocastTemplateOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/agents/types/AutomapOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/agents/types/AutomapTemplateOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/agents/types/Compiler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/agents/types/ConstraintsTemplateOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/agents/types/DetailedAgentLog.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/agents/types/Execution.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/agents/types/GetAgentLogsResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/agents/types/GetDetailedAgentLogResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/agents/types/GetDetailedAgentLogsResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/agents/types/GetExecutionsResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/agents/types/ListAgentVersionsResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/agents/types/ListAgentsResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/agents/types/TemplateOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/agents/types/WebhookEgressTemplateOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/agents/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/apps/client/Client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/apps/client/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/apps/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/apps/types/App.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/apps/types/AppCreate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/apps/types/AppPatch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/apps/types/AppResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/apps/types/AppType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/apps/types/AppsResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/apps/types/ConstraintCreate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/apps/types/ConstraintResource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/apps/types/ConstraintResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/apps/types/ConstraintUpdate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/apps/types/ConstraintVersionResource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/apps/types/ConstraintVersionResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/apps/types/ConstraintVersionsResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/apps/types/ConstraintsResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/apps/types/SuccessResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/apps/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/assistant/client/Client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/assistant/client/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/assistant/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/assistant/types/Prompt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/assistant/types/PromptCreate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/assistant/types/PromptPatch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/assistant/types/PromptResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/assistant/types/PromptTypeEnum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/assistant/types/PromptTypeQueryEnum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/assistant/types/PromptsResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/assistant/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/auth/client/Client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/auth/client/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/auth/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/auth/types/ApiCredentials.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/auth/types/ApiKey.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/auth/types/ApiKeyId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/auth/types/ApiKeyOperation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/auth/types/ApiKeyType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/auth/types/ApiKeysResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/auth/types/CreatePersonalAccessTokenResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/auth/types/CreatePersonalAccessTokenResponseData.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/auth/types/Credentials.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/auth/types/PersonalAccessToken.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/auth/types/PersonalAccessTokenId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/auth/types/PersonalAccessTokensResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/auth/types/PublishableKeyResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/auth/types/RawKey.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/auth/types/SftpCredentials.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/auth/types/UserCredentials.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/auth/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/canvasAreas/client/Client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/canvasAreas/client/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/canvasAreas/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/canvasAreas/types/CanvasArea.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/canvasAreas/types/CanvasAreaLayout.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/canvasAreas/types/CanvasAreaPosition.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/canvasAreas/types/CanvasAreaResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/canvasAreas/types/CanvasAreaType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/canvasAreas/types/CanvasAreaVisibility.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/canvasAreas/types/ListCanvasAreasResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/canvasAreas/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/cells/client/Client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/cells/client/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/cells/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/cells/types/CellValueWithCountsDeprecated.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/cells/types/CellsResponseDataDeprecated.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/cells/types/CellsResponseDeprecated.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/cells/types/DistinctDeprecated.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/cells/types/FieldKeyDeprecated.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/cells/types/IncludeCountsDeprecated.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/cells/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commits/client/Client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commits/client/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commits/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commits/types/Commit.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commits/types/CommitResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commits/types/ListCommitsResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commits/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/errors/BadRequestError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/errors/ForbiddenError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/errors/NotFoundError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/errors/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/AccessToken.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/AccountId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/Action.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/ActionConstraint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/ActionConstraintHasAllValid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/ActionConstraintHasColumnEnabled.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/ActionConstraintHasData.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/ActionConstraintHasSelection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/ActionId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/ActionMessage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/ActionMessageType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/ActionMode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/ActionMount.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/ActionMountDocument.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/ActionMountField.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/ActionMountFile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/ActionMountSheet.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/ActionMountWorkbook.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/ActionSchedule.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/ActionUpdate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/ActionWithoutLabel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/ActorId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/ActorIdUnion.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/ActorRoleId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/AgentExportId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/AgentId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/AgentLogId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/AgentVersionId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/ApiAction.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/ApiActionConfig.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/AppId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/CalculationId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/CanvasAreaId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/CanvasId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/CommitId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/ConstraintId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/DataClipId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/DataRetentionPolicyId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/DocumentId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/EnvironmentId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/Error_.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/Errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/EventId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/FamilyId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/FileId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/Filter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/FilterField.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/Guardrail.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/GuestId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/GuidanceId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/Guide.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/GuideId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/InputConfig.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/InputConstraint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/InputConstraintType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/InputEnumPropertyOption.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/InputField.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/InputForm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/InputFormType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/JobId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/JsonPathString.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/MappingId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/MessageId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/OnboardingDatapointId.js",
+      "obfuscated": false
+    },
+    {
+      "file": "api/resources/commons/types/OnboardingId.js",
+      "obfuscated": false
+    }
+  ]
+}

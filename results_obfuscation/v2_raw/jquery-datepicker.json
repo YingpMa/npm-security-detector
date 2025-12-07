@@ -1,0 +1,598 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/jquery-datepicker/package",
+  "fileCount": 148,
+  "results": [
+    {
+      "file": "i18n/jquery.ui.datepicker-af.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-ar-DZ.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-ar.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-az.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-be.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-bg.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-bs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-ca.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-cs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-cy-GB.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-da.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-de.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-el.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-en-AU.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-en-GB.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-en-NZ.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-eo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-es.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-et.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-eu.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-fa.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-fi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-fo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-fr-CA.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-fr-CH.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-fr.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-gl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-he.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-hi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-hr.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-hu.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-hy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-id.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-is.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-it.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-ja.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-ka.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-kk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-km.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-ko.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-ky.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-lb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-lt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-lv.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-mk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-ml.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-ms.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-nb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-nl-BE.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-nl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-nn.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-no.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-pl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-pt-BR.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-pt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-rm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-ro.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-ru.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-sk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-sl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-sq.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-sr-SR.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-sr.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-sv.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-ta.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-th.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-tj.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-tr.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-uk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-vi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-zh-CN.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-zh-HK.js",
+      "obfuscated": false
+    },
+    {
+      "file": "i18n/jquery.ui.datepicker-zh-TW.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "jquery-datepicker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-af.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-ar-DZ.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-ar.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-az.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-be.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-bg.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-bs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-ca.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-cs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-cy-GB.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-da.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-de.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-el.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-en-AU.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-en-GB.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-en-NZ.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-eo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-es.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-et.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-eu.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-fa.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-fi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-fo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-fr-CA.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-fr-CH.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-fr.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-gl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-he.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-hi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-hr.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-hu.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-hy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-id.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-is.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-it.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-ja.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-ka.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-kk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-km.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-ko.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-ky.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-lb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-lt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-lv.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-mk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-ml.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-ms.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-nb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-nl-BE.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-nl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-nn.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-no.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-pl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-pt-BR.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-pt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-rm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-ro.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-ru.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-sk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-sl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-sq.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-sr-SR.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-sr.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-sv.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-ta.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-th.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-tj.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-tr.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-uk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-vi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-zh-CN.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-zh-HK.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/i18n/jquery.ui.datepicker-zh-TW.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@knocklabs+node/package",
+  "fileCount": 90,
+  "results": [
+    {
+      "file": "api-promise.js",
+      "obfuscated": false
+    },
+    {
+      "file": "client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/api-promise.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/pagination.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/resource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "core/uploads.js",
+      "obfuscated": false
+    },
+    {
+      "file": "error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/builtin-types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/detect-platform.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/headers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/parse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/qs/formats.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/qs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/qs/stringify.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/qs/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/qs/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/request-options.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/shim-types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/shims.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/to-file.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/tslib.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/uploads.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/utils/base64.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/utils/bytes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/utils/env.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/utils/log.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/utils/path.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/utils/sleep.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/utils/uuid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/utils/values.js",
+      "obfuscated": false
+    },
+    {
+      "file": "internal/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/tokenSigner.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/userTokens.js",
+      "obfuscated": false
+    },
+    {
+      "file": "pagination.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/audiences.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/bulk-operations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/channels/bulk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/channels/channels.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/channels/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/channels.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/integrations/census.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/integrations/hightouch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/integrations/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/integrations/integrations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/integrations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/messages/batch.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/messages/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/messages/messages.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/messages.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/objects/bulk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/objects/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/objects/objects.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/objects.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/providers/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/providers/ms-teams.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/providers/providers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/providers/slack.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/providers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/recipients/channel-data.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/recipients/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/recipients/preferences.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/recipients/recipients.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/recipients/subscriptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/recipients.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/schedules/bulk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/schedules/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/schedules/schedules.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/schedules.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/shared.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/tenants/bulk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/tenants/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/tenants/tenants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/tenants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/users/bulk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/users/feeds.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/users/guides.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/users/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/users/users.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/users.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/workflows.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources.js",
+      "obfuscated": false
+    },
+    {
+      "file": "uploads.js",
+      "obfuscated": false
+    },
+    {
+      "file": "version.js",
+      "obfuscated": false
+    }
+  ]
+}

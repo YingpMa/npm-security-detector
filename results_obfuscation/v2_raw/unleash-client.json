@@ -1,0 +1,210 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/unleash-client/package",
+  "fileCount": 51,
+  "results": [
+    {
+      "file": "examples/bootstrap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/bootstrap_local.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/constraint-operators.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/custom_repository.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/custom_storage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/custom_strategy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/simple_start_unleash.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/simple_usage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/simple_usage_sync.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/streaming.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/test_all_toggles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/test_alot_of_users.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/variant.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/with_constraints.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/with_context.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/context.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/event-source.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/events.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/feature.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/headers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/http-options.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/impact-metrics/environment-resolver.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/impact-metrics/metric-client.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/impact-metrics/metric-types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/metrics.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/repository/bootstrap-provider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/repository/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/repository/storage-provider-file.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/repository/storage-provider-in-mem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/repository/storage-provider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/request.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/strategy/application-hostname-strategy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/strategy/default-strategy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/strategy/flexible-rollout-strategy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/strategy/gradual-rollout-random.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/strategy/gradual-rollout-session-id.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/strategy/gradual-rollout-user-id.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/strategy/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/strategy/remote-addresss-strategy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/strategy/strategy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/strategy/user-with-id-strategy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/strategy/util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/tags.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/unleash-config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/unleash.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/url-utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/uuidv4.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/variant.js",
+      "obfuscated": false
+    }
+  ]
+}

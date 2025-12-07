@@ -1,0 +1,306 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/siot-plugin-lib/package",
+  "fileCount": 75,
+  "results": [
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/config/Config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/config/ConfigStore.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/config/DefaultConfig.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/config/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/config/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/core/CloudEventListener.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/core/CloudSync.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/core/Logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/core/PluginConfigurator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/core/PluginInitializer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/core/PluginService.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/core/SiotTopics.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/data/datasource/DatUServiceDataSource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/data/datasource/DataSourceErrors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/data/datasource/MnfUServiceDataSource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/data/datasource/RegUServiceDataSource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/data/sessionStore/SessionStore.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/data/sessionStore/SessionStoreFactory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/data/storage/ITemporaryStorage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/data/storage/MessagesDB.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/data/storage/TemporaryStorage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/domain/builders/DataElementEntityBuilder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/domain/builders/IntervalStringBuilder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/domain/builders/ThingEntityBuilder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/domain/entity/Attributable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/domain/entity/Attribute.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/domain/entity/ClassEntity.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/domain/entity/DataElement.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/domain/entity/Mapper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/domain/entity/Plugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/domain/entity/SupportedThingEntity.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/domain/entity/Thing.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/domain/repository/ClassRepository.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/domain/repository/DataElementRepository.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/domain/repository/IClassRepository.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/domain/repository/IDataElementRepository.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/domain/repository/IPluginRepository.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/domain/repository/IThingRepository.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/domain/repository/PluginRepository.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/domain/repository/RegisterPluginDetails.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/domain/repository/ThingRepository.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/domain/usecase/OnCommandSubmitUseCase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/domain/usecase/OnExclusionSubmitUseCase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/domain/usecase/OnInclusionStepInitUseCase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/domain/usecase/OnInclusionStepInterruptUseCase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/domain/usecase/OnInclusionStepSubmitUseCase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/domain/usecase/OnPluginConfigurationStepInitUseCase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/domain/usecase/OnPluginConfigurationStepInterruptUseCase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/domain/usecase/OnPluginConfigurationStepSubmitUseCase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/domain/usecase/OnPluginInclusionUseCase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/domain/usecase/OnThingConfigurationStepInitUseCase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/domain/usecase/OnThingConfigurationStepInterruptUseCase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/domain/usecase/OnThingConfigurationStepSubmitUseCase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/domain/valueObject/Action.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/domain/valueObject/NonEmptyString.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/domain/valueObject/Step.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/domain/valueObject/StepNumber.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/domain/valueObject/ValueObject.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/public/Siot.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/public/error/AttributeNotFoundError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/public/plugin/AbstractSiotPlugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/public/plugin/ISiotInclusionPlugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/public/plugin/ISiotPlugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/public/plugin/ISiotPluginTypes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/transport/mqtt/BufferedMqtt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/transport/mqtt/IMqtt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/transport/mqtt/MQTT.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/transport/mqtt/MQTTRouter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/transport/requester/IRequester.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/transport/requester/Requester.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/transport/rpc/JsonRPC.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/transport/rpc/JsonRPCContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/transport/rpc/MqttRPCTransporter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/src/transport/rpc/index.js",
+      "obfuscated": false
+    }
+  ]
+}

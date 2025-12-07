@@ -1,0 +1,42 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/zustand/package",
+  "fileCount": 9,
+  "results": [
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "middleware/immer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "middleware.js",
+      "obfuscated": false
+    },
+    {
+      "file": "react/shallow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "react.js",
+      "obfuscated": false
+    },
+    {
+      "file": "shallow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "traditional.js",
+      "obfuscated": false
+    },
+    {
+      "file": "vanilla/shallow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "vanilla.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@pothos+plugin-validation/package",
+  "fileCount": 7,
+  "results": [
+    {
+      "file": "lib/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/global-types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/methods.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/standard-schema.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils.js",
+      "obfuscated": false
+    }
+  ]
+}

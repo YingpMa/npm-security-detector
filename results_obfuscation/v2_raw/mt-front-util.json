@@ -1,0 +1,66 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/mt-front-util/package",
+  "fileCount": 15,
+  "results": [
+    {
+      "file": "bin/mt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/build.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/compile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/init.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/path.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/project.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/proxy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/release.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/treePrint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/uglify.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/upload.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/watch.js",
+      "obfuscated": false
+    }
+  ]
+}

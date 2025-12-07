@@ -1,0 +1,46 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/o-stream/package",
+  "fileCount": 10,
+  "results": [
+    {
+      "file": "lib/CombinedStream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/CombinedStream.test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/EndedArgs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/EnteredArgs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ObjectTransform.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Output.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/SourceStreamErrorArgs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/TransformArgs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/main.test.js",
+      "obfuscated": false
+    }
+  ]
+}

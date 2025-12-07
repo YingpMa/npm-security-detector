@@ -1,0 +1,30 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/eslint-import-resolver-typescript/package",
+  "fileCount": 6,
+  "results": [
+    {
+      "file": "lib/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/normalize-options.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types.js",
+      "obfuscated": false
+    }
+  ]
+}

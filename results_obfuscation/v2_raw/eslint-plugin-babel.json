@@ -1,0 +1,106 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/eslint-plugin-babel/package",
+  "fileCount": 25,
+  "results": [
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "rules/array-bracket-spacing.js",
+      "obfuscated": false
+    },
+    {
+      "file": "rules/arrow-parens.js",
+      "obfuscated": false
+    },
+    {
+      "file": "rules/camelcase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "rules/flow-object-type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "rules/func-params-comma-dangle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "rules/generator-star-spacing.js",
+      "obfuscated": false
+    },
+    {
+      "file": "rules/new-cap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "rules/no-await-in-loop.js",
+      "obfuscated": false
+    },
+    {
+      "file": "rules/no-invalid-this.js",
+      "obfuscated": false
+    },
+    {
+      "file": "rules/no-unused-expressions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "rules/object-curly-spacing.js",
+      "obfuscated": false
+    },
+    {
+      "file": "rules/object-shorthand.js",
+      "obfuscated": false
+    },
+    {
+      "file": "rules/quotes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "rules/semi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "rules/valid-typeof.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/RuleTester.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/rules/camelcase.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/rules/new-cap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/rules/no-invalid-this.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/rules/no-unused-expressions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/rules/object-curly-spacing.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/rules/quotes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/rules/semi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tests/rules/valid-typeof.js",
+      "obfuscated": false
+    }
+  ]
+}

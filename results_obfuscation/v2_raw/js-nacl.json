@@ -1,0 +1,30 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/js-nacl/package",
+  "fileCount": 6,
+  "results": [
+    {
+      "file": "benchmark.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/nacl_factory.js",
+      "obfuscated": true
+    },
+    {
+      "file": "nacl_cooked.js",
+      "obfuscated": false
+    },
+    {
+      "file": "nacl_cooked_prefix.js",
+      "obfuscated": false
+    },
+    {
+      "file": "nacl_cooked_suffix.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/tests.js",
+      "obfuscated": false
+    }
+  ]
+}

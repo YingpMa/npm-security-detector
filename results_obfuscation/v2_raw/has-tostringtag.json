@@ -1,0 +1,30 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/has-tostringtag/package",
+  "fileCount": 6,
+  "results": [
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "shams.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/shams/core-js.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/shams/get-own-property-symbols.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/tests.js",
+      "obfuscated": false
+    }
+  ]
+}

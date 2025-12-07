@@ -1,0 +1,370 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/sodium/package",
+  "fileCount": 91,
+  "results": [
+    {
+      "file": "examples/ECDH.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/generichash.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/low-level-api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/pwhash.js",
+      "obfuscated": false
+    },
+    {
+      "file": "exported_functions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "install.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/auth.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/box.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/crypto-base-buffer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ecdh.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/keys/auth-key.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/keys/box-key.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/keys/dh-key.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/keys/keypair.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/keys/onetime-key.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/keys/secretbox-key.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/keys/sign-key.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/keys/stream-key.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/nonces/box-nonce.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/nonces/secretbox-nonce.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/nonces/stream-nonce.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/onetime-auth.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/secretbox.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/sign.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/sodium.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/stream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/toBuffer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_aead_aes256gcm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_auth.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_box.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_crypto-base-buffer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_crypto_aead.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_crypto_auth.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_crypto_box.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_crypto_box_easy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_crypto_constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_crypto_generichash.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_crypto_generichash_blake2b.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_crypto_hash.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_crypto_onetimeauth.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_crypto_pwhash.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_crypto_random.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_crypto_secretbox.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_crypto_sign.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_crypto_stream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_crypto_string_comparisons.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_crypto_utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_crypto_version.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_dh.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_ecdh.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_key_all_key.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_key_all_keypair.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_key_keypair.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_large_numbers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_libsodium_aead_aes256gcm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_libsodium_aead_chacha20poly1305.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_libsodium_aead_xchacha20poly1305.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_libsodium_auth.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_libsodium_auth2.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_libsodium_auth3.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_libsodium_auth5.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_libsodium_auth6.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_libsodium_auth7.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_libsodium_box.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_libsodium_box2.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_libsodium_box7.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_libsodium_box8.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_libsodium_box_easy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_libsodium_box_easy2.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_libsodium_box_seal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_libsodium_box_seed.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_libsodium_core1.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_libsodium_core2.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_libsodium_hash.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_libsodium_pwhash_argon2i.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_libsodium_pwhash_argon2id.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_libsodium_pwhash_scrypt.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_libsodium_pwhash_scrypt_ll.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_nonces_all.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_onetime_auth.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_randombytes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_secretbox.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_sign.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_sodium.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_sodium_algos_auth.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_sodium_auth.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_sodium_auth2.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_sodium_auth5.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_stream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test_toBuffer.js",
+      "obfuscated": false
+    }
+  ]
+}

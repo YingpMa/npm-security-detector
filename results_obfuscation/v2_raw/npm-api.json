@@ -1,0 +1,46 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/npm-api/package",
+  "fileCount": 10,
+  "results": [
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/list.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/base.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/maintainer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/models/repo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/plugins/downloads.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/registry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/view.js",
+      "obfuscated": false
+    }
+  ]
+}

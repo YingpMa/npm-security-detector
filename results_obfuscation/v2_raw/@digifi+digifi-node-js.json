@@ -1,0 +1,394 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@digifi+digifi-node-js/package",
+  "fileCount": 97,
+  "results": [
+    {
+      "file": "lib/api/ApplicationDecisionProcessingApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/ApplicationDocumentConfigurationApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/ApplicationDocumentsApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/ApplicationDocumentsDownloadsApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/ApplicationDocumentsPreviewApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/ApplicationIntegrationProcessingApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/ApplicationNotesApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/ApplicationStatusesApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/ApplicationsApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/BorrowerAccountsApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/BorrowerEmailVerificationApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/BorrowerInvitesApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/BorrowerPhoneVerificationApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/BorrowerResetPasswordApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/BorrowerSessionsApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/BorrowerStandardPortalGeneralSettingsApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/BorrowerStandardPortalLegalConsentsApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/BorrowersApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/BrandingApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/CommentsApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/DecisionProcessingApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/DecisionsApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/DigifiApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/DocuSignApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/IntegrationFileDownloadApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/IntegrationProcessingApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/IntegrationResultFilesApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/IntegrationResultsApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/IntermediariesApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/IntermediaryAccountsApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/IntermediaryEmailVerificationApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/IntermediaryInvitesApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/IntermediaryPhoneVerificationApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/IntermediaryResetPasswordApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/IntermediarySessionsApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/LabelsApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/LayoutConfigurationApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/ProductCalculationsApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/ProductsApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/StandardPortalGeneralSettingsApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/StandardPortalLegalConsentsApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/TasksApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/UsersApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/VariablesApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/WebhookEndpointsApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/abstract/AccountsApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/abstract/EmailVerificationApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/abstract/InvitesApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/abstract/PhoneVerificationApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/abstract/ResetPasswordApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/abstract/SessionsApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/abstract/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/base/AuthApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/base/BaseSystemApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/base/DownloadApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/base/SystemApi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/base/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/api/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/clients/ApiClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/clients/AuthorizedApiClient.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/clients/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/data/models/Branding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/data/models/Card.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/data/models/FormulaCompilation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/data/models/FormulaCondition.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/data/models/Integration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/data/models/Variable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/data/models/VariableConfiguration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/data/models/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/enums/BorrowerType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/enums/DecisionRunResult.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/enums/DigitalLendingPortalEnvironment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/enums/ExecutionSource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/enums/ExternalIntegrationResultType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/enums/PortalUserType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/enums/ResponseHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/enums/SortDirection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/enums/UserSortField.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/enums/VariableAccessPermission.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/enums/VariableType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/enums/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/errors/ApiRequestError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/errors/NetworkError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/errors/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types/AuthResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types/LayoutConfiguration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types/OrganizationMode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types/Pagination.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types/Permissions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types/SearchHighlight.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types/User.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types/Variable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/getSearchParams.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/webhook.js",
+      "obfuscated": false
+    }
+  ]
+}

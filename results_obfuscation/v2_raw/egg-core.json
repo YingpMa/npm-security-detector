@@ -1,0 +1,82 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/egg-core/package",
+  "fileCount": 19,
+  "results": [
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/egg.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/lifecycle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/loader/context_loader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/loader/egg_loader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/loader/file_loader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/loader/mixin/config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/loader/mixin/controller.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/loader/mixin/custom.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/loader/mixin/custom_loader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/loader/mixin/extend.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/loader/mixin/middleware.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/loader/mixin/plugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/loader/mixin/router.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/loader/mixin/service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/base_context_class.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/sequencify.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/timing.js",
+      "obfuscated": false
+    }
+  ]
+}

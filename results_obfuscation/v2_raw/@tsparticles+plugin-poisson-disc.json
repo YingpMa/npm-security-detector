@@ -1,0 +1,42 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@tsparticles+plugin-poisson-disc/package",
+  "fileCount": 9,
+  "results": [
+    {
+      "file": "browser/Interfaces/IPoissonPoint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "browser/Options/Classes/Poisson.js",
+      "obfuscated": false
+    },
+    {
+      "file": "browser/Options/Interfaces/IPoisson.js",
+      "obfuscated": false
+    },
+    {
+      "file": "browser/PoissonDisc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "browser/PoissonDiscPlugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "browser/PoissonInstance.js",
+      "obfuscated": false
+    },
+    {
+      "file": "browser/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "browser/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tsparticles.plugin.poisson.js",
+      "obfuscated": false
+    }
+  ]
+}

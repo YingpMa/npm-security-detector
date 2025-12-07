@@ -1,0 +1,14 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@react-pdf+font/package",
+  "fileCount": 2,
+  "results": [
+    {
+      "file": "lib/index.browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    }
+  ]
+}

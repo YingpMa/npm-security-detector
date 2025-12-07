@@ -1,0 +1,54 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@vscode+debugadapter/package",
+  "fileCount": 12,
+  "results": [
+    {
+      "file": "lib/debugSession.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/handles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/internalLogger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/loggingDebugSession.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/messages.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/protocol.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/runDebugAdapter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/tests/DebugAdapter.test.js",
+      "obfuscated": true
+    },
+    {
+      "file": "lib/web/internalLoggerStub.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/web/runDebugAdapterStub.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/node-red-contrib-industrial-machine-forecast/package",
+  "fileCount": 1,
+  "results": [
+    {
+      "file": "forecast.js",
+      "obfuscated": false
+    }
+  ]
+}

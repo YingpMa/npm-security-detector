@@ -1,0 +1,34 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@sentry+react-native/package",
+  "fileCount": 7,
+  "results": [
+    {
+      "file": "app.plugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "expo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "metro.js",
+      "obfuscated": false
+    },
+    {
+      "file": "react-native.config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "scripts/copy-debugid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "scripts/expo-upload-sourcemaps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "scripts/has-sourcemap-debugid.js",
+      "obfuscated": false
+    }
+  ]
+}

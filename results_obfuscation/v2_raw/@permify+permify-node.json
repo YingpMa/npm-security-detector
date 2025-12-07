@@ -1,0 +1,10 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@permify+permify-node/package",
+  "fileCount": 1,
+  "results": [
+    {
+      "file": ".eslintrc.js",
+      "obfuscated": false
+    }
+  ]
+}

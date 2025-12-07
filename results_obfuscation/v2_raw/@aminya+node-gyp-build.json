@@ -1,0 +1,26 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@aminya+node-gyp-build/package",
+  "fileCount": 5,
+  "results": [
+    {
+      "file": "bin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "build-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "node-gyp-build.js",
+      "obfuscated": false
+    },
+    {
+      "file": "optional.js",
+      "obfuscated": false
+    }
+  ]
+}

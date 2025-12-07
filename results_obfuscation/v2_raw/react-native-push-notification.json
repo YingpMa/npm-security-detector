@@ -1,0 +1,26 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/react-native-push-notification/package",
+  "fileCount": 5,
+  "results": [
+    {
+      "file": "component/index.android.js",
+      "obfuscated": false
+    },
+    {
+      "file": "component/index.ios.js",
+      "obfuscated": false
+    },
+    {
+      "file": "component/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "react-native.config.js",
+      "obfuscated": false
+    }
+  ]
+}

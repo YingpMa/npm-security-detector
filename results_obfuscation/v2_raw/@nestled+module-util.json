@@ -1,0 +1,42 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@nestled+module-util/package",
+  "fileCount": 9,
+  "results": [
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module-factory/dynamic-module.factory.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module-factory/dynamic-module.providers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module-factory/dynamic-module.util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module-factory/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module-factory/interfaces/dynamic-module-factory-options.interface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module-factory/interfaces/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module-metadata/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module-metadata/module-metadata.helper.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/react-native-calendars/package",
+  "fileCount": 70,
+  "results": [
+    {
+      "file": "babel.config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "detox.config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "jest.config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "metro.config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/Profiler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/agenda/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/agenda/platform-style.ios.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/agenda/platform-style.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/agenda/reservation-list/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/agenda/reservation-list/reservation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/agenda/reservation-list/style.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/agenda/style.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/calendar/day/basic/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/calendar/day/basic/style.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/calendar/day/dot/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/calendar/day/dot/style.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/calendar/day/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/calendar/day/marking/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/calendar/day/marking/style.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/calendar/day/period/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/calendar/day/period/style.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/calendar/header/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/calendar/header/style.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/calendar/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/calendar/style.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/calendar-list/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/calendar-list/item.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/calendar-list/new.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/calendar-list/style.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/commons/WeekDaysNames.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/commons/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/componentUpdater.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/dateutils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/day-state-manager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/expandableCalendar/AgendaList/agendaList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/expandableCalendar/AgendaList/commons.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/expandableCalendar/AgendaList/infiniteAgendaList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/expandableCalendar/Context/Provider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/expandableCalendar/Context/asCalendarConsumer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/expandableCalendar/Context/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/expandableCalendar/Context/todayButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/expandableCalendar/WeekCalendar/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/expandableCalendar/WeekCalendar/new.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/expandableCalendar/__tests__/expandableCalendarTestKit.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/expandableCalendar/commons.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/expandableCalendar/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/expandableCalendar/style.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/expandableCalendar/week.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/hooks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/infinite-list/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/interface.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/momentResolver.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/services/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/style.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/testIDs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/testUtils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/timeline/EventBlock.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/timeline/NowIndicator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/timeline/Packer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/timeline/Timeline.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/timeline/TimelineHours.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/timeline/helpers/presenter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/timeline/style.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/timeline/useTimelineOffset.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/timeline-list/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/timeline-list/useTimelinePages.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils/__tests__/Playground.perf.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/velocityTracker.js",
+      "obfuscated": false
+    }
+  ]
+}

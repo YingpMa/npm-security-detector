@@ -1,0 +1,10 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/react-leaflet-markercluster/package",
+  "fileCount": 1,
+  "results": [
+    {
+      "file": "src/react-leaflet-markercluster.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@testing-library+react/package",
+  "fileCount": 2,
+  "results": [
+    {
+      "file": "dont-cleanup-after-each.js",
+      "obfuscated": false
+    },
+    {
+      "file": "pure.js",
+      "obfuscated": false
+    }
+  ]
+}

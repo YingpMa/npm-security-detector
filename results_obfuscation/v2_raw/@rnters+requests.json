@@ -1,0 +1,10 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@rnters+requests/package",
+  "fileCount": 1,
+  "results": [
+    {
+      "file": "jest.config.js",
+      "obfuscated": false
+    }
+  ]
+}

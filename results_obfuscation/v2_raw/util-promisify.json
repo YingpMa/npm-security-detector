@@ -1,0 +1,22 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/util-promisify/package",
+  "fileCount": 4,
+  "results": [
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/timers.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@react-native-menu+menu/package",
+  "fileCount": 12,
+  "results": [
+    {
+      "file": "lib/commonjs/UIMenuView.android.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/UIMenuView.ios.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/UIMenuView.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/UIMenuView.android.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/UIMenuView.ios.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/UIMenuView.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/utils.js",
+      "obfuscated": false
+    }
+  ]
+}

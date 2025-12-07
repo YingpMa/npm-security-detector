@@ -1,0 +1,50 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@wandelbots+nova-api/package",
+  "fileCount": 11,
+  "results": [
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "v1/api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "v1/base.js",
+      "obfuscated": false
+    },
+    {
+      "file": "v1/common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "v1/configuration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "v1/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "v2/api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "v2/base.js",
+      "obfuscated": false
+    },
+    {
+      "file": "v2/common.js",
+      "obfuscated": false
+    },
+    {
+      "file": "v2/configuration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "v2/index.js",
+      "obfuscated": false
+    }
+  ]
+}

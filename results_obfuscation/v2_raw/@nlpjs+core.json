@@ -1,0 +1,90 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@nlpjs+core/package",
+  "fileCount": 21,
+  "results": [
+    {
+      "file": "src/among.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/arr-to-obj.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/base-stemmer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/clonable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/container-bootstrap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/container.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/context.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/default-compiler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/dock.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/helper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/memory-storage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/mock-fs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/normalizer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/obj-to-arr.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/stemmer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/stopwords.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/timer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tokenizer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/uuid.js",
+      "obfuscated": false
+    }
+  ]
+}

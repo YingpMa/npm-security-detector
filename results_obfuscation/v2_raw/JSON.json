@@ -1,0 +1,10 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/JSON/package",
+  "fileCount": 1,
+  "results": [
+    {
+      "file": "json2.js",
+      "obfuscated": false
+    }
+  ]
+}

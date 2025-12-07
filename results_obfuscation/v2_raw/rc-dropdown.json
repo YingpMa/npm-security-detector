@@ -1,0 +1,46 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/rc-dropdown/package",
+  "fileCount": 10,
+  "results": [
+    {
+      "file": "es/Dropdown.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/Overlay.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hooks/useAccessibility.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/placements.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Dropdown.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Overlay.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useAccessibility.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/placements.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/node-red-node-arduino/package",
+  "fileCount": 6,
+  "results": [
+    {
+      "file": "35-arduino.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/com.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/encoder7bit.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/firmata-io.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/firmata.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/onewireutils.js",
+      "obfuscated": false
+    }
+  ]
+}

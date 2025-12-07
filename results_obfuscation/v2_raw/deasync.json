@@ -1,0 +1,38 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/deasync/package",
+  "fileCount": 8,
+  "results": [
+    {
+      "file": "build.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "quick-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "spec/app/exec.js",
+      "obfuscated": false
+    },
+    {
+      "file": "spec/app/request.js",
+      "obfuscated": false
+    },
+    {
+      "file": "spec/app/sleep.js",
+      "obfuscated": false
+    },
+    {
+      "file": "spec/app/worker-threads.js",
+      "obfuscated": false
+    },
+    {
+      "file": "spec/index.js",
+      "obfuscated": false
+    }
+  ]
+}

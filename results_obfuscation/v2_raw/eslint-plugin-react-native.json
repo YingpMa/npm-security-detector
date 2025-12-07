@@ -1,0 +1,50 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/eslint-plugin-react-native/package",
+  "fileCount": 11,
+  "results": [
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-color-literals.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-inline-styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-raw-text.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-single-element-style-arrays.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/no-unused-styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/sort-styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/rules/split-platform-components.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/Components.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/stylesheet.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/variable.js",
+      "obfuscated": false
+    }
+  ]
+}

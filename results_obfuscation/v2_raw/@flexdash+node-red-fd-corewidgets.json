@@ -1,0 +1,210 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@flexdash+node-red-fd-corewidgets/package",
+  "fileCount": 51,
+  "results": [
+    {
+      "file": "custom/time-plot-info.js",
+      "obfuscated": false
+    },
+    {
+      "file": "custom/time-plot-raw-info.js",
+      "obfuscated": false
+    },
+    {
+      "file": "custom/time-plot.js",
+      "obfuscated": false
+    },
+    {
+      "file": "custom/wind-plot-info.js",
+      "obfuscated": false
+    },
+    {
+      "file": "datetime.js",
+      "obfuscated": false
+    },
+    {
+      "file": "dropdown-select.js",
+      "obfuscated": false
+    },
+    {
+      "file": "gauge.js",
+      "obfuscated": false
+    },
+    {
+      "file": "iframe.js",
+      "obfuscated": false
+    },
+    {
+      "file": "label.js",
+      "obfuscated": false
+    },
+    {
+      "file": "markdown.js",
+      "obfuscated": false
+    },
+    {
+      "file": "number-field.js",
+      "obfuscated": false
+    },
+    {
+      "file": "popup-button.js",
+      "obfuscated": false
+    },
+    {
+      "file": "props-table.js",
+      "obfuscated": false
+    },
+    {
+      "file": "push-button.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/datetime-info.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/dropdown-select-info.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/gauge-info.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/iframe-info.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/label-info.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/markdown-info.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/number-field-info.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/popup-button-info.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/props-table-info.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/push-button-info.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/simple-table-info.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/slider-info.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/spark-line-info.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/stat-info.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/text-field-info.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/text-view-info.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/time-plot-info.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/time-plot-raw-info.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/timeline-plot-info.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/toggle-info.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/tree-view-info.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/value-sequence-info.js",
+      "obfuscated": false
+    },
+    {
+      "file": "resources/wind-plot-info.js",
+      "obfuscated": false
+    },
+    {
+      "file": "scripts/update-package-json.js",
+      "obfuscated": false
+    },
+    {
+      "file": "simple-table.js",
+      "obfuscated": false
+    },
+    {
+      "file": "slider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "spark-line.js",
+      "obfuscated": false
+    },
+    {
+      "file": "stat.js",
+      "obfuscated": false
+    },
+    {
+      "file": "text-field.js",
+      "obfuscated": false
+    },
+    {
+      "file": "text-view.js",
+      "obfuscated": false
+    },
+    {
+      "file": "time-plot-raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "time-plot.js",
+      "obfuscated": false
+    },
+    {
+      "file": "timeline-plot.js",
+      "obfuscated": false
+    },
+    {
+      "file": "toggle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "tree-view.js",
+      "obfuscated": false
+    },
+    {
+      "file": "value-sequence.js",
+      "obfuscated": false
+    },
+    {
+      "file": "wind-plot.js",
+      "obfuscated": false
+    }
+  ]
+}

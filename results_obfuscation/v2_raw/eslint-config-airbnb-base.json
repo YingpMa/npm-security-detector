@@ -1,0 +1,62 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/eslint-config-airbnb-base/package",
+  "fileCount": 14,
+  "results": [
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "legacy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "rules/best-practices.js",
+      "obfuscated": false
+    },
+    {
+      "file": "rules/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "rules/es6.js",
+      "obfuscated": false
+    },
+    {
+      "file": "rules/imports.js",
+      "obfuscated": false
+    },
+    {
+      "file": "rules/node.js",
+      "obfuscated": false
+    },
+    {
+      "file": "rules/strict.js",
+      "obfuscated": false
+    },
+    {
+      "file": "rules/style.js",
+      "obfuscated": false
+    },
+    {
+      "file": "rules/variables.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/requires.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test-base.js",
+      "obfuscated": false
+    },
+    {
+      "file": "whitespace-async.js",
+      "obfuscated": false
+    },
+    {
+      "file": "whitespace.js",
+      "obfuscated": false
+    }
+  ]
+}

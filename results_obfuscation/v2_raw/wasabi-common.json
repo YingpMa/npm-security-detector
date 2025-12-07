@@ -1,0 +1,186 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/wasabi-common/package",
+  "fileCount": 45,
+  "results": [
+    {
+      "file": "lib/collection/Collection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/collection/Iterator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/collection/Map.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/collection/Set.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/collection/Tree.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/collection/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/lang/Binder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/lang/Type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/lang/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/prototype.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/resolver/AliasResolver.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/resolver/ElectronResolver.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/resolver/IResolver.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/resolver/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types/ArrayMap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types/Arrays.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types/Chars.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types/Functions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types/Maps.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types/Objects.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types/Strings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/Assertions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/Functions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/Generator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/Properties.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/Types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/UrlUtil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/Validations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/ajax/Ajax.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/ajax/AjaxDefaults.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/ajax/AjaxError.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/ajax/AjaxFileEvent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/ajax/AjaxMethod.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/ajax/AjaxResponse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/ajax/AjaxUtil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/ajax/ContentType.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/ajax/ajaxHttp.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/ajax/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/validate/Checker.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/validate/checkers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/validate/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/validate/validate.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@vaadin+hilla-frontend/package",
+  "fileCount": 10,
+  "results": [
+    {
+      "file": ".lintstagedrc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "Authentication.js",
+      "obfuscated": false
+    },
+    {
+      "file": "Connect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "CookieManager.js",
+      "obfuscated": false
+    },
+    {
+      "file": "CsrfInfoSource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "EndpointErrors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "FluxConnection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "FluxMessages.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "utils.js",
+      "obfuscated": false
+    }
+  ]
+}

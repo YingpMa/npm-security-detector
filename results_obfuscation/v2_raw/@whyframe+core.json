@@ -1,0 +1,50 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@whyframe+core/package",
+  "fileCount": 11,
+  "results": [
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/plugins/api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/plugins/core.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/plugins/template.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/pluginutils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/webpack/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/webpack/mapWithCache.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/webpack/virtual.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/webpack/virtualModule.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/webpack/virtualStats.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/haraka-plugin-greylist/package",
+  "fileCount": 1,
+  "results": [
+    {
+      "file": "index.js",
+      "obfuscated": false
+    }
+  ]
+}

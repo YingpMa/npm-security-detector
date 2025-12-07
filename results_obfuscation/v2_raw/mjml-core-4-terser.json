@@ -1,0 +1,118 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/mjml-core-4-terser/package",
+  "fileCount": 28,
+  "results": [
+    {
+      "file": "lib/components.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/createComponent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/conditionalTag.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/fonts.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/formatAttributes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/genRandomHexString.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/jsonToXML.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/makeLowerBreakpoint.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/mediaQueries.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/mergeOutlookConditionnals.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/minifyOutlookConditionnals.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/mjmlconfig.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/preview.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/shorthandParser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/skeleton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/suffixCssClasses.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helpers/widthParser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types/boolean.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types/color.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types/enum.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types/helpers/colors.js",
+      "obfuscated": true
+    },
+    {
+      "file": "lib/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types/integer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types/string.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types/unit.js",
+      "obfuscated": false
+    }
+  ]
+}

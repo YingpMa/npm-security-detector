@@ -1,0 +1,126 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@unique-nft+opal-testnet-types/package",
+  "fileCount": 30,
+  "results": [
+    {
+      "file": "appPromotion/definitions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "appPromotion/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "appPromotion/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "augment-api-consts.js",
+      "obfuscated": false
+    },
+    {
+      "file": "augment-api-errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "augment-api-events.js",
+      "obfuscated": false
+    },
+    {
+      "file": "augment-api-query.js",
+      "obfuscated": false
+    },
+    {
+      "file": "augment-api-rpc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "augment-api-runtime.js",
+      "obfuscated": false
+    },
+    {
+      "file": "augment-api-tx.js",
+      "obfuscated": false
+    },
+    {
+      "file": "augment-api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "augment-types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "default/definitions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "default/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "default/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "definitions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lookup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "povinfo/definitions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "povinfo/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "povinfo/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "registry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "rmrk/definitions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "rmrk/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "rmrk/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "types-lookup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "unique/definitions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "unique/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "unique/types.js",
+      "obfuscated": false
+    }
+  ]
+}

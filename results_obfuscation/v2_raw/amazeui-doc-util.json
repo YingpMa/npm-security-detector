@@ -1,0 +1,26 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/amazeui-doc-util/package",
+  "fileCount": 5,
+  "results": [
+    {
+      "file": "gulpfile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/safeString.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "template/js/app.js",
+      "obfuscated": false
+    }
+  ]
+}

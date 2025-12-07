@@ -1,0 +1,806 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/nypr-publisher-lib/package",
+  "fileCount": 200,
+  "results": [
+    {
+      "file": "addon/adapters/api-response.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/adapters/bucket.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/adapters/channel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/adapters/chunk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/adapters/comment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/adapters/flat-page.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/adapters/link-roll.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/adapters/person.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/adapters/playlist.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/adapters/show.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/adapters/story.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/adapters/stream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/breakpoints.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/components/about-page.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/components/active-html.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/components/appearance-credit.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/components/appearance-list.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/components/channel-header.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/components/comments-form.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/components/comments-list.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/components/download-link.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/components/embed-button.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/components/image-caption.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/components/nav-links.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/components/playlist-credit.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/components/playlist-item.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/components/related-stories.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/components/show-tease.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/components/social-button.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/components/social-iconlist.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/components/social-links.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/components/story-comments.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/components/story-credits.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/components/story-detail.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/components/story-list.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/components/story-tease.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/components/stream-list.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/components/stream-playlist.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/components/tabbed-list.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/components/x-marquee.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/helpers/camelize-keys.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/helpers/camelize-object.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/helpers/capitalize-word.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/helpers/hide-zero-minutes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/helpers/normalize-for-sorting.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/helpers/numeric-duration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/helpers/producing-orgs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/helpers/remove-leading-slash.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/helpers/truncate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/models/about-page.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/models/api-response.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/models/appearance.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/models/bucket-item.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/models/bucket.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/models/channel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/models/chunk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/models/comment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/models/flat-page.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/models/image.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/models/link-roll.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/models/person.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/models/playlist.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/models/producing-organization.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/models/show.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/models/story.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/models/stream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/serializers/api-response.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/serializers/bucket.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/serializers/channel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/serializers/chunk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/serializers/comment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/serializers/link-roll.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/serializers/person.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/serializers/playlist.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/serializers/show.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/serializers/story.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/serializers/stream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/services/whats-on.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/utils/math-util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/utils/to-social-links.js",
+      "obfuscated": false
+    },
+    {
+      "file": "addon/utils/wrap-ajax.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/adapters/api-response.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/adapters/bucket.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/adapters/channel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/adapters/chunk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/adapters/comment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/adapters/flat-page.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/adapters/link-roll.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/adapters/person.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/adapters/playlist.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/adapters/show.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/adapters/story.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/adapters/stream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/components/about-page.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/components/active-html.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/components/appearance-credit.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/components/appearance-list.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/components/channel-header.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/components/comments-form.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/components/comments-list.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/components/download-link.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/components/embed-button.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/components/image-caption.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/components/nav-links.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/components/playlist-credit.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/components/playlist-item.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/components/related-stories.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/components/show-tease.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/components/social-button.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/components/social-iconlist.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/components/social-links.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/components/story-comments.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/components/story-credits.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/components/story-detail.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/components/story-list.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/components/story-tease.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/components/stream-list.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/components/stream-playlist.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/components/tabbed-list.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/components/x-marquee.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/helpers/camelize-keys.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/helpers/camelize-object.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/helpers/capitalize-word.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/helpers/hide-zero-minutes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/helpers/normalize-for-sorting.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/helpers/numeric-duration.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/helpers/producing-orgs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/helpers/remove-leading-slash.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/helpers/truncate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/mirage-factories/api-response.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/mirage-factories/bucket.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/mirage-factories/chunk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/mirage-factories/comment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/mirage-factories/django-page.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/mirage-factories/listing-page.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/mirage-factories/show.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/mirage-factories/story.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/mirage-factories/stream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/mirage-factories/whats-on.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/mirage-models/api-response.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/mirage-models/bucket.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/mirage-models/chunk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/mirage-models/comment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/mirage-models/django-page.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/mirage-models/listing-page.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/mirage-models/show.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/mirage-models/story.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/mirage-models/stream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/mirage-models/whats-on.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/mirage-serializers/api-response.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/mirage-serializers/application.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/mirage-serializers/bucket.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/mirage-serializers/comment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/mirage-serializers/django-page.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/mirage-serializers/listing-page.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/mirage-serializers/show.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/mirage-serializers/story.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/mirage-serializers/stream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/mirage-serializers/whats-on.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/models/about-page.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/models/api-response.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/models/appearance.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/models/bucket-item.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/models/bucket.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/models/channel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/models/chunk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/models/comment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/models/flat-page.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/models/image.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/models/link-roll.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/models/person.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/models/playlist.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/models/producing-organization.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/models/show.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/models/story.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/models/stream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/serializers/api-response.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/serializers/bucket.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/serializers/channel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/serializers/chunk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/serializers/comment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/serializers/link-roll.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/serializers/person.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/serializers/playlist.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/serializers/show.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/serializers/story.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/serializers/stream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/services/whats-on.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/transitions/navigation-bar.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/utils/math-util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/utils/to-social-links.js",
+      "obfuscated": false
+    },
+    {
+      "file": "app/utils/wrap-ajax.js",
+      "obfuscated": false
+    },
+    {
+      "file": "config/deploy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "config/environment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "config/icons.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "mirage-support/factories/api-response.js",
+      "obfuscated": false
+    },
+    {
+      "file": "mirage-support/factories/bucket.js",
+      "obfuscated": false
+    },
+    {
+      "file": "mirage-support/factories/chunk.js",
+      "obfuscated": false
+    },
+    {
+      "file": "mirage-support/factories/comment.js",
+      "obfuscated": false
+    }
+  ]
+}

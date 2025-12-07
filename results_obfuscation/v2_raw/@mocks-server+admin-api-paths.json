@@ -1,0 +1,10 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@mocks-server+admin-api-paths/package",
+  "fileCount": 1,
+  "results": [
+    {
+      "file": "dist-tsc/index.js",
+      "obfuscated": false
+    }
+  ]
+}

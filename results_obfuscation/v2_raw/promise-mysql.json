@@ -1,0 +1,30 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/promise-mysql/package",
+  "fileCount": 6,
+  "results": [
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/connection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/helper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/pool.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/poolCluster.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/poolConnection.js",
+      "obfuscated": false
+    }
+  ]
+}

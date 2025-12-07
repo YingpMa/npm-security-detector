@@ -1,0 +1,10 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/react-simple-wysiwyg/package",
+  "fileCount": 1,
+  "results": [
+    {
+      "file": "lib/index.cjs.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,806 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@formatjs+intl-listformat/package",
+  "fileCount": 200,
+  "results": [
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/polyfill-force.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/polyfill.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/should-polyfill.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/supported-locales.generated.js",
+      "obfuscated": true
+    },
+    {
+      "file": "locale-data/af-NA.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/af.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/agq.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ak.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/am.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ar-AE.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ar-BH.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ar-DJ.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ar-DZ.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ar-EG.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ar-EH.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ar-ER.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ar-IL.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ar-IQ.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ar-JO.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ar-KM.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ar-KW.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ar-LB.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ar-LY.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ar-MA.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ar-MR.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ar-OM.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ar-PS.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ar-QA.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ar-SA.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ar-SD.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ar-SO.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ar-SS.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ar-SY.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ar-TD.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ar-TN.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ar-YE.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ar.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/as.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/asa.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ast.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/az-Cyrl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/az-Latn.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/az.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/bas.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/be-tarask.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/be.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/bem.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/bez.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/bg.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/bm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/bn-IN.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/bn.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/bo-IN.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/bo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/br.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/brx.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/bs-Cyrl.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/bs-Latn.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/bs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ca-AD.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ca-ES-valencia.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ca-FR.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ca-IT.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ca.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ccp-IN.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ccp.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ce.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ceb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/cgg.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/chr.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ckb-IR.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ckb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/cs.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/cy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/da-GL.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/da.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/dav.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/de-AT.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/de-BE.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/de-CH.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/de-IT.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/de-LI.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/de-LU.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/de.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/dje.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/doi.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/dsb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/dua.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/dyo.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/dz.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ebu.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ee-TG.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/ee.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/el-CY.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/el.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-001.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-150.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-AE.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-AG.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-AI.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-AS.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-AT.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-AU.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-BB.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-BE.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-BI.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-BM.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-BS.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-BW.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-BZ.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-CA.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-CC.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-CH.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-CK.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-CM.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-CX.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-CY.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-DE.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-DG.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-DK.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-DM.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-ER.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-FI.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-FJ.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-FK.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-FM.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-GB.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-GD.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-GG.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-GH.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-GI.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-GM.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-GU.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-GY.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-HK.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-IE.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-IL.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-IM.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-IN.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-IO.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-JE.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-JM.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-KE.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-KI.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-KN.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-KY.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-LC.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-LR.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-LS.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-MG.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-MH.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-MO.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-MP.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-MS.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-MT.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-MU.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-MW.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-MY.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-NA.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-NF.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-NG.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-NL.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-NR.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-NU.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-NZ.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-PG.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-PH.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-PK.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-PN.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-PR.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-PW.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-RW.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-SB.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-SC.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-SD.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-SE.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-SG.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-SH.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-SI.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-SL.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-SS.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-SX.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-SZ.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-TC.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-TK.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-TO.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-TT.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-TV.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-TZ.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-UG.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-UM.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-VC.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-VG.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-VI.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-VU.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-WS.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-ZA.js",
+      "obfuscated": false
+    },
+    {
+      "file": "locale-data/en-ZM.js",
+      "obfuscated": false
+    }
+  ]
+}

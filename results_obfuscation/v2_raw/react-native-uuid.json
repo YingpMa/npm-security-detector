@@ -1,0 +1,18 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/react-native-uuid/package",
+  "fileCount": 3,
+  "results": [
+    {
+      "file": ".eslintrc.js",
+      "obfuscated": false
+    },
+    {
+      "file": ".prettierrc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "babel.config.js",
+      "obfuscated": false
+    }
+  ]
+}

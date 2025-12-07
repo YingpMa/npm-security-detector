@@ -1,0 +1,10 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@subsquid+util-internal-commander/package",
+  "fileCount": 1,
+  "results": [
+    {
+      "file": "lib/validators.js",
+      "obfuscated": false
+    }
+  ]
+}

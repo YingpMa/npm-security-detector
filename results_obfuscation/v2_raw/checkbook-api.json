@@ -1,0 +1,54 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/checkbook-api/package",
+  "fileCount": 12,
+  "results": [
+    {
+      "file": "lib/checkbook.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/endpoints/bank.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/endpoints/check.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/endpoints/invoice.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/endpoints/subscription.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/endpoints/user.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/resource.js",
+      "obfuscated": false
+    },
+    {
+      "file": "samples/banks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "samples/checks.js",
+      "obfuscated": false
+    },
+    {
+      "file": "samples/invoices.js",
+      "obfuscated": false
+    },
+    {
+      "file": "samples/subscriptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "samples/users.js",
+      "obfuscated": false
+    }
+  ]
+}

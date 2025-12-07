@@ -1,0 +1,22 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@nlpjs+core-loader/package",
+  "fileCount": 4,
+  "results": [
+    {
+      "file": "src/container-bootstrap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/dock.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/helper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,578 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/pdf-lib-incremental-save/package",
+  "fileCount": 143,
+  "results": [
+    {
+      "file": "es/api/Embeddable.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/api/PDFDocument.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/api/PDFDocumentOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/api/PDFEmbeddedFile.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/api/PDFEmbeddedPage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/api/PDFFont.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/api/PDFImage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/api/PDFJavaScript.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/api/PDFPage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/api/PDFPageOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/api/StandardFonts.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/api/colors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/api/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/api/form/PDFButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/api/form/PDFCheckBox.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/api/form/PDFDropdown.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/api/form/PDFField.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/api/form/PDFForm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/api/form/PDFOptionList.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/api/form/PDFRadioGroup.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/api/form/PDFSignature.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/api/form/PDFTextField.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/api/form/appearances.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/api/form/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/api/image/alignment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/api/image/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/api/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/api/objects.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/api/operations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/api/operators.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/api/rotations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/api/sizes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/api/snapshot/DefaultDocumentSnapshot.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/api/snapshot/DocumentSnapshot.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/api/snapshot/IncrementalDocumentSnapshot.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/api/snapshot/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/api/svgPath.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/api/text/alignment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/api/text/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/api/text/layout.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/PDFContext.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/PDFObjectCopier.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/acroform/PDFAcroButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/acroform/PDFAcroCheckBox.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/acroform/PDFAcroChoice.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/acroform/PDFAcroComboBox.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/acroform/PDFAcroField.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/acroform/PDFAcroForm.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/acroform/PDFAcroListBox.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/acroform/PDFAcroNonTerminal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/acroform/PDFAcroPushButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/acroform/PDFAcroRadioButton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/acroform/PDFAcroSignature.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/acroform/PDFAcroTerminal.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/acroform/PDFAcroText.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/acroform/flags.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/acroform/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/acroform/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/annotation/AppearanceCharacteristics.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/annotation/BorderStyle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/annotation/PDFAnnotation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/annotation/PDFWidgetAnnotation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/annotation/flags.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/annotation/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/document/PDFCrossRefSection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/document/PDFHeader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/document/PDFTrailer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/document/PDFTrailerDict.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/embedders/CMap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/embedders/CustomFontEmbedder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/embedders/CustomFontSubsetEmbedder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/embedders/FileEmbedder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/embedders/FontFlags.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/embedders/JavaScriptEmbedder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/embedders/JpegEmbedder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/embedders/PDFPageEmbedder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/embedders/PngEmbedder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/embedders/StandardFontEmbedder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/interactive/ViewerPreferences.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/objects/PDFArray.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/objects/PDFBool.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/objects/PDFDict.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/objects/PDFHexString.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/objects/PDFInvalidObject.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/objects/PDFName.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/objects/PDFNull.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/objects/PDFNumber.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/objects/PDFObject.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/objects/PDFRawStream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/objects/PDFRef.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/objects/PDFStream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/objects/PDFString.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/operators/PDFOperator.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/operators/PDFOperatorNames.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/parser/BaseParser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/parser/ByteStream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/parser/PDFObjectParser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/parser/PDFObjectStreamParser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/parser/PDFParser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/parser/PDFXRefStreamParser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/streams/Ascii85Stream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/streams/AsciiHexStream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/streams/DecodeStream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/streams/FlateStream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/streams/LZWStream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/streams/RunLengthStream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/streams/Stream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/streams/decode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/structures/PDFCatalog.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/structures/PDFContentStream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/structures/PDFCrossRefStream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/structures/PDFFlateStream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/structures/PDFObjectStream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/structures/PDFPageLeaf.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/structures/PDFPageTree.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/syntax/CharCodes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/syntax/Delimiters.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/syntax/Irregular.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/syntax/Keywords.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/syntax/Numeric.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/syntax/Whitespace.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/writers/PDFStreamWriter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/core/writers/PDFWriter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/types/fontkit.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/types/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/types/matrix.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/utils/Cache.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/utils/arrays.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/utils/async.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/utils/base64.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/utils/errors.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/utils/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/utils/numbers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/utils/objects.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/utils/pdfDocEncoding.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/utils/png.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/utils/rng.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/utils/strings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/utils/unicode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/utils/validators.js",
+      "obfuscated": false
+    }
+  ]
+}

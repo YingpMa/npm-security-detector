@@ -1,0 +1,10 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/react-native-ratings/package",
+  "fileCount": 1,
+  "results": [
+    {
+      "file": ".eslintrc.js",
+      "obfuscated": false
+    }
+  ]
+}

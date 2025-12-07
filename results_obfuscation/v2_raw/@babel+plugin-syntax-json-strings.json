@@ -1,0 +1,10 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@babel+plugin-syntax-json-strings/package",
+  "fileCount": 1,
+  "results": [
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    }
+  ]
+}

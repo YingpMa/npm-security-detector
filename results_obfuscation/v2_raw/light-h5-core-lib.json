@@ -1,0 +1,78 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/light-h5-core-lib/package",
+  "fileCount": 18,
+  "results": [
+    {
+      "file": "LightCore.js",
+      "obfuscated": false
+    },
+    {
+      "file": "common/base/BaseSingleton.js",
+      "obfuscated": false
+    },
+    {
+      "file": "common/base/IClear.js",
+      "obfuscated": false
+    },
+    {
+      "file": "common/base/IDestroy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "common/md5/MD5.js",
+      "obfuscated": false
+    },
+    {
+      "file": "common/util/BeizerUtil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "common/util/BitUtil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "common/util/BooleanUtil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "common/util/Crc32Util.js",
+      "obfuscated": false
+    },
+    {
+      "file": "common/util/CryptUtil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "common/util/DateUtil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "common/util/FloatDigitUtil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "common/util/NumberUtil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "common/util/PromiseUtil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "common/util/RandomNumUtil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "common/util/StringUtil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "common/util/UniqueIDUtil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "pool/PoolObj.js",
+      "obfuscated": false
+    }
+  ]
+}

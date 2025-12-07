@@ -1,0 +1,54 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/dropbox-v2-api/package",
+  "fileCount": 12,
+  "results": [
+    {
+      "file": "generate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/dropbox-api-test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/dropbox-api.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/generate-api-description.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/generate-api-examples.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/docs/docs-change-detection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/files/files.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/files/upload_session.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/users/users.js",
+      "obfuscated": false
+    }
+  ]
+}

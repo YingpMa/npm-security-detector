@@ -1,0 +1,438 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@gluestack-style+react/package",
+  "fileCount": 108,
+  "results": [
+    {
+      "file": "lib/commonjs/AsForwarder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/StyledProvider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/Theme.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/convertSxToSxVerbosed.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/core/colorMode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/core/convert-utility-to-sx.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/core/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/core/styled-system.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/core/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/createConfig.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/createGlobalStyles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/createGlobalStylesWeb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/createGlobalStylesWeb.web.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/createStyle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/generateStylePropsFromCSSIds.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/hooks/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/hooks/use-media-query.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/hooks/useBreakpointValue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/hooks/useColorMode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/hooks/useMedia.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/hooks/useSafeLayoutEffect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/hooks/useToken.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/injectInStyle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/injectInStyle.web.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/plugins/css-variables.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/plugins/font-resolver.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/plugins/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/propertyTokenMap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/resolver/SXResolvedToOrderedSXResolved.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/resolver/StyledValueToCSSObject.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/resolver/checkAndPush.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/resolver/getComponentStyle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/resolver/getStyleIds.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/resolver/getWeightBaseOnPath.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/resolver/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/resolver/injectComponentAndDescendantStyles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/resolver/orderedResolved.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/resolver/reduceAndResolveCompoundVariants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/resolver/styledResolved.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/resolver/sxToSxResolved.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/stableHash.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/style-sheet/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/style-sheet/value.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/style-sheet/value.web.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/styled.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/updateCSSStyleInOrderedResolved.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/updateCSSStyleInOrderedResolved.web.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/updateOrderUnResolvedMap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/utils/css-injector/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/utils/cssify/cssify.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/utils/cssify/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/commonjs/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/AsForwarder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/StyledProvider.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/Theme.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/convertSxToSxVerbosed.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/core/colorMode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/core/convert-utility-to-sx.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/core/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/core/styled-system.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/core/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/createConfig.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/createGlobalStyles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/createGlobalStylesWeb.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/createGlobalStylesWeb.web.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/createStyle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/generateStylePropsFromCSSIds.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/hooks/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/hooks/use-media-query.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/hooks/useBreakpointValue.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/hooks/useColorMode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/hooks/useMedia.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/hooks/useSafeLayoutEffect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/hooks/useToken.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/injectInStyle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/injectInStyle.web.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/plugins/css-variables.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/plugins/font-resolver.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/plugins/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/propertyTokenMap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/resolver/SXResolvedToOrderedSXResolved.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/resolver/StyledValueToCSSObject.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/resolver/checkAndPush.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/resolver/getComponentStyle.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/resolver/getStyleIds.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/resolver/getWeightBaseOnPath.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/resolver/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/resolver/injectComponentAndDescendantStyles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/resolver/orderedResolved.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/resolver/reduceAndResolveCompoundVariants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/resolver/styledResolved.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/resolver/sxToSxResolved.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/stableHash.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/style-sheet/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/style-sheet/value.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/style-sheet/value.web.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/styled.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/updateCSSStyleInOrderedResolved.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/updateCSSStyleInOrderedResolved.web.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/updateOrderUnResolvedMap.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/utils/css-injector/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/utils/cssify/cssify.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/utils/cssify/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/module/utils.js",
+      "obfuscated": false
+    }
+  ]
+}

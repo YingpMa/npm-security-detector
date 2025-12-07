@@ -1,0 +1,166 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/appium-ios-device/package",
+  "fileCount": 40,
+  "results": [
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/afc/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/afc/protocol.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/afc/streams.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/afc/transformer/afcdecoder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/afc/transformer/afcencoder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/base-service.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/house-arrest/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/imagemounter/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/imagemounter/utils/list_developer_image.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/installation-proxy/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/instrument/headers.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/instrument/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/instrument/transformer/dtx-decode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/instrument/transformer/dtx-encode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/instrument/transformer/nskeyed.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/lockdown/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/mcinstall/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/notification-proxy/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/plist-service/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/plist-service/transformer/plist-service-decoder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/plist-service/transformer/plist-service-encoder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/services.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/simulatelocation/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/ssl-helper.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/syslog/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/syslog/transformer/syslog-decoder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/testmanagerd/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/usbmux/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/usbmux/transformer/usbmux-decoder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/usbmux/transformer/usbmux-encoder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/transformer/length-based-splitter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/util/transformer/stream-logger.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utilities.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/webinspector/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/webinspector/transformer/webinspector-decoder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/webinspector/transformer/webinspector-encoder.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/xctest.js",
+      "obfuscated": false
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@fluentui+react-label/package",
+  "fileCount": 18,
+  "results": [
+    {
+      "file": "lib/Label.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Label/Label.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Label/Label.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Label/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Label/renderLabel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Label/useLabel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Label/useLabelStyles.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Label/useLabelStyles.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/Label.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/Label/Label.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/Label/Label.types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/Label/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/Label/renderLabel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/Label/useLabel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/Label/useLabelStyles.styles.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/components/Label/useLabelStyles.styles.raw.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib-commonjs/index.js",
+      "obfuscated": false
+    }
+  ]
+}

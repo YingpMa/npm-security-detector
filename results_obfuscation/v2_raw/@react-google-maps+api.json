@@ -1,0 +1,10 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@react-google-maps+api/package",
+  "fileCount": 1,
+  "results": [
+    {
+      "file": "src/setup-tests.js",
+      "obfuscated": false
+    }
+  ]
+}

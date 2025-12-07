@@ -1,0 +1,182 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/rc-cascader/package",
+  "fileCount": 44,
+  "results": [
+    {
+      "file": "es/Cascader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/OptionList/CacheContent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/OptionList/Checkbox.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/OptionList/Column.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/OptionList/List.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/OptionList/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/OptionList/useActive.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/OptionList/useKeyboard.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/Panel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/context.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hooks/useDisplayValues.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hooks/useEntities.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hooks/useMissingValues.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hooks/useOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hooks/useSearchConfig.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hooks/useSearchOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hooks/useSelect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/hooks/useValues.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/utils/commonUtil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/utils/treeUtil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "es/utils/warningPropsUtil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Cascader.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/OptionList/CacheContent.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/OptionList/Checkbox.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/OptionList/Column.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/OptionList/List.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/OptionList/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/OptionList/useActive.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/OptionList/useKeyboard.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/Panel.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/context.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useDisplayValues.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useEntities.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useMissingValues.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useSearchConfig.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useSearchOptions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useSelect.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/hooks/useValues.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/commonUtil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/treeUtil.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/warningPropsUtil.js",
+      "obfuscated": false
+    }
+  ]
+}

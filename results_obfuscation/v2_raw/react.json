@@ -1,0 +1,34 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/react/package",
+  "fileCount": 7,
+  "results": [
+    {
+      "file": "compiler-runtime.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "jsx-dev-runtime.js",
+      "obfuscated": false
+    },
+    {
+      "file": "jsx-dev-runtime.react-server.js",
+      "obfuscated": false
+    },
+    {
+      "file": "jsx-runtime.js",
+      "obfuscated": false
+    },
+    {
+      "file": "jsx-runtime.react-server.js",
+      "obfuscated": false
+    },
+    {
+      "file": "react.react-server.js",
+      "obfuscated": false
+    }
+  ]
+}

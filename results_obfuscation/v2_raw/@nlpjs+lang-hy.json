@@ -1,0 +1,34 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@nlpjs+lang-hy/package",
+  "fileCount": 7,
+  "results": [
+    {
+      "file": "src/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/lang-hy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/normalizer-hy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/sentiment/sentiment_hy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/stemmer-hy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/stopwords-hy.js",
+      "obfuscated": false
+    },
+    {
+      "file": "src/tokenizer-hy.js",
+      "obfuscated": false
+    }
+  ]
+}

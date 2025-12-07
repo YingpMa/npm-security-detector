@@ -1,0 +1,46 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/kbone-api/package",
+  "fileCount": 10,
+  "results": [
+    {
+      "file": ".eslintrc.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/mp/main.mp.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/route/config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/route/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/store/actions.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/store/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/store/mutations.js",
+      "obfuscated": false
+    },
+    {
+      "file": "examples/view/utils/config.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": true
+    }
+  ]
+}

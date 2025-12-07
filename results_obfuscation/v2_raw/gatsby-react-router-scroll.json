@@ -1,0 +1,22 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/gatsby-react-router-scroll/package",
+  "fileCount": 4,
+  "results": [
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "scroll-handler.js",
+      "obfuscated": false
+    },
+    {
+      "file": "session-storage.js",
+      "obfuscated": false
+    },
+    {
+      "file": "use-scroll-restoration.js",
+      "obfuscated": false
+    }
+  ]
+}

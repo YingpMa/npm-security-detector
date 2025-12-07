@@ -40,200 +40,14 @@ async function saveScanResult(type, data) {
   }
 }
 
-async function checkGitHubSecurityAdvisory(packageName, version) {
-  const query = `
-    query {
-      securityVulnerabilities(
-        first: 10,
-        ecosystem: NPM,
-        package: "${packageName}"
-      ) {
-        nodes {
-          advisory {
-            summary
-            severity
-          }
-          vulnerableVersionRange
-        }
-      }
-    }
-  `;
-  try {
-    const response = await axios.post(
-      "https://api.github.com/graphql",
-      { query },
-      { headers: { Authorization: `Bearer ${GITHUB_TOKEN}` } }
-    );
-    return response.data;
-  } catch (error) {
-    console.error(
-      `Error querying GitHub Advisory for ${packageName}:`,
-      error.message
-    );
-    return null;
-  }
-}
-
-// ---------------- 1. npm 漏洞扫描（不动你现有的） ----------------
-app.get("/scan/npm", async (req, res) => {
-  try {
-    const { stdout } = await execAsync("npm audit --json");
-    let auditResults = JSON.parse(stdout);
-
-    if (auditResults.advisories) {
-      let enriched = [];
-      for (let id in auditResults.advisories) {
-        let adv = auditResults.advisories[id];
-        let version =
-          adv.findings && adv.findings[0] && adv.findings[0].version;
-        let ghData = await checkGitHubSecurityAdvisory(
-          adv.module_name,
-          version
-        );
-        enriched.push({ npmAdvisory: adv, githubAdvisory: ghData });
-      }
-      auditResults.enriched = enriched;
-    }
-    await saveScanResult("npmScan", auditResults);
-    res.json({ auditResults });
-  } catch (err) {
-    console.error("Error during npm scan:", err);
-    res.status(500).json({ error: "npm scan failed", details: err.message });
-  }
-});
-
-// ---------------- 2. C2 检测（不动） ----------------
-app.get("/scan/c2", async (req, res) => {
-  try {
-    const networkInterface = "en0";
-    const { stdout } = await execAsync(
-      `tshark -i ${networkInterface} -a duration:10 -Y "dns" -T fields -e dns.qry.name`
-    );
-    let domains = stdout
-      .split("\n")
-      .map((d) => d.trim())
-      .filter((d) => d);
-    domains = Array.from(new Set(domains));
-
-    if (domains.length === 0) {
-      return res.json({ message: "No DNS queries captured", domains: [] });
-    }
-
-    const maxQueries = 5;
-    const selectedDomains = domains.slice(0, maxQueries);
-
-    const queryVirusTotal = async (domain) => {
-      try {
-        await new Promise((resolve) => setTimeout(resolve, 1000));
-        const response = await axios.get(
-          `https://www.virustotal.com/api/v3/domains/${domain}`,
-          {
-            headers: { "x-apikey": VIRUSTOTAL_API_KEY },
-          }
-        );
-        return { domain, reputation: response.data };
-      } catch (error) {
-        console.error(
-          `Error querying VirusTotal for ${domain}:`,
-          error.message
-        );
-        return { domain, error: error.message };
-      }
-    };
-
-    const results = await Promise.allSettled(
-      selectedDomains.map(queryVirusTotal)
-    );
-
-    const finalResults = results.map((result) =>
-      result.status === "fulfilled"
-        ? result.value
-        : {
-            domain: result.reason?.domain || "unknown",
-            error: result.reason?.message || "Unknown error",
-          }
-    );
-
-    const c2Data = { domains: finalResults };
-    await saveScanResult("c2Scan", c2Data);
-    res.json(c2Data);
-  } catch (err) {
-    console.error("Error during C2 scan:", err);
-    res.status(500).json({ error: "C2 scan failed", details: err.message });
-  }
-});
-
-// ---------------- 3. 风险分数（不动） ----------------
-app.get("/scan/score", async (req, res) => {
-  try {
-    let vulnerabilityCount = 0;
-    let c2Count = 0;
-    let githubHighRiskCount = 0;
-
-    let { stdout: npmStdout } = await execAsync("npm audit --json");
-    let auditResults = JSON.parse(npmStdout);
-    if (auditResults.metadata && auditResults.metadata.vulnerabilities) {
-      vulnerabilityCount = Object.values(
-        auditResults.metadata.vulnerabilities
-      ).reduce((sum, count) => sum + count, 0);
-    }
-    if (auditResults.advisories) {
-      for (let id in auditResults.advisories) {
-        let adv = auditResults.advisories[id];
-        if (adv.severity === "high" || adv.severity === "critical") {
-          githubHighRiskCount++;
-        }
-      }
-    }
-
-    let { stdout: tsharkStdout } = await execAsync(
-      'tshark -a duration:10 -Y "dns" -T fields -e dns.qry.name'
-    );
-    let domains = tsharkStdout.split("\n").filter((line) => line.trim() !== "");
-    domains = Array.from(new Set(domains));
-    c2Count = domains.length;
-
-    const riskScore =
-      vulnerabilityCount + c2Count * 2 + githubHighRiskCount * 3;
-    const scoreResult = {
-      vulnerabilityCount,
-      c2Count,
-      githubHighRiskCount,
-      riskScore,
-    };
-    await saveScanResult("riskScore", scoreResult);
-    res.json(scoreResult);
-  } catch (err) {
-    console.error("Error calculating risk score:", err);
-    res
-      .status(500)
-      .json({ error: "Risk score calculation failed", details: err.message });
-  }
-});
-
-// ---------------- 4. 报表（不动） ----------------
-app.get("/report", async (req, res) => {
-  try {
-    if (!db) {
-      return res.status(500).json({ error: "MongoDB not connected" });
-    }
-    const collection = db.collection("scanResults");
-    const results = await collection.find({}).sort({ timestamp: -1 }).toArray();
-    res.json(results);
-  } catch (err) {
-    console.error("Error retrieving report:", err);
-    res
-      .status(500)
-      .json({ error: "Report retrieval failed", details: err.message });
-  }
-});
-
-// --------- replace existing /scan/obfuscation with this ---------
 function isObfuscated(code) {
   const lines = code.split("\n");
+
   if (lines.length === 1 && code.length > 1000) return true;
+
   const avg = code.length / lines.length;
   if (avg > 200) return true;
+
   return false;
 }
 
@@ -245,18 +59,90 @@ async function collectJsFiles(
   acc = []
 ) {
   if (curDepth > maxDepth || acc.length >= maxFiles) return acc;
+
   const entries = await fs.readdir(root, { withFileTypes: true });
+
   for (const e of entries) {
     if (acc.length >= maxFiles) break;
     const full = path.join(root, e.name);
+
     if (e.isDirectory()) {
-      if (e.name === "node_modules") continue;
+      // skip common build / output folders
+      if (
+        e.name === "node_modules" ||
+        e.name === "dist" ||
+        e.name === "build" ||
+        e.name === "coverage" ||
+        e.name === ".next" ||
+        e.name === "out" ||
+        e.name === "cjs" ||
+        e.name === "esm" ||
+        e.name === "umd"
+      ) {
+        continue;
+      }
       await collectJsFiles(full, maxFiles, maxDepth, curDepth + 1, acc);
     } else if (e.isFile() && e.name.endsWith(".js")) {
+      // skip obvious minified/bundle files
+      if (
+        e.name.endsWith(".min.js") ||
+        e.name.includes("bundle") ||
+        e.name.includes("webpack")
+      ) {
+        continue;
+      }
       acc.push(full);
     }
   }
+
   return acc;
+}
+
+async function checkMaintainerDormancy(packageName, monthsThreshold = 12) {
+  const url = `https://registry.npmjs.org/${packageName}`;
+  let data;
+
+  try {
+    const res = await axios.get(url);
+    data = res.data;
+  } catch (e) {
+    return {
+      package: packageName,
+      error: e.message,
+      hasTimeMetadata: false,
+      dormant: null,
+      diffMonths: null,
+    };
+  }
+
+  const times = data.time || {};
+  const latestVersion = data["dist-tags"]?.latest;
+  const modified =
+    times.modified || (latestVersion ? times[latestVersion] : null);
+
+  if (!modified) {
+    return {
+      package: packageName,
+      hasTimeMetadata: false,
+      dormant: null,
+      diffMonths: null,
+    };
+  }
+
+  const lastPublish = new Date(modified);
+  const now = new Date();
+
+  const diffMonths =
+    (now.getFullYear() - lastPublish.getFullYear()) * 12 +
+    (now.getMonth() - lastPublish.getMonth());
+
+  return {
+    package: packageName,
+    lastPublish,
+    diffMonths,
+    dormant: diffMonths >= monthsThreshold,
+    hasTimeMetadata: true,
+  };
 }
 
 app.get("/scan/obfuscation", async (req, res) => {
@@ -295,6 +181,99 @@ app.get("/scan/obfuscation", async (req, res) => {
     res
       .status(500)
       .json({ error: "Obfuscation scan failed", details: err.message });
+  }
+});
+
+app.get("/scan/dns", async (req, res) => {
+  try {
+    const networkInterface = "en0";
+
+    const { stdout } = await execAsync(
+      `tshark -i ${networkInterface} -a duration:10 -Y "dns" -T fields -e dns.qry.name`
+    );
+
+    let domains = stdout
+      .split("\n")
+      .map((d) => d.trim())
+      .filter((d) => d);
+
+    domains = Array.from(new Set(domains));
+
+    if (domains.length === 0) {
+      return res.json({ message: "No DNS queries captured", domains: [] });
+    }
+
+    const maxQueries = 5;
+    const selectedDomains = domains.slice(0, maxQueries);
+
+    const queryVirusTotal = async (domain) => {
+      try {
+        await new Promise((resolve) => setTimeout(resolve, 1000));
+
+        const response = await axios.get(
+          `https://www.virustotal.com/api/v3/domains/${domain}`,
+          {
+            headers: { "x-apikey": VIRUSTOTAL_API_KEY },
+          }
+        );
+
+        return { domain, reputation: response.data };
+      } catch (error) {
+        console.error(
+          `Error querying VirusTotal for ${domain}:`,
+          error.message
+        );
+        return { domain, error: error.message };
+      }
+    };
+
+    const results = await Promise.allSettled(
+      selectedDomains.map(queryVirusTotal)
+    );
+
+    const finalResults = results.map((result) =>
+      result.status === "fulfilled"
+        ? result.value
+        : {
+            domain: result.reason?.domain || "unknown",
+            error: result.reason?.message || "Unknown error",
+          }
+    );
+
+    const dnsData = { domains: finalResults };
+
+    await saveScanResult("dnsScan", dnsData);
+
+    res.json(dnsData);
+  } catch (err) {
+    console.error("Error during DNS logging scan:", err);
+    res.status(500).json({
+      error: "DNS logging scan failed",
+      details: err.message,
+    });
+  }
+});
+
+app.get("/scan/maintainer", async (req, res) => {
+  const pkg = req.query.package;
+
+  if (!pkg) {
+    return res.status(400).json({
+      error:
+        "Missing 'package' query parameter. Example: /scan/maintainer?package=lodash",
+    });
+  }
+
+  try {
+    const result = await checkMaintainerDormancy(pkg);
+
+    await saveScanResult("maintainerDormancy", result);
+    res.json(result);
+  } catch (err) {
+    res.status(500).json({
+      error: "Maintainer dormancy scan failed",
+      details: err.message,
+    });
   }
 });
 

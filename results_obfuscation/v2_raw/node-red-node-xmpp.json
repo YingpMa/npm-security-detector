@@ -1,0 +1,10 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/node-red-node-xmpp/package",
+  "fileCount": 1,
+  "results": [
+    {
+      "file": "92-xmpp.js",
+      "obfuscated": false
+    }
+  ]
+}

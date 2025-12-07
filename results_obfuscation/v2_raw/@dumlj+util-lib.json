@@ -1,0 +1,78 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@dumlj+util-lib/package",
+  "fileCount": 18,
+  "results": [
+    {
+      "file": "libs/cache/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "libs/cache/registerCache.js",
+      "obfuscated": false
+    },
+    {
+      "file": "libs/finder/findWorkspaceProject.js",
+      "obfuscated": false
+    },
+    {
+      "file": "libs/finder/findWorkspaceRootPath.js",
+      "obfuscated": false
+    },
+    {
+      "file": "libs/finder/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "libs/finder/mapFilesToOrbitTree.js",
+      "obfuscated": false
+    },
+    {
+      "file": "libs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "libs/misc/defenv.js",
+      "obfuscated": false
+    },
+    {
+      "file": "libs/misc/guid.js",
+      "obfuscated": false
+    },
+    {
+      "file": "libs/misc/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "libs/orbit/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "libs/orbit/createOrbitNode.js",
+      "obfuscated": false
+    },
+    {
+      "file": "libs/orbit/detectLatest.js",
+      "obfuscated": false
+    },
+    {
+      "file": "libs/orbit/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "libs/orbit/mapPathsToOrbitTree.js",
+      "obfuscated": false
+    },
+    {
+      "file": "libs/orbit/stringifyOrbitTree.js",
+      "obfuscated": false
+    },
+    {
+      "file": "libs/orbit/travelOrbitTree.js",
+      "obfuscated": false
+    },
+    {
+      "file": "libs/orbit/types.js",
+      "obfuscated": false
+    }
+  ]
+}

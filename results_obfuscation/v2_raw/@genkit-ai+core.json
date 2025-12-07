@@ -1,0 +1,94 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@genkit-ai+core/package",
+  "fileCount": 22,
+  "results": [
+    {
+      "file": "lib/__codegen/version.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/action.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/async.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/background-action.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/context.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/error.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/flow.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/logging.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/plugin.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/reflection.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/registry.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/schema.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/statusTypes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/telemetryTypes.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/tracing/exporter.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/tracing/instrumentation.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/tracing/multiSpanProcessor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/tracing/processor.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/tracing/types.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/tracing.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils.js",
+      "obfuscated": false
+    }
+  ]
+}

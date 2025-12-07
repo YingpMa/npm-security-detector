@@ -1,0 +1,58 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/canvas/package",
+  "fileCount": 13,
+  "results": [
+    {
+      "file": "browser.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/DOMMatrix.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/bindings.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/canvas.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/context2d.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/image.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/jpegstream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/pattern.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/pdfstream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/pngstream.js",
+      "obfuscated": false
+    },
+    {
+      "file": "util/has_lib.js",
+      "obfuscated": false
+    },
+    {
+      "file": "util/win_jpeg_lookup.js",
+      "obfuscated": false
+    }
+  ]
+}

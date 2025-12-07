@@ -1,0 +1,206 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/trepur_components/package",
+  "fileCount": 50,
+  "results": [
+    {
+      "file": "lib/_virtual/react.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Accordion/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/AlertBar/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Breadcrumbs/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Button/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Calendar/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Calendar/style.css.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Card/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Carousel/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Carousel/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/CarouselThumbnail/const.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/CarouselThumbnail/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/CarouselThumbnail/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Checkbox/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Collapsible/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Counter/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/DetailUpdater/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Dialog/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Dropdown/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Dropdown/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Footer/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/FooterNav/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Form/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Greeting/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/HamburgerIcon/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Icon/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Image/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/ImageCard/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Input/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Link/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Map/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Map/map.css.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Map/utils.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/MenuButton/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Modal/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Nav/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/NavItem/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Pill/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Search/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Select/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/SplitCard/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Stars/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Testimonial/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/TextArea/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Timeline/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Tubestops/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/components/Video/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/matchMedia.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/utils/screens.js",
+      "obfuscated": false
+    }
+  ]
+}

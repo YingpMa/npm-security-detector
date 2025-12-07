@@ -1,0 +1,18 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@zuplo+core/package",
+  "fileCount": 3,
+  "results": [
+    {
+      "file": "customer.cli.minified.js",
+      "obfuscated": true
+    },
+    {
+      "file": "index.minified.js",
+      "obfuscated": true
+    },
+    {
+      "file": "zeno.js",
+      "obfuscated": true
+    }
+  ]
+}

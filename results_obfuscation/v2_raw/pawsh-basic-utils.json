@@ -1,0 +1,214 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/pawsh-basic-utils/package",
+  "fileCount": 52,
+  "results": [
+    {
+      "file": "lib/appointment/main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/appointment/types/card.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/appointment/types/create.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/appointment/types/detail.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/appointment/types/main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/basic.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/coupon/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/customer/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/date/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/date/converter/js.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/date/converter/sql.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/date/main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/email/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/groomer/main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/groomer/types/groomer-search.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/groomer/types/groomer.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/location/address.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/location/main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/location/tests/main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/location/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/notification/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/obj.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/pet/coat.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/pet/main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/pet/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/phone/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/phone/main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/phone/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/pubsub/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/review/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/schedule/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/service/constants/additional.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/service/constants/main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/service/main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/service/pet.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/service/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/string/main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/string/name.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/string/parse.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/subscription/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/tests/address.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/tests/get-phone-number.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/time/appointment.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/time/constants.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/time/main.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/time/types/difference.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/time/types/longitude-range.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/time/types/time-of-day.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/transaction/type.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types/generic.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/types/platform-fee.js",
+      "obfuscated": false
+    }
+  ]
+}

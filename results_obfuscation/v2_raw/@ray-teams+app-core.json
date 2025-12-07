@@ -1,0 +1,10 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/@ray-teams+app-core/package",
+  "fileCount": 1,
+  "results": [
+    {
+      "file": "icons/index.js",
+      "obfuscated": true
+    }
+  ]
+}

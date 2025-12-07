@@ -1,0 +1,30 @@
+{
+  "dir": "/Users/hongpengpeng/Projects/npm-security-detector/downloaded_packages/nostr/package",
+  "fileCount": 6,
+  "results": [
+    {
+      "file": "delegate.js",
+      "obfuscated": false
+    },
+    {
+      "file": "index.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/relay-pool.js",
+      "obfuscated": false
+    },
+    {
+      "file": "lib/relay.js",
+      "obfuscated": false
+    },
+    {
+      "file": "test/test.js",
+      "obfuscated": false
+    },
+    {
+      "file": "verify.js",
+      "obfuscated": false
+    }
+  ]
+}
